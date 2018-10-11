@@ -22,7 +22,7 @@ tags:
 ---
 # Audiovisual Access
 
-I am not alone in the belief that access is an intrinsic part of preservation. In the past, the RAC &#8212; like many institutions &#8212; relied upon the creation of optical media discs (DVD or CD) for on-site researcher access. Beyond the person-hours required to create these discs, there were other issues such as retrieval time; the cumbersome process of loading discs into a player; and monitoring discs for on-going damage and wear and tear. My topmost concern, however, remained the long-term stability of these discs and the increasingly difficult-to-find drives necessary for playback. In short, we needed a new solution to the issue of audiovisual access.
+I am not alone in the belief that access is an intrinsic part of preservation. In the past, the RAC - like many institutions - relied upon the creation of optical media discs (DVD or CD) for on-site researcher access. Beyond the person-hours required to create these discs, there were other issues such as retrieval time; the cumbersome process of loading discs into a player; and monitoring discs for on-going damage and wear and tear. My topmost concern, however, remained the long-term stability of these discs and the increasingly difficult-to-find drives necessary for playback. In short, we needed a new solution to the issue of audiovisual access.
 
 <!--more-->
 

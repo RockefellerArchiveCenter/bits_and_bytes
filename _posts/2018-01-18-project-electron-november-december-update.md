@@ -31,6 +31,6 @@ tags:
 
 <span style="font-weight: 400;">In addition to applying these rights statements to each transfer, the application merges and saves rights statements which then apply to an entire accession</span><span style="font-weight: 400;">. </span><span style="font-weight: 400;">As I noted, multiple transfers are combined into one accession based on organization, creator, and record type. Because they are all part of the same organization and record type, the same PREMIS rights statements are applied to them. The application calculates grant/restriction periods for the entire accession rather than each individual transfer.</span>
 
-## <span style="font-weight: 400;">&#8212;</span>
+## <span style="font-weight: 400;">-</span>
 
 <span style="font-weight: 400;">Developing these fundamental appraisal and accessioning functions in the application is an important step forward for Project Electron as we build on the ability to securely transfer records and their metadata to functions of management, preservation, and discovery.  As always, we welcome questions and feedback, and look forward to sharing more as we progress!</span>

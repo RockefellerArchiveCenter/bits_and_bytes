@@ -37,4 +37,4 @@ However, we ask that you adhere to the following guidelines:
   * **Contribute back any modifications or improvements:** help us make our description better!
   * **Do not mislead others or misrepresent the finding aids or their sources:** please don’t use this data in a way that suggests you have any official status or that we endorse you or your use of the metadata.
   * **Be responsible:** conform to laws and other regulations in your jurisdiction, especially concerning defamation and copyright.
-  * **Be aware that you use the data at your own risk:** Our description is provided &#8216;as-is': not all of it has been reviewed for completeness or accuracy. That process is ongoing, and we welcome your assistance in drawing our attention to any particularly egregious omissions or inaccuracies.
+  * **Be aware that you use the data at your own risk:** Our description is provided 'as-is': not all of it has been reviewed for completeness or accuracy. That process is ongoing, and we welcome your assistance in drawing our attention to any particularly egregious omissions or inaccuracies.
