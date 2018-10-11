@@ -4,7 +4,7 @@ title: Woodrow Wilson National Fellowship Foundation digital preservation projec
 date: 2013-11-22T20:04:11+00:00
 author: Laura Montgomery
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=920
+
 permalink: /?p=920
 categories:
   - Digital Preservation

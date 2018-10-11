@@ -4,7 +4,7 @@ title: 'From AT to ArchivesSpace Part 2: Migrations and Error Reporting'
 date: 2015-01-23T13:37:51+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1289
+
 permalink: /?p=1289
 categories:
   - Data Cleanup

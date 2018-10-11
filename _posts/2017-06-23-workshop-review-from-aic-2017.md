@@ -4,7 +4,7 @@ title: Workshop Review from AIC 2017
 date: 2017-06-23T13:12:08+00:00
 author: Julia Welby
 layout: post
-guid: http://blog.rockarch.org/?p=1773
+
 permalink: /?p=1773
 categories:
   - Conferences/Education

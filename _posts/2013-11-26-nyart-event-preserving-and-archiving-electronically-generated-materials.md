@@ -4,7 +4,7 @@ title: 'NYART event: Preserving and Archiving Electronically Generated Materials
 date: 2013-11-26T18:24:18+00:00
 author: Sibyl Schaefer
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=927
+
 permalink: /?p=927
 categories:
   - Conferences/Education

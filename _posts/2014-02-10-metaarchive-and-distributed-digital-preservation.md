@@ -4,7 +4,7 @@ title: MetaArchive and Distributed Digital Preservation
 date: 2014-02-10T18:16:11+00:00
 author: Sibyl Schaefer
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=991
+
 permalink: /?p=991
 categories:
   - Digital Preservation
@@ -20,13 +20,13 @@ After a review of [Distributed Digital Preservation Services](http://rockarch.or
 
 Perhaps what sold me most on the service was documentation I read from the [NDIPP Operations Plan describing the purposes of MetaArchive](http://metaarchive.org/public/resources/presentations/200910_workshop_houston/ndiip_docs/NDIIPP_Operations_Plan.pdf "NDIPP Management Plan MetaArchive Project"). It states that by outsourcing key missions to vendors (preservation being a key mission), cultural memory organizations suffer in three ways:
 
-&#8220;1. Usually, they [cultural heritage institutions] have limited knowledge of how the solution actually works and thus no power to perform it or even clearly assess it for themselves,
+"1. Usually, they [cultural heritage institutions] have limited knowledge of how the solution actually works and thus no power to perform it or even clearly assess it for themselves,
 
 2. They become marginalized as organizations that contract for services rather than performing their own key missions, and
 
-3. They (and their materials) are subject to the rising prices that vendors will charge in order to maximize their financial gain.&#8221;
+3. They (and their materials) are subject to the rising prices that vendors will charge in order to maximize their financial gain."
 
-Although there are cheaper services out there &#8211; [Preservica](http://preservica.com/), for instance &#8211; I agree that farming out preservation activities to such services would result in a loss of our own knowledge, and in my mind, an inability to responsibly act as custodians of the materials in our care. Having the dangers of outsourcing so clearly explicated in documentation describing the purpose of the Collaborative reinforced my own feelings on the matter, and made me want to support the initiative because of its purpose as well as its offered services. 
+Although there are cheaper services out there - [Preservica](http://preservica.com/), for instance - I agree that farming out preservation activities to such services would result in a loss of our own knowledge, and in my mind, an inability to responsibly act as custodians of the materials in our care. Having the dangers of outsourcing so clearly explicated in documentation describing the purpose of the Collaborative reinforced my own feelings on the matter, and made me want to support the initiative because of its purpose as well as its offered services. 
 
 One of the most important aspects of MetaArchive is that, by joining a collaborative effort, we’re building the technical infrastructure and creating a knowledge base within our own institution, while also not going it alone. We currently don’t have the technical infrastructure to fully participate (this entails hosting a dedicated server and includes having access to the [Internet 2](http://en.wikipedia.org/wiki/Internet2) network), but we’ll be working with MetaArchive over the next few years to develop that infrastructure so we can participate more fully. 
 
@@ -34,6 +34,6 @@ While I have yet to set up an official matrix of how we’ll select materials fo
 
 Over the next month or so, we’ll be working on setting up our MetaArchive workflows. Patrick will be spearheading these developments. The general workflow envisaged is: 
 
-Selection &#8211; > Ingest to Archivematica- > AIP upload to MetaArchive-accessible server -> Ingest to MetaArchive -> Breathe sigh of relief 
+Selection - > Ingest to Archivematica- > AIP upload to MetaArchive-accessible server -> Ingest to MetaArchive -> Breathe sigh of relief 
 
 Sounds easy, right? We’re aiming to have the structure set up by late spring/early summer. Look for more updates, and expect some additional discussion concerning selection requirements!

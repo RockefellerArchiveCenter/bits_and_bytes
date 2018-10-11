@@ -4,7 +4,7 @@ title: DIMES update
 date: 2013-09-16T19:22:13+00:00
 author: Hillel Arnold
 layout: post
-guid: http://dteamblog/?p=767
+
 permalink: /?p=767
 categories:
   - Digitization

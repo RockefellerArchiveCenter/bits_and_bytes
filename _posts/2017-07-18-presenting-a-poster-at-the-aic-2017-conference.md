@@ -4,7 +4,7 @@ title: Presenting a Poster at the AIC 2017 Conference
 date: 2017-07-18T16:09:04+00:00
 author: Marissa Vassari
 layout: post
-guid: http://blog.rockarch.org/?p=1808
+
 permalink: /?p=1808
 categories:
   - Conferences/Education

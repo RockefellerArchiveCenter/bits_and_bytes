@@ -4,7 +4,7 @@ title: Schema.org Metadata Followup
 date: 2013-11-12T16:45:31+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=865
+
 permalink: /?p=865
 categories:
   - XTF

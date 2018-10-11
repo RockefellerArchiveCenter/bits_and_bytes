@@ -4,7 +4,7 @@ title: National VIVO Project Team Meeting report
 date: 2013-05-21T19:45:53+00:00
 author: Hillel Arnold
 layout: post
-guid: http://dteamblog/?p=540
+
 permalink: /?p=540
 categories:
   - Conferences/Education

@@ -4,7 +4,7 @@ title: D-Team Introduction
 date: 2013-11-04T14:13:31+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=855
+
 permalink: /?p=855
 categories:
   - D-Team

@@ -4,7 +4,7 @@ title: Cultural Heritage Iconathon
 date: 2013-06-03T15:34:11+00:00
 author: Hillel Arnold
 layout: post
-guid: http://dteamblog/?p=554
+
 permalink: /?p=554
 categories:
   - Conferences/Education

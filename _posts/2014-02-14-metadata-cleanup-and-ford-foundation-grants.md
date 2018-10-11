@@ -4,7 +4,7 @@ title: Metadata Cleanup and Ford Foundation Grants
 date: 2014-02-14T20:43:10+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1005
+
 permalink: /?p=1005
 categories:
   - Digital Preservation
@@ -16,7 +16,7 @@ tags:
   - metadata
 format: image
 ---
-Beginning in 2011, the Rockefeller Archive Center accepted the records of the Ford Foundation, and included among these papers were records pertaining to Unpublished Reports and Grants from the Foundation’s inception to the present. Along with the materials, the Ford Foundation provided us with two spreadsheets filled with metadata describing both the Unpublished Reports and Grants files. The Grants file alone includes 54,644 rows and 34 columns of information ranging from subjects terms to restriction information. However, much of this data was “dirty”; many subject terms did not match LCSH vocabulary, dates did not match formatting for import into Archivist&#8217;s Toolkit, and many more issues. Despite these issues, the metadata opened new avenues of access and description to the materials, and wrangling and refining them for import into Archivist’s Toolkit and DIMES would help researchers from all over the world discover the exact item he or she is looking for. In November of 2013, members of the Digital Projects team met with representatives from Processing and Reference with the express goal of transforming this metadata into a machine-readable format so that the RAC may provide it in a searchable format online.
+Beginning in 2011, the Rockefeller Archive Center accepted the records of the Ford Foundation, and included among these papers were records pertaining to Unpublished Reports and Grants from the Foundation’s inception to the present. Along with the materials, the Ford Foundation provided us with two spreadsheets filled with metadata describing both the Unpublished Reports and Grants files. The Grants file alone includes 54,644 rows and 34 columns of information ranging from subjects terms to restriction information. However, much of this data was “dirty”; many subject terms did not match LCSH vocabulary, dates did not match formatting for import into Archivist's Toolkit, and many more issues. Despite these issues, the metadata opened new avenues of access and description to the materials, and wrangling and refining them for import into Archivist’s Toolkit and DIMES would help researchers from all over the world discover the exact item he or she is looking for. In November of 2013, members of the Digital Projects team met with representatives from Processing and Reference with the express goal of transforming this metadata into a machine-readable format so that the RAC may provide it in a searchable format online.
 
 <!--more-->
 

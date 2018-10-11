@@ -4,7 +4,7 @@ title: Code4Lib and Archives
 date: 2014-03-28T21:29:10+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1033
+
 permalink: /?p=1033
 categories:
   - Conferences/Education

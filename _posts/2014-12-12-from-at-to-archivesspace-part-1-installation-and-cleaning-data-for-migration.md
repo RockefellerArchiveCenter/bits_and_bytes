@@ -4,7 +4,7 @@ title: 'From AT to ArchivesSpace Part 1: Installation and Cleaning Data for Migr
 date: 2014-12-12T17:05:58+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1265
+
 permalink: /?p=1265
 categories:
   - D-Team

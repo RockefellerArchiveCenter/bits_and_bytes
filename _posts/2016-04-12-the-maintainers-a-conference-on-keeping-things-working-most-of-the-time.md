@@ -4,7 +4,7 @@ title: 'The Maintainers: a conference on keeping things working (most of the tim
 date: 2016-04-12T09:48:37+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1498
+
 permalink: /?p=1498
 categories:
   - Conferences/Education
@@ -15,15 +15,15 @@ tags:
   - politics
   - technology
 ---
-You might not think a conference on maintenance would be all that exciting. But [The Maintainers](http://themaintainers.org/) &#8211; a conference I attended this past week at [Stevens Institute of Technology](https://www.stevens.edu/) in scenic Hoboken, New Jersey &#8211; was not only exciting, but thought-provoking, inspiring and challenging as well.<!--more-->
+You might not think a conference on maintenance would be all that exciting. But [The Maintainers](http://themaintainers.org/) - a conference I attended this past week at [Stevens Institute of Technology](https://www.stevens.edu/) in scenic Hoboken, New Jersey - was not only exciting, but thought-provoking, inspiring and challenging as well.<!--more-->
 
 There were far too many great sessions to recap in detail here; every speaker had something compelling to say, often from a perspective I’d not considered before. I’ve posted my [somewhat scattered notes](https://docs.google.com/document/d/1hrj8R3xNH90lXLK4P2RLbTdvqpnzrB0byzn4MGS4wlI/edit?usp=sharing) from the conference, but let me try and recap a few of the themes that emerged over the course of several days, with the caveat that I missed the first day of the conference as well as the first session on Saturday (because really, there’s no way I’m getting out to Hoboken at 8:45 on a Saturday morning).
 
 # Who are the maintainers?
 
-Perhaps the most obvious theme of the conference &#8211; as its title suggests &#8211; was an articulation of who does maintenance work. Or, as [Andrew Russell](http://themaintainers.org/s/ALR-MtI.pdf) (quoting Greg Downey) said, “Who does what kind of information work, when and where and why?” As one might expect, maintenance work is highly gendered, racialized and carries strong class implications. The invisible and marginalized populations of of a given society are usually the ones who maintain its systems.
+Perhaps the most obvious theme of the conference - as its title suggests - was an articulation of who does maintenance work. Or, as [Andrew Russell](http://themaintainers.org/s/ALR-MtI.pdf) (quoting Greg Downey) said, “Who does what kind of information work, when and where and why?” As one might expect, maintenance work is highly gendered, racialized and carries strong class implications. The invisible and marginalized populations of of a given society are usually the ones who maintain its systems.
 
-Ellen Foster’s excellent paper, “[Systems of Maintenance: Feminist Theory and Method](http://themaintainers.org/s/Maintainers-Text_Ellen-Foster.pdf),” drew on Stacy Alaimo’s conception of “[trans-corporeality](http://www.iupress.indiana.edu/product_info.php?products_id=385653)” &#8211; the environment is not “out there” apart from us but is actually in and of us &#8211; to bring together [Mierle Laderman Ukele’s](https://en.wikipedia.org/wiki/Mierle_Laderman_Ukeles) “maintenance art,” [feminist hacker and fixer collectives](http://www.academia.edu/7670822/Hacking_with_care) like the [Fixers Collective](http://www.fixerscollective.org/), arguing that individuals and groups on the margins of cultures are thinking about care and maintenance in both performative and real ways.
+Ellen Foster’s excellent paper, “[Systems of Maintenance: Feminist Theory and Method](http://themaintainers.org/s/Maintainers-Text_Ellen-Foster.pdf),” drew on Stacy Alaimo’s conception of “[trans-corporeality](http://www.iupress.indiana.edu/product_info.php?products_id=385653)” - the environment is not “out there” apart from us but is actually in and of us - to bring together [Mierle Laderman Ukele’s](https://en.wikipedia.org/wiki/Mierle_Laderman_Ukeles) “maintenance art,” [feminist hacker and fixer collectives](http://www.academia.edu/7670822/Hacking_with_care) like the [Fixers Collective](http://www.fixerscollective.org/), arguing that individuals and groups on the margins of cultures are thinking about care and maintenance in both performative and real ways.
 
 This theme continued in Lee Vinsel’s “[The Stories We Tell, or, Mary Poppins, Maintainer](http://themaintainers.org/s/Vinsel-The-Stories-We-Tell.pdf),” which asked “What stories about human life with technology are morally available to us?” while reimagining Mary Poppins as a story about maintenance and maintainers (chimney sweeps, anyone?). Ellan Spero’s “[A Card for Everything, Miss Whittle](http://themaintainers.org/s/Maintainers2016_efspero04262016.pdf)!” discussed the work of Lois Whittle, a staff member of the Mellon Institute for Social Research, who developed a pre-digital technology for efficient retrieval of records. Needless to say, as an archivist obsessed with record-keeping systems, this was my favorite presentation of the conference!
 

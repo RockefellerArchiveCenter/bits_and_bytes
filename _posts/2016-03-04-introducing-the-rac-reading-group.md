@@ -4,7 +4,7 @@ title: Introducing the RAC Reading Group
 date: 2016-03-04T09:57:02+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1468
+
 permalink: /?p=1468
 categories:
   - Conferences/Education

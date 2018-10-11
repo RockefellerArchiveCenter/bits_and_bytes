@@ -4,7 +4,7 @@ title: Project Electron January Update
 date: 2017-02-09T04:39:35+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1668
+
 permalink: /?p=1668
 categories:
   - Project Electron
@@ -22,7 +22,7 @@ Although the end goal of this discovery phase was to have these deliverables in 
 
 # How we got here
 
-We started out by listening. We listened &#8211; literally &#8211; to representatives from our donor and depositor organizations in a series of in-person interviews where we asked about their current recordkeeping practices for digital records, talked through pain points, and imagined ways in which we could acquire, preserve and make accessible their digital records both now and in the future. With help from our [Marist College IT](http://www.marist.edu/it/) partners, we surveyed a wide range of archivists, librarians and museum professionals, as well as our researchers. Because others have mapped the needs of some of these user groups before, we also conducted a survey of existing literature and user studies. Last, and certainly not least, we listened to our staff through conversations, observation and process analysis.
+We started out by listening. We listened - literally - to representatives from our donor and depositor organizations in a series of in-person interviews where we asked about their current recordkeeping practices for digital records, talked through pain points, and imagined ways in which we could acquire, preserve and make accessible their digital records both now and in the future. With help from our [Marist College IT](http://www.marist.edu/it/) partners, we surveyed a wide range of archivists, librarians and museum professionals, as well as our researchers. Because others have mapped the needs of some of these user groups before, we also conducted a survey of existing literature and user studies. Last, and certainly not least, we listened to our staff through conversations, observation and process analysis.
 
 ## User Stories
 
@@ -30,7 +30,7 @@ Out of all of this information we created a set of [user stories](https://en.wik
 
 “As an archivist, I want to create an audit trail of events associated with a group of digital records so that I can ensure their authenticity.”
 
-As you can see, there’s a lot of information packed into this sentence &#8211; a specific user, what that user wants to do, and why they want to do it &#8211; which means that even though these are really brief statements it takes a fair amount of work to write them. Still, this is an incredibly worthwhile exercise because it requires specificity and connection to actual people and real needs, as opposed to one’s own ideas about what might be useful system functionality.
+As you can see, there’s a lot of information packed into this sentence - a specific user, what that user wants to do, and why they want to do it - which means that even though these are really brief statements it takes a fair amount of work to write them. Still, this is an incredibly worthwhile exercise because it requires specificity and connection to actual people and real needs, as opposed to one’s own ideas about what might be useful system functionality.
 
 ## Card Sort
 
@@ -60,4 +60,4 @@ As you can see, these requirements are structured differently than either user s
 
 I’ve written about our work in some detail because I feel strongly that this kind of user-driven process is something that archivists can and should be doing a lot more of. Recently, there’s been a lot of emphasis in the archival profession on archivists learning hard technical skills like writing code. While it’s never a bad idea to have a robust and diverse professional toolbox, this emphasis has, I think, created an unfortunate divide in the profession between archivists who are “tech-savvy” and those who aren’t. In my estimation, this divide has hindered the development of a common language to talk about technology and the people it serves in the context of archival principles.
 
-User-centered design processes, such as the ones described above, present a common language to bridge that gap. You don’t need to write code to do this work (and you don&#8217;t need to use exactly the same processes as we did), you just need to listen, think critically and empathetically, and write clearly. Those are all things any good archivist should be equipped to do, and do well.
+User-centered design processes, such as the ones described above, present a common language to bridge that gap. You don’t need to write code to do this work (and you don't need to use exactly the same processes as we did), you just need to listen, think critically and empathetically, and write clearly. Those are all things any good archivist should be equipped to do, and do well.

@@ -4,7 +4,7 @@ title: 'SHOT 2017: expertise and power'
 date: 2017-11-14T10:00:36+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1920
+
 permalink: /?p=1920
 categories:
   - Conferences/Education

@@ -4,7 +4,7 @@ title: 'Getting More Out of (and Into) Your Collections Management System: Intro
 date: 2017-01-31T06:32:46+00:00
 author: Patrick Galligan
 layout: post
-guid: http://blog.rockarch.org/?p=1675
+
 permalink: /?p=1675
 categories:
   - Conferences/Education
@@ -46,7 +46,7 @@ _The following is the text from the talk I gave at [METRO’s Annual Conference]
 
 <span style="font-weight: 400;">So, this is just a quick example of some of the structured JSON data that ArchivesSpace’s API returns when you send a simple get request against an Archival Object. This may look pretty technical and scary, but it’s pretty easy to read once you get used to the syntax.</span>
 
-<span style="font-weight: 400;">Everything that you could hand enter into ArchivesSpace, can be retrieved through a GET request. Here, you can see the title as “Correspondence”, the display string is “Correspondence, 2000 &#8211; 2016”, and that the language is English. </span>
+<span style="font-weight: 400;">Everything that you could hand enter into ArchivesSpace, can be retrieved through a GET request. Here, you can see the title as “Correspondence”, the display string is “Correspondence, 2000 - 2016”, and that the language is English. </span>
   
 <span style="font-weight: 400;">ArchivesSpace’s REST API has a documented request syntax for each section of the application, and using it can reveal almost anything in the system’s backend database.</span>
 

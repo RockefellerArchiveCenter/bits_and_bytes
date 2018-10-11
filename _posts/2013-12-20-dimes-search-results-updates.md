@@ -4,7 +4,7 @@ title: DIMES Search Results Updates
 date: 2013-12-20T17:52:54+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=951
+
 permalink: /?p=951
 categories:
   - XTF
@@ -17,7 +17,7 @@ tags:
 ---
 <div>
   <p>
-    I&#8217;ve recently pushed out a pretty major change to the search results page in <a href="http://dimes.rockarch.org">DIMES</a>, inspired by direct feedback from users as well as analysis of web analytics and server logs, so I wanted to post a detailed account of both what I did as well as why I did it.<!--more-->
+    I've recently pushed out a pretty major change to the search results page in <a href="http://dimes.rockarch.org">DIMES</a>, inspired by direct feedback from users as well as analysis of web analytics and server logs, so I wanted to post a detailed account of both what I did as well as why I did it.<!--more-->
   </p>
 </div>
 
@@ -27,7 +27,7 @@ And here’s a screenshot of the same search after the changes:
 
 [<img class="alignnone size-large wp-image-961" alt="main-results-after-expand" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2013/12/main-results-after-expand-1024x470.png" width="584" height="268" srcset="http://blog.rockarch.org/wp-content/uploads/2013/12/main-results-after-expand-1024x470.png 1024w, http://blog.rockarch.org/wp-content/uploads/2013/12/main-results-after-expand-300x137.png 300w, http://blog.rockarch.org/wp-content/uploads/2013/12/main-results-after-expand-500x229.png 500w, http://blog.rockarch.org/wp-content/uploads/2013/12/main-results-after-expand.png 1347w" sizes="(max-width: 584px) 100vw, 584px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2013/12/main-results-after-expand.png)
 
-There were a few things I knew going in. First of all, the system was too slow, and users were getting frustrated with long load times and slow responses. Second, I could tell from server logs and anecdotal evidence that many users were “pogo-sticking” back and forth between the search results page and finding aids. When I asked users why they were doing that, they told me they were looking for information they could not find in the search results page, including restrictions, detailed description of the result, and the location of a result within the hierarchy of a collection. In addition to this “pogo-sticking” being an inefficient search pattern for users, it also put a heavy load on the system, causing it to slow down even more, which in turn caused even more user frustration. Lastly, the appearance and behavior of facets &#8211; particularly the way in which the system reloaded the page when showing or hiding values within a particular group &#8211; was confusing to researchers.
+There were a few things I knew going in. First of all, the system was too slow, and users were getting frustrated with long load times and slow responses. Second, I could tell from server logs and anecdotal evidence that many users were “pogo-sticking” back and forth between the search results page and finding aids. When I asked users why they were doing that, they told me they were looking for information they could not find in the search results page, including restrictions, detailed description of the result, and the location of a result within the hierarchy of a collection. In addition to this “pogo-sticking” being an inefficient search pattern for users, it also put a heavy load on the system, causing it to slow down even more, which in turn caused even more user frustration. Lastly, the appearance and behavior of facets - particularly the way in which the system reloaded the page when showing or hiding values within a particular group - was confusing to researchers.
 
 I started out by tackling the facets, changing both the way in which they were grouped (breaking people and organizations into separate facets), and also replacing jargon-y terms (Geographic Name, Subject Name) with simpler, more intuitive names (Places, People).  More importantly, instead of having the facets totally collapsed by default, I displayed the five most popular values within each facet, which vastly improved the “information scent” the interface provides to researchers. I also changed the functionality of the facets so that showing and hiding the full list of terms in a particular facet no longer required reloading the page.
 

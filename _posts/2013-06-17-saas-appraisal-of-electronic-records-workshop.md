@@ -1,10 +1,10 @@
 ---
 id: 625
-title: 'SAA&#8217;s Appraisal of Electronic Records Workshop'
+title: 'SAA's Appraisal of Electronic Records Workshop'
 date: 2013-06-17T13:48:26+00:00
 author: Meg Hogan
 layout: post
-guid: http://dteamblog/?p=625
+
 permalink: /?p=625
 categories:
   - Conferences/Education

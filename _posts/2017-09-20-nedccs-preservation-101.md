@@ -4,7 +4,7 @@ title: NEDCC’s Preservation 101
 date: 2017-09-20T10:05:01+00:00
 author: Amy Berish
 layout: post
-guid: http://blog.rockarch.org/?p=1847
+
 permalink: /?p=1847
 categories:
   - Collaboration
@@ -28,6 +28,6 @@ _By Amy Berish, Kanisha Greaves, and Emeline Swanson_
 
 <span style="font-weight: 400">Despite combining our knowledge from different departments, we noticed that there were still preservation-related questions we couldn’t answer, such as specific facts about the building’s history, environmental monitoring, and security. These particular focus areas, along with a few others, proved to be the most challenging since they required us to dig for information we wouldn’t typically need to know to accomplish our daily tasks. We quickly realized that, in a larger-staff institution like the RAC, certain information can become compartmentalized when staff is divided into departments. Understanding the daily tasks of our colleagues helps bridge the gap to better methods of preservation. For example, working with Facilities and getting acquainted with the building’s structural history helps us understand any dangers posed to collections and how environmental conditions are impacted by the quirks of an older building. </span>
 
-<span style="font-weight: 400">In other words, the RAC makes a strong effort for everyone to collaborate across departments and understand each other&#8217;s work in relation to our own, but fully understanding how the HVAC system works and how snakes slithered into the sub-level hallway might still remain a bit of a mystery, and that’s okay. Every archive has its history of problems. The key is having a support system that encourages collaboration beyond the bubble of our daily routines, such as the opportunity to learn from this course. Preservation requires everyone to be on the same page. When that pipe leaks or a wind-storm hits, institutions that are preservation-conscious encourage everyone to barrel out the water when the time comes, regardless of their department.</span>
+<span style="font-weight: 400">In other words, the RAC makes a strong effort for everyone to collaborate across departments and understand each other's work in relation to our own, but fully understanding how the HVAC system works and how snakes slithered into the sub-level hallway might still remain a bit of a mystery, and that’s okay. Every archive has its history of problems. The key is having a support system that encourages collaboration beyond the bubble of our daily routines, such as the opportunity to learn from this course. Preservation requires everyone to be on the same page. When that pipe leaks or a wind-storm hits, institutions that are preservation-conscious encourage everyone to barrel out the water when the time comes, regardless of their department.</span>
 
 <span style="font-weight: 400">We should be conscious of how our work affects both researchers and other archivists alike. By taking this course as a team, we have developed a strong understanding of our own roles and contributions. The importance of sharing information and understanding the responsibilities of all members on staff is key because we can never know </span>_<span style="font-weight: 400">too much</span>_ <span style="font-weight: 400">about our institution and its functions.</span>

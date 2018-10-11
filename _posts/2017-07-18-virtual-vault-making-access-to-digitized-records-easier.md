@@ -4,7 +4,7 @@ title: 'Virtual Vault: making access to digitized records easier'
 date: 2017-07-18T12:12:20+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1804
+
 permalink: /?p=1804
 categories:
   - Collaboration
@@ -23,7 +23,7 @@ A few months ago, our audiovisual archivist Brent Phillips approached me to brai
 
 We needed an in-between solution that made a sensible compromise. The more I thought about it, the more it seemed to me that we should aim to under- rather than over-engineer a solution; that it should be designed to teach us as much as possible about user needs relating to access of digitized records as well as our own appetite for strategic risk-taking.
 
-I ended up using the scaffolding of [staticAid](https://github.com/helrond/staticAid) &#8211; a [tool I&#8217;ve developed](http://hillelarnold.com/blog/2016/02/a-static-html-site-generator-for-archival-description/) which converts JSON objects provided by the ArchivesSpace API into HTML pages using Jekyll &#8211; and adding some additional templates to display audiovisual materials. After digitized files (named using ArchivesSpace identifiers) have passed quality control, an archivist places them in a directory on our network storage. From there, a series of scripts automatically moves digitized files to a server, retrieves data by querying the [ArchivesSpace API](https://archivesspace.github.io/archivesspace/api/) for data about a given identifier, and builds the necessary web pages. Archivists can correct or enhance description for these materials in ArchivesSpace, and those changes will be reflected in the new nightly build of the site.
+I ended up using the scaffolding of [staticAid](https://github.com/helrond/staticAid) - a [tool I've developed](http://hillelarnold.com/blog/2016/02/a-static-html-site-generator-for-archival-description/) which converts JSON objects provided by the ArchivesSpace API into HTML pages using Jekyll - and adding some additional templates to display audiovisual materials. After digitized files (named using ArchivesSpace identifiers) have passed quality control, an archivist places them in a directory on our network storage. From there, a series of scripts automatically moves digitized files to a server, retrieves data by querying the [ArchivesSpace API](https://archivesspace.github.io/archivesspace/api/) for data about a given identifier, and builds the necessary web pages. Archivists can correct or enhance description for these materials in ArchivesSpace, and those changes will be reflected in the new nightly build of the site.
 
 This approach facilitated the quick implementation of a temporary solution. It also allows us to meet a number of [our values](https://github.com/RockefellerArchiveCenter/dteamValues/blob/master/values.md). By allowing anyone on the RAC’s network to view and download digitized material, we can work towards our value of broad and equitable access. The system doesn’t collect data on individual users and doesn’t require user accounts or other authentication, which lets us meet our value of respecting the privacy of researchers. Since it pulls data from ArchivesSpace via its API, it helps us to build networks rather than silos. Most of all, it helps us to learn by taking strategic risks.
 

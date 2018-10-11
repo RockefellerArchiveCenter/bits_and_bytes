@@ -4,7 +4,7 @@ title: A healthy relationship with technology
 date: 2016-06-08T10:46:12+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1507
+
 permalink: /?p=1507
 categories:
   - Conferences/Education
@@ -16,9 +16,9 @@ tags:
   - technology
   - ursula franklin
 ---
-In our mission statement, the D-Team talks about &#8220;providing technical leadership and expertise,&#8221; which is accurate but not really the most conversational way of talking about what it is that we do. Lately I’ve been saying the D-Team’s role here at the RAC is &#8220;helping our staff and researchers have a healthy relationship with technology.&#8221; I thought it was time to dig into what that means a little. In thinking about this, I&#8217;ve realized this conceptualization of our work is has been strongly informed by some recent reading as well as conversations I’ve had with colleagues.<!--more-->
+In our mission statement, the D-Team talks about "providing technical leadership and expertise," which is accurate but not really the most conversational way of talking about what it is that we do. Lately I’ve been saying the D-Team’s role here at the RAC is "helping our staff and researchers have a healthy relationship with technology." I thought it was time to dig into what that means a little. In thinking about this, I've realized this conceptualization of our work is has been strongly informed by some recent reading as well as conversations I’ve had with colleagues.<!--more-->
 
-I just finished [Ursula Franklin’s](https://en.wikipedia.org/wiki/Ursula_Franklin) book [_The Real World of Technology_](http://houseofanansi.com/products/the-real-world-of-technology-digital) &#8211; easily the most provocative thing I’ve read in a couple of years &#8211; which combines several lectures she gave in 1989 with more recent writings. The older lectures hold up incredibly well, in large part because she focuses primarily on outlining fundamental characteristics of technology and the ways in which those characteristics shape the relationship between technology and humans.
+I just finished [Ursula Franklin’s](https://en.wikipedia.org/wiki/Ursula_Franklin) book [_The Real World of Technology_](http://houseofanansi.com/products/the-real-world-of-technology-digital) - easily the most provocative thing I’ve read in a couple of years - which combines several lectures she gave in 1989 with more recent writings. The older lectures hold up incredibly well, in large part because she focuses primarily on outlining fundamental characteristics of technology and the ways in which those characteristics shape the relationship between technology and humans.
 
 Although the book is packed with prescient insights, the thing that resonates most strongly with me is her framing of technologies as either holistic or prescriptive: in other words, they either encourage comprehensive human understanding of processes, or they lead to increasing specialization and compartmentalization of knowledge and labor. As you might suspect, her contention is that technologies have become increasingly prescriptive, seeking to define the labor of humans in increasingly smaller and specialized spheres. This is a damning counter-narrative to the idea of technology as a liberating force, and even the idea of technology as a neutral tool that can be bent to whatever ends are desired.
 

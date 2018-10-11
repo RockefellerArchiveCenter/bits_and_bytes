@@ -4,7 +4,7 @@ title: Learning from Liberating Structures
 date: 2018-07-23T11:10:32+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=2041
+
 permalink: /?p=2041
 categories:
   - Collaboration
@@ -14,7 +14,7 @@ tags:
   - meetings
   - training
 ---
-Like many managers, I have a lot of meetings, so I’m always looking for ways to make sure I get the most out of them. Am I hearing from everyone at the table? Are a group’s best ideas being surfaced, or am I just hearing from the extroverts? How can I get my team engaged in strategic planning? Consequently, I’m always on the lookout for tools and techniques to make meetings &#8211; one-on-ones, team conversations, administrative updates and beyond &#8211; useful, engaging and inclusive.
+Like many managers, I have a lot of meetings, so I’m always looking for ways to make sure I get the most out of them. Am I hearing from everyone at the table? Are a group’s best ideas being surfaced, or am I just hearing from the extroverts? How can I get my team engaged in strategic planning? Consequently, I’m always on the lookout for tools and techniques to make meetings - one-on-ones, team conversations, administrative updates and beyond - useful, engaging and inclusive.
 
 A couple of years ago, the always-incredible [Tara Robertson](http://tararobertson.ca/) pointed me towards [Liberating Structures](http://www.liberatingstructures.com/). Although I’ve experimented with them a bit over the past few years, I’ve struggled to cut through some of the jargon (particularly the innovation-speak, which especially bugs me) and, let’s face it, the information architecture and graphic design of the official website. However, Tara encouraged me to look for a training opportunity, and after several years, I was finally able to attend a Liberating Structures training led by Fisher Qua at NYC’s [Outward Bound](https://www.outwardbound.org/) headquarters in Long Island City. This two-day intensive workshop made all the difference in helping me understand what Liberating Structures are and how they can be used.<!--more-->
 

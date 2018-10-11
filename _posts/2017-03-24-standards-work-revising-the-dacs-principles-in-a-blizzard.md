@@ -4,7 +4,7 @@ title: 'Standards Work: Revising the DACS Principles (in a blizzard)'
 date: 2017-03-24T05:41:57+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1710
+
 permalink: /?p=1710
 categories:
   - Conferences/Education
@@ -33,7 +33,7 @@ This was an invite-only meeting. Although I know TS-DACS values expertise in and
 
 Another thing that TS-DACS did when setting up this meeting was to draw insights and processes from other domains. In particular, there were some methodological choices that I thought were incredibly important, and which I haven’t seen used before in a standards process.
 
-We used a number of techniques &#8211; including [user personas](https://www.usability.gov/how-to-and-tools/methods/personas.html), [user scenarios](http://www.uxforthemasses.com/scenario-mapping/), [affinity diagrams ](http://asq.org/learn-about-quality/idea-creation-tools/overview/affinity.html)and rapid iteration &#8211; commonly associated with [Agile processes](https://www.agilealliance.org/) and [human-centered software development](https://en.wikipedia.org/wiki/Human-centered_design). I think doing these exercises at the outset of our process was an absolute stroke of genius on the part of TS-DACS because it got us thinking about who archival description is for, and what it can do for them. Although many of us probably had a tacit understanding coming in that the DACS principles needed to be much more user-focused, framing the process in this way allowed us to think and write much more empathetically, and to place the user at the center of these principles.
+We used a number of techniques - including [user personas](https://www.usability.gov/how-to-and-tools/methods/personas.html), [user scenarios](http://www.uxforthemasses.com/scenario-mapping/), [affinity diagrams ](http://asq.org/learn-about-quality/idea-creation-tools/overview/affinity.html)and rapid iteration - commonly associated with [Agile processes](https://www.agilealliance.org/) and [human-centered software development](https://en.wikipedia.org/wiki/Human-centered_design). I think doing these exercises at the outset of our process was an absolute stroke of genius on the part of TS-DACS because it got us thinking about who archival description is for, and what it can do for them. Although many of us probably had a tacit understanding coming in that the DACS principles needed to be much more user-focused, framing the process in this way allowed us to think and write much more empathetically, and to place the user at the center of these principles.
 
 Over the last few years, I’ve wondered what it would mean for archival standards processes to be solidly user-driven, and this process gave me a sense of what that might look like and how it might affect the outcome. We need more of this kind of thinking in our standards, and throughout the entire archival enterprise.
 
@@ -47,15 +47,15 @@ We also had a quick session on technical writing, which was very useful because 
   * Does it use active voice?
   * Does it apply at all times and in all places?
 
-This was a really good way to measure whether or not we had achieved a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) &#8211; another concept associated with Agile methodology &#8211; for the principle.
+This was a really good way to measure whether or not we had achieved a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) - another concept associated with Agile methodology - for the principle.
 
 Another thing I found really useful was that the processes we used were largely self-documenting. As small groups, we worked through the process of drafting a principle, beginning with a verbose statement that was then narrowed down to a “headline” of around twenty words. Along the way, we discussed and wrote down our answers to questions such as “What does this do for archivists? What does this do for users?” and “What sources are you drawing from?” In addition to drawing out our best thinking (there were a few times where my group was sure we had the principle nailed down, only to have an important nuance revealed by walking through these steps completely) it also created an important record of our thought process: what we considered, which ideas we wanted to explicitly scope out of the principle, and any underlying assumptions we were making. We created some additional documentation about our thinking on the last day which augments those notes. Together, those are going to be an invaluable resource as this process moves forward, helping to clarify the boundaries of principles, and identifying where there might have been omissions.
 
 ## Always be learning
 
-Another thing that really impressed me about this meeting was the willingness of participants &#8211; regardless of years of service or expertise &#8211; to listen and learn. This expectation and model were established by Adrien and Maureen up front through a group review of the [Aorta Collective&#8217;s community agreements for anti-oppressive meetings](http://aorta.coop/sites/default/files/ao_facilitation_resource_sheet_july_2014.pdf). From the outset, I think we all recognized that everyone knew something, but also that nobody knew everything.
+Another thing that really impressed me about this meeting was the willingness of participants - regardless of years of service or expertise - to listen and learn. This expectation and model were established by Adrien and Maureen up front through a group review of the [Aorta Collective's community agreements for anti-oppressive meetings](http://aorta.coop/sites/default/files/ao_facilitation_resource_sheet_july_2014.pdf). From the outset, I think we all recognized that everyone knew something, but also that nobody knew everything.
 
-This dynamic was further underlined on our last day, when a second review of our principles was producing frustration and confusion rather than an improved version. Recognizing what was happening, Maureen paused the process, and she and Adrien made an adjustment that refocused our energy on documenting what we had already done, rather than picking at each other’s work. This kind of honesty, humility and flexibility &#8211; the willingness to admit that something is not working, stop doing that thing, and look for ways to adjust and move forward &#8211; is the kind of leadership that is all too often missing in standards processes (and quite frankly, in archives in general).
+This dynamic was further underlined on our last day, when a second review of our principles was producing frustration and confusion rather than an improved version. Recognizing what was happening, Maureen paused the process, and she and Adrien made an adjustment that refocused our energy on documenting what we had already done, rather than picking at each other’s work. This kind of honesty, humility and flexibility - the willingness to admit that something is not working, stop doing that thing, and look for ways to adjust and move forward - is the kind of leadership that is all too often missing in standards processes (and quite frankly, in archives in general).
 
 ## Valuing labor
 

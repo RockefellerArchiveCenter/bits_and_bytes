@@ -4,7 +4,7 @@ title: 'Documentation Site Release: A Tool for Access and Transparency, a Push f
 date: 2018-07-10T15:47:59+00:00
 author: Darren Young
 layout: post
-guid: http://blog.rockarch.org/?p=2032
+
 permalink: /?p=2032
 categories:
   - Collaboration
@@ -24,7 +24,7 @@ tags:
 
 <span style="font-weight: 400">The website facilitates easy discovery of documentation for RAC staff members, and also enables other archivists and professionals in related fields to use our documentation as resource and reference material when establishing or amending their own policies and procedures. Because all content published on the site is assigned a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero (CC0)</a> </span><span style="font-weight: 400">license, you don’t need to ask our permission to copy, modify, or share any of the documentation. In fact, we strongly encourage you to use our documentation in any way that helps you meet your needs or achieve your institution’s goals!</span>
 
-<span style="font-weight: 400">We use <a href="https://jekyllrb.com/">Jekyll</a></span><span style="font-weight: 400"> &#8211; a static site generator &#8211; to structure, style, and deploy our site. Individual documentation files are first converted into <a href="https://www.markdownguide.org">Markdown</a> </span><span style="font-weight: 400">by RAC staff members, and then they are uploaded to separate repositories under the<a href="https://github.com/RockefellerArchiveCenter"> RAC GitHub organization</a></span><span style="font-weight: 400">. We hope that, in addition to using and adapting the documentation we make available on the site, other archivists also take inspiration from the website’s structure and design when trying to find solutions for storing and sharing their institution’s documentation. You can access the <a href="https://github.com/RockefellerArchiveCenter/docs-build">code</a> that builds <a href="http://docs.rockarch.org/">docs.rockarch.org</a> on the RAC GitHub page</span><span style="font-weight: 400">!</span>
+<span style="font-weight: 400">We use <a href="https://jekyllrb.com/">Jekyll</a></span><span style="font-weight: 400"> - a static site generator - to structure, style, and deploy our site. Individual documentation files are first converted into <a href="https://www.markdownguide.org">Markdown</a> </span><span style="font-weight: 400">by RAC staff members, and then they are uploaded to separate repositories under the<a href="https://github.com/RockefellerArchiveCenter"> RAC GitHub organization</a></span><span style="font-weight: 400">. We hope that, in addition to using and adapting the documentation we make available on the site, other archivists also take inspiration from the website’s structure and design when trying to find solutions for storing and sharing their institution’s documentation. You can access the <a href="https://github.com/RockefellerArchiveCenter/docs-build">code</a> that builds <a href="http://docs.rockarch.org/">docs.rockarch.org</a> on the RAC GitHub page</span><span style="font-weight: 400">!</span>
 
 **Why We Built It**
 

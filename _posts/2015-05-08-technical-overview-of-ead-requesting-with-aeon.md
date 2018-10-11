@@ -4,7 +4,7 @@ title: Technical Overview of EAD Requesting with Aeon
 date: 2015-05-08T16:28:16+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1348
+
 permalink: /?p=1348
 categories:
   - Reference
@@ -37,7 +37,7 @@ In addition to creating the HTML visible to users, this script also generates a 
 
 [<img class="alignnone size-full wp-image-1353" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.07.27-PM.png" alt="Screen Shot 2015-05-08 at 12.07.27 PM" width="984" height="225" srcset="http://blog.rockarch.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.07.27-PM.png 984w, http://blog.rockarch.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.07.27-PM-300x69.png 300w, http://blog.rockarch.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.07.27-PM-500x114.png 500w" sizes="(max-width: 984px) 100vw, 984px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.07.27-PM.png)
 
-Let&#8217;s look at these in some detail.
+Let's look at these in some detail.
 
 <img class="alignnone size-full wp-image-1354" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.09.53-PM.png" alt="Screen Shot 2015-05-08 at 12.09.53 PM" width="651" height="18" srcset="http://blog.rockarch.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.09.53-PM.png 651w, http://blog.rockarch.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.09.53-PM-300x8.png 300w, http://blog.rockarch.org/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-12.09.53-PM-500x14.png 500w" sizes="(max-width: 651px) 100vw, 651px" />
 

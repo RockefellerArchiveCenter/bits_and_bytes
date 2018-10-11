@@ -1,10 +1,10 @@
 ---
 id: 1733
-title: 'Web Archives &#8211; Where Do We Go From Here?'
+title: 'Web Archives - Where Do We Go From Here?'
 date: 2017-05-02T08:12:26+00:00
 author: Patrick Galligan
 layout: post
-guid: http://blog.rockarch.org/?p=1733
+
 permalink: /?p=1733
 categories:
   - Conferences/Education

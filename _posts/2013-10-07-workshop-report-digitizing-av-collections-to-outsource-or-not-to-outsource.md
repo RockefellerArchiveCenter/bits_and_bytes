@@ -1,10 +1,10 @@
 ---
 id: 798
-title: 'Workshop Report: Digitizing A/V Collections &#8211; to Outsource or Not to Outsource?'
+title: 'Workshop Report: Digitizing A/V Collections - to Outsource or Not to Outsource?'
 date: 2013-10-07T14:24:25+00:00
 author: Patrick Galligan
 layout: post
-guid: http://dteamblog/?p=798
+
 permalink: /?p=798
 categories:
   - Conferences/Education
@@ -17,7 +17,7 @@ tags:
   - Digital Preservation
   - digitization vendors
 ---
-On Wednesday, October 2<sup>nd</sup>, I attended the workshop “<a href="http://metro.org/events/424/" target="_blank">Digitizing Audiovisual Collections &#8211; to Outsource or Not to Outsource</a>,” hosted by METRO and the Moving Image Archiving and Preservation program at NYU. Three speakers from different institutions (Chris Lacinak, Jonah Volk, and Julie May) came together to speak about their experiences in deciding whether to digitize audiovisual materials in-house, or work with an outside vendor. Each speaker laid out important criteria and considerations that will prove invaluable for anyone planning to start an audiovisual digitization project, as well as those that need guidance when working with vendors. In my opinion, the presentations naturally split into two categories: how to assess whether to outsource an audiovisual project, and the issues and concerns that you must take into account when working with a vendor. I have listed below some of the more salient takeaways from the workshop that any institution should keep in mind before undertaking any audiovisual digitization process.
+On Wednesday, October 2<sup>nd</sup>, I attended the workshop “<a href="http://metro.org/events/424/" target="_blank">Digitizing Audiovisual Collections - to Outsource or Not to Outsource</a>,” hosted by METRO and the Moving Image Archiving and Preservation program at NYU. Three speakers from different institutions (Chris Lacinak, Jonah Volk, and Julie May) came together to speak about their experiences in deciding whether to digitize audiovisual materials in-house, or work with an outside vendor. Each speaker laid out important criteria and considerations that will prove invaluable for anyone planning to start an audiovisual digitization project, as well as those that need guidance when working with vendors. In my opinion, the presentations naturally split into two categories: how to assess whether to outsource an audiovisual project, and the issues and concerns that you must take into account when working with a vendor. I have listed below some of the more salient takeaways from the workshop that any institution should keep in mind before undertaking any audiovisual digitization process.
   
 <!--more-->
 

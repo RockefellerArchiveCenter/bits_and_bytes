@@ -4,7 +4,7 @@ title: NYAC Presentation on Archiving the Web
 date: 2013-06-07T17:47:07+00:00
 author: Sibyl Schaefer
 layout: post
-guid: http://dteamblog/?p=575
+
 permalink: /?p=575
 categories:
   - Digital Preservation

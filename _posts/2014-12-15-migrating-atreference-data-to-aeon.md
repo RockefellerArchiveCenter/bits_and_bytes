@@ -4,7 +4,7 @@ title: Migrating ATReference data to Aeon
 date: 2014-12-15T12:22:12+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1274
+
 permalink: /?p=1274
 categories:
   - Data Cleanup

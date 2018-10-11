@@ -4,7 +4,7 @@ title: edUI Conference 2017
 date: 2017-10-12T15:39:19+00:00
 author: Hannah Sistrunk
 layout: post
-guid: http://blog.rockarch.org/?p=1855
+
 permalink: /?p=1855
 categories:
   - Conferences/Education
@@ -13,7 +13,7 @@ tags:
   - user centered design
   - ux
 ---
-<span style="font-weight: 400;">I recently attended the edUI conference in Charlottesville, VA. It&#8217;s a conference for web professionals working in educational institutions, and the speakers come from a variety of professional contexts including design, development, management, content strategy, and UX. For me, this conference was a chance to hear from and connect with folks outside of the archives field who are doing related work. It pushed me to think about familiar problems from a fresh perspective, build conceptual connections, strategize to improve communication across disciplines, and learn some practical approaches and skills that are not often emphasized in archives-specific conferences.</span>
+<span style="font-weight: 400;">I recently attended the edUI conference in Charlottesville, VA. It's a conference for web professionals working in educational institutions, and the speakers come from a variety of professional contexts including design, development, management, content strategy, and UX. For me, this conference was a chance to hear from and connect with folks outside of the archives field who are doing related work. It pushed me to think about familiar problems from a fresh perspective, build conceptual connections, strategize to improve communication across disciplines, and learn some practical approaches and skills that are not often emphasized in archives-specific conferences.</span>
 
 <!--more-->
 

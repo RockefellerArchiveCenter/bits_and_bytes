@@ -4,7 +4,7 @@ title: Shades of Similarity at Open Repositories
 date: 2017-07-11T13:10:15+00:00
 author: Patrick Galligan
 layout: post
-guid: http://blog.rockarch.org/?p=1799
+
 permalink: /?p=1799
 categories:
   - Conferences/Education

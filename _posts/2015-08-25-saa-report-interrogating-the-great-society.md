@@ -1,10 +1,10 @@
 ---
 id: 1408
-title: 'SAA Report: Interrogating the &#8216;Great Society&#8217;'
+title: 'SAA Report: Interrogating the &#8216;Great Society''
 date: 2015-08-25T15:53:40+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1408
+
 permalink: /?p=1408
 categories:
   - Conferences/Education
@@ -14,7 +14,7 @@ tags:
 ---
 I’ve just returned from the Society of American Archivists Annual Meeting, held this year in Cleveland. As usual, it was a rewarding experience, full of opportunities to connect and catch up with colleagues from all over the country, as well as to learn from the speakers in a variety of sessions.<!--more-->
 
-As in years past, I found the panels and other sessions which focused on historical trends – rather than contemporary case studies or practices – to be the most inspiring and thought-provoking. A great example of this was _<a href="https://archives2015.sched.org/event/004a1cb7a7ee42c0a753e74d6fb47f80" target="_blank">The &#8216;Great Society&#8217; and the Archives: Fifty Years of Archival Activism</a>_, which looked at the development of activism in the archival profession over the last 50 years, starting with Lyndon B. Johnson’s [Great Society](https://en.wikipedia.org/wiki/Great_Society) speech of 1964, and moving forward throughout the 70s and 80s. All of the panelists cited Howard Zinn’s [1970 address at the SAA Annual meeting](http://www.libr.org/progarchs/documents/Zinn_Speech_MwA_1977.html), which I’d advise you to read if you haven’t already done so.
+As in years past, I found the panels and other sessions which focused on historical trends – rather than contemporary case studies or practices – to be the most inspiring and thought-provoking. A great example of this was _<a href="https://archives2015.sched.org/event/004a1cb7a7ee42c0a753e74d6fb47f80" target="_blank">The &#8216;Great Society' and the Archives: Fifty Years of Archival Activism</a>_, which looked at the development of activism in the archival profession over the last 50 years, starting with Lyndon B. Johnson’s [Great Society](https://en.wikipedia.org/wiki/Great_Society) speech of 1964, and moving forward throughout the 70s and 80s. All of the panelists cited Howard Zinn’s [1970 address at the SAA Annual meeting](http://www.libr.org/progarchs/documents/Zinn_Speech_MwA_1977.html), which I’d advise you to read if you haven’t already done so.
 
 The panelists offered divergent perspectives on the course of the archival profession in regard to social justice. Some offered more positive perspectives on this trajectory, citing the acceptance of documentation strategies and the growth of community archives initiatives. Others were more pessimistic, saying that archivists, as <a href="http://www.michellecaswell.org/" target="_blank">Michelle Caswell</a> bluntly put it, “aren’t doing enough as a profession to build a more just future.”
 

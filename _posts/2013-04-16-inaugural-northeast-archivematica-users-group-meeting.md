@@ -4,7 +4,7 @@ title: Inaugural Northeast Archivematica Users Group meeting
 date: 2013-04-16T17:41:29+00:00
 author: Sibyl Schaefer
 layout: post
-guid: http://dteamblog/?p=503
+
 permalink: /?p=503
 categories:
   - Digital Preservation

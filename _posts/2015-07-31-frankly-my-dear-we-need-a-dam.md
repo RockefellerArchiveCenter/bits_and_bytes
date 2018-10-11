@@ -4,7 +4,7 @@ title: Frankly, my dear, we need a DAM!
 date: 2015-07-31T14:46:15+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1392
+
 permalink: /?p=1392
 categories:
   - Software and Systems
@@ -36,7 +36,7 @@ All of these are functions that we might want to include in our digital asset ma
 
 # Here’s where you come in!
 
-Since this system will affect a lot of people and processes here at the RAC, I’m going to spend a significant amount of time gathering information about what we want it to do. That will include one-on-one conversations with many of you, a survey of our existing systems as well as other institutions’ solutions, and gathering “<a href="https://help.rallydev.com/writing-great-user-story" target="_blank">user stories</a>” &#8211; a brief description of system functionality from the perspective of an end user &#8211; which will help shape the functional requirements.
+Since this system will affect a lot of people and processes here at the RAC, I’m going to spend a significant amount of time gathering information about what we want it to do. That will include one-on-one conversations with many of you, a survey of our existing systems as well as other institutions’ solutions, and gathering “<a href="https://help.rallydev.com/writing-great-user-story" target="_blank">user stories</a>” - a brief description of system functionality from the perspective of an end user - which will help shape the functional requirements.
 
 I’ll be contacting almost everyone on staff to set up conversations, and I hope you’ll <a href="https://trello.com/b/Ou3OzOjR/rac-dam-user-stories" target="_blank">take a look</a> at the user stories and <a href="https://docs.google.com/forms/d/1klpLoX7jnlGheAbv5wYQVZCOuJoDgZ9p0-ASXso-uDY/viewform" target="_blank">submit some</a> of your own.
 

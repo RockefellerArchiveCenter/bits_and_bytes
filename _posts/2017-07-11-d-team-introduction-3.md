@@ -4,7 +4,7 @@ title: D-Team Introduction
 date: 2017-07-11T12:02:13+00:00
 author: Hannah Sistrunk
 layout: post
-guid: http://blog.rockarch.org/?p=1794
+
 permalink: /?p=1794
 categories:
   - D-Team

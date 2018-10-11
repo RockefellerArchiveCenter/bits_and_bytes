@@ -4,7 +4,7 @@ title: Digital Preservation Interest Group @ ALA
 date: 2013-07-11T16:02:23+00:00
 author: Sibyl Schaefer
 layout: post
-guid: http://dteamblog/?p=685
+
 permalink: /?p=685
 categories:
   - Conferences/Education
@@ -14,7 +14,7 @@ Below are the summaries and slides from the presentations of the Digital Preserv
 
 **\*The NDSA Levels of Digital Preservation\***
   
-The Levels of Digital Preservation is an initiative of the National Digital Stewardship Alliance (NDSA) that provides a tiered set of recommendations for institutions undertaking digital preservation. Created by a diverse team of practitioners from NDSA-member organizations, the Levels guidelines are agnostic towards institution size, resource level, and specific technologies. The Levels are intended to be easy-to-use and focus on specific best-practices instead of overall digital preservation program development. This presentation will introduce the Levels project&#8217;s origins, explicate its recommendations, and review its practical and planning uses. The Levels is an evolving project, so feedback and input from the Digital Preservation Interest Group will be very much encouraged.<!--more-->
+The Levels of Digital Preservation is an initiative of the National Digital Stewardship Alliance (NDSA) that provides a tiered set of recommendations for institutions undertaking digital preservation. Created by a diverse team of practitioners from NDSA-member organizations, the Levels guidelines are agnostic towards institution size, resource level, and specific technologies. The Levels are intended to be easy-to-use and focus on specific best-practices instead of overall digital preservation program development. This presentation will introduce the Levels project's origins, explicate its recommendations, and review its practical and planning uses. The Levels is an evolving project, so feedback and input from the Digital Preservation Interest Group will be very much encouraged.<!--more-->
 
 Presenter:
   

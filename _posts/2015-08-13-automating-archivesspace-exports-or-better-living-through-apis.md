@@ -4,7 +4,7 @@ title: Automating ArchivesSpace exports, or Better Living Through APIs
 date: 2015-08-13T16:52:01+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1402
+
 permalink: /?p=1402
 categories:
   - Software and Systems
@@ -28,7 +28,7 @@ Once it’s done that, it will version those files using Git, then push to a [Gi
 
 Here’s a key point: because the script looks for published resource records, we have to be careful not to mark the top level of any resource records in ArchivesSpace as published that we don’t actually want published! In order to make sure we started out with the right resource records published, I wrote a script (again using the ArchivesSpace API) that matches resource IDs against a list to determine which should be published and which should be unpublished.
 
-I&#8217;d be remiss if I didn&#8217;t thank a number of people who helped me with this along the way. First of all, a big thank you to Sibyl Schaefer, our former Head of Digital Programs, for suggesting this workflow a few months back. We hope you like how we’ve implemented it! Andromeda Yelton, Dave Mayo, Mark Matienzo and Mark Triggs reviewed this code and provided excellent suggestions which made the script much easier to maintain, far more robust, and just generally better. I&#8217;m very grateful to have such a fantastic and generous professional network!
+I'd be remiss if I didn't thank a number of people who helped me with this along the way. First of all, a big thank you to Sibyl Schaefer, our former Head of Digital Programs, for suggesting this workflow a few months back. We hope you like how we’ve implemented it! Andromeda Yelton, Dave Mayo, Mark Matienzo and Mark Triggs reviewed this code and provided excellent suggestions which made the script much easier to maintain, far more robust, and just generally better. I'm very grateful to have such a fantastic and generous professional network!
 
 We’d be really happy to have other people give this code a spin and, if you discover any problems, create an issue or pull request in the [repository](https://github.com/RockefellerArchiveCenter/asExportIncremental)!
 

@@ -4,7 +4,7 @@ title: Electronic Records Management resources and notes
 date: 2013-02-27T18:49:57+00:00
 author: Laura Montgomery
 layout: post
-guid: http://dteamblog/?p=443
+
 permalink: /?p=443
 categories:
   - Conferences/Education

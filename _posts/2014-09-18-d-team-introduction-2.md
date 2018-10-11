@@ -4,7 +4,7 @@ title: D-Team Introduction
 date: 2014-09-18T17:12:41+00:00
 author: Bonnie Gordon
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1214
+
 permalink: /?p=1214
 categories:
   - D-Team

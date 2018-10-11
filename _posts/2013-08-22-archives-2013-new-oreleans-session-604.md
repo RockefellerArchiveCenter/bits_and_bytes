@@ -4,7 +4,7 @@ title: Archives 2013 New Orleans Session 604
 date: 2013-08-22T20:35:40+00:00
 author: Laura Montgomery
 layout: post
-guid: http://dteamblog/?p=758
+
 permalink: /?p=758
 categories:
   - Conferences/Education

@@ -4,7 +4,7 @@ title: User Experience and Empathy
 date: 2014-04-02T18:54:05+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1036
+
 permalink: /?p=1036
 categories:
   - Conferences/Education
@@ -19,7 +19,7 @@ If you’re an archivist, you should either <a href="https://www.youtube.com/wat
 
 Wow, back already? Or are you still not convinced? Either way, let me tell you why I think this talk is so important.
 
-First of all, it’s about user experience, which is something I&#8217;ve spent a lot of time thinking about in relation to DIMES over the past year or so. But the way that Sumana talks about user experience is in terms far broader than it’s usually thought of. As she explains it, improving a user’s experience isn&#8217;t just about improving user experience with technology; at a more fundamental level it’s about how we as human beings interface with other human beings.
+First of all, it’s about user experience, which is something I've spent a lot of time thinking about in relation to DIMES over the past year or so. But the way that Sumana talks about user experience is in terms far broader than it’s usually thought of. As she explains it, improving a user’s experience isn't just about improving user experience with technology; at a more fundamental level it’s about how we as human beings interface with other human beings.
 
 And that’s why the points she makes about empathy are so very critical for us as archivists. What kind of user experience are we providing to our researchers from start to finish? Are we really listening to what they’re asking us when we get a reference request? Do we understand all the hoops our researchers have to jump through – negotiating time zones, languages, international borders, archival description, our documented and undocumented policies, doors on passenger vans, to name just a few – in order to make it into our reading room to look at the material they want to see? How many obstacles do we put in our researchers’ way? Do we have good reasons for doing that? Can we think, as Sumana said, in terms of capillaries, not arteries; in terms of human relationships rather than rules?
 

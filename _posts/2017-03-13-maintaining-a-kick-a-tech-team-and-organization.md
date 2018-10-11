@@ -4,7 +4,7 @@ title: 'Maintaining a Kick A** Tech Team and Organization'
 date: 2017-03-13T12:17:29+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1707
+
 permalink: /?p=1707
 categories:
   - Conferences/Education
@@ -65,13 +65,13 @@ Education is vital to our work. Although our focus is on providing technical exp
 
 We recognize that with specialized knowledge comes power. We seek to create a culture of learning, which means demolishing the inequitable power dynamics between experts and non-experts, and building in its place a culture and expectation of collective skill-sharing. By building mutual knowledge, we build community. We organize events like reading groups that encourage others to develop their own areas of interest and proficiency, as well as develop their critical thinking skills.<sup>5</sup> We train the trainer. We acknowledge that everyone has expertise and we accept our own limits of knowledge.
 
-As a team, we advance our skills with a broad view of professional development. We attend conferences and workshops, and actively encourage others to do so. We keep an eye out for these opportunities and let our colleagues know they&#8217;re happening. And we make a point of sharing what we&#8217;ve learned so that those who could not attend can benefit as well. We do this by writing up summaries and takeaways on our [team blog](http://blog.rockarch.org/) and through informal conversations with colleagues. By investing in ourselves, we can spread that knowledge to others as well as model a culture of learning.
+As a team, we advance our skills with a broad view of professional development. We attend conferences and workshops, and actively encourage others to do so. We keep an eye out for these opportunities and let our colleagues know they're happening. And we make a point of sharing what we've learned so that those who could not attend can benefit as well. We do this by writing up summaries and takeaways on our [team blog](http://blog.rockarch.org/) and through informal conversations with colleagues. By investing in ourselves, we can spread that knowledge to others as well as model a culture of learning.
 
 Additionally, we recognize that all parts of the archival enterprise are connected and that we are part of larger professional communities with shared values and challenges. We actively participate in these communities by joining committees and facilitating professional meetings. And we take a broad view of our profession: I spend time volunteering with a local community archive. And we share our knowledge and expertise through any means available, including through open documentation, presentations and publications. We recognize that we are a resource-rich organization and have an obligation to pursue activities that benefit others in the profession. We rely on the skills and knowledge of members of the library and archival communities who are outside of our organization.
 
-We also believe that professional growth requires risk-taking and embracing failure. Failure allows us to learn what works, as well as what doesn&#8217;t. But to effectively fail, we have to be smart about how we do it. We learn by making small, iterative changes. We test solutions and workflows out before implementation, and we do so by setting up development environments, performing frequent backups, and using version control.
+We also believe that professional growth requires risk-taking and embracing failure. Failure allows us to learn what works, as well as what doesn't. But to effectively fail, we have to be smart about how we do it. We learn by making small, iterative changes. We test solutions and workflows out before implementation, and we do so by setting up development environments, performing frequent backups, and using version control.
 
-By setting up these safety nets, we can strive for excellence without allowing the pursuit of perfection to intimidate or immobilize our efforts. And not being afraid of failure allows us to model fearlessness around technology.<sup>6</sup> Fear of breaking things can be a serious impediment to a healthy relationship with technology, so setting up safety nets allows others to engage with technology in a more fruitful way. And this, too, can help soften the divide between &#8220;experts&#8221; and &#8220;non-experts,&#8221; by allowing for more people to use a wider variety of systems. If we have the safety nets in place, we don&#8217;t have to worry in the same way about someone breaking a system. And if we effectively model embracing failure, we can help other people have a better relationship with failure as they engage in learning.<sup>7</sup>
+By setting up these safety nets, we can strive for excellence without allowing the pursuit of perfection to intimidate or immobilize our efforts. And not being afraid of failure allows us to model fearlessness around technology.<sup>6</sup> Fear of breaking things can be a serious impediment to a healthy relationship with technology, so setting up safety nets allows others to engage with technology in a more fruitful way. And this, too, can help soften the divide between "experts" and "non-experts," by allowing for more people to use a wider variety of systems. If we have the safety nets in place, we don't have to worry in the same way about someone breaking a system. And if we effectively model embracing failure, we can help other people have a better relationship with failure as they engage in learning.<sup>7</sup>
 
 # Ethical Access
 
@@ -101,13 +101,13 @@ If you would like to talk more about any of what we’ve said, please find us in
 
 [2] “I’m not here to watch you, to study you, to judge you, I am here to be with you, to thank you.” (I understand later that this is the essence of this artwork: the artist as open presence.) Mierle Laderman Ukeles, “Looking Back from 2010”.
 
-[3] We owe a lot to human centered design thinking &#8211; particularly Don Norman’s [_The Design of Everyday Things_](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) and [Steve Krug’s](https://www.sensible.com/) work on low-cost high-impact usability testing &#8211; and to Sibyl for insisting on this as a fundamental part of our work. We’re also really influenced by work linking information technology to feminist care ethics, particularly people like [Amelia Abreu](https://medium.com/@ameliaabreu), [Stacie Williams](https://medium.com/@Wribrarian/all-labor-is-local-344963e33051#.wpa8a7k4w) and [Bethany Nowviskie](http://nowviskie.org/), as well as people who are writing on the theory and practice of [maintenance](http://themaintainers.org/) and [repair](http://reclaimingrepair.com/).
+[3] We owe a lot to human centered design thinking - particularly Don Norman’s [_The Design of Everyday Things_](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) and [Steve Krug’s](https://www.sensible.com/) work on low-cost high-impact usability testing - and to Sibyl for insisting on this as a fundamental part of our work. We’re also really influenced by work linking information technology to feminist care ethics, particularly people like [Amelia Abreu](https://medium.com/@ameliaabreu), [Stacie Williams](https://medium.com/@Wribrarian/all-labor-is-local-344963e33051#.wpa8a7k4w) and [Bethany Nowviskie](http://nowviskie.org/), as well as people who are writing on the theory and practice of [maintenance](http://themaintainers.org/) and [repair](http://reclaimingrepair.com/).
 
 [4] See the results [here](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/personas)
 
 [5] We wrote about this reading group in “[Shared inquiry in the archives](http://ncph.org/history-at-work/shared-inquiry-in-the-archives/)” on History@Work.
 
-[6] Amy Berish, one of our fantastic coworkers, discussed this in [her talk](http://blog.rockarch.org/?p=1689) at METRO&#8217;s 2017 Annual Conference.
+[6] Amy Berish, one of our fantastic coworkers, discussed this in [her talk](http://blog.rockarch.org/?p=1689) at METRO's 2017 Annual Conference.
 
 [7] For example, see “[Learning Python as a Processing Archivist: A Reflection](http://blog.rockarch.org/?p=1483)” and “[DACSspace: An ArchivesSpace DACS Compliance Evaluation Tool](http://blog.rockarch.org/?p=1581)” by Amy Berish.
 

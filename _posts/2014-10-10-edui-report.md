@@ -4,7 +4,7 @@ title: edUI Report
 date: 2014-10-10T09:45:24+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1239
+
 permalink: /?p=1239
 categories:
   - Conferences/Education
@@ -39,6 +39,6 @@ Almost every presentation I went to made some mention of accounting for mobile d
 
 A couple of other presentations I really liked:
 
-  * [A Brief History of Tomorrow](http://eduiconf.org/sessions/edui_tomorrow/) – A tour through themes in futurism delivered by Matt Novak of [Paleofuture](http://paleofuture.gizmodo.com/), with the killer closing line “The future won&#8217;t come all at once and it won&#8217;t be in the form we imagined.”
+  * [A Brief History of Tomorrow](http://eduiconf.org/sessions/edui_tomorrow/) – A tour through themes in futurism delivered by Matt Novak of [Paleofuture](http://paleofuture.gizmodo.com/), with the killer closing line “The future won't come all at once and it won't be in the form we imagined.”
   * [Web Components: Back to the Future of UI/UX](http://eduiconf.org/sessions/edui_back2future/) – A controlled way of creating reusable components for interaction on web pages. These still seem very hacky to me, but I’ve been told by People Who Know Things that they are the way of the future.
   * [Becoming a Change Agent](http://eduiconf.org/sessions/edui_change/) – A presentation that talked in depth about how to engage people within your institution in a change process.

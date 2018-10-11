@@ -4,7 +4,7 @@ title: Unveiling ArchivesSpace
 date: 2014-05-19T15:19:30+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1057
+
 permalink: /?p=1057
 categories:
   - Software and Systems
@@ -16,7 +16,7 @@ tags:
   - processing
   - reference
 ---
-As you should all know by now, we will be transitioning from ATReference to ArchivesSpace in a couple of months. It has been a lengthy project, but we&#8217;re quickly approaching its final stages. As such, I wanted to give everyone a quick rundown of the final timeline and the work that we are doing to get us there.
+As you should all know by now, we will be transitioning from ATReference to ArchivesSpace in a couple of months. It has been a lengthy project, but we're quickly approaching its final stages. As such, I wanted to give everyone a quick rundown of the final timeline and the work that we are doing to get us there.
 
 <!--more-->
 
@@ -26,14 +26,14 @@ All training will begin the week of **July 7**. In an effort to best tailor trai
 
 **Sandbox Instance**
 
-Following training, we will make a sandbox instance of ArchivesSpace available containing up to date RAC data so that all staff members can work with the system on their own time. During this time, you may make any changes to the data that you&#8217;d like in the name of exploring the system&#8217;s functionality; you may add records, delete them, merge them, import EAD or CSVs. This sandbox instance will be available starting **July 21**, and is scheduled to be open for two weeks. The purpose of this phase is to allow users to familiarize themselves with the system and bring up any major questions or issues they have before the full transition.
+Following training, we will make a sandbox instance of ArchivesSpace available containing up to date RAC data so that all staff members can work with the system on their own time. During this time, you may make any changes to the data that you'd like in the name of exploring the system's functionality; you may add records, delete them, merge them, import EAD or CSVs. This sandbox instance will be available starting **July 21**, and is scheduled to be open for two weeks. The purpose of this phase is to allow users to familiarize themselves with the system and bring up any major questions or issues they have before the full transition.
 
 **Final Transition**
 
-Following the two-week sandbox period, we will make the full transition from ATReference to ArchivesSpace. The transition date is currently **August 4**, and barring any major issues, that will be the date where staff members will start using the system for official work. ATReference will not disappear immediately, as we will still use it for Reference tasks during the interim period between ArchivesSpace&#8217;s launch and Aeon&#8217;s launch.
+Following the two-week sandbox period, we will make the full transition from ATReference to ArchivesSpace. The transition date is currently **August 4**, and barring any major issues, that will be the date where staff members will start using the system for official work. ATReference will not disappear immediately, as we will still use it for Reference tasks during the interim period between ArchivesSpace's launch and Aeon's launch.
 
 &nbsp;
 
 Leading up to these milestones, the D-Team will be conducting interviews with members of each team in order to better understand how they interact with ATReference and gather information on how they might interact with ArchivesSpace. We will also be re-writing documentation for the system where necessary, and will be working with different groups on making sure these documents are useful in moving forward.
 
-If you can&#8217;t wait to get your hands on ArchivesSpace you can check out the [public sandbox](http://archivesspace.org/sandbox). To get started, just follow the link and log on with username: admin and password: admin.
+If you can't wait to get your hands on ArchivesSpace you can check out the [public sandbox](http://archivesspace.org/sandbox). To get started, just follow the link and log on with username: admin and password: admin.

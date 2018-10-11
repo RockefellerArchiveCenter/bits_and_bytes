@@ -4,7 +4,7 @@ title: Archives 2013 New Orleans, Digital Curation Planning and Sustainable Futu
 date: 2013-08-23T19:31:00+00:00
 author: Laura Montgomery
 layout: post
-guid: http://dteamblog/?p=763
+
 permalink: /?p=763
 categories:
   - Conferences/Education
@@ -20,7 +20,7 @@ This was an extremely informative workshop led by [Nancy McGovern](http://www.di
 
 The workshop was divided into four sections that focused on understanding and building a digital program infrastructure, familiarizing attendees with relevant standards and good practices, disseminating concepts and objectives of workflows that enable long-term access, and understanding sustainability of cost models.
 
-Each section was built around the following reports &#8211;
+Each section was built around the following reports -
 
   * [Audit and Certification of Trustworthy Repositories](http://public.ccsds.org/publications/archive/652x0m1.pdf "Audit and Certification of Trustworthy Repositories") (TRAC report)
   * [Aligning National Approaches to Digital Preservation](http://educopia.org/sites/educopia.org/files/ANADP_Educopia_2012.pdf "Aligning National Approaches to Digital Preservation")

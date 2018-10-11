@@ -4,7 +4,6 @@ title: Artefactual site visit
 date: 2012-08-29T15:15:45+00:00
 author: Laura Montgomery
 layout: post
-guid: http://dteamblog/?p=42
 permalink: /?p=42
 categories:
   - Digital Preservation

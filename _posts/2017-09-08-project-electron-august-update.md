@@ -4,7 +4,7 @@ title: Project Electron August Update
 date: 2017-09-08T11:30:21+00:00
 author: Hannah Sistrunk
 layout: post
-guid: http://blog.rockarch.org/?p=1832
+
 permalink: /?p=1832
 categories:
   - D-Team

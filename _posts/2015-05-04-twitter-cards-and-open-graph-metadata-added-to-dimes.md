@@ -4,7 +4,7 @@ title: Twitter Cards and Open Graph metadata added to DIMES
 date: 2015-05-04T13:48:14+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1339
+
 permalink: /?p=1339
 categories:
   - XTF

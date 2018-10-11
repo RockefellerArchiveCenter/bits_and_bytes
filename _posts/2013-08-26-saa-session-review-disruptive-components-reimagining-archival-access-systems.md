@@ -1,10 +1,10 @@
 ---
 id: 741
-title: 'SAA Session Review &#8211; Disruptive Components: Reimagining Archival Access Systems'
+title: 'SAA Session Review - Disruptive Components: Reimagining Archival Access Systems'
 date: 2013-08-26T10:00:23+00:00
 author: Hillel Arnold
 layout: post
-guid: http://dteamblog/?p=741
+
 permalink: /?p=741
 categories:
   - Conferences/Education
@@ -23,6 +23,6 @@ The first thing that jumped out at me was the set of guiding principles that the
   * **Let each level of description stand on its own, but provide enough context for users to navigate the collection** – this was one of the most interesting concepts the team presented, and one that has its roots in DACS requirements for single and multilevel descriptions. It was inspiring to see the DACS rules being applied in such a creative yet solidly-grounded way.
   * **Allow users to interact with description and digital objects** – from the start, the team knew they wanted to provide access not only to description, but also to digitized material. As a result, the display for digital objects feels very much woven into the system, rather than being a later addition. In addition, the system allows for users to comment on the description using a system called <a href="http://www.intensedebate.com/" target="_blank">IntenseDebate</a>.
 
-It was also fascinating (and a little intimidating) to hear about all the cleanup that had to be done to the data before it could be used in the system. This kind of work usually isn&#8217;t discussed, and in my experience is seldom considered in the context of a comprehensive system redesign. Most discovery systems are only as good as the data that is in them, and I was glad to hear the details of this cleanup explained in some detail. Much of the work that was done was an attempt to make the data more machine-actionable. In broad strokes, this meant improving consistency, encoding, and adding additional attributes that could be used by the system to enhance search and display. The team has also implemented some automated processes for data normalization and enhancement, so that going forward the description will continue to be clean, consistent and reliable.
+It was also fascinating (and a little intimidating) to hear about all the cleanup that had to be done to the data before it could be used in the system. This kind of work usually isn't discussed, and in my experience is seldom considered in the context of a comprehensive system redesign. Most discovery systems are only as good as the data that is in them, and I was glad to hear the details of this cleanup explained in some detail. Much of the work that was done was an attempt to make the data more machine-actionable. In broad strokes, this meant improving consistency, encoding, and adding additional attributes that could be used by the system to enhance search and display. The team has also implemented some automated processes for data normalization and enhancement, so that going forward the description will continue to be clean, consistent and reliable.
 
 All in all, this session provided a lot to chew on, especially as I think about ways to improve DIMES, and look around for the system that will eventually replace XTF. It was also really good to hear specific ways in which adherence to a content standard can amplify the capabilities of a discovery system and provide a better experience for both staff and researchers.

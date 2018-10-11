@@ -4,7 +4,7 @@ title: 'From AT to AS Part 3: Training and Customization'
 date: 2015-01-30T12:10:33+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1300
+
 permalink: /?p=1300
 categories:
   - Software and Systems
@@ -20,13 +20,13 @@ Most of what we needed to was pretty simple: adding items to the enumerations fi
 
 [<img class="aligncenter size-medium wp-image-1301" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Enumerations-300x268.jpg" alt="Enumerations" width="300" height="268" srcset="http://blog.rockarch.org/wp-content/uploads/2015/01/Enumerations-300x268.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2015/01/Enumerations-335x300.jpg 335w, http://blog.rockarch.org/wp-content/uploads/2015/01/Enumerations.jpg 404w" sizes="(max-width: 300px) 100vw, 300px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Enumerations.jpg)
 
-We did call on the help of the developers and Chris Fitzpatrick was kind enough to create a few quick customizations in the form of local plugins. You can find these files here: <https://gist.github.com/cfitz>. Most of these changes can go into your system&#8217;s plugins/local/frontend directory, and then if you call “local” plugins in the config.rb file of ArchivesSpace, the plugins will override the base system settings.
+We did call on the help of the developers and Chris Fitzpatrick was kind enough to create a few quick customizations in the form of local plugins. You can find these files here: <https://gist.github.com/cfitz>. Most of these changes can go into your system's plugins/local/frontend directory, and then if you call “local” plugins in the config.rb file of ArchivesSpace, the plugins will override the base system settings.
 
 [<img class="aligncenter  wp-image-1302" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Config_Plugins-300x33.jpg" alt="Config_Plugins" width="444" height="60" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Config_Plugins.jpg)
 
 &nbsp;
 
-The trickiest part of this whole section was figuring out what files to change and the correct syntax. I&#8217;m sure someone with a better understanding of Ruby could have done this in half of the time, but, [say something about learning, now have more familiarity with the system, those type of positive outcomes from taking this time etc]
+The trickiest part of this whole section was figuring out what files to change and the correct syntax. I'm sure someone with a better understanding of Ruby could have done this in half of the time, but, [say something about learning, now have more familiarity with the system, those type of positive outcomes from taking this time etc]
 
 **REVIEWING DOCUMENTATION – 85 hours in 8 months**
 
@@ -40,7 +40,7 @@ Compiling the quick reference charts was actually fairly easy, if time consuming
 
 **Training – 55 hours in 6 months**
 
-The final step in our ArchivesSpace preparation was creating customized training sessions for each functional group in the archive. Being a relatively small institution, we had the luxury to have hands-on training with all archivists that would be using the system. In order to better tailor the training to each archivist&#8217;s specific work and needs, we broke the training up into four discrete functional groups: accessioning, collections and donor management, processing, and reference. We conducted a separate two-hour training session for each of these groups, with different content and exercises. Each member had their own laptop and user account and the desks faced a projector that I used to walk the group members through the system. We found it invaluable that each trainee could follow along on their own laptops; it helped them focus on the system and encouraged them to ask questions as they worked.
+The final step in our ArchivesSpace preparation was creating customized training sessions for each functional group in the archive. Being a relatively small institution, we had the luxury to have hands-on training with all archivists that would be using the system. In order to better tailor the training to each archivist's specific work and needs, we broke the training up into four discrete functional groups: accessioning, collections and donor management, processing, and reference. We conducted a separate two-hour training session for each of these groups, with different content and exercises. Each member had their own laptop and user account and the desks faced a projector that I used to walk the group members through the system. We found it invaluable that each trainee could follow along on their own laptops; it helped them focus on the system and encouraged them to ask questions as they worked.
 
 Each two-hour session started with a quick rundown of the system, explaining the new terminology, orienting trainees to the layout, and then showing the differences between the public and staff portions of the site. Following this introduction to navigation, we dove into searching and browsing for materials, both through the search all records functionality and the browsing and faceting functionality. To complement this section, we gave each group five records to find: one accession, one resource record, one personal name, one subject, and one location.
 

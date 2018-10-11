@@ -4,7 +4,7 @@ title: Modeling for Project Electron
 date: 2018-04-06T10:20:11+00:00
 author: Patrick Galligan
 layout: post
-guid: http://blog.rockarch.org/?p=1969
+
 permalink: /?p=1969
 categories:
   - D-Team
@@ -22,7 +22,7 @@ In her [most recent blog post](http://blog.rockarch.org/?p=1954), Hannah wrote a
 
 Over a year ago, in February 2017, we compiled an [annotated bibliography](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/data_model_bibliography.md) on modeling data, linked data, and ontologies. Following the bibliography, we held staff-wide learning [sessions on modeling data](http://blog.rockarch.org/?p=1865), which gave us an opportunity to meet with the larger RAC staff and get them thinking about data in different ways outside of the purely archival descriptive context. These sessions were extremely helpful in both calibrating so we were all using the same language to talk about data models, and creating a baseline understanding of the purposes behind modeling data. We were really laying the groundwork for later working with and critiquing possible Project Electron data models. These sessions weren’t merely altruistic information-sharing exercises, we also selfishly wanted people thinking about modeling in the context of data at the Rockefeller Archive Center.
 
-Following these sessions, it was finally time to start dipping our toes into actual modeling. We decided to start with a discovery and display model for presenting data to researchers because it would help us think through which systems we’d be pulling data from in a more general sense. None of us at the RAC had much experience on actually creating a data model diagram, so our first steps were to revisit the model bibliography and reach out to other institutions to see what they were doing. In particular, many thanks go out to Alex Duryee at the NYPL for sharing a general discovery data model and providing some feedback on our earlier drafts, as well as the team at the University of Michigan&#8217;s Bentley Historical Library for providing robust comments on early drafts. I truly leaned on the expertise of others while learning. I think it’s here that I should also thank the creators of [PCDM](https://github.com/duraspace/pcdm/wiki) for creating such a solid basis to work from and creating great documentation for the project.
+Following these sessions, it was finally time to start dipping our toes into actual modeling. We decided to start with a discovery and display model for presenting data to researchers because it would help us think through which systems we’d be pulling data from in a more general sense. None of us at the RAC had much experience on actually creating a data model diagram, so our first steps were to revisit the model bibliography and reach out to other institutions to see what they were doing. In particular, many thanks go out to Alex Duryee at the NYPL for sharing a general discovery data model and providing some feedback on our earlier drafts, as well as the team at the University of Michigan's Bentley Historical Library for providing robust comments on early drafts. I truly leaned on the expertise of others while learning. I think it’s here that I should also thank the creators of [PCDM](https://github.com/duraspace/pcdm/wiki) for creating such a solid basis to work from and creating great documentation for the project.
 
 ## **Diagramming**
 

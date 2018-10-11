@@ -4,7 +4,7 @@ title: Introducing Aeon
 date: 2014-05-07T16:54:25+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1045
+
 permalink: /?p=1045
 categories:
   - Reference

@@ -4,7 +4,7 @@ title: Project Electron October Update
 date: 2017-11-15T10:22:21+00:00
 author: Hannah Sistrunk
 layout: post
-guid: http://blog.rockarch.org/?p=1923
+
 permalink: /?p=1923
 categories:
   - Project Electron

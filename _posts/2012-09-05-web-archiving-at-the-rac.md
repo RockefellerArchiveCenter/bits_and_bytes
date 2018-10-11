@@ -4,7 +4,6 @@ title: Web archiving at the RAC
 date: 2012-09-05T14:19:24+00:00
 author: Laura Montgomery
 layout: post
-guid: http://dteamblog/?p=44
 permalink: /?p=44
 categories:
   - Digital Preservation

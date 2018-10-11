@@ -4,7 +4,7 @@ title: Replacing Refids for Automation and Standardization
 date: 2017-02-28T09:20:04+00:00
 author: Patrick Galligan
 layout: post
-guid: http://blog.rockarch.org/?p=1704
+
 permalink: /?p=1704
 categories:
   - Data Cleanup

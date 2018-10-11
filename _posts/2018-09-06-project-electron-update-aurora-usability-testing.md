@@ -4,7 +4,7 @@ title: 'Project Electron Update: Aurora Usability Testing'
 date: 2018-09-06T09:51:17+00:00
 author: Hannah Sistrunk
 layout: post
-guid: http://blog.rockarch.org/?p=2078
+
 permalink: /?p=2078
 categories:
   - Project Electron

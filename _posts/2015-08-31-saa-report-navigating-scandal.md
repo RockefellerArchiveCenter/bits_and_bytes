@@ -4,7 +4,7 @@ title: 'SAA Report: Navigating Scandal'
 date: 2015-08-31T14:12:01+00:00
 author: Patrick Galligan
 layout: post
-guid: http://blog.rockarch.org/?p=1413
+
 permalink: /?p=1413
 categories:
   - Conferences/Education

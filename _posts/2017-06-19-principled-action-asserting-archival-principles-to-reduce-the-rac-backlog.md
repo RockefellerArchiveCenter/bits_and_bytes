@@ -4,7 +4,7 @@ title: 'Principled Action: Asserting Archival Principles to Reduce the RAC Backl
 date: 2017-06-19T07:00:41+00:00
 author: Bob Battaly
 layout: post
-guid: http://blog.rockarch.org/?p=1747
+
 permalink: /?p=1747
 categories:
   - Collaboration
@@ -32,7 +32,7 @@ The key to our recent processing success has been simplifying and standardizing 
 
 Transparency in the dissemination of information is a critical element of the archival profession. The seamless transfer and accession of records, and maintaining the integrity of each individual accession through the entire lifecycle helps us to meet our commitments to donors, scholars, users and other information professionals. Through collaboration with our colleagues on the collections management team, the processing team actively builds upon the initial intellectual and physical control attained during accessioning, and takes steps to identify and provide care for those records in greatest risk of degradation and loss. Through effective collaboration our teams have minimized the time needed to accession, process, and open the records for research. By identifying and allocating responsibilities, collaborating on unexpected issues, and reducing or eliminating redundancies of work, we have bolstered the effectiveness of both teams, and experienced turnaround times as quickly as a few weeks following records transfer.
 
-In the eyes of our users, transparency of the archival collections most often manifests itself through our access and use policies and the professional manner in which we systematically carry out our practices. RAC strives to inform users of all access and use conditions pertinent to our collections; identify and describe all restricted materials; and inform all users of what they can see and use, what they can&#8217;t see and use, and why.
+In the eyes of our users, transparency of the archival collections most often manifests itself through our access and use policies and the professional manner in which we systematically carry out our practices. RAC strives to inform users of all access and use conditions pertinent to our collections; identify and describe all restricted materials; and inform all users of what they can see and use, what they can't see and use, and why.
 
 **Flexibility**
 

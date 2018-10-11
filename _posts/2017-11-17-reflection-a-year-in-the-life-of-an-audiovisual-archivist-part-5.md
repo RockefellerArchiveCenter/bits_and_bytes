@@ -4,7 +4,7 @@ title: 'Reflection: A Year in the Life of an Audiovisual Archivist – Part 5'
 date: 2017-11-17T06:00:37+00:00
 author: Brent Phillips
 layout: post
-guid: http://blog.rockarch.org/?p=1894
+
 permalink: /?p=1894
 categories:
   - Collaboration

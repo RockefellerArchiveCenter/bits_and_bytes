@@ -4,7 +4,7 @@ title: How do our finding aids get from ATReference to DIMES?
 date: 2013-10-31T20:07:55+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=851
+
 permalink: /?p=851
 categories:
   - XTF

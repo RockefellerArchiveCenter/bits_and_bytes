@@ -4,7 +4,7 @@ title: 'SAA Report: Getting Things Done with Born-Digital'
 date: 2014-09-17T12:07:28+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1206
+
 permalink: /?p=1206
 categories:
   - Conferences/Education

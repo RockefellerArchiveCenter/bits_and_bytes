@@ -4,7 +4,7 @@ title: Reconciling Large Corporate Name Datasets
 date: 2015-04-29T14:13:59+00:00
 author: Patrick Galligan
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1333
+
 permalink: /?p=1333
 categories:
   - Data Cleanup
@@ -24,7 +24,7 @@ We got many great ideas from the list, but the one we eventually went with came 
 
 Before import you also have to replace all white spaces in your files with %20. Caveat emptor: the system is not 100% accurate, and can return some false positives, so manual QC will be necessary if you want to remove all errors. Unfortunately, it also only works at about 500 names at a time and takes 10 to 15 minutes to run through each set of 500. We split the corporate names into 29 separate excel tabs, imported them each into OpenRefine, ran the JSON reconciliation script, exported all of the results, and then reconstituted them into a single document. I performed a metadata quality check of about 5% of the names, and most of them checked out. A few were obviously false positives, but not enough to make me lose confidence in the methodology.
 
-After getting a full list of all corporate names, we appended either <corpname role=&#8221;aut&#8221; source=&#8221;local&#8221;> or <corpname role=&#8221;aut&#8221; source=&#8221;lcnaf&#8221;> to the front of each name identity and replaced all of the %20s with a space, and then appended </corpname> to the end of the name. We now had a fully identified list of which names were local or LCNAF verified. Using the same find and replace script from the subject cleanup, we replaced the modified corporate names in the original document.
+After getting a full list of all corporate names, we appended either <corpname role="aut" source="local"> or <corpname role="aut" source="lcnaf"> to the front of each name identity and replaced all of the %20s with a space, and then appended </corpname> to the end of the name. We now had a fully identified list of which names were local or LCNAF verified. Using the same find and replace script from the subject cleanup, we replaced the modified corporate names in the original document.
 
 <div id="attachment_1234" style="width: 310px" class="wp-caption aligncenter">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1.jpg"><img class="size-medium wp-image-1234" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1-300x118.jpg" alt="Find and Replace Code" width="300" height="118" srcset="http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-300x118.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-1024x404.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-500x197.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1.jpg 1172w" sizes="(max-width: 300px) 100vw, 300px" /></a>

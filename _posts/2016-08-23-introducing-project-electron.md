@@ -4,7 +4,7 @@ title: 'Introducing Project Electron: infrastructure for digital records'
 date: 2016-08-23T05:13:53+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1600
+
 permalink: /?p=1600
 categories:
   - D-Team
@@ -34,7 +34,7 @@ So that our work has the broadest possible impact, the components of Project Ele
 
 ## Place users at the center of the design process
 
-In order to produce tools that are empowering, engaging, transparent and robust, we will employ user-centered design methodologies to define user communities &#8211; including Rockefeller Archive Center staff, on-site and remote researchers, donor organizations and individual donors &#8211; to understand their needs. We will seek to implement constraints and affordances to the user&#8217;s benefit, assigning repetitive, detailed and time-consuming work to machines while enabling humans to exercise their critical thinking skills to full capacity. We will provide solutions to support donors and donor organizations with a wide range of technical expertise while protecting our researchers’ privacy by limiting collection and retention of personally identifying information and anonymizing data used for analysis.
+In order to produce tools that are empowering, engaging, transparent and robust, we will employ user-centered design methodologies to define user communities - including Rockefeller Archive Center staff, on-site and remote researchers, donor organizations and individual donors - to understand their needs. We will seek to implement constraints and affordances to the user's benefit, assigning repetitive, detailed and time-consuming work to machines while enabling humans to exercise their critical thinking skills to full capacity. We will provide solutions to support donors and donor organizations with a wide range of technical expertise while protecting our researchers’ privacy by limiting collection and retention of personally identifying information and anonymizing data used for analysis.
 
 ## Support archival practices and standards
 

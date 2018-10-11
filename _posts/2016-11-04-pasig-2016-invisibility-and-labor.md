@@ -4,7 +4,7 @@ title: 'PASIG 2016: Invisibility and Labor'
 date: 2016-11-04T09:46:00+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1632
+
 permalink: /?p=1632
 categories:
   - Conferences/Education
@@ -18,7 +18,7 @@ Along with Bonnie (read her report of the conference [here](http://blog.rockarch
 
 There were a host of good presentations which provided introductions or practical guides to implementing digital preservation processes. I particularly liked Bertram Lyon’s presentation on the “[The Anatomy of Digital Files](https://figshare.com/articles/The_Anatomy_of_Digital_Files/4141674),” Alison Rhonemus, Julia Kim, Morgan Mckeehan, Dianne Dietrich and Erin Faulder’s presentation on “[Emulation for Everyone](https://figshare.com/articles/How_to_Party_Like_It_s_1999_Emulation_for_Everyone/4141701),” and Sam Meister’s discussion of “[The Ecosystem of Digital Objects](https://figshare.com/articles/The_Ecosystem_of_Digital_Objects/4141680).”
 
-However &#8211; the last day of the conference, which brought critical theory to bear on many of the assumptions and accepted practices in the world of digital preservation &#8211; was one of the most provocative and stimulating days of conference learning I’ve experienced in quite some time.
+However - the last day of the conference, which brought critical theory to bear on many of the assumptions and accepted practices in the world of digital preservation - was one of the most provocative and stimulating days of conference learning I’ve experienced in quite some time.
 
 One of the most mind-blowing presentations was [Dragan Espenschied’s](https://en.wikipedia.org/wiki/Dragan_Espenschied) discussion of the [work of Webrecorder](https://figshare.com/articles/Symmetrical_Archiving_with_Webrecorder/4141590), which is a tool to capture “recordings” of websites. In his talk, he made a passing comment that the web is often conceived of as a bunch of URLs at which you can access content, but really the web is made up of people situated in time and space, using a specific web browser, operating system and network infrastructure. The last session of the day was a panel which included [Ingrid Burrington](http://lifewinning.com/), an artist and writer whose work centers on the physical infrastructure that supports large digital networks. In closing, Burrington remarked that we often talk about this infrastructure as invisible, which isn’t really true; it’s more that it’s hiding in plain sight.
 

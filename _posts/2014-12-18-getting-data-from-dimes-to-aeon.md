@@ -4,7 +4,7 @@ title: Getting data from DIMES to Aeon
 date: 2014-12-18T18:00:27+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1277
+
 permalink: /?p=1277
 categories:
   - RACcess

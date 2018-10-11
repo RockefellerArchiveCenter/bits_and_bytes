@@ -4,7 +4,7 @@ title: Artefactual Visit Report
 date: 2013-05-13T18:18:41+00:00
 author: Hillel Arnold
 layout: post
-guid: http://dteamblog/?p=532
+
 permalink: /?p=532
 categories:
   - Digital Preservation

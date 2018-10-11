@@ -4,10 +4,10 @@ title: About
 date: 2013-07-08T19:55:36+00:00
 author: Hillel Arnold
 layout: page
-guid: http://dteamblog/?page_id=680
+
 ---
-Welcome to the blog of the Digital Team (D-Team) at the Rockefeller Archive Center (RAC). The D-Team supports the RAC&#8217;s mission and activities by providing digital preservation, access, digitization and archival technology support services. You can read more about our mission and goals on [RAC&#8217;s website](http://rockarch.org/programs/digital/).
+Welcome to the blog of the Digital Team (D-Team) at the Rockefeller Archive Center (RAC). The D-Team supports the RAC's mission and activities by providing digital preservation, access, digitization and archival technology support services. You can read more about our mission and goals on [RAC's website](http://rockarch.org/programs/digital/).
 
-This blog documents what we&#8217;re working on, learning, and thinking about. You&#8217;ll find posts on completed and in-progress tasks and projects, conferences and other professional events, reading lists, and a variety of other topics.
+This blog documents what we're working on, learning, and thinking about. You'll find posts on completed and in-progress tasks and projects, conferences and other professional events, reading lists, and a variety of other topics.
 
-Please feel free to sign in and leave comments. If there&#8217;s something you want to hear about, please let us know. Suggestions for the blog are always welcome!
+Please feel free to sign in and leave comments. If there's something you want to hear about, please let us know. Suggestions for the blog are always welcome!

@@ -4,7 +4,7 @@ title: FTK Demo Day
 date: 2014-07-17T13:18:35+00:00
 author: Sibyl Schaefer
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1117
+
 permalink: /?p=1117
 categories:
   - Conferences/Education
@@ -29,7 +29,7 @@ The idea is that the materials (disks, drives, CDs, DVDs, etc) will be separated
 
 FTK is computer forensics software designed for use by investigators in law enforcement. It’s extremely powerful software and will help us do many tasks that would otherwise be quite laborious. The demo covered:
 
-  * The different ways you can view the data you’re working with &#8211; through the file directory structure, grouped by file types, grouped by file format types, etc.
+  * The different ways you can view the data you’re working with - through the file directory structure, grouped by file types, grouped by file format types, etc.
   * The ease of viewing and analyzing email accounts
   * Identify duplicates
   * Filtering out non-archival items, like duplicates or system files
@@ -51,7 +51,7 @@ FTK is computer forensics software designed for use by investigators in law enfo
 
 <!--more-->
 
-Mary Ann then talked a bit about the work she&#8217;s doing with the Taconic electronic records.
+Mary Ann then talked a bit about the work she's doing with the Taconic electronic records.
 
 <div id="attachment_1132" style="width: 310px" class="wp-caption aligncenter">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/07/mary-ann2.jpg"><img class="size-medium wp-image-1132" alt="Mary Ann talks about how to use Bookmarks in FTK to build out a file hierarchy. " src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/07/mary-ann2-300x200.jpg" width="300" height="200" srcset="http://blog.rockarch.org/wp-content/uploads/2014/07/mary-ann2-300x200.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/07/mary-ann2-1024x682.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/07/mary-ann2-450x300.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -61,4 +61,4 @@ Mary Ann then talked a bit about the work she&#8217;s doing with the Taconic ele
   </p>
 </div>
 
-All in all, I think it was a successful demo in that it generated excitement about working with the program, as well as some clarity in just what processing electronic records looks like. The inevitable question about redacting sensitive or restricted information did arise, which led to a discussion about some of the policy decisions that need to be made concerning access to digital materials. I&#8217;m making a note here, as I think questions about redaction (and the time-consuming nature of it) should make excellent fodder for a future archival staff meeting.
+All in all, I think it was a successful demo in that it generated excitement about working with the program, as well as some clarity in just what processing electronic records looks like. The inevitable question about redacting sensitive or restricted information did arise, which led to a discussion about some of the policy decisions that need to be made concerning access to digital materials. I'm making a note here, as I think questions about redaction (and the time-consuming nature of it) should make excellent fodder for a future archival staff meeting.

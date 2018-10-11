@@ -4,7 +4,7 @@ title: Born Digital Archiving eXchange Report Back
 date: 2016-07-25T00:15:21+00:00
 author: Bonnie Gordon
 layout: post
-guid: http://blog.rockarch.org/?p=1592
+
 permalink: /?p=1592
 categories:
   - Conferences/Education
@@ -22,4 +22,4 @@ tags:
 
 <span style="font-weight: 400">The discussions and demos all touched upon topics we’re grappling with at the RAC as we acquire, process, preserve, and provide access to the electronic records created by our donor organizations. In particular, the <a href="https://docs.google.com/document/d/1h4OdYSlKWzYbyc7QBIawN-9ErboDN3hLAIdgkv1MyKk/edit">discussion on description</a> touched on a lot of things I’ve been thinking about while working on the digital processing project. This included what technical metadata to utilize in archival description, how to represent the extent of born digital materials, and the importance of applying archival principles regardless of format.</span>
 
-<span style="font-weight: 400">It wasn’t all talking, though: at the end of BDAX we came up with a list of action items to continue the work that we started. They can all be found <a href="https://docs.google.com/spreadsheets/d/1MoPp6z2IbHvXjkpUfz-MhnfhvSNz1tea0rI82fa3N5Q/edit#gid=0">here</a>, but the action items most relevant to our current work at the RAC included mapping<a href="http://www.archives.org.uk/images/Data_Standards/Best_Guess_Guidelines_v1.0_160325.pdf"> Best Guess Guidelines for Cataloguing Born Digital Material</a></span><span style="font-weight: 400"> from ISAD(G) to DACS, determining levels of processing, and documenting processing metrics. I&#8217;m excited to bring these new ideas to the east coast and see this work continue.</span>
+<span style="font-weight: 400">It wasn’t all talking, though: at the end of BDAX we came up with a list of action items to continue the work that we started. They can all be found <a href="https://docs.google.com/spreadsheets/d/1MoPp6z2IbHvXjkpUfz-MhnfhvSNz1tea0rI82fa3N5Q/edit#gid=0">here</a>, but the action items most relevant to our current work at the RAC included mapping<a href="http://www.archives.org.uk/images/Data_Standards/Best_Guess_Guidelines_v1.0_160325.pdf"> Best Guess Guidelines for Cataloguing Born Digital Material</a></span><span style="font-weight: 400"> from ISAD(G) to DACS, determining levels of processing, and documenting processing metrics. I'm excited to bring these new ideas to the east coast and see this work continue.</span>

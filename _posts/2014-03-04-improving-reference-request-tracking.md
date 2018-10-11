@@ -4,7 +4,7 @@ title: Improving Reference Request Tracking
 date: 2014-03-04T21:25:22+00:00
 author: Hillel Arnold
 layout: post
-guid: http://rockarch.org/programs/digital/bitsandbytes/?p=1020
+
 permalink: /?p=1020
 categories:
   - Reference

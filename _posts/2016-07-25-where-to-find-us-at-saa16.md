@@ -4,7 +4,7 @@ title: 'Where to find us at #saa16'
 date: 2016-07-25T06:12:15+00:00
 author: Hillel Arnold
 layout: post
-guid: http://blog.rockarch.org/?p=1596
+
 permalink: /?p=1596
 categories:
   - Uncategorized

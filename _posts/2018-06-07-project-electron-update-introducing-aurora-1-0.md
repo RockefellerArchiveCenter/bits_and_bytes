@@ -4,7 +4,7 @@ title: 'Project Electron Update: Introducing Aurora 1.0'
 date: 2018-06-07T10:14:53+00:00
 author: Hannah Sistrunk
 layout: post
-guid: http://blog.rockarch.org/?p=1997
+
 permalink: /?p=1997
 categories:
   - Project Electron

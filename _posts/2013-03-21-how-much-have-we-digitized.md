@@ -4,7 +4,7 @@ title: How Much Have We Digitized?
 date: 2013-03-21T19:38:45+00:00
 author: bfrancis
 layout: post
-guid: http://dteamblog/?p=252
+
 permalink: /?p=252
 categories:
   - Digitization
