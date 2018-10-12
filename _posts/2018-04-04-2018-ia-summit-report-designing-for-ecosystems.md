@@ -4,7 +4,6 @@ title: '2018 IA Summit Report: Designing for Ecosystems'
 date: 2018-04-04T13:35:31+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1965
 categories:
   - Conferences/Education

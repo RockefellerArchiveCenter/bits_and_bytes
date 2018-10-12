@@ -4,19 +4,18 @@ title: 'Software Overview Screencasts: Archivematica, ArchivesSpace, and DIMES'
 date: 2014-09-12T14:41:44+00:00
 author: Sibyl Schaefer
 layout: post
-
 permalink: /?p=1172
 enclosure:
   - |
     http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/09/Archivematica_Screencast_9.5.2014_Edit.mp4
     110401502
     video/mp4
-    
+
   - |
     http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/09/DIMESscreencast.mp4
     137525210
     video/mp4
-    
+
 categories:
   - Digital Preservation
   - XTF

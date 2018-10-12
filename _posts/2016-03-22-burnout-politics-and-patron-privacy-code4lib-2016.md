@@ -4,7 +4,6 @@ title: 'Burnout, Politics and Patron Privacy: Code4Lib 2016'
 date: 2016-03-22T08:08:56+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1476
 categories:
   - Conferences/Education

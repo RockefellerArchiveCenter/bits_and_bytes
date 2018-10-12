@@ -4,7 +4,6 @@ title: '“Violation of Privacy Is Part of the Process”: Notes on a Workshop o
 date: 2014-01-09T16:35:57+00:00
 author: Mary Ann Quinn
 layout: post
-
 permalink: /?p=972
 categories:
   - Conferences/Education

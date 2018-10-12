@@ -4,7 +4,6 @@ title: Modeling Coworker Engagement with Data
 date: 2017-10-17T11:13:48+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1865
 categories:
   - Collaboration

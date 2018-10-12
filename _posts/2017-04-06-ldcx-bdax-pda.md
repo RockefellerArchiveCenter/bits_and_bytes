@@ -4,7 +4,6 @@ title: 'LDCX, BDAX &amp; PDA'
 date: 2017-04-06T06:44:44+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1717
 categories:
   - Conferences/Education

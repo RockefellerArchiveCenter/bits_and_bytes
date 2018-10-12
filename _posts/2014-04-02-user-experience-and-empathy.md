@@ -4,7 +4,6 @@ title: User Experience and Empathy
 date: 2014-04-02T18:54:05+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1036
 categories:
   - Conferences/Education

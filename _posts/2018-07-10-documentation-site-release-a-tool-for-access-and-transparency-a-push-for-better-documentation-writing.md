@@ -4,7 +4,6 @@ title: 'Documentation Site Release: A Tool for Access and Transparency, a Push f
 date: 2018-07-10T15:47:59+00:00
 author: Darren Young
 layout: post
-
 permalink: /?p=2032
 categories:
   - Collaboration

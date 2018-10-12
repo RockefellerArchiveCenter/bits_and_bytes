@@ -4,7 +4,6 @@ title: 'SAA Report: Interrogating the 'Great Society''
 date: 2015-08-25T15:53:40+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1408
 categories:
   - Conferences/Education

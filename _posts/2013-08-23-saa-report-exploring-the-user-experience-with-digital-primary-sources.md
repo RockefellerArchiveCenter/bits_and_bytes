@@ -4,7 +4,6 @@ title: 'SAA Session Review - Exploring the User Experience with Digital Primary 
 date: 2013-08-23T10:00:21+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=729
 categories:
   - Conferences/Education

@@ -4,7 +4,6 @@ title: 'SAA Report: Assessment and Change'
 date: 2014-08-25T12:04:20+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1161
 categories:
   - Conferences/Education

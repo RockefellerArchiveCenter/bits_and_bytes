@@ -4,7 +4,6 @@ title: 'PASIG 2016: Invisibility and Labor'
 date: 2016-11-04T09:46:00+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1632
 categories:
   - Conferences/Education

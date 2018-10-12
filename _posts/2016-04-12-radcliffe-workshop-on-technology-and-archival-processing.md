@@ -4,7 +4,6 @@ title: Radcliffe Workshop on Technology and Archival Processing
 date: 2016-04-12T09:54:11+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1496
 categories:
   - Conferences/Education

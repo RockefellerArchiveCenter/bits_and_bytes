@@ -4,7 +4,6 @@ title: 'Code4Lib 2016: On Authorities and Reconciliation'
 date: 2016-03-18T09:12:09+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1474
 categories:
   - Conferences/Education

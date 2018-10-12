@@ -4,7 +4,6 @@ title: Searching within collections in DIMES
 date: 2015-04-13T12:04:22+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1308
 categories:
   - XTF

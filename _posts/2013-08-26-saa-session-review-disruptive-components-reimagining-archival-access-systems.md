@@ -4,7 +4,6 @@ title: 'SAA Session Review - Disruptive Components: Reimagining Archival Access 
 date: 2013-08-26T10:00:23+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=741
 categories:
   - Conferences/Education

@@ -4,7 +4,6 @@ title: 'Getting More Out of (and Into) Your Collections Management System: Digit
 date: 2017-01-25T08:21:55+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1650
 categories:
   - Conferences/Education

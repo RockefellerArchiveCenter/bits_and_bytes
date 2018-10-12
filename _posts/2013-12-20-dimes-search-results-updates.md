@@ -4,7 +4,6 @@ title: DIMES Search Results Updates
 date: 2013-12-20T17:52:54+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=951
 categories:
   - XTF

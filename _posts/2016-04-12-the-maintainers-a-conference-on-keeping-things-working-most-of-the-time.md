@@ -4,7 +4,6 @@ title: 'The Maintainers: a conference on keeping things working (most of the tim
 date: 2016-04-12T09:48:37+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1498
 categories:
   - Conferences/Education

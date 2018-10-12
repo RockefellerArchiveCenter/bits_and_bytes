@@ -4,7 +4,6 @@ title: Project Electron August Update
 date: 2017-09-08T11:30:21+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1832
 categories:
   - D-Team
@@ -28,7 +27,7 @@ tags:
 
 <div id="attachment_1834" style="width: 551px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png"><img class="size-full wp-image-1834" src="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png" alt="Gherkin Example Scenario" width="541" height="222" srcset="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png 541w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1-300x123.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1-500x205.png 500w" sizes="(max-width: 541px) 100vw, 541px" /></a>
-  
+
   <p class="wp-caption-text">
     Example of a feature and scenario from the Gherkin documentation.
   </p>
@@ -38,7 +37,7 @@ tags:
 
 <div id="attachment_1836" style="width: 544px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png"><img class="size-full wp-image-1836" src="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png" alt="Gherkin example for virus check" width="534" height="185" srcset="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png 534w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2-300x104.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2-500x173.png 500w" sizes="(max-width: 534px) 100vw, 534px" /></a>
-  
+
   <p class="wp-caption-text">
     A Gherkin scenario that is part of the “check bag for viruses” feature to test the transfer app.
   </p>

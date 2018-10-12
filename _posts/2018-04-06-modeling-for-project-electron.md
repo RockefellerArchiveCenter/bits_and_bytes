@@ -4,7 +4,6 @@ title: Modeling for Project Electron
 date: 2018-04-06T10:20:11+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1969
 categories:
   - D-Team
@@ -30,7 +29,7 @@ After reading up, looking at other diagrams, and working up the courage to actua
 
 <div id="attachment_1971" style="width: 4969px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1.png"><img class="size-full wp-image-1971" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1.png" alt="" width="4959" height="3505" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1.png 4959w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-300x212.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-768x543.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-1024x724.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-424x300.png 424w" sizes="(max-width: 4959px) 100vw, 4959px" /></a>
-  
+
   <p class="wp-caption-text">
     Our first attempt at data model diagramming.
   </p>
@@ -42,7 +41,7 @@ The diagram is messy, not laid out well, and difficult to read, and has more inf
 
 <div id="attachment_1975" style="width: 4969px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1.png"><img class="size-full wp-image-1975" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1.png" alt="" width="4959" height="3505" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1.png 4959w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-300x212.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-768x543.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-1024x724.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-424x300.png 424w" sizes="(max-width: 4959px) 100vw, 4959px" /></a>
-  
+
   <p class="wp-caption-text">
     The third, and legible, diagram.
   </p>
@@ -90,7 +89,7 @@ Ultimately, none of the groups had any major changes for us except to find a few
 
 <div id="attachment_1973" style="width: 4969px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5.png"><img class="size-full wp-image-1973" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5.png" alt="" width="4959" height="3505" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5.png 4959w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-300x212.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-768x543.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-1024x724.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-424x300.png 424w" sizes="(max-width: 4959px) 100vw, 4959px" /></a>
-  
+
   <p class="wp-caption-text">
     Final draft version of our display data model diagram.
   </p>

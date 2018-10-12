@@ -4,7 +4,6 @@ title: Rockefeller Archive Center Bibliography now in Zotero!
 date: 2015-09-22T13:45:26+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1419
 categories:
   - Software and Systems

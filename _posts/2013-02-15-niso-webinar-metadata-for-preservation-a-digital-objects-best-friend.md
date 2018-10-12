@@ -4,7 +4,6 @@ title: 'NISO webinar: Metadata for Preservation- A Digital Object's Best Friend'
 date: 2013-02-15T19:08:50+00:00
 author: Laura Montgomery
 layout: post
-
 permalink: /?p=414
 categories:
   - D-Recs committee

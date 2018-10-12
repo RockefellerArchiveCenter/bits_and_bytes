@@ -4,7 +4,6 @@ title: National VIVO Project Team Meeting report
 date: 2013-05-21T19:45:53+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=540
 categories:
   - Conferences/Education
@@ -15,7 +14,7 @@ tags:
 ---
 Yesterday I attended a presentation at the Weill Cornell Medical College on <a href="http://vivoweb.org/" target="_blank">VIVO</a>, a system that can aggregate information about research and scholarship from a variety of data sources. Although it comes out of the biomedical research community, VIVO can theoretically supply this same functionality to any academic discipline. In addition, because information in VIVO is typically derived from an academic institution’s records, it is generally more trustworthy and accurate than information in a system like <a href="http://www.linkedin.com/" target="_blank">LinkedIn</a> or <a href="http://academia.edu/" target="_blank">Academia.edu</a>, where an individual can edit their own profile and so could misrepresent themselves and their expertise.
 
-<!--more-->VIVO is tied into a number of other systems and technologies. First, it’s built on semantic web technologies, specifically 
+<!--more-->VIVO is tied into a number of other systems and technologies. First, it’s built on semantic web technologies, specifically
 
 <a href="http://linkeddata.org/" target="_blank">Linked Open Data</a>, which means it’s more extensible and flexible than other systems. It also relies very heavily on other standards, including <a href="http://orcid.org/" target="_blank">Open Researcher and Contributor ID (ORCID)</a>, which provides a unique identifier for researchers; structured data in <a href="http://www.ncbi.nlm.nih.gov/pubmed" target="_blank">PubMed</a>; and the <a href="http://www.doi.org/" target="_blank">Digital Object Identifier (DOI) system</a>.
 

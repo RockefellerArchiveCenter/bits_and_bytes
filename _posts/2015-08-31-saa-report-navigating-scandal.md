@@ -4,7 +4,6 @@ title: 'SAA Report: Navigating Scandal'
 date: 2015-08-31T14:12:01+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1413
 categories:
   - Conferences/Education

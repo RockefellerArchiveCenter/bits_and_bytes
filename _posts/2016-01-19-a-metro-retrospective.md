@@ -4,7 +4,6 @@ title: A METRO Retrospective
 date: 2016-01-19T10:57:59+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1441
 categories:
   - Conferences/Education

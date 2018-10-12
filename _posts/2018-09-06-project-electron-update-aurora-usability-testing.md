@@ -4,7 +4,6 @@ title: 'Project Electron Update: Aurora Usability Testing'
 date: 2018-09-06T09:51:17+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=2078
 categories:
   - Project Electron
@@ -36,67 +35,67 @@ We designed six tasks to test the primary functions and features of the applicat
     <td width="20%">
       <strong>Task</strong>
     </td>
-    
+
     <td>
       <strong>Description</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       BagIt Profile
     </td>
-    
+
     <td>
       Create a BagIt Profile for a specific organization
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Transfers
     </td>
-    
+
     <td>
       Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
     </td>
   </tr>
-  
+
   <tr>
     <td>
       User Admin
     </td>
-    
+
     <td>
       Navigate to the user admin page, locate a user’s recent transfers and user details
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Appraise
     </td>
-    
+
     <td>
       View details and accept a transfer in the Appraisal Queue
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Accession
     </td>
-    
+
     <td>
       Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Rights
     </td>
-    
+
     <td>
       Create an accession record
     </td>
@@ -116,35 +115,35 @@ We identified a number of usability issues and fixed them during the testing per
 We identified 8 major issues or groups of issues where users encountered challenges in using Aurora, and implemented a number of fixes to address each of them.
 
 **1. Users looked for visual confirmation that an action had been completed successfully.**
-  
+
 Many tasks required actions such as approving a transfer in the appraisal queue or creating an accession record. Users looked for visual cues to confirm their actions were successful. In cases where these were not provided, we added confirmation and error messages, and moved existing error messages to the top of the page to improve their visibility.
 
 **2. Some information, navigation elements, and features were not visible to users.**
-  
+
 We made several changes to Aurora’s interface to address problems of element visibility including increasing the size and color contrast of the side navigation and search function, increasing contrast in table striping, alphabetizing lists, changing button styling, and adjusting the visual hierarchy of information.
 
 **3. Users had difficulty locating the table containing a list of all transfers, mistaking a “recent transfers” table for the full table.**
-  
+
 Our primary fix for this problem was to add a “View all transfers” button below the recent transfers table. We also simplified the recent transfers table to contain fewer columns/details and, as noted above, increased the visibility of the side navigation.
 
 **4. Lack of metadata (indicated by a “No metadata available” message) for invalid bags was misleading.**
-  
+
 This was a simple issue that we fixed by removing the metadata information box in the transfer detail page for invalid bags so that users would not be misled about why the bag was invalid.
 
 **5. When viewing transfer details from the appraisal queue, users looked for a way to accept or reject the transfer from the details page.**
-  
+
 Once a user had reviewed the details page of a transfer, they had to navigate back to the appraisal queue and relocate that transfer in order accept or reject it. We addressed this by replacing the details page with a [modal window](https://en.wikipedia.org/wiki/Modal_window).
 
 **6. One user wanted to view the bag manifest as part of the transfer details during appraisal.**
-  
+
 Agreeing that this was a useful feature, we added a display of the bag manifest.
 
 **7. In navigating the accession functionality, multiple users looked for visual indications to confirm that they were in fact in the process of creating an accession record.**
-  
+
 We changed page titles to improve clarity, changed the text on the “Create Accession” button, and styled the accession form more clearly to group types of required information.
 
 **8. Users were unsure what information they should enter into certain form fields and in what format.**
-  
+
 All users expressed uncertainty about the input type and format for information they were entering in certain fields in the BagIt Profile add/edit form and the rights statement forms. We added help text and tooltips, and plan to continue testing and improving these interfaces in the future.
 
 # Next steps

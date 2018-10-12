@@ -4,7 +4,6 @@ title: Designing for Information Objects (edUI 2013)
 date: 2013-12-02T20:19:12+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=945
 categories:
   - Conferences/Education

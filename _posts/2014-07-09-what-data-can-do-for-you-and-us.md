@@ -4,7 +4,6 @@ title: What Data Can Do for You (and Us)
 date: 2014-07-09T13:02:36+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1095
 categories:
   - XTF
@@ -51,11 +50,11 @@ Perhaps some of the most valuable information provided by event tracking is a wi
 Lastly, with a bit of additional legwork we can also find out which search terms are being used frequently on DIMES. In order to do this we have to extract data from Apache log files, and cluster similar concepts together using Open Refine.
 
 Here are the top search terms from the past year:
-  
+
 [<img class="alignnone size-full wp-image-1105" alt="top-queries" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/07/top-queries.png" width="256" height="297" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/07/top-queries.png)
 
 And here you can see the frequency with which these terms were searched over time:
-  
+
 [<img class="alignnone size-full wp-image-1104" alt="terms-over-time" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/07/terms-over-time.png" width="958" height="500" srcset="http://blog.rockarch.org/wp-content/uploads/2014/07/terms-over-time.png 958w, http://blog.rockarch.org/wp-content/uploads/2014/07/terms-over-time-300x156.png 300w, http://blog.rockarch.org/wp-content/uploads/2014/07/terms-over-time-500x260.png 500w" sizes="(max-width: 958px) 100vw, 958px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/07/terms-over-time.png)
 
 As you can imagine, this data is incredibly valuable in helping us think about what are users are searching for, and whether or not they’ll find it in DIMES. It can also help us come up with strategies to improve our description, so that particular keyword terms or structured data are present in our finding aids.

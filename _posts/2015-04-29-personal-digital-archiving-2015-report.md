@@ -4,7 +4,6 @@ title: Personal Digital Archiving 2015 Report
 date: 2015-04-29T14:14:27+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1328
 categories:
   - Conferences/Education

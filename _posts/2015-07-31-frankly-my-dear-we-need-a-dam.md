@@ -4,7 +4,6 @@ title: Frankly, my dear, we need a DAM!
 date: 2015-07-31T14:46:15+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1392
 categories:
   - Software and Systems

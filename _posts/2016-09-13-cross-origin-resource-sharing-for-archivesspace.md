@@ -4,7 +4,6 @@ title: Cross-Origin Resource Sharing for ArchivesSpace
 date: 2016-09-13T07:52:57+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1610
 categories:
   - Software and Systems

@@ -4,7 +4,6 @@ title: 'Maintainers II: performance, invisibility and professionalism'
 date: 2017-04-12T14:05:06+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1723
 categories:
   - Conferences/Education

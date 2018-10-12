@@ -4,7 +4,6 @@ title: The Values of Open Communities
 date: 2018-07-06T14:00:11+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=2026
 categories:
   - Conferences/Education

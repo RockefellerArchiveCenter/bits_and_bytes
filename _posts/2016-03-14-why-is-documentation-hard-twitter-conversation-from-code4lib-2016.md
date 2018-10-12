@@ -4,7 +4,6 @@ title: '"Why is documentation hard" Twitter conversation from Code4Lib 2016'
 date: 2016-03-14T06:05:30+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1463
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: Metadata Cleanup and Ford Foundation Grants
 date: 2014-02-14T20:43:10+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1005
 categories:
   - Digital Preservation
@@ -26,7 +25,7 @@ Given the volume of metadata, I needed a method to work with and manipulate the 
 
 <div id="attachment_1012" style="width: 310px" class="wp-caption alignleft">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/02/OpenRefineLCSHMatching.jpg"><img class="size-medium wp-image-1012" alt="Matching data with Open Refine and LCSH." src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/02/OpenRefineLCSHMatching-300x158.jpg" width="300" height="158" srcset="http://blog.rockarch.org/wp-content/uploads/2014/02/OpenRefineLCSHMatching-300x158.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/02/OpenRefineLCSHMatching-1024x540.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/02/OpenRefineLCSHMatching-500x263.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/02/OpenRefineLCSHMatching.jpg 1278w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Matching data with Open Refine and LCSH.
   </p>
@@ -36,7 +35,7 @@ After cleaning and standardizing the metadata, I installed an RDF extension from
 
 <div id="attachment_1011" style="width: 310px" class="wp-caption alignleft">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/02/EAD-Construction-Excel.jpg"><img class="size-medium wp-image-1011" alt="EAD Construction Excel" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/02/EAD-Construction-Excel-300x145.jpg" width="300" height="145" srcset="http://blog.rockarch.org/wp-content/uploads/2014/02/EAD-Construction-Excel-300x145.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/02/EAD-Construction-Excel-1024x496.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/02/EAD-Construction-Excel-500x242.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/02/EAD-Construction-Excel.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Snippet of EAD construction using modified Excel template.
   </p>

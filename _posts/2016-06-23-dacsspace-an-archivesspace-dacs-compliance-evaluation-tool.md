@@ -4,7 +4,6 @@ title: 'DACSspace: An ArchivesSpace DACS Compliance Evaluation Tool'
 date: 2016-06-23T06:55:09+00:00
 author: Amy Berish
 layout: post
-
 permalink: /?p=1581
 categories:
   - Conferences/Education

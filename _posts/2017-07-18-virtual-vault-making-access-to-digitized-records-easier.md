@@ -4,7 +4,6 @@ title: 'Virtual Vault: making access to digitized records easier'
 date: 2017-07-18T12:12:20+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1804
 categories:
   - Collaboration

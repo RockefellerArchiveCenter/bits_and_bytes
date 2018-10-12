@@ -4,7 +4,6 @@ title: 'Reflection: A Year in the Life of an Audiovisual Archivist – Part 4'
 date: 2017-11-16T06:00:07+00:00
 author: Brent Phillips
 layout: post
-
 permalink: /?p=1891
 categories:
   - Collaboration
@@ -34,7 +33,7 @@ As the Virtual Vault’s wizardry is beyond my coding cognizance, I’ll concede
 
 <div id="attachment_1884" style="width: 594px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault.jpg"><img class="size-large wp-image-1884" src="http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-1024x517.jpg" alt="Virtual Vault" width="584" height="295" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-1024x517.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-300x151.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-768x388.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-500x252.jpg 500w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
+
   <p class="wp-caption-text">
     Above: Screenshot of Moving Image playback page/ RAC’s Virtual Vault
   </p>

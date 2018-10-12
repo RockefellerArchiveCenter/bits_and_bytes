@@ -4,7 +4,6 @@ title: Artefactual visit, March 2013
 date: 2013-04-01T19:21:26+00:00
 author: Laura Montgomery
 layout: post
-
 permalink: /?p=498
 categories:
   - Digital Preservation

@@ -4,7 +4,6 @@ title: 'Six Years Later: a reflection on standards-making and maintenance'
 date: 2016-09-28T06:11:24+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1618
 categories:
   - Conferences/Education

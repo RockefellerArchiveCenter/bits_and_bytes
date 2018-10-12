@@ -4,7 +4,6 @@ title: 'ACRL/NY Symposium on Money &amp; Power'
 date: 2016-12-06T11:11:50+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1646
 categories:
   - Conferences/Education

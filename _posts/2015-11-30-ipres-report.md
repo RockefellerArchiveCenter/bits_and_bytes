@@ -4,7 +4,6 @@ title: iPRES Report
 date: 2015-11-30T16:00:44+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1433
 categories:
   - Conferences/Education

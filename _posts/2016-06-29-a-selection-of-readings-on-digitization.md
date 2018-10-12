@@ -4,7 +4,6 @@ title: A Selection of Readings on Digitization
 date: 2016-06-29T06:44:27+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1586
 categories:
   - Digitization

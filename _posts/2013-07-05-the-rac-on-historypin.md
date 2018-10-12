@@ -4,7 +4,6 @@ title: The RAC on Historypin
 date: 2013-07-05T16:09:38+00:00
 author: Julia Glauberman
 layout: post
-
 permalink: /?p=661
 categories:
   - RF Centennial

@@ -4,7 +4,6 @@ title: Unveiling ArchivesSpace
 date: 2014-05-19T15:19:30+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1057
 categories:
   - Software and Systems

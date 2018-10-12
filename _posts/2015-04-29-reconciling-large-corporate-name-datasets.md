@@ -4,7 +4,6 @@ title: Reconciling Large Corporate Name Datasets
 date: 2015-04-29T14:13:59+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1333
 categories:
   - Data Cleanup
@@ -28,7 +27,7 @@ After getting a full list of all corporate names, we appended either <corpname r
 
 <div id="attachment_1234" style="width: 310px" class="wp-caption aligncenter">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1.jpg"><img class="size-medium wp-image-1234" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1-300x118.jpg" alt="Find and Replace Code" width="300" height="118" srcset="http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-300x118.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-1024x404.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-500x197.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1.jpg 1172w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Find and Replace Code
   </p>

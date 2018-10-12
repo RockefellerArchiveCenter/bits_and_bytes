@@ -4,7 +4,6 @@ title: Technical Overview of EAD Requesting with Aeon
 date: 2015-05-08T16:28:16+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1348
 categories:
   - Reference

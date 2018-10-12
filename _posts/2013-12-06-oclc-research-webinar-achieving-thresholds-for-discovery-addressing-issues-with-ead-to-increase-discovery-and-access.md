@@ -4,7 +4,6 @@ title: 'OCLC Research Webinar: "Achieving Thresholds for Discovery: Addressing I
 date: 2013-12-06T16:24:42+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=948
 categories:
   - Conferences/Education

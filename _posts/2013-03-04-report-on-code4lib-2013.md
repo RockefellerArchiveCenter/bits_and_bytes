@@ -4,7 +4,6 @@ title: Report on code4lib 2013
 date: 2013-03-04T19:18:55+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=437
 categories:
   - Conferences/Education

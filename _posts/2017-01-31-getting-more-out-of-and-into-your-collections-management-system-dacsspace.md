@@ -4,7 +4,6 @@ title: 'Getting More Out of (and Into) Your Collections Management System: DACSs
 date: 2017-01-31T07:00:21+00:00
 author: Amy Berish
 layout: post
-
 permalink: /?p=1689
 categories:
   - Conferences/Education

@@ -4,7 +4,6 @@ title: 'Project Electron Update: Introducing Aurora 1.0'
 date: 2018-06-07T10:14:53+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1997
 categories:
   - Project Electron
@@ -37,7 +36,7 @@ At regular intervals, Aurora scans a directory structure where transfers are upl
 
 <div id="attachment_2001" style="width: 1255px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard.png"><img class="size-full wp-image-2001" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard.png" alt="Aurora dashboard interface" width="1245" height="876" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard.png 1245w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-300x211.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-768x540.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-1024x721.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-426x300.png 426w" sizes="(max-width: 1245px) 100vw, 1245px" /></a>
-  
+
   <p class="wp-caption-text">
     Aurora Dashboard Interface
   </p>
@@ -49,7 +48,7 @@ Once a transfer is validated, it moves to the appraisal queue, where appraisal a
 
 <div id="attachment_2002" style="width: 753px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue.png"><img class="wp-image-2002 size-full" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue.png" alt="Aurora appraisal queue" width="743" height="346" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue.png 743w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue-300x140.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue-500x233.png 500w" sizes="(max-width: 743px) 100vw, 743px" /></a>
-  
+
   <p class="wp-caption-text">
     Aurora Appraisal Queue
   </p>
@@ -61,7 +60,7 @@ Transfers accepted by an appraisal archivist move from the appraisal queue to th
 
 <div id="attachment_2003" style="width: 893px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record.png"><img class="size-full wp-image-2003" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record.png" alt="Aurora accession record" width="883" height="847" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record.png 883w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-300x288.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-768x737.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-313x300.png 313w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-32x32.png 32w" sizes="(max-width: 883px) 100vw, 883px" /></a>
-  
+
   <p class="wp-caption-text">
     Aurora Accession Record
   </p>

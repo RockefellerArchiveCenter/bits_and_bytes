@@ -4,7 +4,6 @@ title: 'Reflection: A Year in the Life of an Audiovisual Archivist – Part 5'
 date: 2017-11-17T06:00:37+00:00
 author: Brent Phillips
 layout: post
-
 permalink: /?p=1894
 categories:
   - Collaboration
@@ -38,7 +37,7 @@ I cannot stress the importance of physically spending time with your collections
 
 <div id="attachment_1895" style="width: 156px" class="wp-caption alignleft">
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273.jpg"><img class="wp-image-1895 size-medium" src="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-146x300.jpg" alt="Film Survey" width="146" height="300" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-146x300.jpg 146w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-768x1578.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-498x1024.jpg 498w" sizes="(max-width: 146px) 100vw, 146px" /></a>
-  
+
   <p class="wp-caption-text">
     Above: Selznick School fellow Katie Pratt surveying film prints.
   </p>

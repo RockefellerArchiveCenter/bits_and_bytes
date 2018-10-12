@@ -4,7 +4,6 @@ title: Using Zotero to Create Collaborative, Share-able, Export-able Bibliograph
 date: 2013-11-20T20:48:10+00:00
 author: Rachel Wimpee
 layout: post
-
 permalink: /?p=873
 image: /wp-content/uploads/2013/11/ZoteroMyLibrary-977x288.png
 categories:

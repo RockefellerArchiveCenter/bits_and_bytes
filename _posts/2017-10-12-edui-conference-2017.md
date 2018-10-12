@@ -4,7 +4,6 @@ title: edUI Conference 2017
 date: 2017-10-12T15:39:19+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1855
 categories:
   - Conferences/Education
@@ -19,7 +18,7 @@ tags:
 
 <span style="font-weight: 400;">I attended sessions that covered topics including accessible design,</span> [<span style="font-weight: 400;">empathetic design</span>](http://eduiconf.org/sessions/empathetic-design/)<span style="font-weight: 400;">, the</span> [<span style="font-weight: 400;">importance of word choice</span>](http://eduiconf.org/sessions/giving-words-the-attention-they-deserve/) <span style="font-weight: 400;">in connecting with or alienating people, and project management/project planning techniques like</span> [<span style="font-weight: 400;">design sprints</span>](http://eduiconf.org/sessions/design-sprints/)<span style="font-weight: 400;">. Keynotes from Corey Doctorow and Sara Wachter-Boettcher also emphasized the importance of ethical concerns in tech design and development choices. Beyond the practical tips and ideas I took away from this conference, its broad emphasis on empathy for and engagement with users resonated with me as an archives professional, as these are among the foundational values of my work.</span>
 
-## **Design For Real Life** 
+## **Design For Real Life**
 
 <span style="font-weight: 400;">Sara Wachter-Boettcher’s keynote address “Design for Real Life” felt particularly relevant to the work of archivists. The talk, based on her book of the same title coauthored with Eric Meyer, asserts that </span>**design is not neutral, it is a product of culture, and that the choices we make affect real people’s lives**<span style="font-weight: 400;">. Using examples of designs that have failed/are failing people like the </span>[<span style="font-weight: 400;">COMPAS analysis tool</span>](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) <span style="font-weight: 400;">(Correctional Offender Management Profiling for Alternative Sanctions), </span>[<span style="font-weight: 400;">FaceApp</span>](https://www.theguardian.com/technology/2017/apr/25/faceapp-apologises-for-racist-filter-which-lightens-users-skintone)<span style="font-weight: 400;">, Siri’s inability to appropriately handle queries related to sexual violence, or various app messages that assume certain pronouns for users or their partners in targeted ads, Wachter-Boettcher asserts that we should be designing for stress and planning for negative scenarios and interactions. We encode culture and biases into our systems, and so should be intentional about our choices and “design for diversity and inclusivity.” She critiques the idea of delight and engagement as the primary goal and metric by which we measure user interactions with systems.</span>
 

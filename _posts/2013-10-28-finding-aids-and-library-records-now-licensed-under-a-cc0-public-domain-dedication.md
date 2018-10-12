@@ -4,7 +4,6 @@ title: Finding aids and library records now licensed under a CC0 public domain d
 date: 2013-10-28T15:56:56+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=844
 categories:
   - XTF

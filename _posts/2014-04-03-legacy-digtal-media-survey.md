@@ -4,7 +4,6 @@ title: Legacy Digital Media Survey
 date: 2014-04-03T21:24:41+00:00
 author: Laura Montgomery
 layout: post
-
 permalink: /?p=1039
 categories:
   - Digital Preservation

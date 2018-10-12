@@ -4,7 +4,6 @@ title: '1968: The Ford Foundation Gets a Computer'
 date: 2018-08-28T09:28:13+00:00
 author: Rachel Wimpee
 layout: post
-
 permalink: /?p=2056
 categories:
   - Uncategorized
@@ -19,7 +18,7 @@ _In many ways, this is cautionary tale of what happens when we start with the ne
 
 <div id="attachment_2059" style="width: 810px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image3.png"><img class="size-full wp-image-2059" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image3.png" alt="" width="800" height="628" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image3.png 800w, http://blog.rockarch.org/wp-content/uploads/2018/08/image3-300x236.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image3-768x603.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image3-382x300.png 382w" sizes="(max-width: 800px) 100vw, 800px" /></a>
-  
+
   <p class="wp-caption-text">
     MIT Computation Center, 1957. Rockefeller Archive Center (RAC).
   </p>
@@ -33,7 +32,7 @@ It was finally time for Ford to get a computer.
 
 <div id="attachment_2060" style="width: 594px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image8.png"><img class="size-large wp-image-2060" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image8-1024x960.png" alt="Information flow at the Ford Foundation" width="584" height="548" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image8-1024x960.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/08/image8-300x281.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image8-768x720.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image8-320x300.png 320w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
+
   <p class="wp-caption-text">
     Information flow at the Ford Foundation, thanks to electronic data processing (proposal). RAC.
   </p>
@@ -47,7 +46,7 @@ Documentation, Incorporated proposed raising the necessary funds through the eli
 
 <div id="attachment_2062" style="width: 855px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image1.png"><img class="size-full wp-image-2062" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image1.png" alt="Cost Estimates, 1966" width="845" height="804" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image1.png 845w, http://blog.rockarch.org/wp-content/uploads/2018/08/image1-300x285.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image1-768x731.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image1-315x300.png 315w" sizes="(max-width: 845px) 100vw, 845px" /></a>
-  
+
   <p class="wp-caption-text">
     Cost Estimates, 1966. Office Files of Arthur R. Trottenberg, RAC.
   </p>
@@ -61,7 +60,7 @@ The Administration Office drew up a plan, outlined in a memo Atwater sent to For
 
 <div id="attachment_2063" style="width: 594px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image6.png"><img class="size-large wp-image-2063" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image6-1009x1024.png" alt="Bundy gives the OK" width="584" height="593" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image6-1009x1024.png 1009w, http://blog.rockarch.org/wp-content/uploads/2018/08/image6-296x300.png 296w, http://blog.rockarch.org/wp-content/uploads/2018/08/image6-768x780.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image6.png 1200w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
+
   <p class="wp-caption-text">
     Bundy gives the OK—via memo marginalia. Office Files of Arthur D. Trottenberg, RAC.
   </p>
@@ -71,7 +70,7 @@ All of this was happening as the Foundation made plans to move into its sparklin
 
 <div id="attachment_2064" style="width: 594px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image7.png"><img class="size-large wp-image-2064" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image7-1024x803.png" alt="A sales order from October 1968." width="584" height="458" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image7-1024x803.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7-300x235.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7-768x602.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7-383x300.png 383w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7.png 1500w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
+
   <p class="wp-caption-text">
     A sales order from October 1968. Office Files of Arthur D. Trottenberg, RAC.
   </p>
@@ -81,7 +80,7 @@ Furthermore, Ford would need to add specialized staff members to support the new
 
 <div id="attachment_2065" style="width: 594px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image5.png"><img class="size-large wp-image-2065" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image5-1024x797.png" alt="Ford Foundation Computer Training Schedule" width="584" height="455" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image5-1024x797.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5-300x234.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5-768x598.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5-385x300.png 385w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5.png 1300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
+
   <p class="wp-caption-text">
     Ford Foundation Computer Training Schedule, marker on paper, 1969. RAC.
   </p>
@@ -90,12 +89,12 @@ Furthermore, Ford would need to add specialized staff members to support the new
 From 1969-1976, Ford staff continued to reevaluate its computer needs. New grants information systems were tested, evaluated, and replaced. In 1976, frustrated Ford administrators proposed removing the computer system entirely and using outside vendors for all data processing. National Affairs Social Development program officer (and self-described poet) Thomas Cooney was brought into that discussion, since he was interested in the intersection of technology and the liberal arts (he had contributed to the [Computers and the Humanities](http://www.jstor.org/stable/30199283) journal in 1968). Many of the same issues remained as they had in 1965. Cooney's handwritten notes from a 1976 meeting about a new "program action system" for grants management seem to echo Richard Reed's "data processing for what?" question of over a decade earlier:
 
 > "[Management information systems] often don't work because the disseminators of the information pay attention only to the grammar of their output and not the rhetoric."
-> 
+>
 > &nbsp;
 
 <div id="attachment_2066" style="width: 723px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png"><img class="size-full wp-image-2066" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png" alt="1976 Meeting Notes" width="713" height="496" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png 713w, http://blog.rockarch.org/wp-content/uploads/2018/08/image4-300x209.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image4-431x300.png 431w" sizes="(max-width: 713px) 100vw, 713px" /></a>
-  
+
   <p class="wp-caption-text">
     1976 Meeting Notes, "Computer," Office Files of Thomas Cooney, RAC.
   </p>

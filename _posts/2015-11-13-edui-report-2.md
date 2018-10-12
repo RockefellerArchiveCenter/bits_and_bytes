@@ -4,7 +4,6 @@ title: edUi Report
 date: 2015-11-13T17:01:48+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1427
 categories:
   - Conferences/Education

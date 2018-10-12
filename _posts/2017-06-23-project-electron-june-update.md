@@ -4,7 +4,6 @@ title: Project Electron June Update
 date: 2017-06-23T15:56:21+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1784
 categories:
   - Project Electron

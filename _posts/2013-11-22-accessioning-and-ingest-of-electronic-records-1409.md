@@ -4,7 +4,6 @@ title: 'Accessioning and Ingest of Electronic Records #1409'
 date: 2013-11-22T20:05:54+00:00
 author: Suzie Irving
 layout: post
-
 permalink: /?p=923
 categories:
   - Conferences/Education

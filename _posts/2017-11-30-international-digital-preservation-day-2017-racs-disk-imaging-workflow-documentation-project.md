@@ -4,7 +4,6 @@ title: 'International Digital Preservation Day 2017: RAC’s Disk Imaging Workfl
 date: 2017-11-30T09:37:39+00:00
 author: Amy Berish
 layout: post
-
 permalink: /?p=1930
 categories:
   - Digital Preservation
@@ -18,7 +17,7 @@ tags:
 
 <div id="attachment_1932" style="width: 594px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989.jpg"><img class="wp-image-1932 size-large" src="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-1024x717.jpg" alt="" width="584" height="409" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-1024x717.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-300x210.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-768x538.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-428x300.jpg 428w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
+
   <p class="wp-caption-text">
     Assistant Processing Archivists Amy Berish and Katie Martin preparing the KryoFlux to image a 5.25-inch floppy disk.
   </p>

@@ -4,7 +4,6 @@ title: Learning from Liberating Structures
 date: 2018-07-23T11:10:32+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=2041
 categories:
   - Collaboration

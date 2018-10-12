@@ -4,7 +4,6 @@ title: 'Principled Action: Asserting Archival Principles to Reduce the RAC Backl
 date: 2017-06-19T07:00:41+00:00
 author: Bob Battaly
 layout: post
-
 permalink: /?p=1747
 categories:
   - Collaboration

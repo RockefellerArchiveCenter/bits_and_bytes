@@ -4,7 +4,6 @@ title: 'SAA Session Review: ArchivesSpace'
 date: 2013-08-29T19:19:15+00:00
 author: Sibyl Schaefer
 layout: post
-
 permalink: /?p=750
 categories:
   - Conferences/Education

@@ -4,7 +4,6 @@ title: Project Electron October Update
 date: 2017-11-15T10:22:21+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1923
 categories:
   - Project Electron
@@ -31,7 +30,7 @@ tags:
 
 <div id="attachment_1924" style="width: 1205px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1.png"><img class="size-full wp-image-1924" src="http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1.png" alt="User Interface Example" width="1195" height="783" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1.png 1195w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-300x197.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-768x503.png 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-1024x671.png 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-458x300.png 458w" sizes="(max-width: 1195px) 100vw, 1195px" /></a>
-  
+
   <p class="wp-caption-text">
     The User Profile page of the Project Electron Transfer Application. Designed using AdminLTE.
   </p>

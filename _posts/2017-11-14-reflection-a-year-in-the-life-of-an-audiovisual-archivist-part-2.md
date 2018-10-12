@@ -4,7 +4,6 @@ title: 'Reflection: A Year in the Life of an Audiovisual Archivist – Part 2'
 date: 2017-11-14T06:00:44+00:00
 author: Brent Phillips
 layout: post
-
 permalink: /?p=1880
 categories:
   - Collaboration

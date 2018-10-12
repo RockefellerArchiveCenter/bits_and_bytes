@@ -4,7 +4,6 @@ title: Integrating Archivematica, ATReference and XTF
 date: 2013-01-30T20:21:14+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=393
 categories:
   - Digital Preservation

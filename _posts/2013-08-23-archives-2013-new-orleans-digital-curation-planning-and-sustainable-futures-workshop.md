@@ -4,7 +4,6 @@ title: Archives 2013 New Orleans, Digital Curation Planning and Sustainable Futu
 date: 2013-08-23T19:31:00+00:00
 author: Laura Montgomery
 layout: post
-
 permalink: /?p=763
 categories:
   - Conferences/Education

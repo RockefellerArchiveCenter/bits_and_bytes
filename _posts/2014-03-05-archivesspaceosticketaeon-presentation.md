@@ -4,7 +4,6 @@ title: ArchivesSpace/osTicket/Aeon presentation
 date: 2014-03-05T20:27:28+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1024
 categories:
   - Conferences/Education

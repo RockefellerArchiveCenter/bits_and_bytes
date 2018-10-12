@@ -4,7 +4,6 @@ title: Born Digital Archiving eXchange Report Back
 date: 2016-07-25T00:15:21+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1592
 categories:
   - Conferences/Education

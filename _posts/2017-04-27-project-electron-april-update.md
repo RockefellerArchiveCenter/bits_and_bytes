@@ -4,7 +4,6 @@ title: Project Electron April Update
 date: 2017-04-27T11:14:32+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1730
 categories:
   - Project Electron

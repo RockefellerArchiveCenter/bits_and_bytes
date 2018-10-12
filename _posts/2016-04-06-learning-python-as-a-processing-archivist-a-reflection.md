@@ -4,7 +4,6 @@ title: 'Learning Python as a Processing Archivist: A Reflection'
 date: 2016-04-06T05:31:42+00:00
 author: Amy Berish
 layout: post
-
 permalink: /?p=1483
 categories:
   - Conferences/Education

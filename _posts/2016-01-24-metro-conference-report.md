@@ -4,7 +4,6 @@ title: METRO Conference Report
 date: 2016-01-24T13:53:33+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1453
 categories:
   - Conferences/Education

@@ -4,7 +4,6 @@ title: 'Data Cleaning or: How I Learned to Stop Worrying and Love Open Refine'
 date: 2014-10-07T12:26:53+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1230
 categories:
   - Data Cleanup
@@ -22,7 +21,7 @@ We started the project with a  spreadsheet of data pertaining to 54,644 grant f
 
 <div id="attachment_1233" style="width: 310px" class="wp-caption alignright">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/grants_preclean.jpg"><img class="size-medium wp-image-1233" alt="Subjects without any cleanning" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/grants_preclean-300x181.jpg" width="300" height="181" srcset="http://blog.rockarch.org/wp-content/uploads/2014/10/grants_preclean-300x181.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/10/grants_preclean-1024x620.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/10/grants_preclean-495x300.jpg 495w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Subjects without any cleaning
   </p>
@@ -40,7 +39,7 @@ Manually reconciling the suggested matches with high suggestion ratings took me 
 
 <div id="attachment_1232" style="width: 310px" class="wp-caption alignleft">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/OpenRefineLCSHMatching.jpg"><img class="size-medium wp-image-1232" alt="Matching in Refine" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/OpenRefineLCSHMatching-300x158.jpg" width="300" height="158" srcset="http://blog.rockarch.org/wp-content/uploads/2014/10/OpenRefineLCSHMatching-300x158.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/10/OpenRefineLCSHMatching-1024x540.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/10/OpenRefineLCSHMatching-500x263.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/10/OpenRefineLCSHMatching.jpg 1278w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Matching in Refine
   </p>
@@ -52,7 +51,7 @@ You might recall that I only reconciled unique terms, which meant that I needed 
 
 <div id="attachment_1234" style="width: 310px" class="wp-caption alignright">
   <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1.jpg"><img class="size-medium wp-image-1234" alt="Find and Replace Code" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1-300x118.jpg" width="300" height="118" srcset="http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-300x118.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-1024x404.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-500x197.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1.jpg 1172w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Find and Replace Code
   </p>

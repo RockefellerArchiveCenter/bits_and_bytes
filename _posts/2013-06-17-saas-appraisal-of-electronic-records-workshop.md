@@ -4,7 +4,6 @@ title: 'SAA's Appraisal of Electronic Records Workshop'
 date: 2013-06-17T13:48:26+00:00
 author: Meg Hogan
 layout: post
-
 permalink: /?p=625
 categories:
   - Conferences/Education

@@ -4,7 +4,6 @@ title: 'Share Your Story: Project Electron Update'
 date: 2016-11-07T05:38:38+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1635
 categories:
   - Project Electron

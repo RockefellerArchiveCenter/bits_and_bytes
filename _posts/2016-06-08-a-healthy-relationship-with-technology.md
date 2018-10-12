@@ -4,7 +4,6 @@ title: A healthy relationship with technology
 date: 2016-06-08T10:46:12+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1507
 categories:
   - Conferences/Education

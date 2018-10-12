@@ -4,7 +4,6 @@ title: 'Standards Work: Revising the DACS Principles (in a blizzard)'
 date: 2017-03-24T05:41:57+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1710
 categories:
   - Conferences/Education

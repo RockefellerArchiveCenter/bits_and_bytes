@@ -4,7 +4,6 @@ title: Project Electron September Update
 date: 2017-10-16T10:00:22+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1859
 categories:
   - Collaboration

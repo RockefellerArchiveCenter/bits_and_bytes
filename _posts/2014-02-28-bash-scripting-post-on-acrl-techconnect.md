@@ -4,7 +4,6 @@ title: Bash scripting post on ACRL TechConnect
 date: 2014-02-28T20:48:10+00:00
 author: Sibyl Schaefer
 layout: post
-
 permalink: /?p=1016
 categories:
   - Digital Preservation

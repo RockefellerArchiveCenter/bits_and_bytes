@@ -4,7 +4,6 @@ title: 'The Master Shelf List: Where We Go From Here'
 date: 2016-11-02T07:58:11+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1621
 categories:
   - Reference
@@ -26,7 +25,7 @@ tags:
 
 <div id="attachment_1622" style="width: 310px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt.jpg"><img class="size-medium wp-image-1622" src="http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-300x83.jpg" alt="The Base FindIt interface" width="300" height="83" srcset="http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-300x83.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-768x212.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-1024x282.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-500x138.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt.jpg 1027w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     The Base FindIt interface
   </p>
@@ -38,7 +37,7 @@ tags:
 
 <div id="attachment_1623" style="width: 310px" class="wp-caption aligncenter">
   <a href="http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults.jpg"><img class="size-medium wp-image-1623" src="http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-300x152.jpg" alt="The results returned after using FindIt" width="300" height="152" srcset="http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-300x152.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-768x389.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-500x253.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults.jpg 978w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     The results returned after using FindIt
   </p>

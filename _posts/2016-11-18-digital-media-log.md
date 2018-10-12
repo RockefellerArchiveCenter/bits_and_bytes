@@ -4,7 +4,6 @@ title: Digital Media Log
 date: 2016-11-18T09:40:02+00:00
 author: Bonnie Gordon
 layout: post
-
 permalink: /?p=1643
 categories:
   - Software and Systems

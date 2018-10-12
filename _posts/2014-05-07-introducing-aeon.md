@@ -4,7 +4,6 @@ title: Introducing Aeon
 date: 2014-05-07T16:54:25+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1045
 categories:
   - Reference

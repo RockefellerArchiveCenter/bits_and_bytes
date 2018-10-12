@@ -4,7 +4,6 @@ title: Automating ArchivesSpace exports, or Better Living Through APIs
 date: 2015-08-13T16:52:01+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1402
 categories:
   - Software and Systems

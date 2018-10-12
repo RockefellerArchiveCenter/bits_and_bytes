@@ -4,7 +4,6 @@ title: 'Introduction to Digital Preservation: Management of born digital collect
 date: 2013-04-17T13:32:00+00:00
 author: Laura Montgomery
 layout: post
-
 permalink: /?p=513
 categories:
   - Digital Preservation

@@ -4,7 +4,6 @@ title: Born-Digital Workflows CURATEcamp Report
 date: 2015-04-27T16:20:40+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1324
 categories:
   - Conferences/Education
@@ -18,7 +17,7 @@ tags:
 It's been a busy couple of weeks for conferences! On Friday, Bonnie and I attended a <a href="http://wiki.curatecamp.org/index.php/Born-Digital_Workflows_CURATEcamp,_April_23rd_at_Brooklyn_Historical_Society" target="_blank">Born-Digital Workflows CURATEcamp</a>, held at the <a href="http://brooklynhistory.org/" target="_blank">Brooklyn Historical Society</a>. We gave a brief presentation on our workflows for arranging and descriping born-digital materials, and also learned a lot from other attendees.<!--more-->
 
 In no particular order, a couple of highlights and observations:
-  
+
 There was a real emphasis on automating many of the processes surrounding born-digital materials at this event. It came up in a variety of presentations, ranging from <a href="http://www.euancochrane.com/" target="_blank">Euan Cochrane's</a> discussion of improving automation of disk imaging processes, to Peter Chan's <a href="http://suif.stanford.edu/~hangal/epadd/" target="_blank">ePADD</a> demonstration. However, while some very important work is being done in this area, it seems as though description is still a very manual and time-consuming process.
 
 <a href="https://blogs.princeton.edu/mudd/2014/06/meet-mudds-jarrett-m-drake/" target="_blank">Jarrett Drake</a> and <a href="https://blogs.princeton.edu/mudd/author/rmendez/" target="_blank">Rossy Mendez</a> of Princeton University discussed the work they have done to maximize description of born-digital archival collections (particularly in the context of their University Archives), for which they've chained together <a href="https://github.com/pulibrary/sipper" target="_blank">shell scripts</a>, spreadsheets, and a <a href="https://drive.google.com/folderview?id=0B6NCn2bEXEBjaTJLNGJCcHhrS0E&usp=sharing" target="_blank">variety of other tools</a> to create or transform description. I couldn't help but think, however, that a lot of us seem to be going to a lot of trouble to migrate data from one place to another, in the process often transforming it several times into some pretty lossy schemas. I'd love to see a tighter integration between systems for appraising, arranging and describing born-digital materials (like <a href="http://accessdata.com/solutions/digital-forensics/forensic-toolkit-ftk" target="_blank">FTK</a> and <a href="http://www.bitcurator.net/" target="_blank">BitCurator</a>) and systems for describing "traditional" archival materials (like the <a href="http://archiviststoolkit.org/" target="_blank">Archivists' Toolkit</a> or <a href="http://archivesspace.org/" target="_blank">ArchivesSpace</a>).

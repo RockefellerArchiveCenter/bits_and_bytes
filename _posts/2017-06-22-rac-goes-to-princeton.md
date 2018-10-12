@@ -4,7 +4,6 @@ title: RAC goes to Princeton!
 date: 2017-06-22T13:34:22+00:00
 author: Amy Berish
 layout: post
-
 permalink: /?p=1758
 categories:
   - Conferences/Education

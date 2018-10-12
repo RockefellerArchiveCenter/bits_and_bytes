@@ -4,7 +4,6 @@ title: Artefactual Visit Report
 date: 2013-05-13T18:18:41+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=532
 categories:
   - Digital Preservation
@@ -21,7 +20,7 @@ tags:
 ---
 Last week we had a visit from Evelyn, Austin and Justin of Artefactual, who were here to continue working on our Archivematica implementation.
 
-<!--more-->The first thing they did was to upgrade our existing installation of Archivematica to the latest version, 0.10-beta. This version has a number of new features – listed in the 
+<!--more-->The first thing they did was to upgrade our existing installation of Archivematica to the latest version, 0.10-beta. This version has a number of new features – listed in the
 
 <a href="https://www.archivematica.org/wiki/Archivematica_0.10-beta_Release_Notes" target="_blank">release notes</a> – many of which will be extremely useful to us. These include:
 

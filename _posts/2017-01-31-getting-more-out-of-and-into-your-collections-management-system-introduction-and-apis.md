@@ -4,7 +4,6 @@ title: 'Getting More Out of (and Into) Your Collections Management System: Intro
 date: 2017-01-31T06:32:46+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1675
 categories:
   - Conferences/Education
@@ -47,17 +46,17 @@ _The following is the text from the talk I gave at [METRO’s Annual Conference]
 <span style="font-weight: 400;">So, this is just a quick example of some of the structured JSON data that ArchivesSpace’s API returns when you send a simple get request against an Archival Object. This may look pretty technical and scary, but it’s pretty easy to read once you get used to the syntax.</span>
 
 <span style="font-weight: 400;">Everything that you could hand enter into ArchivesSpace, can be retrieved through a GET request. Here, you can see the title as “Correspondence”, the display string is “Correspondence, 2000 - 2016”, and that the language is English. </span>
-  
+
 <span style="font-weight: 400;">ArchivesSpace’s REST API has a documented request syntax for each section of the application, and using it can reveal almost anything in the system’s backend database.</span>
 
 <span style="font-weight: 400;">So why is this so cool? Well, in the past with Archivists Toolkit, if you wanted to systematically change every Access Restrictions note from A to B, you’d have to fiddle around with the database directly, risking the chance of compromising your data, or messing up database integrity.</span>
 
 <span style="font-weight: 400;">Now, it’s super easy to pull data from ArchivesSpace, make changes, and push those changes back without worrying that you’re going to damage your database.</span>
-  
+
 <span style="font-weight: 400;">Additionally, as our presentations will go into, APIs make systems customizations, plugins, or integrations much easier. With a well-created API, a system opens itself up and makes your data way more inter-operable.</span>
 
 [<img class="aligncenter size-medium wp-image-1678" src="http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4-300x169.jpg" alt="Getting More out of and Into Your CMS - MetroCon2017-4" width="300" height="169" srcset="http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4-300x169.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4-768x432.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4-1024x576.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4-500x281.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />](http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4.jpg)
 
 <span style="font-weight: 400;">Thanks for listening to me signpost and talk about APIs for a couple of minutes, but it’s time for the real cool stuff to start.</span>
-  
+
 <span style="font-weight: 400;">Amy Berish will start talking about DACSpace, and her foray into making our finding aids more DACS-compliant.</span>

@@ -4,7 +4,6 @@ title: Academics in the Archives
 date: 2015-11-17T16:33:09+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1430
 categories:
   - Reference

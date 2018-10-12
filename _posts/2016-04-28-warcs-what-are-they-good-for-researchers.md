@@ -4,7 +4,6 @@ title: WARCs! What are they good for? Researchers!
 date: 2016-04-28T08:24:47+00:00
 author: Patrick Galligan
 layout: post
-
 permalink: /?p=1502
 categories:
   - Conferences/Education

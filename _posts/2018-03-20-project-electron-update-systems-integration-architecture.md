@@ -4,7 +4,6 @@ title: 'Project Electron Update: Systems Integration Architecture'
 date: 2018-03-20T15:26:48+00:00
 author: Hannah Sistrunk
 layout: post
-
 permalink: /?p=1954
 categories:
   - Project Electron
@@ -27,7 +26,7 @@ tags:
 
 <div id="attachment_1958" style="width: 1584px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png"><img class="size-full wp-image-1958" src="http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png" alt="Project Electron microservices overview diagram" width="1574" height="1360" srcset="http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png 1574w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-300x259.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-768x664.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-1024x885.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-347x300.png 347w" sizes="(max-width: 1574px) 100vw, 1574px" /></a>
-  
+
   <p class="wp-caption-text">
     Draft Diagram - Project Electron microservices overview.
   </p>

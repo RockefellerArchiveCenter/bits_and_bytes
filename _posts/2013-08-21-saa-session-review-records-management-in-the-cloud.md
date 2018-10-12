@@ -4,7 +4,6 @@ title: 'SAA Session review - Records Management in the Cloud'
 date: 2013-08-21T19:48:50+00:00
 author: Sibyl Schaefer
 layout: post
-
 permalink: /?p=719
 categories:
   - Conferences/Education

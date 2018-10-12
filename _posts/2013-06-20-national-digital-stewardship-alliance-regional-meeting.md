@@ -4,7 +4,6 @@ title: National Digital Stewardship Alliance regional meeting
 date: 2013-06-20T12:49:31+00:00
 author: Laura Montgomery
 layout: post
-
 permalink: /?p=639
 categories:
   - Conferences/Education
