@@ -18,6 +18,4 @@ At ALA Midwinter this past January, I hosted the **Digital Preservation Interest
 
 **\*Preserving AutoCAD Files at the University of Montana\*** - Sam Meister, University of Montana- Missoula
 
-**
-
-\*A Repository Year: Planning and Implementing a Digital Repository at the Computer History Museum\*** - Paula Jabloner, Computer History Museum and Katerine Kott, consultant
+**\*A Repository Year: Planning and Implementing a Digital Repository at the Computer History Museum\*** - Paula Jabloner, Computer History Museum and Katerine Kott, consultant
