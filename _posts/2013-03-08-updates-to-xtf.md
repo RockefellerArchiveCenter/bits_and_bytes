@@ -13,7 +13,7 @@ tags:
 ---
 A number of changes have recently been made to our XTF discovery interface system.
 
-The most obvious one is that we're now calling the system DIMES, which was a name chosen a while back in a naming contest which you all voted on. Congrats again to Laura for coming up with the winning idea! Along with this name change, we've also changed the URL for the system to <http://dimes.rockarch.org/xtf/search>.<!--more-->
+The most obvious one is that we're now calling the system DIMES, which was a name chosen a while back in a naming contest which you all voted on. Congrats again to Laura for coming up with the winning idea! Along with this name change, we've also changed the URL for the system to [http://dimes.rockarch.org/xtf/search](http://dimes.rockarch.org/xtf/search).<!--more-->
 
 You'll also notice some new features, including a feedback form, a page explaining the site's name (with a lovely picture of Senior in action) and the ability to see collections sorted by the most recently updated. The bookbag feature has also been reworked based on your very helpful feedback.
 
