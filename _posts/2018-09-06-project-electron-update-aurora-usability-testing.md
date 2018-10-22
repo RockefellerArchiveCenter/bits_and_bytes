@@ -102,7 +102,7 @@ We designed six tasks to test the primary functions and features of the applicat
   </tr>
 </table>
 
-[<img class="alignnone size-full wp-image-2086" src="http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph.png" alt="graph showing the difficulty ratings of tasks" width="1366" height="844" srcset="http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph.png 1366w, http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph-300x185.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph-768x475.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph-1024x633.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph-486x300.png 486w" sizes="(max-width: 1366px) 100vw, 1366px" />](http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph.png)
+![Usability task rating](http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph.png)
 
 # Summary of findings
 

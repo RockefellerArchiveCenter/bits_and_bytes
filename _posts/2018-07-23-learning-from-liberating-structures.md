@@ -21,11 +21,11 @@ The core idea of Liberating Structures is pretty simple: our existing meeting st
 
 The founders of Liberating Structures, Keith McCandless and Henri Lipmanowicz, argue that all meeting structures have [five common elements](http://www.liberatingstructures.com/design-elements/):
 
-  * A structuring invitation, or some sort of indication of what’s going to happen next, which usually includes some expectation of participation
-  * How the space is arranged (around a table, in rows facing a screen, etc.) and what materials are needed (audiovisual presentation technology, whiteboards, index cards, etc)
-  * How participation is distributed among people present: who is allowed to talk, and who actually talks?
-  * How groups are configured: is there one large group or are there multiple smaller groups?
-  * A sequence of steps and time allocation: what activities happen and how much time is allotted to each?
+* A structuring invitation, or some sort of indication of what’s going to happen next, which usually includes some expectation of participation
+* How the space is arranged (around a table, in rows facing a screen, etc.) and what materials are needed (audiovisual presentation technology, whiteboards, index cards, etc)
+* How participation is distributed among people present: who is allowed to talk, and who actually talks?
+* How groups are configured: is there one large group or are there multiple smaller groups?
+* A sequence of steps and time allocation: what activities happen and how much time is allotted to each?
 
 What Liberating Structures do is ask you to pay attention to each of these elements, and to become aware of how small changes to any one of them can radically alter outcomes of the meeting.
 

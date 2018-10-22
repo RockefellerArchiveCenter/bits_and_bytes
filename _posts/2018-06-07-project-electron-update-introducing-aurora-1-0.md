@@ -18,7 +18,7 @@ tags:
 ---
 We are very pleased to announce the initial release of Aurora, an application to receive, virus check, and validate the structure and contents of digital records transfers. It provides a read-only interface for representatives of donor organizations to track transfers, so that they can follow their records as they move through the archival lifecycle. It also includes functionality for RAC staff to add or update organization accounts and users associated with them, appraise incoming transfers, and initiate the accessioning process. Aurora is built on community-driven standards and specifications, and we have released it as open source software. This is a major milestone for Project Electron, and we are excited to share it with the world. Many thanks to our partners at Marist College IT and to the Ford Foundation for their generous support of the project.
 
-[<img class="alignnone wp-image-2000 size-full" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen.png" alt="Aurora homescreen" width="878" height="659" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen.png 878w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen-300x225.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen-768x576.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen-400x300.png 400w" sizes="(max-width: 878px) 100vw, 878px" />](http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen.png)
+![Aurora homescreen](http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-homescreen.png)
 
 We will continue to improve Aurora as we test and integrate it with a chain of other archival management and digital preservation tools.
 

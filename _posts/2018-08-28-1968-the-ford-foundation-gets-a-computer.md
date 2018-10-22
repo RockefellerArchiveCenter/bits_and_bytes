@@ -89,8 +89,6 @@ Furthermore, Ford would need to add specialized staff members to support the new
 From 1969-1976, Ford staff continued to reevaluate its computer needs. New grants information systems were tested, evaluated, and replaced. In 1976, frustrated Ford administrators proposed removing the computer system entirely and using outside vendors for all data processing. National Affairs Social Development program officer (and self-described poet) Thomas Cooney was brought into that discussion, since he was interested in the intersection of technology and the liberal arts (he had contributed to the [Computers and the Humanities](http://www.jstor.org/stable/30199283) journal in 1968). Many of the same issues remained as they had in 1965. Cooney's handwritten notes from a 1976 meeting about a new "program action system" for grants management seem to echo Richard Reed's "data processing for what?" question of over a decade earlier:
 
 > "[Management information systems] often don't work because the disseminators of the information pay attention only to the grammar of their output and not the rhetoric."
->
-> &nbsp;
 
 <div id="attachment_2066" style="width: 723px" class="wp-caption alignnone">
   <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png"><img class="size-full wp-image-2066" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png" alt="1976 Meeting Notes" width="713" height="496" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png 713w, http://blog.rockarch.org/wp-content/uploads/2018/08/image4-300x209.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image4-431x300.png 431w" sizes="(max-width: 713px) 100vw, 713px" /></a>
