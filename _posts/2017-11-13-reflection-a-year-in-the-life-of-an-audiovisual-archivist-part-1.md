@@ -21,7 +21,7 @@ tags:
   - Video
   - Year in the Life of an Audiovisual Archivist
 ---
-John Dewey once stated: “We do not learn from experience…we learn from reflecting on experience.”
+John Dewey once stated: “We do not learn from experience...we learn from reflecting on experience.”
 
 So, as I have just finished my first year as the Audiovisual Archivist at the Rockefeller Archive Center (RAC), I thought now might be a good time to reflect upon what has been accomplished in these last twelve months.
 
@@ -33,7 +33,7 @@ Of course, any initial steps at a new institution should include the examination
 
 Beyond these steps, it is key to remember that the heart of any successful audiovisual program is the idea that user-needs (primarily, in our case, the researcher’s needs) must remain paramount.  Keeping that in mind, we should always ask: How do users locate our a/v material? What can we do to make the user experience more effective? How do we most expeditiously provide access to a/v material?
 
-[<img class="aligncenter size-medium wp-image-1876" src="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260-300x225.jpg" alt="Moving Image Reels" width="300" height="225" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260-300x225.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260-768x576.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260-1024x768.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260-400x300.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260.jpg)
+![Moving Image Reels](http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260.jpg)
 
 Come back tomorrow for Part 2: Processing!
 

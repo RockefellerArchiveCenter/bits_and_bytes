@@ -26,12 +26,12 @@ Lastly, one major step this year was the opportunity to re-establish the summer 
 
 One primary accomplishment of our 2017 Selznick fellow came with the assistance provided me in terms of an item-level film vault  check wherein we:
 
-  * Verified material and shelf locations
-  * Checked elements for level of inspection
-  * Identified an element’s future needs
-  * Inspected unprocessed and damaged material
-  * Evaluated needs for long-term storage
-  * Identified future projects
+* Verified material and shelf locations
+* Checked elements for level of inspection
+* Identified an element’s future needs
+* Inspected unprocessed and damaged material
+* Evaluated needs for long-term storage
+* Identified future projects
 
 I cannot stress the importance of physically spending time with your collections – and opening those boxes or film cans – both to get a true sense of the material that is in your care and to verify that any previously collected data is accurate.
 

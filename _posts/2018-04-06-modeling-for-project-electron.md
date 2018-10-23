@@ -15,15 +15,15 @@ tags:
 ---
 In her [most recent blog post](http://blog.rockarch.org/?p=1954), Hannah wrote about our approach to Project Electron’s proposed systems integration architecture. One of our goals with Project Electron is to support the flow of data about digital materials between our systems and getting valuable information to researchers in new ways. Supporting data in motion is integral to Project Electron’s success, and while Hannah and Hillel have been hammering away at creating a comprehensive overview of the microservices architecture, I’ve been working with the entire archive center to develop a draft data model for discovery and display of born digital and digitized materials. If, as we’ve been thinking, Project Electron is about creating infrastructure to support data, a data model will in turn act as a blueprint for that infrastructure. Data models are tools we can use to communicate and define how we want data to move between systems, and we think understanding how our data will move throughout our systems to our researchers is vital to the success of the entire project.<!--more-->
 
-# **The Process**
+# The Process
 
-## **Background**
+## Background
 
 Over a year ago, in February 2017, we compiled an [annotated bibliography](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/data_model_bibliography.md) on modeling data, linked data, and ontologies. Following the bibliography, we held staff-wide learning [sessions on modeling data](http://blog.rockarch.org/?p=1865), which gave us an opportunity to meet with the larger RAC staff and get them thinking about data in different ways outside of the purely archival descriptive context. These sessions were extremely helpful in both calibrating so we were all using the same language to talk about data models, and creating a baseline understanding of the purposes behind modeling data. We were really laying the groundwork for later working with and critiquing possible Project Electron data models. These sessions weren’t merely altruistic information-sharing exercises, we also selfishly wanted people thinking about modeling in the context of data at the Rockefeller Archive Center.
 
 Following these sessions, it was finally time to start dipping our toes into actual modeling. We decided to start with a discovery and display model for presenting data to researchers because it would help us think through which systems we’d be pulling data from in a more general sense. None of us at the RAC had much experience on actually creating a data model diagram, so our first steps were to revisit the model bibliography and reach out to other institutions to see what they were doing. In particular, many thanks go out to Alex Duryee at the NYPL for sharing a general discovery data model and providing some feedback on our earlier drafts, as well as the team at the University of Michigan's Bentley Historical Library for providing robust comments on early drafts. I truly leaned on the expertise of others while learning. I think it’s here that I should also thank the creators of [PCDM](https://github.com/duraspace/pcdm/wiki) for creating such a solid basis to work from and creating great documentation for the project.
 
-## **Diagramming**
+## Diagramming
 
 After reading up, looking at other diagrams, and working up the courage to actually make something, we ended up with the below image as a first draft. This draft model was dated October 17<sup>th</sup>, 2017 and you’ll notice that there’s a lot going on here.
 
@@ -34,8 +34,6 @@ After reading up, looking at other diagrams, and working up the courage to actua
     Our first attempt at data model diagramming.
   </p>
 </div>
-
-&nbsp;
 
 The diagram is messy, not laid out well, and difficult to read, and has more information than we ultimately decided was necessary. Following this first draft, we sat down as a team and talked about the data we thought was absolutely necessary to display to researchers, and, in the end, we settled on a DACS minimum level of metadata and description with information supporting the adoption of linked data standards. Our goal was to reuse as many existing vocabularies as possible while also allowing for the expansion of the model if necessary. The end result of these insular discussions was the below draft of the diagram.
 
@@ -49,7 +47,7 @@ The diagram is messy, not laid out well, and difficult to read, and has more inf
 
 We thought this diagram properly reflected our thinking, gave others something to work with, and was clean enough to explain and understand. This version, created on January 9<sup>th</sup>, 2017, represented a start to the next phase of the process: testing, critiquing, and revising.
 
-## **Testing**
+## Testing
 
 In late January, we started scheduling separate meetings with teams within our archival unit: Processing, Reference, and Collections Management. The goal of these meetings was threefold: introduce the staff at large to our data model diagram, explain the thought process behind its creation, and finally get groups to work with it and kick the tires. We started each meeting with a quick walkthrough of the model, but then we quickly dove into group activities. Our goal was to treat these meetings as informal user tests that would ideally uncover any false assumptions we had made during the initial modeling as well as provide insight into different ways our coworkers _want_ to interact with data.
 
@@ -61,23 +59,35 @@ We asked the participants to break themselves up into smaller groups and then ga
 
 Expectedly, it took some time for people to wrap their minds around how to create model diagrams, which is why we started out slow with the first task. Despite our coworkers’ lack of experience in working with diagrams, they jumped in and came up with very illuminating work.
 
-# **The Diagrams**
+# The Diagrams
 
 I’ll breakdown the key takeaways we observed from these models at the end of this post, but we definitely unearthed a couple of intriguing behaviors that we’d like to explore in more detail.
 
-## **Task 1**
+## Task 1
 
-**  [<img class="aligncenter size-full wp-image-1976" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1.jpg" alt="" width="3916" height="2496" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1.jpg 3916w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1-300x191.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1-768x490.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1-1024x653.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1-471x300.jpg 471w" sizes="(max-width: 3916px) 100vw, 3916px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1.jpg) [<img class="aligncenter size-full wp-image-1977" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2.jpg" alt="" width="3588" height="2442" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2.jpg 3588w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2-300x204.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2-768x523.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2-1024x697.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2-441x300.jpg 441w" sizes="(max-width: 3588px) 100vw, 3588px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2.jpg)**
+![Task 1 diagram 1](http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1.jpg)
 
-## **Task 2**
+![Task 1 diagram 2](http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2.jpg)
 
-** [<img class="aligncenter size-full wp-image-1974" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1.jpg" alt="" width="2994" height="2766" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1.jpg 2994w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1-300x277.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1-768x710.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1-1024x946.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1-325x300.jpg 325w" sizes="(max-width: 2994px) 100vw, 2994px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1.jpg) [<img class="aligncenter size-full wp-image-1978" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2.jpg" alt="" width="3936" height="1644" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2.jpg 3936w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2-300x125.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2-768x321.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2-1024x428.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2-500x209.jpg 500w" sizes="(max-width: 3936px) 100vw, 3936px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2.jpg) [<img class="aligncenter size-full wp-image-1979" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3.jpg" alt="" width="3942" height="2622" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3.jpg 3942w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3-300x200.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3-768x511.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3-1024x681.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3-451x300.jpg 451w" sizes="(max-width: 3942px) 100vw, 3942px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3.jpg)**
+## Task 2
 
-## **Task 3**
+![Task 2 diagram 1](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1.jpg)
 
-** [<img class="aligncenter size-full wp-image-1980" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1.jpg" alt="" width="3852" height="2868" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1.jpg 3852w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1-300x223.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1-768x572.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1-1024x762.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1-403x300.jpg 403w" sizes="(max-width: 3852px) 100vw, 3852px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1.jpg) [<img class="aligncenter size-full wp-image-1981" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2.jpg" alt="" width="2860" height="2580" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2.jpg 2860w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2-300x271.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2-768x693.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2-1024x924.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2-333x300.jpg 333w" sizes="(max-width: 2860px) 100vw, 2860px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2.jpg) [<img class="aligncenter size-full wp-image-1982" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3.jpg" alt="" width="3858" height="2688" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3.jpg 3858w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3-300x209.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3-768x535.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3-1024x713.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3-431x300.jpg 431w" sizes="(max-width: 3858px) 100vw, 3858px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3.jpg) [<img class="aligncenter size-large wp-image-1983" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4-1024x696.jpg" alt="" width="584" height="397" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4-1024x696.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4-300x204.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4-768x522.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4-442x300.jpg 442w" sizes="(max-width: 584px) 100vw, 584px" />](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4.jpg)**
+![Task 2 diagram 2](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2.jpg)
 
-# **Takeaways and Final Draft**
+![Task 2 diagram 3](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3.jpg)
+
+## Task 3
+
+![Task 3 diagram 1](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1.jpg)
+
+![Task 3 diagram 2](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2.jpg)
+
+![Task 3 diagram 3](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3.jpg)
+
+![Task 3 diagram 4](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4.jpg)
+
+# Takeaways and Final Draft
 
 There’s a lot going on in these diagrams, and not all of them strictly fit within the confines of the draft diagram we provided for the groups to work off of. However, it’s our opinion that many of these deviations from the original diagram uncover insightful looks into the way our coworkers think about archival data and where they expect to find linkages and relationships.
 
@@ -95,9 +105,7 @@ Ultimately, none of the groups had any major changes for us except to find a few
   </p>
 </div>
 
-.
-
-# **Next Steps**
+# Next Steps
 
 So where do we go from here? Well, the first step was documenting our process. It’s been a long journey to get to this point and we wanted to share our procedures out, which hopefully this blog post can do. Moving forward, our next step will be to start taking a look at how we want to serialize this information in RDF for Fedora. We’ll be leaning on the work of existing vocabularies like viaf, dcterms, foaf, pcdm, and more as much as possible. Additionally, we’ll be having in-depth discussions of how we want to map this data to other systems like ArchivesSpace, Archivematica, Aurora, and Fedora. The mapping discussion is probably going to be a huge project that takes a lot of conversations about how everything works in the microservice architecture that Hannah talks about in the linked blog post 1,500 words ago. We’re not exactly sure how everything is going to look at the end of the year, but we’re excited to be moving forward.
 
