@@ -38,13 +38,13 @@ Over the last few years, I’ve wondered what it would mean for archival standar
 
 We also had a quick session on technical writing, which was very useful because it gave us a baseline set of questions against which to measure our new principles. Reading through the new draft as a group we asked:
 
-  * Is it clear?
-  * Is it actionable?
-  * Is it fundamental?
-  * Does it use inappropriate jargon?
-  * Is it testable?
-  * Does it use active voice?
-  * Does it apply at all times and in all places?
+* Is it clear?
+* Is it actionable?
+* Is it fundamental?
+* Does it use inappropriate jargon?
+* Is it testable?
+* Does it use active voice?
+* Does it apply at all times and in all places?
 
 This was a really good way to measure whether or not we had achieved a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) - another concept associated with Agile methodology - for the principle.
 

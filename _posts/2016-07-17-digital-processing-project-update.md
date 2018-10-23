@@ -8,9 +8,7 @@ permalink: /?p=1589
 categories:
   - Uncategorized
 ---
-We're now a few months into our Digital Processing Project, which [I wrote about back in April](https://saaers.wordpress.com/2016/04/05/digital-processing-at-the-rockefeller-archive-center/) for the blog of SAA's Electronic Records Section. By the end of this project, RAC processing archivists will have the tools, workflows and competencies needed to process digital materials. Through this, we will be able to preserve and provide access to unique born digital content stored on obsolete and decaying media.
-
-<!--more-->
+We're now a few months into our Digital Processing Project, which [I wrote about back in April](https://saaers.wordpress.com/2016/04/05/digital-processing-at-the-rockefeller-archive-center/) for the blog of SAA's Electronic Records Section. By the end of this project, RAC processing archivists will have the tools, workflows and competencies needed to process digital materials. Through this, we will be able to preserve and provide access to unique born digital content stored on obsolete and decaying media.<!--more-->
 
 So far, we've taken a look at some of our existing policies and procedures to update them and fill in our policy holes. First, we assessed our Conditions Governing Access Notes for digital media items described in ArchivesSpace using a script similar to [Amy's DACSspace script](http://blog.rockarch.org/?p=1581). After looking at our existing notes, we decided on language for that clearly outlines to researchers how they can access the content on digital media. We'll use this for Conditions Governing Access Notes going forward.
 

@@ -19,11 +19,11 @@ Several years ago RAC faced a dilemma familiar to many in our profession – a d
 
 To find a solution, we actively sought processing practices that reflect our values as an operating foundation, specifically the values of collaborating and sharing knowledge, disseminating information, promoting discovery in all its forms, and facilitating open and equitable access to all our archival holdings. Over the last year and a half, we shifted our strategy to processing by accession and implemented a standards-based approach which has been a resounding success thus far and has resulted in the processing and opening for research of over 4,500 cubic feet of records. This discussion will be the first in a series of posts about our processes and collaborations. I hope our experiences may be valuable and helpful to others.<!--more-->
 
-**Collaboration**
+## Collaboration
 
 RAC strives for a collaborative work environment where the insight, activities, and accomplishments of every member of our archival staff is a vital and integral part of the team. We aim to be strong active professionals with a focus on ongoing professional development to support individual and institutional growth.  The catalyst for collaboration is a team based division of our staff into archival function areas which emulate the lifecycle of a record from ingest to availability for research (Donor Relations/Collections Development, Collections Management, Processing, and Reference, with our Digital Programs team serving as an integral resource for all functions). Each team then primarily focuses on finding efficient and effective solutions to the challenges within their given function area, and secondarily works with the broader archival staff to assist in other function areas when needed.
 
-**Establishing Institutional Standards**
+## Establishing Institutional Standards
 
 The key to our recent processing success has been simplifying and standardizing our practices and procedures with a step-by-step instructional manual which shows what we do, how we do it, and why. Through following the steps, any member of the staff can learn the tools and proficiencies needed to successfully process archival records, and produce high quality reliable finding aids for our user community. It establishes an accountability standard for our work and for the processing team as a whole. The instructional approach also enables new staff to easily join the processing team, helps archival staff assigned to other function areas to recognize and understand the responsibilities of our team, promotes good project management habits, and is easily revisable to ensure that our practices and procedures are regularly evaluated and updated over time.
 
@@ -33,11 +33,11 @@ Transparency in the dissemination of information is a critical element of the ar
 
 In the eyes of our users, transparency of the archival collections most often manifests itself through our access and use policies and the professional manner in which we systematically carry out our practices. RAC strives to inform users of all access and use conditions pertinent to our collections; identify and describe all restricted materials; and inform all users of what they can see and use, what they can't see and use, and why.
 
-**Flexibility**
+## Flexibility
 
 Processing by accession is flexible and can easily be adapted to any archival institution. A record is a record regardless of form, medium or creator. With the accession serving as the centerpiece, processing can then be conducted in a variety of ways including minimal processing approaches or more traditional approaches. The work itself can be conducted by an individual or a team, with varying degrees of experience or expertise.
 
-**Arrangement**
+## Arrangement
 
 Maintaining the integrity of each accession also enables us to focus on the principle of provenance and maintaining original order, or “as received” order, as much as feasible. Such action further reveals to our users information about the creator, the origin and use of the records, and the contextual relationship among and between the files.
 
@@ -45,7 +45,7 @@ Processing by accession promotes intellectual arrangement with minimal physical 
 
 Effective arrangement opens collections to research as quickly as possible. Description reflects arrangement, but the physical arrangement of the items in a collection may or may not parallel the intellectual arrangement. Items that are described together may be stored separately because of their differing size, shape, physical composition, physical condition, access or use conditions, format or other factors.Comments Standardizing our practices, particularly minimizing physical arrangement activities, has dramatically increased productivity levels, enhanced our long-term planning capabilities, reduced the time needed to plan and execute individual projects, and increased the reliability and accountability of the processing team as a whole.
 
-**Description**
+## Description
 
 Improving our descriptive practices has expanded and enhanced access to the entire archive including newly processed records as well as all our previously processed legacy holdings. Processing by accession has enhanced our ability to produce high quality DACS-compliant finding aids. Since introducing our systematic approach to finding aid creation and implementing DACSSpace, we have seen a dramatic shift in DACS single-level compliance from just over 50% to full 100% compliance of our guides! Our flexible yet systematic approach to description has also helped us to make great strides in the care afforded to our audiovisual holdings, which in the past were minimized by broader more pressing needs.
 

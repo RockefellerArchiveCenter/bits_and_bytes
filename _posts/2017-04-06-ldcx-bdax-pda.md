@@ -15,9 +15,7 @@ tags:
   - pda
   - personas
 ---
-Last week I attended three events held at Stanford University: LDCX, Born Digital Archiving eXchange (BDAX), and Personal Digital Archiving. There was a lot of digital archives talk at all of these events, and it was great to chat with folks who are also dealing with the issues I'm encountering in my work.
-
-<!--more-->
+Last week I attended three events held at Stanford University: LDCX, Born Digital Archiving eXchange (BDAX), and Personal Digital Archiving. There was a lot of digital archives talk at all of these events, and it was great to chat with folks who are also dealing with the issues I'm encountering in my work.<!--more-->
 
 LDCX is a two-and-a-half day unconference that brings together technologists from libraries, archives, and museums. After introductions and lightning talks, sessions were proposed, and then voted on, by participants. Breakout sessions covered many, many topics, including linked data, data modeling, digital repositories, web archives, and specific systems like Hyrax. Notes for all sessions are available in a [Google Drive folder](https://drive.google.com/drive/folders/0B_fgfW9cr-vrS2VXWkhmVGlnLWM).
 

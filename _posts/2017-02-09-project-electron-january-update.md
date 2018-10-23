@@ -27,7 +27,7 @@ We started out by listening. We listened - literally - to representatives from o
 
 Out of all of this information we created a set of [user stories](https://en.wikipedia.org/wiki/User_story), concise descriptions of the Who, What, When, Where, How and Why of a specific user need that can be addressed by a software system. A typical example might read as follows:
 
-“As an archivist, I want to create an audit trail of events associated with a group of digital records so that I can ensure their authenticity.”
+    “As an archivist, I want to create an audit trail of events associated with a group of digital records so that I can ensure their authenticity.”
 
 As you can see, there’s a lot of information packed into this sentence - a specific user, what that user wants to do, and why they want to do it - which means that even though these are really brief statements it takes a fair amount of work to write them. Still, this is an incredibly worthwhile exercise because it requires specificity and connection to actual people and real needs, as opposed to one’s own ideas about what might be useful system functionality.
 
@@ -43,15 +43,15 @@ Still, I think there were things that we could have done better. Most notably, I
 
 After some analysis of these groups of user stories, we came up with three sets of user stories, each of which contained four personas.
 
-  * **Donors and Depositors** cover the user stories gathered from our donor and depositor organizations. We tried to capture a number of relevant roles within these organizations, as well as a range of organization types, sizes, IT support, and approaches to records management.
-  * **Researchers** were developed from user stories gathered from RAC researchers, as well as other user studies and literature on researcher needs. In these personas, we wanted to make sure we represented the variety of research interests, methodologies and experience levels of our researchers.
-  * **Information Professionals** grew out of a combination of user stories from RAC staff, other information professionals we surveyed, and existing user studies. Although we originally started out thinking about the needs of our staff as separate from the needs of information professionals in other archives, libraries and museums, we soon realized that the two groups had a lot in common, so we simply created one set of user personas to address all those user stories.
+* **Donors and Depositors** cover the user stories gathered from our donor and depositor organizations. We tried to capture a number of relevant roles within these organizations, as well as a range of organization types, sizes, IT support, and approaches to records management.
+* **Researchers** were developed from user stories gathered from RAC researchers, as well as other user studies and literature on researcher needs. In these personas, we wanted to make sure we represented the variety of research interests, methodologies and experience levels of our researchers.
+* **Information Professionals** grew out of a combination of user stories from RAC staff, other information professionals we surveyed, and existing user studies. Although we originally started out thinking about the needs of our staff as separate from the needs of information professionals in other archives, libraries and museums, we soon realized that the two groups had a lot in common, so we simply created one set of user personas to address all those user stories.
 
 The important thing to emphasize about this process of creating personas is that it’s very much a creative and interpretive one. Personas have been called “[unscientific](https://cnchapman.files.wordpress.com/2007/03/chapman-milham-personas-hfes2006-0139-0330.pdf),” but my experience was that the subjective nature of this process forced me to engage with my own biases and privileges, rather than hiding behind false ideas of data-driven neutrality.
 
 In addition to creating the personas, we’ll also create a set of requirements to help guide the development process. These will look something like:
 
-“Maintain audit trail of preservation events.”
+    “Maintain audit trail of preservation events.”
 
 As you can see, these requirements are structured differently than either user stories or personas and are oriented primarily towards developers. We’ll use the personas to help us prioritize these requirements and the requirements to test system functionality, so that we know whether or not we’ve met the needs expressed in our user stories.
 

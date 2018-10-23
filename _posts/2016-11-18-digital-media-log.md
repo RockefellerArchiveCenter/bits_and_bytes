@@ -11,20 +11,18 @@ tags:
   - description
   - Digital Preservation
 ---
-I'm excited to announce that the Rockefeller Archive Center's new Digital Media Log is live!
-
-<!--more-->
+I'm excited to announce that the Rockefeller Archive Center's new Digital Media Log is live!<!--more-->
 
 The Digital Media Log is a place for archivists to identify digital media items during processing in order to plan for and perform preservation actions as well as log basic digital media stabilization information. Our new Digital Media Log is replacing the Digital Media Inventory and Tracking Database. The fields for each item are now:
 
-  * Unique ID
-  * AS archival object RefId
-  * AS parent component and resource title
-  * Format
-  * Transfer status
-  * Transfer method
-  * Date of transfer
-  * Container disposition
+* Unique ID
+* AS archival object RefId
+* AS parent component and resource title
+* Format
+* Transfer status
+* Transfer method
+* Date of transfer
+* Container disposition
 
 This is substantially more lightweight than the Digital Media Inventory and Tracking Database, which recorded many fields for each item and had several tables. This is due both to a rethinking of what it means to inventory an item, as well as to our newfound ability to harness ArchivesSpace's API. Whereas the inventorying process previously required a lot of copying and pasting from Archivists Toolkit (and then ArchivesSpace), we can now automatically retrieve an archival object title and parent resource title after supplying a RefId. Additionally, the new system can have multiple simultaneous users, which was a major limitation of the Digital Media Inventory and Tracking Database, an Access database.
 

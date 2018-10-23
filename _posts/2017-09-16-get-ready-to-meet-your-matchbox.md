@@ -15,7 +15,7 @@ tags:
 ---
 It is hard to predict when inspiration is going to hit. While a great idea can strike quickly, realizing it is a longer process; one that often requires seeking the help and guidance of others. Luckily, at the RAC, I have coworkers who are ready to listen to new ideas and willing to help me figure out how to turn inspiration into reality. Today, I am very excited to share with you a recent example of such a collaboration and the RAC’s newest application: [MatchBox](http://matchbox.rockarch.org).
 
-[<img class="aligncenter wp-image-1826 size-large" src="http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox-1024x586.png" alt="" width="584" height="334" srcset="http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox-1024x586.png 1024w, http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox-300x172.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox-768x439.png 768w, http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox-500x286.png 500w, http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox.png 1294w" sizes="(max-width: 584px) 100vw, 584px" />](http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox.png)
+![MatchBox](http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox.png)
 
 <!--more-->
 
