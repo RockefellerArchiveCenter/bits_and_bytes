@@ -26,4 +26,4 @@ This is a complex process, with a number of moving parts, so we’ll be testing 
 
 While this is happening, we’ll also be making changes to DIMES so that these objects can be displayed on the web. Keep an eye on our [development server](http://192.168.50.29/xtf/search) over the next few weeks to see this in progress!
 
-In addition to connecting Archivematica to the ATReference database, Artefactual installed a [Device Side USB 5.25” floppy controller](http://www.deviceside.com/ "Device Side USB 5.25" floppy controller"). This will allow us to take disk images of the 5.25” floppy disk digital media and begin processing this type of material in the digital workflow.
+In addition to connecting Archivematica to the ATReference database, Artefactual installed a [Device Side USB 5.25” floppy controller](http://www.deviceside.com "Device Side USB 5.25" floppy controller"). This will allow us to take disk images of the 5.25” floppy disk digital media and begin processing this type of material in the digital workflow.
