@@ -12,7 +12,7 @@ tags:
 ---
 The first NE Archivematica Users Group was held last Friday to great success. There were roughly 20 attendees present, representing institutions like Yale, NYPL (the host of the meeting), Columbia, Harvard Business School, MOMA, and the Frick.
 
-Below are some notes Laura took during the meeting. [There is also a shared Google Doc,](https://docs.google.com/document/d/1kQJB-0b5VtLDfuomfOOhew5Dxq7UdtDuUF1FEtn0BBM/edit) which was edited and compiled during the meeting by attendees.
+Below are some notes Laura took during the meeting. There is also a shared Google Doc which was edited and compiled during the meeting by attendees.
 
 **RAC notes:**<!--more-->
 
