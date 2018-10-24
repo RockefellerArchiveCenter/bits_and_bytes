@@ -13,9 +13,9 @@ tags:
   - ArchivesSpace
   - version control
 ---
-In preparation for upcoming changes to the display of digital objects in DIMES, I’ve been pursuing some enhancements to data export from ArchivesSpace. This began with [a plugin to improve METS exports](https://github.com/RockefellerArchiveCenter/ArchivesSpace-Customizations/tree/mods-mets/plugins/local/backend/model), including embedded MODS records, but then grew into a more comprehensive project to automate the export of updated resource records, version that data, and then push it to [DIMES](http://dimes.rockarch.org/).
+In preparation for upcoming changes to the display of digital objects in DIMES, I’ve been pursuing some enhancements to data export from ArchivesSpace. This began with [a plugin to improve METS exports](https://github.com/RockefellerArchiveCenter/ArchivesSpace-Customizations/tree/mods-mets/plugins/local/backend/model), including embedded MODS records, but then grew into a more comprehensive project to automate the export of updated resource records, version that data, and then push it to [DIMES](http://dimes.rockarch.org/).<!--more-->
 
-<!--more-->In the past, when a staff member made a change to a resource record, they’d have to email our Head of Processing, who would then export the finding aid, move it to a folder on our shared network, and from there a number of scripts would take over and move it to DIMES and kick off an indexing process.
+In the past, when a staff member made a change to a resource record, they’d have to email our Head of Processing, who would then export the finding aid, move it to a folder on our shared network, and from there a number of scripts would take over and move it to DIMES and kick off an indexing process.
 
 While this process has worked well for us to this point, allowing for good quality control and communication of updates, it’s started to become a little burdensome. The number of finding aids in DIMES has grown exponentially over the last few years, and with the introduction of ArchivesSpace, we have more staff than ever finding and correcting minor errors in our finding aids. In addition, we didn’t have good version control over the exported data – updated files would simply replace older versions in DIMES. It was time for a streamlined solution that provided us with a more robust, automated and transparent workflow.
 
@@ -30,8 +30,6 @@ Here’s a key point: because the script looks for published resource records, w
 I'd be remiss if I didn't thank a number of people who helped me with this along the way. First of all, a big thank you to Sibyl Schaefer, our former Head of Digital Programs, for suggesting this workflow a few months back. We hope you like how we’ve implemented it! Andromeda Yelton, Dave Mayo, Mark Matienzo and Mark Triggs reviewed this code and provided excellent suggestions which made the script much easier to maintain, far more robust, and just generally better. I'm very grateful to have such a fantastic and generous professional network!
 
 We’d be really happy to have other people give this code a spin and, if you discover any problems, create an issue or pull request in the [repository](https://github.com/RockefellerArchiveCenter/asExportIncremental)!
-
-<a href="#_ftnref1" name="_ftn1"></a>
 
 * * *
 

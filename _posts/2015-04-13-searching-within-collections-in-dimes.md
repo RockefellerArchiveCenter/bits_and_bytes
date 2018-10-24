@@ -22,6 +22,6 @@ When you search within a collection, you’ll see only the series, subseries and
 
 In addition to this change, there are a few other minor tweaks we’ve made:
 
-  * Complete hierarchy for a collection is now displayed in the table of contents for contents list pages.
-  * Improved handling for resource records with identifiers containing a period.
-  * Detailed information boxes in search results pages now slide out from underneath the component to which they refer, offering additional visual clues as to their meaning.
+* Complete hierarchy for a collection is now displayed in the table of contents for contents list pages.
+* Improved handling for resource records with identifiers containing a period.
+* Detailed information boxes in search results pages now slide out from underneath the component to which they refer, offering additional visual clues as to their meaning.

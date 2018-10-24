@@ -16,7 +16,3 @@ A few weeks ago, in a series of conversations with some of the smart people in o
 We see this group as fulfilling needs in both the Research and Education and Archives divisions. On the Research and Education side, staff are often called on to speak for the RAC as a whole at public events, so a deeper understanding of archival functions, principles and practices will help instill confidence and allow for more in-depth discussion of what we do as an organization. On the Archives side, we often find it difficult to make time for ongoing reading, particularly if it’s theoretical in nature. In addition, a more thorough understanding of trends in scholarship might help us think creatively about the reference services we offer, perhaps adding or removing tools, processes and services to match the current landscape of scholarship.
 
 We’ve also set up a [Zotero group](https://www.zotero.org/groups/rac_reading_group) for this project, so you can follow along with the readings for each of our sessions. That [group’s library](https://www.zotero.org/groups/rac_reading_group/items) will continue to grow as we hold additional sessions. Stay tuned for further updates!
-
-&nbsp;
-
-&nbsp;
