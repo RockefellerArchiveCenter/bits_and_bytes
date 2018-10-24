@@ -70,14 +70,14 @@ These records included an Accession, Resource, Digital Object, Name, and Subject
 
 Some of the early issues included:
 
-  * Access Restrictions notes migrating as Use Restrictions
-  * Finding Aid Filing Titles not migrating
-  * Finding Aid Language not migrating
-  * Digital Object dates defaulting to digitized date not creation date
-  * Digital Object file version URIs that are not valid URIs break the display of Digital Objects
-  * Restrictions apply Boolean values not migrating
-  * All lowercase spellings in controlled value lists
-  * Controlled value list items not already in ArchivesSpace throwing translation errors
+* Access Restrictions notes migrating as Use Restrictions
+* Finding Aid Filing Titles not migrating
+* Finding Aid Language not migrating
+* Digital Object dates defaulting to digitized date not creation date
+* Digital Object file version URIs that are not valid URIs break the display of Digital Objects
+* Restrictions apply Boolean values not migrating
+* All lowercase spellings in controlled value lists
+* Controlled value list items not already in ArchivesSpace throwing translation errors
 
 [<img class="aligncenter  wp-image-1297" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/translation-missing-300x167.jpg" alt="translation missing" width="467" height="266" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/translation-missing.jpg)
 
