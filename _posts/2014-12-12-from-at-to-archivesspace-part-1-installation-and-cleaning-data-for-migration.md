@@ -13,13 +13,15 @@ tags:
   - ArchivesSpace
   - metadata
 ---
-About a year and a half ago, we decided that we were going to make the switch from our current Archival Management System, the no-longer-updated Archivists Toolkit, to its next iteration, ArchivesSpace. The RAC officially began preparing ourselves for ArchivesSpace in January of 2014. <!--more-->At the beginning of the project, we were working with AS version 1.0.4, which was the fourth iteration of the system since its official release at the end of September 2013. Throughout the process, the ArchivesSpace project team primarily consisted of four members: myself, Digital Team Assistant Director Sibyl Schaefer, our Systems Administrator Jose Morillo, and Lead Digital Archivist Hillel Arnold. The project team was small, our goal was to adopt a user-centric approach to the migration, so we worked closely with members of the Archival Services, Processing, Reference, and Collections Development groups, and involved them in almost every step of the process.
+About a year and a half ago, we decided that we were going to make the switch from our current Archival Management System, the no-longer-updated Archivists Toolkit, to its next iteration, ArchivesSpace. The RAC officially began preparing ourselves for ArchivesSpace in January of 2014. <!--more-->
+
+At the beginning of the project, we were working with AS version 1.0.4, which was the fourth iteration of the system since its official release at the end of September 2013. Throughout the process, the ArchivesSpace project team primarily consisted of four members: myself, Digital Team Assistant Director Sibyl Schaefer, our Systems Administrator Jose Morillo, and Lead Digital Archivist Hillel Arnold. The project team was small, our goal was to adopt a user-centric approach to the migration, so we worked closely with members of the Archival Services, Processing, Reference, and Collections Development groups, and involved them in almost every step of the process.
 
 I started working at the RAC in late September 2013, fresh out of graduate school, having touched the system less than five times in my life up to that point. While the RAC did not hire me specifically for the ArchivesSpace transition, within my first month of work, Sibyl placed me in charge of the migration. I spent much of the next year going from feeling like a babe in the woods to an expert, and hopefully this series of posts will give context to how I became an expert at the system. I’ll outline the major steps we took along the way with the amount of hours I spent on each stage, so you can have a comprehensive understanding of how long it might take someone with slightly above average computer skills to make the same journey. I should note that much of the work happened concurrently, but in interests of clarity and legibility I have broken the work into discrete segments. The entire project took about 550 FTE hours over 11 months.
 
 Now that I’ve set the stage, let’s jump into an actual review of the work!
 
-**INSTALLATION AND SETUP – 40 hours in 11 months**
+## INSTALLATION AND SETUP – 40 hours in 11 months
 
 The very first thing I did was install ArchivesSpace on my work desktop and get a local instance of it up and running. [Local installation](https://github.com/archivesspace/archivesspace/#getting-started "Getting Started") took less than thirty minutes to get up and running, and literally included unzipping a group of folders to a folder on my desktop. I spent about five hours familiarizing myself with the system, and going back and forth between AT and AS to compare and contrast the terminology, user interface, and base functionality. After one day, I felt confident that when we put the system up on a server, I would be able to identify whether it was running properly or not.
 
@@ -29,38 +31,38 @@ After the VM was up and running, getting ArchivesSpace installed was as easy as 
 
 The whole process of setting up the server and making sure that everything was working took about 10 hours in that first month. In the next eleven months, server maintenance, upgrading through seven versions of the system, and setting up a second development server took a total of 30 hours, and was one of the easiest parts of the entire process. There were a few hiccups along the way (installing LDAP took a little finagling by our Sys Admin), but once you can install the program, it’s really simple to get it up and running again in under an hour as long as you have a Virtual Machine already set up. I filled those remaining thirty hours with installing and uninstalling ArchivesSpace upwards of 50 times, exploring the directory structure and source code, and testing restores from backup for both the entire VM and the backend database. With the system up and running, it was time to look back at what the RAC had done in the past, and asses the current state of the data in its Archivist Toolkit installation.
 
-**Cleaning and Preparing AT Data for Migration – 25 hours in 3 months**
+## Cleaning and Preparing AT Data for Migration – 25 hours in 3 months
 
 Before I delve into the Rockefeller Archive Center’s metadata, I want to give some quick stats about our AT installation at the time of migration. We had 13,944 name records, 8,246 subject records, 3,264 accession records, 11,304 resource records, and 2,401 digital object records.
 
-[<img class="aligncenter size-medium wp-image-1270" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/12/AT-Record-Count-300x180.jpg" alt="AT Record Count" width="300" height="180" srcset="http://blog.rockarch.org/wp-content/uploads/2014/12/AT-Record-Count-300x180.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/12/AT-Record-Count.jpg 483w" sizes="(max-width: 300px) 100vw, 300px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/12/AT-Record-Count.jpg)
+![Archivists Toolkit Record Count](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/12/AT-Record-Count.jpg)
 
 I give these numbers to illustrate that we had a fair amount of data in our system, and much of it had not been checked or standardized since we first moved to AT. However, we had migrated from Re:Discovery to AT a few years earlier, and that required much more cleaning and standardization of data. As such, while our metadata might be [dirty](http://media0.giphy.com/media/U2Vd7z6wB3zpK/giphy.gif) in some places, the majority of our AT data took little work.
 
 My first step was to check our controlled value lists in AT and look at our different data options for every single field. It became immediately clear that some of our lookup list data was extremely messy thanks to archivists adding data without first cross-referencing spellings or variations that might already exist in the database. What follows is a completely unedited list of every single extent type we had in AT pre-cleanup:
 
-  * bound volume
-  * Box
-  * box(es)
-  * Cubic feet
-  * cubic ft.
-  * document box
-  * document boxes
-  * document cases
-  * feet
-  * film reel
-  * Folder
-  * Folders
-  * Hanging folders
-  * item(s)
-  * Linear feet
-  * microfilm reels
-  * pages
-  * record cartons
-  * reels
-  * tapes
-  * Volume
-  * volumes
+* bound volume
+* Box
+* box(es)
+* Cubic feet
+* cubic ft.
+* document box
+* document boxes
+* document cases
+* feet
+* film reel
+* Folder
+* Folders
+* Hanging folders
+* item(s)
+* Linear feet
+* microfilm reels
+* pages
+* record cartons
+* reels
+* tapes
+* Volume
+* volumes
 
 The issues with this list should be clear, and this was not even the worst list of offenders; container and instance types had even greater variation. For those dealing with the same sort of issues, there are some really easy steps you can take to tackle this problem. AT allows admin users to edit, merge, and delete Lookup Lists from within the system, and you can take huge steps to alleviating your data problems by massaging these features.
 

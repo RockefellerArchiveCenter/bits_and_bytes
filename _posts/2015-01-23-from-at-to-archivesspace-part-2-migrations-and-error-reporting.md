@@ -12,82 +12,68 @@ categories:
 tags:
   - ArchivesSpace
 ---
-**Migration Testing, Data Quality Checks, and Troubleshooting Errors – 295 hours in 8 months**
+## Migration Testing, Data Quality Checks, and Troubleshooting Errors – 295 hours in 8 months
 
 After finishing the initial data cleanup, it was time to start testing our migration; the only way to identify major issues was to do a dry run. To set up for our initial testing, I took a MySQL dump of our AT database, loaded it up into an empty AT instance, and then installed the [AT Migration Plugin](https://github.com/archivesspace/at-migration/releases). To install the AT Migration Plugin, just place the scriptAT.zip in your base AT plugins folder, either on a server or on your local machine.
 
 Our first migration test did not go smoothly.<!--more-->
 
-[<img class="aligncenter  wp-image-1294" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/First-migration.jpg" alt="First migration" width="359" height="47" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/First-migration.jpg)
-
-&nbsp;
+![First migration test](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/First-migration.jpg)
 
 When I first saw that number, I admit I was worried, but upon further inspection I realized that most of these save errors stemmed from duplicate subject terms. AT will occasionally let you create two subjects with the same title from ArchDescriptionSubjects table in the database and SubjectTermT if you import the data directly into the system, which the RAC had done in the past with large groups of materials. The below image shows an example of one of our duplicate subject terms that we needed to merge before migration. This failed because the AT to AS migratory had already migrated data from ArchDescriptionSubjects to the AS Subject table that shared the same title and SubjectTermType.
 
-[<img class="aligncenter  wp-image-1292" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Duplicate-Subjects-300x80.jpg" alt="Duplicate Subjects" width="592" height="168" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Duplicate-Subjects.jpg)
-
-&nbsp;
+![Duplicate subjects](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Duplicate-Subjects.jpg)
 
 ArchivesSpace is not able to migrate these duplicate subject terms, and then will throw back an error whenever it tries to migrate a linked resource or accession record.
 
 You might remember from the last post that I searched for duplicate terms prior to migration, but I missed about 15 duplicate terms through human error. These were easy to identify and correct in AT. However, I noticed that a significant number of Accession records had not carried over.
 
-[<img class="aligncenter  wp-image-1293" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/First-migration-stats-300x230.jpg" alt="First migration stats" width="422" height="327" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/First-migration-stats.jpg)
+![First migration statistics](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/First-migration-stats.jpg)
 
 And the ArchivesSpace migration log was less than helpful.
 
-[<img class="aligncenter  wp-image-1290" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Accession-Error-Migration-300x67.jpg" alt="Accession Error Migration" width="495" height="120" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Accession-Error-Migration.jpg)
-
-&nbsp;
+![Accession migration errors](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Accession-Error-Migration.jpg)
 
 It was at this point that the ArchivesSpace user forum listserv became invaluable. I had no idea what these errors were trying to tell me, so I asked the migration tool developer directly. He told us that it was most likely a problem with the migration tool, and that he would have to update it. While the migration reporting was generally good about telling us what went wrong, I never would have been able to figure the above error out by myself, and our only recourse was contacting the developer and waiting for a response.
 
 Besides the migration tool errors, we also ran into a problem with resource records being too large to migrate.
 
-[<img class="aligncenter  wp-image-1296" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Too-large-to-migrate-300x64.jpg" alt="Too large to migrate" width="527" height="122" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Too-large-to-migrate.jpg)
-
-&nbsp;
+![Large records](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Too-large-to-migrate.jpg)
 
 Even when turning up our java heap settings to 1 GB, we had two resource records that were just too large to migrate using the migration tools. The migration would slow to a crawl when it hit these, and after about two hours, would just skip over them due to their size. We eventually had to split these resource records into four smaller segments, which worked, but we were never able to migrate the single resource over without issue.
 
 We also had issues with duplicate EAD IDs, end dates coming before start dates, and duplicate digital object METS identifiers, which were all caused by previous data imports into AT and EAD imports.
 
-[<img class="aligncenter  wp-image-1291" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Duplicate-EAD-ID-300x43.jpg" alt="Duplicate EAD ID" width="593" height="97" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Duplicate-EAD-ID.jpg)
-
-&nbsp;
+![Duplicate EAD ID](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Duplicate-EAD-ID.jpg)
 
 I easily fixed all of these issue by going into our AT instance and manually changing the offending records. It would probably be possible to update some of these settings directly in the backend database, but given the relatively low number of issues, I went for a more manual approach. However, the above are only the issues that the migration tools identified; checking migrated content once it made it into the system was imperative to a successful transition.
 
-**Data Quality and System Functionality Checks**
+## Data Quality and System Functionality Checks
 
 Prior to migration, I created test records in AT, with the field’s name as the content in each field, and all linked together.
 
-[<img class="aligncenter  wp-image-1295" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Test-Record-300x214.jpg" alt="Test Record" width="545" height="393" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Test-Record.jpg)
-
-&nbsp;
+![Test Record](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/Test-Record.jpg)
 
 These records included an Accession, Resource, Digital Object, Name, and Subject. We used these test records to definitively see which field mapped to which in ArchivesSpace, and also whether there were any issues with the migrated data. After each migration I would check every field in these test records against the data entered in AT, and note any differences in the content or display. We also checked a few other records from each section because we knew that other issues could arise with full records as opposed to the test records.
 
 Some of the early issues included:
 
-  * Access Restrictions notes migrating as Use Restrictions
-  * Finding Aid Filing Titles not migrating
-  * Finding Aid Language not migrating
-  * Digital Object dates defaulting to digitized date not creation date
-  * Digital Object file version URIs that are not valid URIs break the display of Digital Objects
-  * Restrictions apply Boolean values not migrating
-  * All lowercase spellings in controlled value lists
-  * Controlled value list items not already in ArchivesSpace throwing translation errors
+* Access Restrictions notes migrating as Use Restrictions
+* Finding Aid Filing Titles not migrating
+* Finding Aid Language not migrating
+* Digital Object dates defaulting to digitized date not creation date
+* Digital Object file version URIs that are not valid URIs break the display of Digital Objects
+* Restrictions apply Boolean values not migrating
+* All lowercase spellings in controlled value lists
+* Controlled value list items not already in ArchivesSpace throwing translation errors
 
-[<img class="aligncenter  wp-image-1297" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/translation-missing-300x167.jpg" alt="translation missing" width="467" height="266" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/translation-missing.jpg)
-
-&nbsp;
+![Missing translation](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/01/translation-missing.jpg)
 
 As these were issues with the system’s code, we reported them to the development team, made sure they were recorded on the [ArchivesSpace PivotalTracker](https://www.pivotaltracker.com/n/projects/386247) page, and waited until the next release before testing again. Given the relatively large number of issues even six months after release, we tested each release thoroughly, pouring through our migrated data once it was in the system; we made sure that everything worked as intended before we went live. This was by far one of the most time-consuming portions of our transition. We created our own personal list of all of our data issues, and made sure to check through them with each test migration, as well as performing a full data quality check specifically looking for any new issues created in the update. We found this repetitive and iterative testing necessary since new issues were sometimes introduced in new releases.
 
 Following a migration, we would export a resource record’s EAD from ArchivesSpace, generally opting to choose a resource record with linked digital objects. Then, we would delete the resource from our ArchivesSpace system, and then import the EAD back into the system. This way we could see if there were any fields that did not export out of the system, or any that would not import into it. This also helped us identify issues like extent type tags with white space crashing the EAD exporter, and is how we learned about the instance container and the accessrestrict notes issues. Our Lead Digital Archivist would then export EAD and test it in our XTF finding aid discovery system to test it for any display issues. Just like the data quality checks, we repeated these processes with each new release, and we continued testing all the way up until the day of announcing a successful migration.
 
-**Troubleshooting Errors**
+## Troubleshooting Errors
 
 We troubleshooted each issue we came across to figure out whether it was active only on our own instance, or present in the migration tools or system code.
 

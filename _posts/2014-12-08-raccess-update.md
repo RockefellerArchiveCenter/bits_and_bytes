@@ -16,7 +16,7 @@ It’s been a while since we posted anything about our Aeon implementation, so I
 
 ## Naming Contest
 
-The first thing, as you may notice from the title of this post, is that the winner of the naming contest we ran back in June for our local implementation of Aeon was **RACcess**, as suggested by Norine. Researchers (and staff) will be able to access the system’s web interface at <http://raccess.rockarch.org>, and we’ll use this name to provide a customized brand for Aeon here at the RAC.
+The first thing, as you may notice from the title of this post, is that the winner of the naming contest we ran back in June for our local implementation of Aeon was **RACcess**, as suggested by Norine. Researchers (and staff) will be able to access the system’s web interface at [raccess.rockarch.org](http://raccess.rockarch.org), and we’ll use this name to provide a customized brand for Aeon here at the RAC.
 
 ## Site Visits
 
@@ -30,7 +30,7 @@ The project team has been largely focused on working through the processes for r
 
 The registration processes are detailed in the workflow diagram below (you’ll probably want to click on the image to enlarge it):
 
-[<img class="alignnone size-large wp-image-1259" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1-1024x791.png" alt="Registration Workflow - New Page (1)" width="584" height="451" srcset="http://blog.rockarch.org/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1-1024x791.png 1024w, http://blog.rockarch.org/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1-300x231.png 300w, http://blog.rockarch.org/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1-388x300.png 388w" sizes="(max-width: 584px) 100vw, 584px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1.png)
+![Registration Workflow ](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1.png)
 
 ### Policy Revision
 
