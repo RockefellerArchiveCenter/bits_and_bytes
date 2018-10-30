@@ -13,7 +13,7 @@ tags:
   - digital policies
   - digtal preservation
 ---
-**SAA 2013 New Orleans**
+## SAA 2013 New Orleans
 
 This was an extremely informative workshop led by [Nancy McGovern](http://www.digitalpreservation.gov/series/pioneers/mcgovern.html "Nancy McGovern"), Head of Curation and Preservation Services at MIT and [Helen Tibbo](http://blogs.loc.gov/digitalpreservation/2011/10/digital-preservation-pioneer-helen-tibbo/ "Helen Tibbo") Alumni Distinguished Professor at UNC Chapel Hill in which concepts, principles, and practices for developing a digital curation program to effectively manage digital content were reviewed. This workshop highlighted issues of advocacy, preservation planning, and policy development necessary to manage digital content for the future.<!--more-->
 
