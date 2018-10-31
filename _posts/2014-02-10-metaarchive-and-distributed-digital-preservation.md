@@ -19,12 +19,11 @@ After a review of [Distributed Digital Preservation Services](http://rockarch.or
 
 Perhaps what sold me most on the service was documentation I read from the [NDIPP Operations Plan describing the purposes of MetaArchive](http://metaarchive.org/public/resources/presentations/200910_workshop_houston/ndiip_docs/NDIIPP_Operations_Plan.pdf "NDIPP Management Plan MetaArchive Project"). It states that by outsourcing key missions to vendors (preservation being a key mission), cultural memory organizations suffer in three ways:
 
-\" 
-1. Usually, they [cultural heritage institutions] have limited knowledge of how the solution actually works and thus no power to perform it or even clearly assess it for themselves,
+>"1. Usually, they [cultural heritage institutions] have limited knowledge of how the solution actually works and thus no power to perform it or even clearly assess it for themselves,
 
-2. They become marginalized as organizations that contract for services rather than performing their own key missions, and
+>2. They become marginalized as organizations that contract for services rather than performing their own key missions, and
 
-3. They (and their materials) are subject to the rising prices that vendors will charge in order to maximize their financial gain."
+>3. They (and their materials) are subject to the rising prices that vendors will charge in order to maximize their financial gain."
 
 Although there are cheaper services out there - [Preservica](http://preservica.com/), for instance - I agree that farming out preservation activities to such services would result in a loss of our own knowledge, and in my mind, an inability to responsibly act as custodians of the materials in our care. Having the dangers of outsourcing so clearly explicated in documentation describing the purpose of the Collaborative reinforced my own feelings on the matter, and made me want to support the initiative because of its purpose as well as its offered services.
 
