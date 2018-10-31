@@ -19,7 +19,7 @@ After a review of [Distributed Digital Preservation Services](http://rockarch.or
 
 Perhaps what sold me most on the service was documentation I read from the [NDIPP Operations Plan describing the purposes of MetaArchive](http://metaarchive.org/public/resources/presentations/200910_workshop_houston/ndiip_docs/NDIIPP_Operations_Plan.pdf "NDIPP Management Plan MetaArchive Project"). It states that by outsourcing key missions to vendors (preservation being a key mission), cultural memory organizations suffer in three ways:
 
-  "1. Usually, they [cultural heritage institutions] have limited knowledge of how the solution actually works and thus no power to perform it or even clearly assess it for themselves,
+\"\1. Usually, they [cultural heritage institutions] have limited knowledge of how the solution actually works and thus no power to perform it or even clearly assess it for themselves,
 
 2. They become marginalized as organizations that contract for services rather than performing their own key missions, and
 
