@@ -8,6 +8,6 @@ permalink: /?p=855
 categories:
   - D-Team
 ---
-[<img class="size-full wp-image-856" alt="Patrick Galligan Intro Photo" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2013/11/38edfaf.jpg" width="200" height="200" srcset="http://blog.rockarch.org/wp-content/uploads/2013/11/38edfaf.jpg 200w, http://blog.rockarch.org/wp-content/uploads/2013/11/38edfaf-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2013/11/38edfaf.jpg)
+![Patrick Galligan Intro Photo](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2013/11/38edfaf.jpg)
 
 Patrick Galligan joined the RAC’s D-Team a little over a month ago, and is working on various projects related to the digitization of all medium types at the RAC, including metadata capture, quality control, and optimizing workflows. Patrick is standardizing the way the RAC performs its digitization projects, so that future projects will be quicker and easier. In the future, he will work on capturing websites with the Internet Archive’s tool, Archive-It. He will also be assisting with the RAC’s transition from ATReference to ArchivesSpace.
