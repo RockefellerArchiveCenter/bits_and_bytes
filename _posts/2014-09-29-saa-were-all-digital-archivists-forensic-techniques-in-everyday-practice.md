@@ -19,6 +19,4 @@ At the recent [Society of American Archivists](http://www2.archivists.org/) [ann
 
 ![The Signal Interview](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/09/Screen-Shot-2014-09-29-at-2.21.57-PM-300x181.png)
 
-(http://blogs.loc.gov/digitalpreservation/2014/09/were-all-digital-archivists-now-an-interview-with-sibyl-schaefer)
-
 As a result of my presentation, I was asked [to do an interview](http://blogs.loc.gov/digitalpreservation/2014/09/were-all-digital-archivists-now-an-interview-with-sibyl-schaefer/) with [Trevor Owens](http://www.trevorowens.org/) for [The Signal](http://blogs.loc.gov/digitalpreservation/), the Library of Congress blog on digital preservation. [The interview](http://blogs.loc.gov/digitalpreservation/2014/09/were-all-digital-archivists-now-an-interview-with-sibyl-schaefer) went live last week and touches on some points I made during my presentation as well as current and future D-Team projects. I hope you enjoy it!
