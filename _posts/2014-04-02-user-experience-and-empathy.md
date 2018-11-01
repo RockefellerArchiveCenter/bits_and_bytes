@@ -12,9 +12,9 @@ tags:
   - empathy
   - presentations
 ---
-One of the talks that has really stuck with me from this year’s <a href="http://code4lib.org/conference/2014/" target="_blank">Code4Lib conference</a> was the opening keynote, “UX Is A Social Justice Issue,” given by Sumana Harihareswara. She is an <a href="https://www.mediawiki.org/wiki/User:Sharihareswara_%28WMF%29" target="_blank">Engineering Community Manager at the Wikimedia Foundation</a>, and you can read more about her (very impressive) work on <a href="http://www.harihareswara.net/" target="_blank">her website</a>.
+One of the talks that has really stuck with me from this year’s [Code4Lib conference](http://code4lib.org/conference/2014/) was the opening keynote, “UX Is A Social Justice Issue,” given by Sumana Harihareswara. She is an [Engineering Community Manager at the Wikimedia Foundation](https://www.mediawiki.org/wiki/User:Sharihareswara_%28WMF%29), and you can read more about her (very impressive) work on [her website](http://www.harihareswara.net/).
 
-If you’re an archivist, you should either <a href="https://www.youtube.com/watch?v=_8MJATYsqbY" target="_blank">watch the recording</a> of her talk, or <a href="http://wiki.code4lib.org/index.php/2014_Keynote_by_Sumana_Harihareswara" target="_blank">read the transcript</a> that is posted on the Code4Lib website. That’s right, I mean you. Go ahead, I’ll wait.<!--more-->
+If you’re an archivist, you should either [watch the recording](https://www.youtube.com/watch?v=_8MJATYsqbY) of her talk, or [read the transcript](http://wiki.code4lib.org/index.php/2014_Keynote_by_Sumana_Harihareswara) that is posted on the Code4Lib website. That’s right, I mean you. Go ahead, I’ll wait.<!--more-->
 
 Wow, back already? Or are you still not convinced? Either way, let me tell you why I think this talk is so important.
 
@@ -24,4 +24,4 @@ And that’s why the points she makes about empathy are so very critical for us 
 
 In the archival profession, we’re all implicated in this project, because every part of the archival enterprise affects the resulting user experience. Even if you’re an archivist who never interacts with researchers (in which case, you should do something about that) your work will have an impact on someone’s ability to find, evaluate and use materials down the road.
 
-If you still haven’t <a href="http://wiki.code4lib.org/index.php/2014_Keynote_by_Sumana_Harihareswara" target="_blank">read</a> or <a href="https://www.youtube.com/watch?v=_8MJATYsqbY" target="_blank">watched</a> the talk, please go do it now. Please.
+If you still haven’t [read](http://wiki.code4lib.org/index.php/2014_Keynote_by_Sumana_Harihareswara) or [watched](https://www.youtube.com/watch?v=_8MJATYsqbY) the talk, please go do it now. Please.
