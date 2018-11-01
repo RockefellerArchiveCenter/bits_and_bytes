@@ -49,4 +49,4 @@ Since Aeon is so flexible, it’s possible we’ll find other ways for the syste
 
 With all of these processes, implementing Aeon will give us a chance to think about what we are doing and why we are doing it. Many of our workflows for reference services have been inherited from a time when archives, scholarship and the RAC were all very different. This is a great chance for us to think about what kind of needs our researchers have, and how we can best meet those needs through unique, value-added services that minimize the amount of menial labor on our part and improve the experience of our researchers.
 
-If you’re interested in reading more about Aeon, you can visit their website, or take a look at their <a href="http://www.atlas-sys.com/products/aeon/downloads/10_112_aeon_broch_web.pdf" target="_blank">brochure</a> which explains how the system works in more detail.
+If you’re interested in reading more about Aeon, you can visit their website, or take a look at their [brochure](http://www.atlas-sys.com/products/aeon/downloads/10_112_aeon_broch_web.pdf) which explains how the system works in more detail.
