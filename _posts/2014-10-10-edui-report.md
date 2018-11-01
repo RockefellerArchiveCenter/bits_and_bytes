@@ -12,11 +12,7 @@ tags:
   - edui
   - presentations
 ---
-<div>
-  <p>
-    I’m just back from [edUI](http://eduiconf.org/), a conference of web professionals who work in educational institutions, held in Richmond, Virginia. As was the case [last year](http://rockarch.org/programs/digital/bitsandbytes/?p=875), it was a gathering full of fascinating presentations given by excellent speakers. I was very honored (and more than a little intimidated) to present on some of the work we’ve done to [improve DIMES](http://hillelarnold.com/blog/2014/09/30/better-search-through-listening/). There was a lot of interest in what archivists do, and in bringing the worlds of user experience and archives in closer conversation, which I find very exciting.<!--more-->
-  </p>
-</div>
+I’m just back from [edUI](http://eduiconf.org/), a conference of web professionals who work in educational institutions, held in Richmond, Virginia. As was the case [last year](http://rockarch.org/programs/digital/bitsandbytes/?p=875), it was a gathering full of fascinating presentations given by excellent speakers. I was very honored (and more than a little intimidated) to present on some of the work we’ve done to [improve DIMES](http://hillelarnold.com/blog/2014/09/30/better-search-through-listening/). There was a lot of interest in what archivists do, and in bringing the worlds of user experience and archives in closer conversation, which I find very exciting.<!--more-->
 
 # Expertise
 
