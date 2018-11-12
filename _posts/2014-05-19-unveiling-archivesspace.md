@@ -31,8 +31,6 @@ Following training, we will make a sandbox instance of ArchivesSpace available c
 
 Following the two-week sandbox period, we will make the full transition from ATReference to ArchivesSpace. The transition date is currently **August 4**, and barring any major issues, that will be the date where staff members will start using the system for official work. ATReference will not disappear immediately, as we will still use it for Reference tasks during the interim period between ArchivesSpace's launch and Aeon's launch.
 
-&nbsp;
-
 Leading up to these milestones, the D-Team will be conducting interviews with members of each team in order to better understand how they interact with ATReference and gather information on how they might interact with ArchivesSpace. We will also be re-writing documentation for the system where necessary, and will be working with different groups on making sure these documents are useful in moving forward.
 
 If you can't wait to get your hands on ArchivesSpace you can check out the [public sandbox](http://archivesspace.org/sandbox). To get started, just follow the link and log on with username: admin and password: admin.

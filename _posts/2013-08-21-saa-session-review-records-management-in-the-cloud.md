@@ -17,7 +17,3 @@ I was going to write an overview of this session, but [this article](http://www.
 One of the biggest advantages of cloud storage is geographic redundancy of servers - if there's a disaster in one geographic area, the data is still available via servers in other areas, and/or on local servers. Rather than use cloud storage, we'll be joining the LOCKSS-based initiative, [MetaArchive](http://www.metaarchive.org/). More information on MetaArchive will be provided in a future blog posting.
 
 To learn more about records management and cloud computing, I recommend one of the publications referenced in this session, The North Carolina Department of Cultural Resources, Division of Archives and Records [Best Practices for Cloud Computing: Records Management Considerations](http://www.records.ncdcr.gov/guides/cloud_computing_final_20120801.pdf) (PDF) While some of the considerations listed in the report are only applicable to government entities, there are plenty of others that would be applicable to our donor institutions who have moved or are thinking about moving services to the cloud.
-
-&nbsp;
-
-&nbsp;

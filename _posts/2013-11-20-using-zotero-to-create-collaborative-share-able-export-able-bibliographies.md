@@ -42,8 +42,6 @@ I then chose the item type from the drop-down menu and filled in the fields for 
 
 Also note that you can add multiple authors as well as editors and other "creators" (see the "add" button at left.)
 
-&nbsp;
-
 ![ZoteroAddRecordFinished](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2013/11/ZoteroAddRecordFinished.png) One wonderful thing about Zotero is that you can upload attachments to a reference, too. So if you have a pdf version of an article, you can attach it and have instant access to the content from your online library.
 
 Once your record has been saved, it will show you a summary of the citation information and any attachments.
