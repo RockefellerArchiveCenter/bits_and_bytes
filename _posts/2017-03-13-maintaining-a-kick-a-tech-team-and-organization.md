@@ -2,7 +2,7 @@
 id: 1707
 title: 'Maintaining a Kick A** Tech Team and Organization'
 date: 2017-03-13T12:17:29+00:00
-author: Hillel Arnold
+author: Hillel Arnold,	Bonnie Gordon,	Patrick Galligan
 layout: post
 permalink: /?p=1707
 categories:

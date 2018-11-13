@@ -2,7 +2,7 @@
 id: 1318
 title: 'Mistakes Were Made: Computer History, Decompiled'
 date: 2015-04-21T17:12:50+00:00
-author: Hillel Arnold
+author: Hillel Arnold,	Bonnie Gordon
 layout: post
 permalink: /?p=1318
 categories:
