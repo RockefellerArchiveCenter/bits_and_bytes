@@ -20,6 +20,6 @@ The contest will be very similar to the naming contest for XTF (which thanks to 
 
 This name will be used for the URL to host Aeon, similar to DIMES' URL being dimes.rockarch.org, so it should be short and preferably reflect Aeon's functionality in some way. As always, extra points for anything Rockefeller-related.
 
-We'll be accepting suggestions for names (either via email or as comments on the blog) until Friday, June 6th.  We'll open voting on a curated list of these names on the following Monday, June 9th until Friday, June 13th.
+We'll be accepting suggestions for names (either via email or as comments on the blog) until Friday, June 6th. We'll open voting on a curated list of these names on the following Monday, June 9th until Friday, June 13th.
 
 Names can be added as comments to this blog post, or emailed directly to Michele.

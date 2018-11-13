@@ -30,77 +30,14 @@ After each session, our project team held a debrief to identify the major usabil
 
 We designed six tasks to test the primary functions and features of the application. Upon completion, the user rated the task on a scale of 1-5, with 5 being the most difficult. To contextualize the tasks, we embedded them in scenarios that a user might encounter while using Aurora, such as an archivist responding to a query from a donor about why a transfer was rejected by the application.
 
-<table style="width: 100%;" border="1" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="20%">
-      <strong>Task</strong>
-    </td>
-
-    <td>
-      <strong>Description</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      BagIt Profile
-    </td>
-
-    <td>
-      Create a BagIt Profile for a specific organization
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Transfers
-    </td>
-
-    <td>
-      Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      User Admin
-    </td>
-
-    <td>
-      Navigate to the user admin page, locate a user's recent transfers and user details
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Appraise
-    </td>
-
-    <td>
-      View details and accept a transfer in the Appraisal Queue
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Accession
-    </td>
-
-    <td>
-      Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Rights
-    </td>
-
-    <td>
-      Create an accession record
-    </td>
-  </tr>
-</table>
+Task          | Description
+------------- | ------------------
+BagIt Profile | Create a BagIt Profile for a specific organization
+Transfers     | Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
+User Admin    | Navigate to the user admin page, locate a user’s recent transfers and user details
+Appraise      | View details and accept a transfer in the Appraisal Queue
+Accession     | Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
+Rights        | Create an accession record
 
 ![Usability task rating](http://blog.rockarch.org/wp-content/uploads/2018/09/aurora-taskrating-graph.png)
 
