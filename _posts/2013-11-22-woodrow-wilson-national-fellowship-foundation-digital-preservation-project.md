@@ -16,7 +16,7 @@ tags:
   - PREMIS
   - preservation metadata
 ---
-The [Woodrow Wilson National Fellowship Foundation](http://woodrow.org/ "Woodrow Wilson National Fellowship Foundation") (WWNFF) program was designed to encourage college graduates to consider college teaching as a career and provided support for first-year graduate students in the humanities and the social sciences in its early years before expanding to include mathematics and the sciences. Each fellowship file contains application forms, recommendations, transcripts, and other documentation used to track the fellow’s progress.
+The [Woodrow Wilson National Fellowship Foundation](http://woodrow.org/ "Woodrow Wilson National Fellowship Foundation") (WWNFF) program was designed to encourage college graduates to consider college teaching as a career and provided support for first-year graduate students in the humanities and the social sciences in its early years before expanding to include mathematics and the sciences. Each fellowship file contains application forms, recommendations, transcripts, and other documentation used to track the fellow's progress.
 
 <!--more-->
 
@@ -28,4 +28,4 @@ In 2013, Assistant Digital Archivist Laura Montgomery compared the original File
 
 Currently, the bag of WWNFF files is waiting to be ingested into Archivematica for storage. Before the files are ingested into Archivematica, the Rights Team, staffed by Archivists Mary Ann Quinn and Amy Fitch will determine the rights for this collection and devise PREMIS statements for the objects.
 
-A lesson learned from the Woodrow Wilson National Fellowship Foundation fellow file conversion project is that a digital preservation project can take many years to complete. For a project that has spanned five years to be successful, it requires good documentation of the decision making process and a detailed project work plan. Keeping a record of previous work done helps inform and organize future decisions regarding the materials. This digital preservation project also required a lot of input and teamwork across the staff grouping matrix. I would like to send out a big thank you for everyone’s efforts involved!
+A lesson learned from the Woodrow Wilson National Fellowship Foundation fellow file conversion project is that a digital preservation project can take many years to complete. For a project that has spanned five years to be successful, it requires good documentation of the decision making process and a detailed project work plan. Keeping a record of previous work done helps inform and organize future decisions regarding the materials. This digital preservation project also required a lot of input and teamwork across the staff grouping matrix. I would like to send out a big thank you for everyone's efforts involved!

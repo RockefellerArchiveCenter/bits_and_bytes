@@ -19,7 +19,7 @@ Most of what we needed to was pretty simple: adding items to the enumerations fi
 
 ![Enumerations](/wp-content/uploads/2015/01/Enumerations.jpg)
 
-We did call on the help of the developers and Chris Fitzpatrick was kind enough to create a few quick customizations in the form of local plugins. You can find these files here: <https://gist.github.com/cfitz>. Most of these changes can go into your system's plugins/local/frontend directory, and then if you call “local” plugins in the config.rb file of ArchivesSpace, the plugins will override the base system settings.
+We did call on the help of the developers and Chris Fitzpatrick was kind enough to create a few quick customizations in the form of local plugins. You can find these files here: <https://gist.github.com/cfitz>. Most of these changes can go into your system's plugins/local/frontend directory, and then if you call "local" plugins in the config.rb file of ArchivesSpace, the plugins will override the base system settings.
 
 ![Plugins](/wp-content/uploads/2015/01/Config_Plugins.jpg)
 

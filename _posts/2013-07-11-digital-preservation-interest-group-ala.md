@@ -29,7 +29,7 @@ Presenters:
 
 Aaisha Haykal, Director of Archives and Special Collections at Chicago State University
 
-Patrice-Andre Prud’homme, Head of Digital Collections at Illinois State University
+Patrice-Andre Prud'homme, Head of Digital Collections at Illinois State University
 
 Slides:[LevelsofPreservation](/wp-content/uploads/2013/07/LevelsofPreservation1.pptx) [digitalpowrr\_dp\_ala\_2013\_haykal_prudhomme](/wp-content/uploads/2013/07/digitalpowrr_dp_ala_2013_haykal_prudhomme.pptx)
 
@@ -37,7 +37,7 @@ Slides:[LevelsofPreservation](/wp-content/uploads/2013/07/LevelsofPreservation1.
 
 The Chronicles in Preservation Project is a three-year program funded by the NEH to study, document, and model the curation of digitally preserved newspaper collections, both digitized and born digital. The Chronicles Project is testing and recommending a spectrum of tools and practices from essential to optimal. In this presentation, we will
 
-discuss how the use of open-source tools such as the DAITSS Description Service, UNT’s PREMIS Event Service, and implementations of the BagIt standard can automate the creation and monitoring of foundational digital preservation elements.
+discuss how the use of open-source tools such as the DAITSS Description Service, UNT's PREMIS Event Service, and implementations of the BagIt standard can automate the creation and monitoring of foundational digital preservation elements.
 
 Presenters:
 

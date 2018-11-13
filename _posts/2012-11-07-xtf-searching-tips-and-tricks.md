@@ -10,7 +10,7 @@ categories:
 ---
 _Thanks to everyone who attended today's XTF training! I'm posting some of the tips and tricks I shared today, as well as a link to our development server below:_
 
-You can search across the RAC’s archival materials, books, DVDs, VHS and microfilm holdings from the home page or the Advanced Search page.
+You can search across the RAC's archival materials, books, DVDs, VHS and microfilm holdings from the home page or the Advanced Search page.
 
 You can search within an archival collection by selecting that collection and then using the "search within this collection" in the navigation bar.<!--more-->
 

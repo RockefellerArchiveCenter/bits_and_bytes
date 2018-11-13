@@ -18,7 +18,7 @@ Hillel is primarily working on setting up the eXtensible Text Framework (or XTF)
 ## Jeff Destine (Consultant)
 
 ![Jeff Destine headshot](/wp-content/uploads/2012/08/jeff.jpg)
-Jeff has been helping us out with server setup and optimization for our Linux-based systems, including XTF and Omeka (the system we’re using to develop the website for the RF’s Centennial). He is making sure these systems run quickly and smoothly, and are backed up so they can be restored should anything unexpected happen. He’ll be helping us implement our digital preservation system, Archivematica, in late summer/early fall.
+Jeff has been helping us out with server setup and optimization for our Linux-based systems, including XTF and Omeka (the system we're using to develop the website for the RF's Centennial). He is making sure these systems run quickly and smoothly, and are backed up so they can be restored should anything unexpected happen. He'll be helping us implement our digital preservation system, Archivematica, in late summer/early fall.
 
 ## Kate Mockler (Archival Support Staff)
 

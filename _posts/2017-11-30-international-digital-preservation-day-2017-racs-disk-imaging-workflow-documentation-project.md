@@ -1,6 +1,6 @@
 ---
 id: 1930
-title: 'International Digital Preservation Day 2017: RAC’s Disk Imaging Workflow Documentation Project'
+title: 'International Digital Preservation Day 2017: RAC's Disk Imaging Workflow Documentation Project'
 date: 2017-11-30T09:37:39+00:00
 author: Amy Berish
 layout: post
@@ -25,4 +25,4 @@ At the RAC, we are using a series of tools for imaging such as the [KryoFlux](ht
 
 To put our documentation to the test, we are conducting a blitz project which involves imaging all 5.25-inch floppy disks in our collections. Because of the finite amount of 5.25-inch disks and their fragility, we saw this as the perfect opportunity to introduce one form of imaging to the processing team while simultaneously putting a dent in our imaging backlog. We are currently working on developing interactive training sessions in a way that will equip processing archivists with the technical familiarity they will need to not only image the 5.25-inch disks, but also to troubleshoot when things go wrong. We plan to use these training sessions as an opportunity to test our documentation and request feedback from the processing archivists who will be using it.
 
-The RAC’s imaging workflow documentation will be available on [Read the Docs](http://digital-media-transfer-workflow.readthedocs.io/en/latest/) and [GitHub](https://github.com/RockefellerArchiveCenter/dm_transfer_workflow).
+The RAC's imaging workflow documentation will be available on [Read the Docs](http://digital-media-transfer-workflow.readthedocs.io/en/latest/) and [GitHub](https://github.com/RockefellerArchiveCenter/dm_transfer_workflow).

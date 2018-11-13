@@ -19,7 +19,7 @@ OAIS Resources
 
   1. [Blog post reviewing the basics](http://everybodyslibraries.com/2008/10/13/what-repositories-do-the-oais-model/) (good starting place)
   2. [Brian Lavoie, The OAIS Reference Model: Introductory Guide](http://www.dpconline.org/docs/lavoie_OAIS.pdf) [PDF]
-  3. [PDF from DCC’s Digital Curation 101 workshops](http://www.dcc.ac.uk/webfm_send/435). A bit on the technical side, but easy to use for reference.
+  3. [PDF from DCC's Digital Curation 101 workshops](http://www.dcc.ac.uk/webfm_send/435). A bit on the technical side, but easy to use for reference.
   4. [Digital Preservation Management Workshop](http://www.dpworkshop.org/dpm-eng/foundation/oais/index.html). We may be using the questions listed for discussion during the meeting.
 
 The following two resources are quite lengthy - please read the Introductions and areas that apply to your specific functional area (Appraisal, Description, etc) and browse the other sections.

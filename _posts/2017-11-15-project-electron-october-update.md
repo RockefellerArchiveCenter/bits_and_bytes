@@ -12,7 +12,7 @@ tags:
   - user centered design
   - wireframes
 ---
-As development of the Project Electron transfer application has continued over the past month, one important aspect of the work has been the creation of user interfaces based on the [wireframes](https://www.uxpin.com/studio/ui-design/what-is-a-wireframe-designing-your-ux-backbone/) we have designed during the design planning process. In this month’s update, I will discuss how both wireframes and the resulting user interfaces (UIs) of the application are important communication tools both internally for the development team, and externally with user groups including Rockefeller Archive Center staff and donors.<!--more-->
+As development of the Project Electron transfer application has continued over the past month, one important aspect of the work has been the creation of user interfaces based on the [wireframes](https://www.uxpin.com/studio/ui-design/what-is-a-wireframe-designing-your-ux-backbone/) we have designed during the design planning process. In this month's update, I will discuss how both wireframes and the resulting user interfaces (UIs) of the application are important communication tools both internally for the development team, and externally with user groups including Rockefeller Archive Center staff and donors.<!--more-->
 
 ## Wireframes
 
@@ -24,7 +24,7 @@ I recently completed a third set of wireframes for the design of UIs focused on 
 
 ## User Interfaces
 
-Just as wireframes are a valuable _internal _communication tool for the development team in the design process, creation of the application’s UIs have enabled _external_ communication with project stakeholders and user groups. Even in early forms, the application’s user interfaces allow us to demonstrate function concretely to RAC staff and leadership who will be implementing and using the application for the archival management of born-digital records, and to donors preparing to use the application for the transfer of those records. The user interfaces are a tangible representation of what Project Electron is and will become.
+Just as wireframes are a valuable _internal _communication tool for the development team in the design process, creation of the application's UIs have enabled _external_ communication with project stakeholders and user groups. Even in early forms, the application's user interfaces allow us to demonstrate function concretely to RAC staff and leadership who will be implementing and using the application for the archival management of born-digital records, and to donors preparing to use the application for the transfer of those records. The user interfaces are a tangible representation of what Project Electron is and will become.
 
 One of the [Project Electron values](http://projectelectron.rockarch.org/) that guides are work is to _place users at the center of the design process_. Throughout the project we have incorporated this user-centered design approach through activities like user group interviews, creating personas and user stories, card sorting exercises, and user scenario mapping. These activities were foundational for generating project requirements and for involving users in the design process. Being able to show the applications to user groups through the interface has been a valuable way to communicate function, and therefore to facilitate discussion and action toward other important aspects of Project Electron such as institutional planning, staff training, preparation of donor infrastructure, and project advocacy.
 

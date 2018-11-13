@@ -13,7 +13,7 @@ tags:
   - GitHub
   - new ideas
 ---
-It is hard to predict when inspiration is going to hit. While a great idea can strike quickly, realizing it is a longer process; one that often requires seeking the help and guidance of others. Luckily, at the RAC, I have coworkers who are ready to listen to new ideas and willing to help me figure out how to turn inspiration into reality. Today, I am very excited to share with you a recent example of such a collaboration and the RAC’s newest application: [MatchBox](http://matchbox.rockarch.org).
+It is hard to predict when inspiration is going to hit. While a great idea can strike quickly, realizing it is a longer process; one that often requires seeking the help and guidance of others. Luckily, at the RAC, I have coworkers who are ready to listen to new ideas and willing to help me figure out how to turn inspiration into reality. Today, I am very excited to share with you a recent example of such a collaboration and the RAC's newest application: [MatchBox](http://matchbox.rockarch.org).
 
 ![MatchBox](http://blog.rockarch.org/wp-content/uploads/2017/09/MatchBox.png)
 

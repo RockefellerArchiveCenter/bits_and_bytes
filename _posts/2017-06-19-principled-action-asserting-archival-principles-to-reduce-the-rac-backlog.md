@@ -15,7 +15,7 @@ tags:
   - finding aids
   - standards
 ---
-Several years ago RAC faced a dilemma familiar to many in our profession – a daunting processing backlog that was growing exponentially and depriving scholar’s and staff of access to many of the records held in our collections. Our collections are great resources of knowledge, but only if those resources are available to our users!
+Several years ago RAC faced a dilemma familiar to many in our profession – a daunting processing backlog that was growing exponentially and depriving scholar's and staff of access to many of the records held in our collections. Our collections are great resources of knowledge, but only if those resources are available to our users!
 
 To find a solution, we actively sought processing practices that reflect our values as an operating foundation, specifically the values of collaborating and sharing knowledge, disseminating information, promoting discovery in all its forms, and facilitating open and equitable access to all our archival holdings. Over the last year and a half, we shifted our strategy to processing by accession and implemented a standards-based approach which has been a resounding success thus far and has resulted in the processing and opening for research of over 4,500 cubic feet of records. This discussion will be the first in a series of posts about our processes and collaborations. I hope our experiences may be valuable and helpful to others.<!--more-->
 
@@ -39,7 +39,7 @@ Processing by accession is flexible and can easily be adapted to any archival in
 
 ## Arrangement
 
-Maintaining the integrity of each accession also enables us to focus on the principle of provenance and maintaining original order, or “as received” order, as much as feasible. Such action further reveals to our users information about the creator, the origin and use of the records, and the contextual relationship among and between the files.
+Maintaining the integrity of each accession also enables us to focus on the principle of provenance and maintaining original order, or "as received" order, as much as feasible. Such action further reveals to our users information about the creator, the origin and use of the records, and the contextual relationship among and between the files.
 
 Processing by accession promotes intellectual arrangement with minimal physical arrangement, and works effectively with the use of any and all levels of aggregation utilized by an institution. At RAC we use a wide range of levels including: Collection, Record Group, Subgroup, Series, and Subseries. Within our system, we often receive new accessions (or accretions) within previously existing collections, in which case the accession as a unit can often naturally be considered a Record Group or Subgroup of the larger collection. Series, or other levels of aggregation, can then be designated within accessions as appropriate. For multiple accessions within a given collection, the same series can be consistently designated across accessions.
 
@@ -49,4 +49,4 @@ Effective arrangement opens collections to research as quickly as possible. Desc
 
 Improving our descriptive practices has expanded and enhanced access to the entire archive including newly processed records as well as all our previously processed legacy holdings. Processing by accession has enhanced our ability to produce high quality DACS-compliant finding aids. Since introducing our systematic approach to finding aid creation and implementing DACSSpace, we have seen a dramatic shift in DACS single-level compliance from just over 50% to full 100% compliance of our guides! Our flexible yet systematic approach to description has also helped us to make great strides in the care afforded to our audiovisual holdings, which in the past were minimized by broader more pressing needs.
 
-Now more than ever, online presentation of our collection guides can add value to the information shared with our users, whether it’s single-level or multi-level description. In the future we hope to take further action to expand access points, more robustly introduce controlled vocabulary and authorized forms of names, and build effective subject access with standardized headings such as LCSH.
+Now more than ever, online presentation of our collection guides can add value to the information shared with our users, whether it's single-level or multi-level description. In the future we hope to take further action to expand access points, more robustly introduce controlled vocabulary and authorized forms of names, and build effective subject access with standardized headings such as LCSH.

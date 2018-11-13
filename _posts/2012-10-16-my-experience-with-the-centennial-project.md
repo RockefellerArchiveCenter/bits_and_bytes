@@ -20,7 +20,7 @@ This project has taught me basic functional aspects of digitization: scanning, c
     School children listening to lecture on tuberculosis, 1918
   </p>
 
-In a 1917 letter Starr J. Murphy writes, "man freed from the blight both of disease and of ignorance may achieve the best of which he is capable." From what I’ve learned working with and describing the documents, this idea is the main focus of the Rockefeller Foundation and describes every effort they have made to improve society.
+In a 1917 letter Starr J. Murphy writes, "man freed from the blight both of disease and of ignorance may achieve the best of which he is capable." From what I've learned working with and describing the documents, this idea is the main focus of the Rockefeller Foundation and describes every effort they have made to improve society.
 
 In going through these documents, I truly have gained a sense of the broad range of areas and projects the Foundation was interested in and funded. The history of the Foundation and the documentation in the archives is so rich and large that many of the documents did not make it onto the site. They tackled a wide range of areas: everything from Tuberculosis relief in France after WWI, to agriculture and rice crop improvements, to archaeology, arts programs after WWII, promotion of music, and funding for education in the South.
 
@@ -44,7 +44,7 @@ The most interesting series of documents I came across related to Yale's Institu
 
 Borchard later writes of the end of WWI: "the resulting peace conference demonstrated how great was our lack of knowledge of other nations and of our and their mutual relations."  The professors and researchers looking into international relations believed that if they could understand the causes of WWI, they could pinpoint the problems and prevent them from ever happening again.
 
-It was a futile hope, one that we understand better now knowing that Depression and WWII were in the near future. These documents show that in the wake of WWI people did understand how destructive and devastating global war was, believed it could happen in the future, and sought to prevent this type of war from ever happening again. While these documents illuminate a project that was funded by the Rockefeller Foundation, that's only a glimpse of what these documents contain. They not only detail the work of the Foundation, but also the feelings and worries of the time in which they were written. They give a glimpse into the 20th century and place the Rockefeller Foundation’s work in a larger context.
+It was a futile hope, one that we understand better now knowing that Depression and WWII were in the near future. These documents show that in the wake of WWI people did understand how destructive and devastating global war was, believed it could happen in the future, and sought to prevent this type of war from ever happening again. While these documents illuminate a project that was funded by the Rockefeller Foundation, that's only a glimpse of what these documents contain. They not only detail the work of the Foundation, but also the feelings and worries of the time in which they were written. They give a glimpse into the 20th century and place the Rockefeller Foundation's work in a larger context.
 
 ![Students undergoing archaeological training taking rubbing of Maya hieroglyph, 1961 (Tikal, Guatemala)](/wp-content/uploads/2012/10/002856_blog2-244x300.jpg)
 

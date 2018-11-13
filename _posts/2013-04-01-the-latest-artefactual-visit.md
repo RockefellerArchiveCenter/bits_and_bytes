@@ -22,8 +22,8 @@ The new version of Archivematica connects directly to the ATReference database, 
 
 For now, this process is very much designed around the FCD collection, but the plan is to use this pilot project as a way to come up with a more generalized process for connecting existing description in the ATReference with digital objects, whether born-digital or digitized later.
 
-This is a complex process, with a number of moving parts, so we’ll be testing this process thoroughly in the development environment that Artefactual has set up for us. We’ll be providing feedback directly to Artefactual, who will be making changes to the functionality based on our comments. Artefactual will return in early May to upgrade our production system.
+This is a complex process, with a number of moving parts, so we'll be testing this process thoroughly in the development environment that Artefactual has set up for us. We'll be providing feedback directly to Artefactual, who will be making changes to the functionality based on our comments. Artefactual will return in early May to upgrade our production system.
 
-While this is happening, we’ll also be making changes to DIMES so that these objects can be displayed on the web. Keep an eye on our [development server](http://192.168.50.29/xtf/search) over the next few weeks to see this in progress!
+While this is happening, we'll also be making changes to DIMES so that these objects can be displayed on the web. Keep an eye on our [development server](http://192.168.50.29/xtf/search) over the next few weeks to see this in progress!
 
-In addition to connecting Archivematica to the ATReference database, Artefactual installed a [Device Side USB 5.25” floppy controller](http://www.deviceside.com). This will allow us to take disk images of the 5.25” floppy disk digital media and begin processing this type of material in the digital workflow.
+In addition to connecting Archivematica to the ATReference database, Artefactual installed a [Device Side USB 5.25" floppy controller](http://www.deviceside.com). This will allow us to take disk images of the 5.25" floppy disk digital media and begin processing this type of material in the digital workflow.

@@ -13,7 +13,7 @@ tags:
   - finding aids
   - usability
 ---
-One of my favorite sessions at this year’s SAA conference was [“Disruptive Components: Reimagining Archival Access Systems](http://sched.co/10WSjsB),” during which three archivists and one technical services librarian from Princeton spoke about their recent re-envisioning of an access system for archival description. This team was responsible for developing [a new system](http://findingaids.princeton.edu/) which has been widely hyped in the archival community – and deservedly so – for setting the bar for the next generation of access systems. I was excited to hear what the panelists had to say about this project, and I was not disappointed.<!--more-->
+One of my favorite sessions at this year's SAA conference was ["Disruptive Components: Reimagining Archival Access Systems](http://sched.co/10WSjsB)," during which three archivists and one technical services librarian from Princeton spoke about their recent re-envisioning of an access system for archival description. This team was responsible for developing [a new system](http://findingaids.princeton.edu/) which has been widely hyped in the archival community – and deservedly so – for setting the bar for the next generation of access systems. I was excited to hear what the panelists had to say about this project, and I was not disappointed.<!--more-->
 
 The first thing that jumped out at me was the set of guiding principles that the team used as it started the redesign process:
 

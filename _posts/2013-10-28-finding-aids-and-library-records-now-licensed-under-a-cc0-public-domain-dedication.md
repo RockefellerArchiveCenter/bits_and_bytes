@@ -14,7 +14,7 @@ tags:
   - open
   - public domain
 ---
-I’m pleased to announce that Rockefeller Archive Center’s finding aids and library records available on our discovery system, [DIMES](http://dimes.rockarch.org), are now licensed under a Creative Commons Zero (CC0) dedication! This means that you can copy, modify and distribute our descriptive metadata in any way you want without asking us for permission. The CC0 license is explained in full on the [Creative Commons website](http://creativecommons.org/publicdomain/zero/1.0/).<!--more-->
+I'm pleased to announce that Rockefeller Archive Center's finding aids and library records available on our discovery system, [DIMES](http://dimes.rockarch.org), are now licensed under a Creative Commons Zero (CC0) dedication! This means that you can copy, modify and distribute our descriptive metadata in any way you want without asking us for permission. The CC0 license is explained in full on the [Creative Commons website](http://creativecommons.org/publicdomain/zero/1.0/).<!--more-->
 
 ## This license includes:
 
@@ -34,6 +34,6 @@ However, we ask that you adhere to the following guidelines:
 
 * **Give attribution to Rockefeller Archive Center:** although you are not legally required to do so, attribution will help other people find the original data as well as unique archival materials.
 * **Contribute back any modifications or improvements:** help us make our description better!
-* **Do not mislead others or misrepresent the finding aids or their sources:** please don’t use this data in a way that suggests you have any official status or that we endorse you or your use of the metadata.
+* **Do not mislead others or misrepresent the finding aids or their sources:** please don't use this data in a way that suggests you have any official status or that we endorse you or your use of the metadata.
 * **Be responsible:** conform to laws and other regulations in your jurisdiction, especially concerning defamation and copyright.
 * **Be aware that you use the data at your own risk:** Our description is provided 'as-is': not all of it has been reviewed for completeness or accuracy. That process is ongoing, and we welcome your assistance in drawing our attention to any particularly egregious omissions or inaccuracies.

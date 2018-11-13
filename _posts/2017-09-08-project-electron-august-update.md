@@ -19,7 +19,7 @@ tags:
 ---
 This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) and the development decisions we made last month with our Marist College partners at [the hackathon](http://blog.rockarch.org/?p=1815). We are really excited about testing transfers in the coming month.
 
-In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin), which in addition to being a delightful little cucumber, is a language that is used to define the requirements of software in order to document and [test the software’s behavior](https://cucumber.io/) as part of [Behavior Driven Development](https://www.agilealliance.org/glossary/bdd/) (BDD). We have been using Gherkin to write Quality Assurance (QA) tests for the functions of our Project Electron transfer application. The language is human-readable, so it can enable communication between teams working in different domains across a project.
+In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin), which in addition to being a delightful little cucumber, is a language that is used to define the requirements of software in order to document and [test the software's behavior](https://cucumber.io/) as part of [Behavior Driven Development](https://www.agilealliance.org/glossary/bdd/) (BDD). We have been using Gherkin to write Quality Assurance (QA) tests for the functions of our Project Electron transfer application. The language is human-readable, so it can enable communication between teams working in different domains across a project.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ As part of the development of the transfer application, we will be testing featu
   <a href="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png"><img class="size-full wp-image-1836" src="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png" alt="Gherkin example for virus check" width="534" height="185" srcset="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png 534w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2-300x104.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2-500x173.png 500w" sizes="(max-width: 534px) 100vw, 534px" /></a>
 
   <p class="wp-caption-text">
-    A Gherkin scenario that is part of the “check bag for viruses” feature to test the transfer app.
+    A Gherkin scenario that is part of the "check bag for viruses" feature to test the transfer app.
   </p>
 </div>
 

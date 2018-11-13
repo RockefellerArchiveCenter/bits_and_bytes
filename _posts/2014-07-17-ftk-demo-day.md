@@ -22,17 +22,17 @@ Then I gave an overview of the proposed workflow for working with that media:<!-
 
 ![Processing Workflow](/wp-content/uploads/2014/07/Processing-Workflow.png)
 
-The idea is that the materials (disks, drives, CDs, DVDs, etc) will be separated and delivered to the D-Team. We’ll add them to our digital media inventory, then when we receive notification that these materials are slated for processing, we’ll prioritize them for imaging. After they’re imaged, we’ll create a case for that collection in FTK, and add each piece of separated media as evidence to that case.
+The idea is that the materials (disks, drives, CDs, DVDs, etc) will be separated and delivered to the D-Team. We'll add them to our digital media inventory, then when we receive notification that these materials are slated for processing, we'll prioritize them for imaging. After they're imaged, we'll create a case for that collection in FTK, and add each piece of separated media as evidence to that case.
 
-FTK is computer forensics software designed for use by investigators in law enforcement. It’s extremely powerful software and will help us do many tasks that would otherwise be quite laborious. The demo covered:
+FTK is computer forensics software designed for use by investigators in law enforcement. It's extremely powerful software and will help us do many tasks that would otherwise be quite laborious. The demo covered:
 
-* The different ways you can view the data you’re working with - through the file directory structure, grouped by file types, grouped by file format types, etc.
+* The different ways you can view the data you're working with - through the file directory structure, grouped by file types, grouped by file format types, etc.
 * The ease of viewing and analyzing email accounts
 * Identify duplicates
 * Filtering out non-archival items, like duplicates or system files
 * Searching for patterns, like social security numbers, and credit card numbers
 * Using fuzzy searching (like searching Sibyl and Sybil)
-* Arranging the materials in a hierarchy, much like you can in the Archivists’ Toolkit
+* Arranging the materials in a hierarchy, much like you can in the Archivists' Toolkit
 * Using labels to highlight restricted or sensitive materials
 * File visualization!
 

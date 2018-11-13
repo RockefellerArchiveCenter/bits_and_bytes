@@ -8,13 +8,13 @@ permalink: /?p=256
 categories:
   - Digitization
 ---
-!["I’m trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)](/wp-content/uploads/2012/10/Inspector342.jpg)
+!["I'm trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)](/wp-content/uploads/2012/10/Inspector342.jpg)
 
   <p class="wp-caption-text">
-    "I’m trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)
+    "I'm trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)
   </p>
 
-In addition to our OnDemand, reference driven digitization program, the D-Team has been engaged in some very large digitization projects over the last few years as part of our Special Projects program.  These projects include materials such as the Rockefeller Foundation Officer Diaries, Rockefeller Brothers' Fund Annual Reports, the Foundation for Childhood Development microfilm, the Rainbow Room Scrapbook, and selections of various collections for the Centennial project and the PUMC. All in all, we’ve digitized about 269,000 pages of archival material (both textual & photographic).<!--more-->
+In addition to our OnDemand, reference driven digitization program, the D-Team has been engaged in some very large digitization projects over the last few years as part of our Special Projects program.  These projects include materials such as the Rockefeller Foundation Officer Diaries, Rockefeller Brothers' Fund Annual Reports, the Foundation for Childhood Development microfilm, the Rainbow Room Scrapbook, and selections of various collections for the Centennial project and the PUMC. All in all, we've digitized about 269,000 pages of archival material (both textual & photographic).<!--more-->
 
 This massive amount of digitization was made possible by outsourcing to [Hudson Microimaging (HMI)](http://www.hudsonmicroimaging.com/), a digital imaging vendor located up in Port Ewen, where they have the equipment and staff necessary to accomplish digitization at this scale.
 
@@ -29,7 +29,7 @@ While this arrangement has allowed us to digitize much larger selections of mate
 ![Lucy and Ethel performing "QC" on chocolates at a candy factory. (I Love Lucy, 1952)](/wp-content/uploads/2012/10/I-Love-Lucy-Chocolate-Factory-scene3.jpg)
 
   <p class="wp-caption-text">
-    Lucy and Ethel performing “QC” on chocolates at a candy factory. (I Love Lucy, 1952)
+    Lucy and Ethel performing "QC" on chocolates at a candy factory. (I Love Lucy, 1952)
   </p>
 
 [Quality Assurance](http://en.wikipedia.org/wiki/Quality_assurance), referred to commonly as "QA" is a process implemented to verify that that the systems you have in place are producing a quality product.
