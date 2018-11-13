@@ -14,13 +14,13 @@ The first NE Archivematica Users Group was held last Friday to great success. Th
 
 Below are some notes Laura took during the meeting. There is also a shared Google Doc which was edited and compiled during the meeting by attendees.
 
-##RAC notes:<!--more-->
+## RAC notes:<!--more-->
 
 
 
-###Use cases- NYPL, RAC, Columbia and Yale
+### Use cases- NYPL, RAC, Columbia and Yale
 
-####NYPL
+#### NYPL
 
 * Uses Archivematica to manage disk images
 * Creates two types of material from 1 disk (disk image (df) and electronic records (er)- upacked materials
@@ -30,7 +30,7 @@ Below are some notes Laura took during the meeting. There is also a shared Googl
 * Has the staff to appraise, preserve, describe digital collection as soon as it comes in the building
 * Issue: legacy files often do not have extension which is problematic for current Archivematica release ingest
 
-####Yale
+#### Yale
 
 * Everything is accessioned and then it sits
 * Everything is imaged to mitigate preservation risk
@@ -39,7 +39,7 @@ Below are some notes Laura took during the meeting. There is also a shared Googl
 * Not using Archivematica yet still constructing contract with Artefactual
 * Goal: Provide disk image in the reading room. Allow users to browse disk image.
 
-####RAC
+#### RAC
 
 * FCD digitized microfilm
 * UUID in Archivematica repopulates back to the AT to link digital object
@@ -47,13 +47,13 @@ Below are some notes Laura took during the meeting. There is also a shared Googl
 * Bags funding for future release
 * Email funding for future release
 
-####Columbia
+#### Columbia
 
 * Ford Foundation grantee files
 * Issue scalability, password protected files and disk images capture foreign language file names incorretly
 * Still testing Archviematica
 
-###Next meeting
+### Next meeting
 
 * Tentatively scheduled July at MoMA showcase
 * MoMA pilot testing of video files ingested into Archivematica

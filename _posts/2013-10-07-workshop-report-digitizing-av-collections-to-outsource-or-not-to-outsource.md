@@ -20,7 +20,7 @@ On Wednesday, October 2<sup>nd</sup>, I attended the workshop "[Digitizing Audio
 
 <!--more-->
 
-##Planning is all important when deciding whether to outsource.
+## Planning is all important when deciding whether to outsource.
 * How many objects do you need to digitize? Smaller projects are often less cost effective to send to vendors, and can be done in-house if you have the capability, meanwhile, vendors will often provide better rates for higher volume projects.
 * Do you need the items digitized immediately? Communicating needs to a vendor, developing an RFP, packaging, and shipping materials can all delay the product.
 * Do you have the hardware to undertake an audiovisual digitization project?
@@ -31,7 +31,7 @@ On Wednesday, October 2<sup>nd</sup>, I attended the workshop "[Digitizing Audio
 
 Towards the end of the presentations, the discussion gravitated towards the specifics of working with a vendor once you have decided to outsource your A/V digitization. And, it became increasingly clear that the considerations and planning discussed earlier, will later aid in RFP creation, and create much of the information your institution will want to send to the vendors. Collecting information about the original track length, playback speed, expected naming conventions, track channels, delivery methods, as well as metadata capture is essential when working with a vendor to reduce any unnecessary complications or delays in receiving your finished product.
 
-##When working with vendors, clarity is king.
+## When working with vendors, clarity is king.
 * Before selecting a vendor it is important to understand their hardware and software capabilities, take note of their responsiveness and the quality of their responses, their tone in communication, and make sure that they think critically about your project while engaging in open discussion about your needs.
 * Clearly define the project's start date and end date, including when you absolutely need all digital objects. This will help the vendor plan for and adjust to any complications on their end, while still meeting your deadline.
 * Additionally, having an accurate inventory of all source types, quantities, and general lengths to provide to the vendor will help them provide a more accurate price quote.

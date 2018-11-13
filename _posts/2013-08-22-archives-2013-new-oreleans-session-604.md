@@ -14,9 +14,9 @@ tags:
   - electronic records
   - records management
 ---
-##SAA 2013 New Orleans
+## SAA 2013 New Orleans
 
-###Session 604: Defining Levels of Preservation and Management for Electronic Records
+### Session 604: Defining Levels of Preservation and Management for Electronic Records
 
 This session addressed the initial steps or levels of preservation for electronic records management. It was held on Saturday August 17, 2013 at Archives 2013 New Orleans.
 

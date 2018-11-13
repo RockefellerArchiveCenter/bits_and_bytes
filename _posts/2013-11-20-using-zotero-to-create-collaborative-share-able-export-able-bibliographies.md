@@ -20,19 +20,19 @@ Although I'm only about a month into using the software, I thought I'd outline t
 
 ![ZoteroMyLibrary](/wp-content/uploads/2013/11/ZoteroMyLibrary.png)
 
-##Why use Zotero?
+## Why use Zotero?
 
 My use of Zotero is to answer several needs: For one, researchers working on the Ford Foundation collection at the Archive Center will undoubtedly be interested in what has already been written on the foundation, since more open access to their archives is only a recent development and research isn't as established as it has been for other foundations. For example, some researchers are familiar with other RAC collections but new to Ford, so would benefit from some of the institutional histories found in secondary materials.
 
 Our own internal uses are numerous: knowing where to find information about a program or time period can help us answer research requests, or build a foundation for our Research & Education projects. Having the bibliographical information in an online format means that many of us can contribute to it, and that it can be updated constantly and immediately available. Importantly, we can create a bibliography to share as a pdf or on paper for those external to the Archive Center. The idea is to create a working list of relevant secondary material that is up-to-date and quickly accessible.
 
-##How?
+## How?
 
 The Zotero site has an [excellent tutorial](http://www.zotero.org/support/quick_start_guide) on getting started. But in this post I'll take you through an example: first adding a reference, then using the Zotero Standalone program to create a recognizable, useful bibliography.
 
 ![ZoteroAddRecord](/wp-content/uploads/2013/11/ZoteroAddRecord.png)
 
-##Adding a New Reference
+## Adding a New Reference
 
 {Note that there are even more immediate ways of adding a reference from an online source using [an extension for the Firefox browser](http://download.zotero.org/extension/zotero-4.0.15.xpi).}
 
@@ -58,7 +58,7 @@ Now I'm ready to add the record to my "Ford Foundation" library. {To create a ne
 
 You could also simply create one library and not various collections within it, but I wanted to leave room for the possibility of creating other bibliographies, for other collections or subject areas.
 
-##Exporting References to Create Bibliographies and Annotated Reports
+## Exporting References to Create Bibliographies and Annotated Reports
 
 ![ZoteroStandalone](/wp-content/uploads/2013/11/ZoteroStandalone.png)To easily export references and create a bibliography, I use [Zotero Standalone](http://download.zotero.org/standalone/4.0.15/Zotero-4.0.15_setup.exe). This is a local, off-line version of Zotero (still free) which syncs with your online library. It is a more user-friendly way to manage the references you have already saved.
 
@@ -96,7 +96,7 @@ The report will immediately appear as a pdf, which you can save, print, share, e
 
 Solving the annotation problem is my top priority moving forward with Zotero. I'm checking the forums and the Zotero blog and hope to have it sorted out so that the tool can be as fully useful as possible.
 
-##Collaboration
+## Collaboration
 
 The beauty of Zotero is that we can build libraries collaboratively. For now, our RAC group is as small as can be, but I'd be happy to add any interested colleagues. If you'd like to give it a go, let me know and I can invite you to the group.
 
