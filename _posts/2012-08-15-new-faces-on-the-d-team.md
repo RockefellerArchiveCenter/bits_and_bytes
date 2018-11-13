@@ -4,7 +4,6 @@ title: New Faces on the D-Team
 date: 2012-08-15T08:30:39+00:00
 author: Hillel Arnold
 layout: post
-permalink: /?p=25
 categories:
   - D-Team
 ---
