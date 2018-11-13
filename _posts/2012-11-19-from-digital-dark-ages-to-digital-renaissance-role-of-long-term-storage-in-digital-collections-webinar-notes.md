@@ -11,7 +11,7 @@ tags:
   - digital preservation
   - webinar
 ---
-## Role of Long Term Storage in Digital Collections: From Digital Dark Ages to Digital Renaissance**
+## Role of Long Term Storage in Digital Collections: From Digital Dark Ages to Digital Renaissance
 
 ### Store - How should digital content be stored for the long term?
 

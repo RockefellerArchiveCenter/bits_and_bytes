@@ -14,13 +14,13 @@ The first NE Archivematica Users Group was held last Friday to great success. Th
 
 Below are some notes Laura took during the meeting. There is also a shared Google Doc which was edited and compiled during the meeting by attendees.
 
-**RAC notes:**<!--more-->
+##RAC notes:<!--more-->
 
 
 
-Use cases- NYPL, RAC, Columbia and Yale
+###Use cases- NYPL, RAC, Columbia and Yale
 
-NYPL
+####NYPL
 
 • Uses Archivematica to manage disk images
 
@@ -36,7 +36,7 @@ NYPL
 
 • Issue: legacy files often do not have extension which is problematic for current Archivematica release ingest
 
-Yale
+####Yale
 
 • Everything is accessioned and then it sits
 
@@ -50,7 +50,7 @@ Yale
 
 • Goal: Provide disk image in the reading room. Allow users to browse disk image.
 
-RAC
+####RAC
 
 • FCD digitized microfilm
 
@@ -62,7 +62,7 @@ RAC
 
 • Email funding for future release
 
-Columbia
+####Columbia
 
 • Ford Foundation grantee files
 
@@ -70,7 +70,7 @@ Columbia
 
 • Still testing Archviematica
 
-Next meeting
+###Next meeting
 
 Tentatively scheduled July at MoMA showcase
 
