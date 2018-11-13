@@ -25,10 +25,10 @@ Most of that is probably pretty familiar territory if you've attended library sc
 
 They argued that information objects should support:
 
-  * Serendipity: the ability to discover relevant information objects through search or browse
-  * Extend use: export and re-use information objects
-  * Persistence: ability to cite an information object with a permanent link that will remain available
-  * Sustainability: the flexibility of the information object to adapt to future capabilities and topics
-  * Scalability: adaptability of the information in the context of growing collections both within and across institutions
+* Serendipity: the ability to discover relevant information objects through search or browse
+* Extend use: export and re-use information objects
+* Persistence: ability to cite an information object with a permanent link that will remain available
+* Sustainability: the flexibility of the information object to adapt to future capabilities and topics
+* Scalability: adaptability of the information in the context of growing collections both within and across institutions
 
 How well do our finding aids do any of that? I’d argue they get passing marks on maybe a couple of those points, but fail most of these requirements pretty miserably. More importantly, though, is it possible for us to articulate a similar set of user requirements for archival description? How similar or different would they be from the five requirements above?

@@ -18,10 +18,10 @@ This presentation mainly focused on the history of the [ArchivesSpace](http://ww
 
 There are many shiny new features in the 1.0 release, including:
 
-  * LDAP authentication (meaning you may be able to use your RAC network login to access the application, rather than managing a separate user account)
-  * REST API (this should give us some flexibility in moving data in and out of the application)
-  * Full-text search
-  * Event records for preservation and collection management actions
+* LDAP authentication (meaning you may be able to use your RAC network login to access the application, rather than managing a separate user account)
+* REST API (this should give us some flexibility in moving data in and out of the application)
+* Full-text search
+* Event records for preservation and collection management actions
 
 Unfortunately, there are a couple features that didn't make it into this release, but are priorities for upcoming releases. The ones I was particularly interested in are [EAC-CPF](http://eac.staatsbibliothek-berlin.de/) import and export, bulk editing, and rapid data entry functionality.
 

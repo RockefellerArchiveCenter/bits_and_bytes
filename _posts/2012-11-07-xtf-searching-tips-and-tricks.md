@@ -16,17 +16,17 @@ You can search within an archival collection by selecting that collection and th
 
 An asterisk - * - will find from one to many characters within a word:
 
-  * hist* will retrieve history, histories, and historians
-  * coo*tion will find cooperation and coordination
+ * hist* will retrieve history, histories, and historians
+ * coo*tion will find cooperation and coordination
 
 A question mark - ? - will find only one character within a word:
 
-  * america? will retrieve american and americas
-  * wom?n will retrieve woman, women, and womyn
+ * america? will retrieve american and americas
+ * wom?n will retrieve woman, women, and womyn
 
 To search for an exact string, place quotation marks around the string:
 
-  * "south africa" will find south africa, but not south african
+ * "south africa" will find south africa, but not south african
 
 Search queries are not case sensitive. Except for the above examples, punctuation is ignored.
 

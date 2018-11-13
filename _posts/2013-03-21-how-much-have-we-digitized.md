@@ -29,54 +29,54 @@ It is important to note certain irregularities. Firstly, what is considered an â
 
 _By Fiscal Year (figures are approximate):_
 
-  * Fiscal Year 2008-09: 1,105 items (120,000 pages)
-  * Fiscal Year 2010-11: 879 items (6,637 pages)
-  * Fiscal Year 2011-12: 6,979 items (17,258 pages)
-  * Fiscal Year 2012-13: 3,212 items (124,728 pages)
+* Fiscal Year 2008-09: 1,105 items (120,000 pages)
+* Fiscal Year 2010-11: 879 items (6,637 pages)
+* Fiscal Year 2011-12: 6,979 items (17,258 pages)
+* Fiscal Year 2012-13: 3,212 items (124,728 pages)
 
 _By Project:_
 
-  * RFOD
+* RFOD
 
     Fiscal Year: 2008-09
 
     File Count: 1,105 documents (WO estimate: 120,000 pages)
-  * Karolinska
+* Karolinska
 
     Fiscal Year: 2010-11
 
     File Count: 23 items (48 pages)
-  * RU Portraits
+* RU Portraits
 
     Fiscal Year: 2010-11
 
     File Count: 108 photos
-  * Rainbow Room Scrapbook
+* Rainbow Room Scrapbook
 
     Fiscal Year: 2010-11
 
     File Count: 1 item (238 pages)
-  * RBF Annual Reports
+* RBF Annual Reports
 
     Fiscal Year: 2010-11
 
     File Count: 47 items (3,243 pages)
-  * RFOD Portraits
+* RFOD Portraits
 
     Fiscal Year: 2011-12
 
     File Count: 233 items (237 pages)
-  * PUMC
+* PUMC
 
     Fiscal Year: 2011-12
 
     File Count: 2,670 documents (7,945 pages), 2,576 photos
-  * FCD
+* FCD
 
     Fiscal Year: 2012-13
 
     File Count: 1,212 documents (116,228 pages)
-  * Rockefeller Foundation Centennial (includes in house, over sized, & TB Posters)
+* Rockefeller Foundation Centennial (includes in house, over sized, & TB Posters)
 
     Fiscal Year: 2010-11: apx. 700 items (3,000 pages)
 

@@ -17,9 +17,9 @@ In Fall 2012, I attended an Electronic Records Management course at Pratt Instit
 
 Below are links to resource information and notes from the class on
 
-  * [Records Management professional associations and websites to know](http://dteamblog/wp-content/uploads/2013/02/Records-Management-websites.docx)
-  * [Electronic Records Management standards](http://dteamblog/wp-content/uploads/2013/02/Records-Management-Standards.docx)
-  * [Electronic Records Management definitions](http://dteamblog/wp-content/uploads/2013/02/Electronic-Records-Management-Definitions.docx)
-  * [Vital Records](http://dteamblog/wp-content/uploads/2013/02/Vital-Records.docx)
-  * [Goals of a Disaster Plan](http://dteamblog/wp-content/uploads/2013/02/Goals-of-a-Disaster-Plan-notes.docx)
-  * [Effective Email Management Rules](http://dteamblog/wp-content/uploads/2013/02/Effective-Email-Management-Rules.docx)
+* [Records Management professional associations and websites to know](http://dteamblog/wp-content/uploads/2013/02/Records-Management-websites.docx)
+* [Electronic Records Management standards](http://dteamblog/wp-content/uploads/2013/02/Records-Management-Standards.docx)
+* [Electronic Records Management definitions](http://dteamblog/wp-content/uploads/2013/02/Electronic-Records-Management-Definitions.docx)
+* [Vital Records](http://dteamblog/wp-content/uploads/2013/02/Vital-Records.docx)
+* [Goals of a Disaster Plan](http://dteamblog/wp-content/uploads/2013/02/Goals-of-a-Disaster-Plan-notes.docx)
+* [Effective Email Management Rules](http://dteamblog/wp-content/uploads/2013/02/Effective-Email-Management-Rules.docx)

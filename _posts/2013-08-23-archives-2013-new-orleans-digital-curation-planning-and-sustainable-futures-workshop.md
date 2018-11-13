@@ -21,12 +21,12 @@ The workshop was divided into four sections that focused on understanding and bu
 
 Each section was built around the following reports -
 
-  * [Audit and Certification of Trustworthy Repositories](http://public.ccsds.org/publications/archive/652x0m1.pdf "Audit and Certification of Trustworthy Repositories") (TRAC report)
-  * [Aligning National Approaches to Digital Preservation](http://educopia.org/sites/educopia.org/files/ANADP_Educopia_2012.pdf "Aligning National Approaches to Digital Preservation")
-  * [Reference Model for an Open Archival Information System](http://en.wikipedia.org/wiki/Open_Archival_Information_System "Reference Model for an Open Archival Information System") (OAIS)
-  * [Building and sustaining a culture of assessment](/wp-content/uploads/2013/08/Building-and-sustaining-a-culture-of-assessment.pdf)
-  * [DCC Curation Lifecycle Model](http://www.dcc.ac.uk/resources/curation-lifecycle-model "DCC Curation Lifecycle Model")
-  * [Sustainable Economics for a Digital Planet: Ensuring Long-Term Access to Digital Information](http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf "Sustainable Economic for a Digital Planet: Ensuring Long-Term Access to Digtial Information")
+* [Audit and Certification of Trustworthy Repositories](http://public.ccsds.org/publications/archive/652x0m1.pdf "Audit and Certification of Trustworthy Repositories") (TRAC report)
+* [Aligning National Approaches to Digital Preservation](http://educopia.org/sites/educopia.org/files/ANADP_Educopia_2012.pdf "Aligning National Approaches to Digital Preservation")
+* [Reference Model for an Open Archival Information System](http://en.wikipedia.org/wiki/Open_Archival_Information_System "Reference Model for an Open Archival Information System") (OAIS)
+* [Building and sustaining a culture of assessment](/wp-content/uploads/2013/08/Building-and-sustaining-a-culture-of-assessment.pdf)
+* [DCC Curation Lifecycle Model](http://www.dcc.ac.uk/resources/curation-lifecycle-model "DCC Curation Lifecycle Model")
+* [Sustainable Economics for a Digital Planet: Ensuring Long-Term Access to Digital Information](http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf "Sustainable Economic for a Digital Planet: Ensuring Long-Term Access to Digtial Information")
 
 An interesting take away from this workshop was that there are various types of long term planning for sustainable management of electronic records. Long term planning can be an ongoing process that is flexible and malleable. It can be incremental and doesn’t need to be done all at once by a task force. Long term planning is about making documentation, workflows and strategy understandable outside the scope of your immediate tasks to an audience of peers or at an institutional level. It is centered on the idea of showing others that you understand the strategies that are needed to handle electronic records, how and why you have planned for their management and supporting documentation.
 

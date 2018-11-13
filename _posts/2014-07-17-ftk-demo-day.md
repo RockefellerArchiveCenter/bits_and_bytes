@@ -26,15 +26,15 @@ The idea is that the materials (disks, drives, CDs, DVDs, etc) will be separated
 
 FTK is computer forensics software designed for use by investigators in law enforcement. It’s extremely powerful software and will help us do many tasks that would otherwise be quite laborious. The demo covered:
 
-  * The different ways you can view the data you’re working with - through the file directory structure, grouped by file types, grouped by file format types, etc.
-  * The ease of viewing and analyzing email accounts
-  * Identify duplicates
-  * Filtering out non-archival items, like duplicates or system files
-  * Searching for patterns, like social security numbers, and credit card numbers
-  * Using fuzzy searching (like searching Sibyl and Sybil)
-  * Arranging the materials in a hierarchy, much like you can in the Archivists’ Toolkit
-  * Using labels to highlight restricted or sensitive materials
-  * File visualization!
+* The different ways you can view the data you’re working with - through the file directory structure, grouped by file types, grouped by file format types, etc.
+* The ease of viewing and analyzing email accounts
+* Identify duplicates
+* Filtering out non-archival items, like duplicates or system files
+* Searching for patterns, like social security numbers, and credit card numbers
+* Using fuzzy searching (like searching Sibyl and Sybil)
+* Arranging the materials in a hierarchy, much like you can in the Archivists’ Toolkit
+* Using labels to highlight restricted or sensitive materials
+* File visualization!
 
 ![A visualisation of email domains](/wp-content/uploads/2014/07/file_visualization.jpg)
 

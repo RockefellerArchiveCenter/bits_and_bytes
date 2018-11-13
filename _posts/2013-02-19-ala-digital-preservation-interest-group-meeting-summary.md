@@ -12,7 +12,7 @@ tags:
 ---
 At ALA Midwinter this past January, I hosted the **Digital Preservation Interest Group** meeting with my co-chair, Meghan Bergin. It was an excellent session, if I do say so myself. Below is a listing of the presentations. Slides are available on [ALA Connect](http://connect.ala.org/node/200513).
 
- **\*Lots of Copies keep Docs Safe: Using LOCKSS to create distributed digital government information depositories\*** - James Jacobs, Stanford University's Green Library and Amanda Wakaruk, University of Alberta Libraries
+**\*Lots of Copies keep Docs Safe: Using LOCKSS to create distributed digital government information depositories\*** - James Jacobs, Stanford University's Green Library and Amanda Wakaruk, University of Alberta Libraries
 
 **\*An overview of recent publications about managing born-digital materials\*** - Erin O'Meara, Gates Archive (presented by Sibyl Schaefer)
 

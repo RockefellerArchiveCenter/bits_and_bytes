@@ -46,11 +46,11 @@ In this example, there is just one pair of tags – the first one is an opening 
 
 There are [five very basic rules](http://www.w3schools.com/xml/xml_syntax.asp) to how all XML should be structured, which are worth covering here.
 
-  * First, all elements must have a closing tag. You saw an example of this above, where the closing tag had a forward slash in front of the tag name
-  * Second, tags are case sensitive. This means that capitalization matters: and element calledis not the same as an element called
-  * Third, elements must be properly nested. It’s easier to show this than explain, but it essentially means that you have to open and close tags in an order that makes logical sense to a computer.
-  * Fourth, documents must have a root element. This means that for each document, there must be a pair of elements that are the first and last elements in the document.
-  * Finally, attribute values must be contained within quotation marks. Again, the example above had some attribute values.
+* First, all elements must have a closing tag. You saw an example of this above, where the closing tag had a forward slash in front of the tag name
+* Second, tags are case sensitive. This means that capitalization matters: and element calledis not the same as an element called
+* Third, elements must be properly nested. It’s easier to show this than explain, but it essentially means that you have to open and close tags in an order that makes logical sense to a computer.
+* Fourth, documents must have a root element. This means that for each document, there must be a pair of elements that are the first and last elements in the document.
+* Finally, attribute values must be contained within quotation marks. Again, the example above had some attribute values.
 
 ## Indexing
 
