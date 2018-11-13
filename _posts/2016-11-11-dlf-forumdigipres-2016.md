@@ -16,8 +16,6 @@ I just got back from the [DLF Forum](https://www.diglib.org/forums/2016forum/) a
 
 <!--more-->
 
-Stacie Williams, "All Labor is Local"
+Stacie Williams, ["All Labor is Local"](https://youtu.be/lpFzaO0vEBg?t=27m20s)
 
-
-
-Bergis Jules, "Confronting Our Failure of Care Toward the Legacies of Marginalized People in the Archives"
+Bergis Jules, ["Confronting Our Failure of Care Toward the Legacies of Marginalized People in the Archives"](https://youtu.be/py9FNGEWTaY?t=37m54s)
