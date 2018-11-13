@@ -19,7 +19,7 @@ Before I could start reconciling data, I created a list of unique corporate name
 
 We got many great ideas from the list, but the one we eventually went with came from Matt Carruthers at the University of Michigan Library. He wrote JSON code for use with OpenRefine that searches the VIAF API first, limiting results to anything that is a corporate name and has an LC source authority. OpenRefine then extracts the LCCN and puts that through the LCNAF API that OCLC has to get the name. In the end, you get the LC name authority that corresponds to your search term and a link to the authority on the LC Authorities website. Any items without a match in the LCNAF dataset will not have a link.
 
-![Name Reconcile](http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2015/04/Name-Reconcile.jpg)
+![Name Reconcile](/wp-content/uploads/2015/04/Name-Reconcile.jpg)
 
 Before import you also have to replace all white spaces in your files with %20. Caveat emptor: the system is not 100% accurate, and can return some false positives, so manual QC will be necessary if you want to remove all errors. Unfortunately, it also only works at about 500 names at a time and takes 10 to 15 minutes to run through each set of 500. We split the corporate names into 29 separate excel tabs, imported them each into OpenRefine, ran the JSON reconciliation script, exported all of the results, and then reconstituted them into a single document. I performed a metadata quality check of about 5% of the names, and most of them checked out. A few were obviously false positives, but not enough to make me lose confidence in the methodology.
 
