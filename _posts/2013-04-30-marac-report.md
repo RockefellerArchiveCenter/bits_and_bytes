@@ -13,11 +13,11 @@ tags:
   - MARAC
   - usability
 ---
-This past week I had the opportunity to attend the <a href="http://www.marac.info/" target="_blank">Mid-Atlantic Regional Archives Conference (MARAC)</a> in Erie, Pennsylvania. Sibyl and I presented on some of the work we've done with our implementation of XTF, focusing on user testing and other forms of evaluation.
+This past week I had the opportunity to attend the [Mid-Atlantic Regional Archives Conference (MARAC)](http://www.marac.info/) in Erie, Pennsylvania. Sibyl and I presented on some of the work we've done with our implementation of XTF, focusing on user testing and other forms of evaluation.
 
 <!--more-->At this panel, which focused on single search, it was interesting to note the overlap in approach to discovery that RAC has with many other institutions. Although the two other panelists were from larger institutions and had different technical solutions, it seemed as though we were all trying to solve a common set of problems around discovery. Both of the other panelists were from Virginia and mentioned 
 
-<a href="http://www2.lib.virginia.edu/small/vhp/" target="_blank">Virginia Heritage</a>, which is a consortium-based discovery system that is built on XTF.
+[Virginia Heritage](http://www2.lib.virginia.edu/small/vhp/), which is a consortium-based discovery system that is built on XTF.
 
 I went to a number of other sessions, and learned some interesting things about what other institutions are doing.
 

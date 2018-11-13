@@ -21,8 +21,8 @@ In addition to successfully mapping the transfer structure, we made several impo
 
 
 * Using Python to write the scripts for bag validation and virus checks
-* Using <a href="https://www.djangoproject.com/">Django</a> as our web framework
-* Using <a href="https://adminlte.io/">AdminLTE</a> and Bootstrap 3 to design our UIs
+* Using [Django](https://www.djangoproject.com/) as our web framework
+* Using [AdminLTE](https://adminlte.io/) and Bootstrap 3 to design our UIs
 * Writing quality assurance (QA) tests for the transfer using [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin)
 
 Building from the foundation and momentum of this hackathon, we are continuing development and looking forward to testing the transfer process very soon. Documentation remains a key aspect of Project Electron, and we will continue to share our work here and on GitHub. As always, we appreciate any questions, ideas, and feedback!

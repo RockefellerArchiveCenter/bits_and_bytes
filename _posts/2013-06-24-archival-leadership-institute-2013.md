@@ -21,5 +21,5 @@ This past week I had the honor of attending the 2013 Archival Leadership Institu
 
 
 <noscript>
-  [<a href="//storify.com/archivelle/archival-leadership-institute-2013" target="_blank">View the story "Archival Leadership Institute 2013" on Storify</a>]
+  [View the story "Archival Leadership Institute 2013" on Storify](storify.com/archivelle/archival-leadership-institute-2013)
 </noscript>
