@@ -15,4 +15,4 @@ tags:
 ---
 Last week I spoke at the NYART event, Preserving and Archiving Electronically Generated Materials, which was sponsored by the Leon Levy Foundation. My slides are attached below. Slides from other presenters will be made available on the [event website](http://www.nycarchivists.org/calendar?eventId=774965&EventViewMode=2&CalendarViewType=4&SelectedDate=11/19/2013), and you can find the event schedule [here.<!--more-->](http://www.nycarchivists.org/Resources/Documents/2013_ART_LLF_BornDigital_ProgramSchedule.pdf)
 
-<span style="color: #000080;"><em>NOTE: Ignore the controls at the bottom of the frame, and advance through the slides using the right arrow key on you keyboard.</em></span>
+NOTE: Ignore the controls at the bottom of the frame, and advance through the slides using the right arrow key on you keyboard.

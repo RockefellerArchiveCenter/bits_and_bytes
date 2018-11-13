@@ -36,47 +36,47 @@ _By Fiscal Year (figures are approximate):_
 
 _By Project:_
 
-  * <span style="color: #333399;">RFOD</span>
+  * RFOD
 
     Fiscal Year: 2008-09
 
     File Count: 1,105 documents (WO estimate: 120,000 pages)
-  * <span style="color: #333399;">Karolinska</span>
+  * Karolinska
 
     Fiscal Year: 2010-11
 
     File Count: 23 items (48 pages)
-  * <span style="color: #333399;">RU Portraits</span>
+  * RU Portraits
 
     Fiscal Year: 2010-11
 
     File Count: 108 photos
-  * <span style="color: #333399;">Rainbow Room Scrapbook</span>
+  * Rainbow Room Scrapbook
 
     Fiscal Year: 2010-11
 
     File Count: 1 item (238 pages)
-  * <span style="color: #333399;">RBF Annual Reports</span>
+  * RBF Annual Reports
 
     Fiscal Year: 2010-11
 
     File Count: 47 items (3,243 pages)
-  * <span style="color: #333399;">RFOD Portraits</span>
+  * RFOD Portraits
 
     Fiscal Year: 2011-12
 
     File Count: 233 items (237 pages)
-  * <span style="color: #333399;">PUMC</span>
+  * PUMC
 
     Fiscal Year: 2011-12
 
     File Count: 2,670 documents (7,945 pages), 2,576 photos
-  * <span style="color: #333399;">FCD</span>
+  * FCD
 
     Fiscal Year: 2012-13
 
     File Count: 1,212 documents (116,228 pages)
-  * <span style="color: #333399;">Rockefeller Foundation Centennial</span> (includes in house, over sized, & TB Posters)
+  * Rockefeller Foundation Centennial (includes in house, over sized, & TB Posters)
 
     Fiscal Year: 2010-11: apx. 700 items (3,000 pages)
 
