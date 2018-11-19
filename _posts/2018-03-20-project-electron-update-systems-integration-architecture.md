@@ -24,13 +24,10 @@ With Project Electron, we have an opportunity to implement an architecture that 
 
 As we found in researching integrations models, each approach has advantages and disadvantages and there is often overlap between models. Based on our evaluation, the model that seems to be the best match for our organizational capacities and the requirements of the project is the microservices approach. Simply summarized, this is a style of systems architecture which consists of multiple component services that can be deployed independently of one another. In contrast to a single large application, this approach allows multiple smaller services to be developed, maintained, or decommissioned separately. Each of these services performs a specific, discrete task and communicates with other services by using common protocols and data structures. For Project Electron, this means creating microservices that facilitate communication, data creation, updating, transformation and validation between the transfer application we are developing, the archives management system (ArchivesSpace), preservation system (Archivematica), and the repository (Fedora).
 
-<div id="attachment_1958" style="width: 1584px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png"><img class="size-full wp-image-1958" src="http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png" alt="Project Electron microservices overview diagram" width="1574" height="1360" srcset="http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png 1574w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-300x259.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-768x664.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-1024x885.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview-347x300.png 347w" sizes="(max-width: 1574px) 100vw, 1574px" /></a>
-
-  <p class="wp-caption-text">
-    Draft Diagram - Project Electron microservices overview.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png" alt="Project Electron microservices overview diagram">
+<figcaption>Draft Diagram - Project Electron microservices overview.</figcaption>
+</figure>
 
 ## Challenges and benefits for Project Electron
 

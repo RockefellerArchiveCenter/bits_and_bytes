@@ -29,13 +29,10 @@ Brainstorming with Hillel Arnold, RAC'S Head of Digital Programs, we created the
 
 As the Virtual Vault's wizardry is beyond my coding cognizance, I'll concede to Hillel's recent blog [post](http://blog.rockarch.org/?p=1804%20) to describe the system's basic workflow, which _"ended up using the scaffolding of _[_staticAid_](https://github.com/helrond/staticAid)_ – a _[_tool I've developed_](http://hillelarnold.com/blog/2016/02/a-static-html-site-generator-for-archival-description/)_ which converts JSON objects provided by the ArchivesSpace API into HTML pages using Jekyll – and adding some additional templates to display audiovisual materials. After digitized files (named using ArchivesSpace identifiers) have passed quality control, an archivist places them in a directory on our network storage. From there, a series of scripts automatically moves digitized files to a server, retrieves data by querying the _[_ArchivesSpace API_](https://archivesspace.github.io/archivesspace/api/)_ for data about a given identifier, and builds the necessary web pages. Archivists can correct or enhance description for these materials in ArchivesSpace, and those changes will be reflected in the new nightly build of the site."_
 
-<div id="attachment_1884" style="width: 594px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault.jpg"><img class="size-large wp-image-1884" src="http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-1024x517.jpg" alt="Virtual Vault" width="584" height="295" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-1024x517.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-300x151.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-768x388.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/VirtualVault-500x252.jpg 500w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    Above: Screenshot of Moving Image playback page/ RAC's Virtual Vault
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2017/11/VirtualVault.jpg" alt="Virtual Vault">
+<figcaption>Screenshot of Moving Image playback page/RAC's Virtual Vault.</figcaption>
+</figure>
 
 The Virtual Vault's intended uses go beyond the needs of our typical researcher. It is designed to assist filmmakers who can download low-res "screener" copies and later contact the RAC to license higher resolution files. The Virtual Vault allows processing archivists to view/hear digitized audiovisual material when creating content notes; updating resource records; identifying key individuals; and for making decisions on final arrangement. The Virtual Vault is also a place for RAC staff to download audiovisual files for exhibitions and presentations. In other words, the Virtual Vault is envisioned as an aid to the RAC in many areas of a/v dissemination that were otherwise and formerly more complicated.
 

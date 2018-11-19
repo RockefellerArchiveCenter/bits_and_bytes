@@ -84,4 +84,4 @@ The code for all of this is online in our [newly-public XTF repository](https://
 
 * * *
 
-<a href="#_ftnref1" name="_ftn1">[1]</a> Important note: users can only add components that have some sort of instance associated with them (like a box and folder number, or a microfilm reel). They can't add entire series or things without box and folder numbers. While this is slightly problematic, the alternative could present some serious challenges in terms of retrieval, so this seemed like the lesser of two evils.
+<a name="_ftn1">[1]</a> Important note: users can only add components that have some sort of instance associated with them (like a box and folder number, or a microfilm reel). They can't add entire series or things without box and folder numbers. While this is slightly problematic, the alternative could present some serious challenges in terms of retrieval, so this seemed like the lesser of two evils.

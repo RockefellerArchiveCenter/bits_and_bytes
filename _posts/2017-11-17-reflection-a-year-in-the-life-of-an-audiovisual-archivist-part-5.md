@@ -35,13 +35,10 @@ One primary accomplishment of our 2017 Selznick fellow came with the assistance 
 
 I cannot stress the importance of physically spending time with your collections – and opening those boxes or film cans – both to get a true sense of the material that is in your care and to verify that any previously collected data is accurate.
 
-<div id="attachment_1895" style="width: 156px" class="wp-caption alignleft">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273.jpg"><img class="wp-image-1895 size-medium" src="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-146x300.jpg" alt="Film Survey" width="146" height="300" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-146x300.jpg 146w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-768x1578.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1273-498x1024.jpg 498w" sizes="(max-width: 146px) 100vw, 146px" /></a>
-
-  <p class="wp-caption-text">
-    Above: Selznick School fellow Katie Pratt surveying film prints.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2017/11/IMG_1273.jpg" alt="Film Survey">
+<figcaption>Selznick School fellow Katie Pratt surveying film prints.</figcaption>
+</figure>
 
 To close, I'll return to my opening premise of "reflection." (I can't help but hear the Tin Man asking near the end of _The Wizard of Oz_, "What have you learned, Dorothy?") But after writing this rather long, multi-part blog post, I can see that the solutions and/or procedures put into place this year could not have happened if the RAC didn't foster a collaborative, inter-department work environment. Every project described above came about because of a true team-effort, wherein staff members from different departments (each with his or her professional strengths) came together to find creative, user-centered solutions.
 

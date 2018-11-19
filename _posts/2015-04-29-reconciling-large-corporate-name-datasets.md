@@ -25,13 +25,7 @@ Before import you also have to replace all white spaces in your files with %20. 
 
 After getting a full list of all corporate names, we appended either `<corpname role="aut" source="local">` or `<corpname role="aut" source="lcnaf">` to the front of each name identity and replaced all of the `%20s` with a space, and then appended `</corpname>` to the end of the name. We now had a fully identified list of which names were local or LCNAF verified. Using the same find and replace script from the subject cleanup, we replaced the modified corporate names in the original document.
 
-<div id="attachment_1234" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1.jpg"><img class="size-medium wp-image-1234" src="http://rockarch.org/programs/digital/bitsandbytes/wp-content/uploads/2014/10/VBcode1-300x118.jpg" alt="Find and Replace Code" width="300" height="118" srcset="http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-300x118.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-1024x404.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1-500x197.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2014/10/VBcode1.jpg 1172w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-
-  <p class="wp-caption-text">
-    Find and Replace Code
-  </p>
-</div>
+![Find and Replace Code](/wp-content/uploads/2014/10/VBcode1.jpg)
 
 We would still like to explore the possibilities of using Virtuoso and SPARQL in the future, but given the time sensitive nature of our project, we needed a quick and dirty way to get our information online. Ultimately, the entire Ford Foundation records, Grant Files EAD equaled 66.6 mb of data, which we had to split up into 11 different resource records because ArchivesSpace could not handle a single resource that large. We also had to tweak the backend code of ArchivesSpace's EAD converter in order for it to automatically publish notes not marked internal in the EAD, but that was only about 5 to 10 hours of work and testing.
 

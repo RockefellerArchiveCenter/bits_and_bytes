@@ -27,23 +27,17 @@ Following these sessions, it was finally time to start dipping our toes into act
 
 After reading up, looking at other diagrams, and working up the courage to actually make something, we ended up with the below image as a first draft. This draft model was dated October 17<sup>th</sup>, 2017 and you'll notice that there's a lot going on here.
 
-<div id="attachment_1971" style="width: 4969px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1.png"><img class="size-full wp-image-1971" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1.png" alt="" width="4959" height="3505" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1.png 4959w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-300x212.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-768x543.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-1024x724.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v1-424x300.png 424w" sizes="(max-width: 4959px) 100vw, 4959px" /></a>
-
-  <p class="wp-caption-text">
-    Our first attempt at data model diagramming.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/04/Model-v1.png" alt="Data Modeling First Attempt">
+<figcaption>Our first attempt at data model diagramming.</figcaption>
+</figure>
 
 The diagram is messy, not laid out well, and difficult to read, and has more information than we ultimately decided was necessary. Following this first draft, we sat down as a team and talked about the data we thought was absolutely necessary to display to researchers, and, in the end, we settled on a DACS minimum level of metadata and description with information supporting the adoption of linked data standards. Our goal was to reuse as many existing vocabularies as possible while also allowing for the expansion of the model if necessary. The end result of these insular discussions was the below draft of the diagram.
 
-<div id="attachment_1975" style="width: 4969px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1.png"><img class="size-full wp-image-1975" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1.png" alt="" width="4959" height="3505" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1.png 4959w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-300x212.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-768x543.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-1024x724.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v3-1-424x300.png 424w" sizes="(max-width: 4959px) 100vw, 4959px" /></a>
-
-  <p class="wp-caption-text">
-    The third, and legible, diagram.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/04/Model-v3-1.png" alt="Legible diagram">
+<figcaption>The third, and legible, diagram.</figcaption>
+</figure>
 
 We thought this diagram properly reflected our thinking, gave others something to work with, and was clean enough to explain and understand. This version, created on January 9<sup>th</sup>, 2017, represented a start to the next phase of the process: testing, critiquing, and revising.
 
@@ -95,15 +89,12 @@ When looking at drawings from Task 2 we almost immediately noticed that many gro
 
 Secondly, we noticed a lot of groups trying to make relationships between different agents. We're not positive about what our coworkers are trying to tell us, but the desire to show relationships between two different agents in regards to collections is interesting to us. In many cases in our collections, the person who created a record might be part of a family, or an employee of an organization, and it appears that our colleagues are saying that it might be important to be able to quickly see those types of relationships in a discovery environment. We saw a bit of the same behavior between dates, languages, and a couple of other objects, but the usage was most prevalent with agents. Our inference is that our testers were looking for different ways to show connections outside of the traditional relationships, and we're not exactly sure how we're going to use this information yet, as we just finished our debrief and review of the diagrams earlier this week, but we do think it's an interesting occurrence that's probably not a coincidence since it appeared across all three function areas.
 
-Ultimately, none of the groups had any major changes for us except to find a few flaws in our relationship linkages and some minor spelling mistakes. They all were savvy and picked up that we excluded boxes and folders from our model. However, we designed this diagram primarily for born digital and digitized materials, so they weren't really necessary for the time being. (Ask me about my campaign to remove boxes and folders as much as possible from researcher-facing archival description next time you see me and I'll talk your ear off.) Thanks to all of the help and input from everyone involved, we ended up with the below draft that we're going to use moving forward
+Ultimately, none of the groups had any major changes for us except to find a few flaws in our relationship linkages and some minor spelling mistakes. They all were savvy and picked up that we excluded boxes and folders from our model. However, we designed this diagram primarily for born digital and digitized materials, so they weren't really necessary for the time being. (Ask me about my campaign to remove boxes and folders as much as possible from researcher-facing archival description next time you see me and I'll talk your ear off.) Thanks to all of the help and input from everyone involved, we ended up with the below draft that we're going to use moving forward.
 
-<div id="attachment_1973" style="width: 4969px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5.png"><img class="size-full wp-image-1973" src="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5.png" alt="" width="4959" height="3505" srcset="http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5.png 4959w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-300x212.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-768x543.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-1024x724.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/04/Model-v5-424x300.png 424w" sizes="(max-width: 4959px) 100vw, 4959px" /></a>
-
-  <p class="wp-caption-text">
-    Final draft version of our display data model diagram.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/04/Model-v5.png" alt="Final draft of data model">
+<figcaption>Final draft version of our display data model diagram.</figcaption>
+</figure>
 
 # Next Steps
 

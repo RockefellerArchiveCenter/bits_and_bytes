@@ -21,11 +21,7 @@ I then searched each set of files (which are separated in to folders by project,
 
 It is important to note certain irregularities. Firstly, what is considered an "item" varies in a way that I could not account for with the information available to me. For example, sometimes an item is a single photo, or a multi-page document, or an entire folder or complied scrapbook. Other numbers had to be estimated since the projects they represent are not yet resolved.
 
-<a name="stats"></a>
-
-<h2 style="text-align: left;">
-  <strong>Items and Pages Digitized for Special Projects (as of 3/13)</strong>
-</h2>
+## <a name="stats"></a> Items and Pages Digitized for Special Projects (as of 3/13)
 
 _By Fiscal Year (figures are approximate):_
 

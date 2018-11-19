@@ -28,13 +28,10 @@ Just as wireframes are a valuable _internal _communication tool for the developm
 
 One of the [Project Electron values](http://projectelectron.rockarch.org/) that guides are work is to _place users at the center of the design process_. Throughout the project we have incorporated this user-centered design approach through activities like user group interviews, creating personas and user stories, card sorting exercises, and user scenario mapping. These activities were foundational for generating project requirements and for involving users in the design process. Being able to show the applications to user groups through the interface has been a valuable way to communicate function, and therefore to facilitate discussion and action toward other important aspects of Project Electron such as institutional planning, staff training, preparation of donor infrastructure, and project advocacy.
 
-<div id="attachment_1924" style="width: 1205px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1.png"><img class="size-full wp-image-1924" src="http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1.png" alt="User Interface Example" width="1195" height="783" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1.png 1195w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-300x197.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-768x503.png 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-1024x671.png 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/UIexample1-458x300.png 458w" sizes="(max-width: 1195px) 100vw, 1195px" /></a>
-
-  <p class="wp-caption-text">
-    The User Profile page of the Project Electron Transfer Application. Designed using AdminLTE.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2017/11/UIexample1.png" alt="User Interface Example">
+<figcaption>The User Profile page of the Project Electron Transfer Application. Designed using AdminLTE.</figcaption>
+</figure>
 
 Sharing early versions of the UIs has also been a chance to receive user questions and feedback since certain application functions can be understood more clearly via a UI than through a list of requirements or process diagrams. This can give us a chance to incorporate early feedback into the design and think about possible future enhancements. We have been careful in our sharing and presentation of these UIs to emphasize that we are still in the early stages of development, and that there is an iterative process of design. While early insights and feedback can be very valuable, we also want to make sure we are communicating accurately about what the final application might look like, not getting into the weeds of implementation specifics.
 

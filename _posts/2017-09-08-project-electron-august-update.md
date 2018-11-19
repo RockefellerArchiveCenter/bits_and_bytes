@@ -25,23 +25,17 @@ In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber
 
 The Gherkin language is structured into statements of Features, Scenarios, and Steps using a syntax of text lines and indentations. As shown in the example below (from the [Gherkin Documentation](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)), a feature defines what is to be tested. A feature will likely have multiple scenarios, which are more specific situations that could occur as part of that feature. Steps are defined is [Givens, Whens, and Thens](https://github.com/cucumber/cucumber/wiki/Given-When-Then). **Given** a precondition, **When** an action occurs **Then** a testable outcome results. **And** is used to add additional Givens, Whens, and Thens.
 
-<div id="attachment_1834" style="width: 551px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png"><img class="size-full wp-image-1834" src="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png" alt="Gherkin Example Scenario" width="541" height="222" srcset="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png 541w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1-300x123.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample1-500x205.png 500w" sizes="(max-width: 541px) 100vw, 541px" /></a>
-
-  <p class="wp-caption-text">
-    Example of a feature and scenario from the Gherkin documentation.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2016/11/FindItResults.jpg" alt="Gherkin Example Scenario">
+<figcaption>Example of a feature and scenario from the Gherkin documentation.</figcaption>
+</figure>
 
 As part of the development of the transfer application, we will be testing features of the application. These will include features like bag validation of size and filename, virus checks, validation of bag metadata, user login, and account management. Below is an example of a Gherkin scenario we wrote for the virus check feature, which tests how the application will handle the identification of a virus found in a bag.
 
-<div id="attachment_1836" style="width: 544px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png"><img class="size-full wp-image-1836" src="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png" alt="Gherkin example for virus check" width="534" height="185" srcset="http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png 534w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2-300x104.png 300w, http://blog.rockarch.org/wp-content/uploads/2017/09/PEAug2017_GherkinExample2-500x173.png 500w" sizes="(max-width: 534px) 100vw, 534px" /></a>
-
-  <p class="wp-caption-text">
-    A Gherkin scenario that is part of the "check bag for viruses" feature to test the transfer app.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png" alt="Gherkin example for virus check">
+<figcaption>A Gherkin scenario that is part of the "check bag for viruses" feature to test the transfer app.</figcaption>
+</figure>
 
 For me, being new to BDD concepts, Gherkin, and unit testing, I found writing these features/scenarios for our work to be useful beyond their functional purpose; the process helped me better understand the functional requirements of the application by forcing me to think through possible scenarios and outcomes. I did struggle initially with avoiding implementation details and focusing on the behaviour of the application in the Gherkin tests. For me, it was essential to step back and take some time to learn the basics of BDD, Test Driven Development (TDD), and unit testing as a conceptual foundation before jumping into writing Gherkin tests.
 

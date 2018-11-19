@@ -15,13 +15,10 @@ Over the past year, the RAC has been taking steps towards preserving digital med
 
 At the RAC, we are using a series of tools for imaging such as the [KryoFlux](https://www.kryoflux.com/) and the [FRED](https://www.digitalintelligence.com/products/fred/). Becoming familiar with the hardware (including its quirks) was one of the more challenging aspects of learning how to create disk images. As a processing archivist, the different drives, cables, write blockers, even the KryoFlux itself, were unfamiliar at first. Since the KryoFlux needs to be connected to the drive and computer in a particular order, it was risky to set up the digital workstation without having a more comprehensive understanding of the components. This particular barrier made it clear that our documentation project would involve more than just a list of steps - we would need to document setup procedures, identify components, and ensure the workflow pointed to various troubleshooting options a processing archivist could take in the event the legacy media was not functioning properly.
 
-<div id="attachment_1932" style="width: 594px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989.jpg"><img class="wp-image-1932 size-large" src="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-1024x717.jpg" alt="" width="584" height="409" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-1024x717.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-300x210.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-768x538.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_5989-428x300.jpg 428w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    Assistant Processing Archivists Amy Berish and Katie Martin preparing the KryoFlux to image a 5.25-inch floppy disk.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2017/11/IMG_5989.jpg" alt="KryoFlux">
+<figcaption>Assistant Processing Archivists Amy Berish and Katie Martin preparing the KryoFlux to image a 5.25-inch floppy disk.</figcaption>
+</figure>
 
 To put our documentation to the test, we are conducting a blitz project which involves imaging all 5.25-inch floppy disks in our collections. Because of the finite amount of 5.25-inch disks and their fragility, we saw this as the perfect opportunity to introduce one form of imaging to the processing team while simultaneously putting a dent in our imaging backlog. We are currently working on developing interactive training sessions in a way that will equip processing archivists with the technical familiarity they will need to not only image the 5.25-inch disks, but also to troubleshoot when things go wrong. We plan to use these training sessions as an opportunity to test our documentation and request feedback from the processing archivists who will be using it.
 

@@ -33,13 +33,10 @@ There is, to some degree, disagreement within the archival profession regarding 
 
 Once our new processing instructions were drafted, a basic "clean-up" of current finding aids with existing a/v description was undertaken. This is intended to give uniformity to the "researcher experience" as they explore across collections for audiovisual material. (This modification process is presently on-going.)
 
-<div id="attachment_1885" style="width: 594px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2017/11/finding_aid.jpg"><img class="wp-image-1885 size-large" src="http://blog.rockarch.org/wp-content/uploads/2017/11/finding_aid-1024x507.jpg" alt="Finding Aid_av" width="584" height="289" srcset="http://blog.rockarch.org/wp-content/uploads/2017/11/finding_aid-1024x507.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2017/11/finding_aid-300x148.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2017/11/finding_aid-768x380.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2017/11/finding_aid-500x247.jpg 500w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    Screenshot of on-line finding aid
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2017/11/finding_aid.jpg" alt="Finding Aid_av">
+<figcaption>Screenshot of on-line finding aid.</figcaption>
+</figure>
 
 One final point: the RAC, like many archival institutions, uses an additional "back end" system to collect all technical, structural, physical, and preservation metadata for audiovisual items. This enables quantification and preservation planning. For example, a basic film inspection can yield dozens of preservation points, including: film gauge, soundtrack type, shrinkage level, film base, deterioration level, overall condition, type of damage, generation, manufacturer, et. al. This data both powers and prioritizes which titles are at the highest need for preservation. (Additionally, as we have an active film print library for on-site researcher Steenbeck viewing, it is necessary to discern a print's ability to withstand such casual watching.)
 

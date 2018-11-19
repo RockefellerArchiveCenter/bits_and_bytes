@@ -16,13 +16,10 @@ _In many ways, this is cautionary tale of what happens when we start with the ne
 
 <!--more-->
 
-<div id="attachment_2059" style="width: 810px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image3.png"><img class="size-full wp-image-2059" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image3.png" alt="" width="800" height="628" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image3.png 800w, http://blog.rockarch.org/wp-content/uploads/2018/08/image3-300x236.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image3-768x603.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image3-382x300.png 382w" sizes="(max-width: 800px) 100vw, 800px" /></a>
-
-  <p class="wp-caption-text">
-    MIT Computation Center, 1957. Rockefeller Archive Center (RAC).
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image3.png" alt="MIT Computation Center">
+<figcaption>MIT Computation Center, 1957. Rockefeller Archive Center (RAC).</figcaption>
+</figure>
 
 In early spring 1965, the Ford Foundation's Vice President for Administration and Operations, Verne Atwater, asked his team to investigate how a new technology called "electronic data processing" might be put to use at the Foundation. The task reflected the widespread mid-century faith in technology's capacity to improve bureaucratic efficiency and enable management decisions to pack a bigger punch. Mechanized processing seemed to promise to make human decision-making foolproof by calculating risks and objectives as if they were purely mathematical. In short, Ford's work might benefit from the budding field of artificial intelligence.
 
@@ -30,13 +27,10 @@ Julius Stratton, elected Foundation board chair in 1965, had been a Ford Trustee
 
 It was finally time for Ford to get a computer.
 
-<div id="attachment_2060" style="width: 594px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image8.png"><img class="size-large wp-image-2060" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image8-1024x960.png" alt="Information flow at the Ford Foundation" width="584" height="548" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image8-1024x960.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/08/image8-300x281.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image8-768x720.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image8-320x300.png 320w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    Information flow at the Ford Foundation, thanks to electronic data processing (proposal). RAC.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image8.png" alt="Ford Foundation Information Flow">
+<figcaption>Information flow at the Ford Foundation, thanks to electronic data processing (proposal). RAC.</figcaption>
+</figure>
 
 One astute Ford colleague, Deputy Director of Administration Richard S. Reed, was keen to point out that any technology was only as effective as the human-designed system it would replace. "Before we allow ourselves to get completely enamored of mechanization or computerization, we should realize that the only thing a computer will do for a poor system is to produce the same poor results at a much faster rate." (Reed memo to Atwater, March 23, 1965. RAC) Reed titled another 1965 memo "Data Processing for What?"
 
@@ -44,13 +38,10 @@ The Foundation hired Documentation, Incorporated, a computer and systems consult
 
 Documentation, Incorporated proposed raising the necessary funds through the elimination of twenty-two staff positions (clerks, typists, assistants), resulting in an annual savings of $154,000—not nearly enough. The study authors then suggested that the new system would so increase the efficiency of existing program professionals that it would essentially result in a savings worth $620,000. Adding to that an elimination of growth costs would result in net savings of $99,000, so the reasoning went. This argument might be persuasive for companies making products for profit. But everyone failed to notice that increasing the "efficiency" of Ford Foundation program staff— whose job was giving money away— would not result in cold, hard cash.
 
-<div id="attachment_2062" style="width: 855px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image1.png"><img class="size-full wp-image-2062" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image1.png" alt="Cost Estimates, 1966" width="845" height="804" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image1.png 845w, http://blog.rockarch.org/wp-content/uploads/2018/08/image1-300x285.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image1-768x731.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image1-315x300.png 315w" sizes="(max-width: 845px) 100vw, 845px" /></a>
-
-  <p class="wp-caption-text">
-    Cost Estimates, 1966. Office Files of Arthur R. Trottenberg, RAC.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image1.png" alt="Cost Estimates">
+<figcaption>Cost Estimates, 1966. Office Files of Arthur R. Trottenberg, RAC.</figcaption>
+</figure>
 
 The new system's price tag might nevertheless have been worth it if it could have helped Ford staff make more informed decisions, rule out less-promising programmatic options, and calculate safe doses of risk. But upon further examination, it was clear that even the manual administrative system in place lacked basic cohesiveness, procedural guidelines, or a shared vocabulary. Perhaps technology would first need simply to regularize the administrative structure itself.
 
@@ -58,42 +49,30 @@ A decision about whether to follow the "artificial intelligence" (machine-learni
 
 The Administration Office drew up a plan, outlined in a memo Atwater sent to Ford Foundation President McGeorge Bundy. Ironically, the latter's approval came in the form of a hand-written note on the memo itself (pictured below)—evidence of what Philip Kemp referred to as "limited manual procedures!"
 
-<div id="attachment_2063" style="width: 594px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image6.png"><img class="size-large wp-image-2063" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image6-1009x1024.png" alt="Bundy gives the OK" width="584" height="593" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image6-1009x1024.png 1009w, http://blog.rockarch.org/wp-content/uploads/2018/08/image6-296x300.png 296w, http://blog.rockarch.org/wp-content/uploads/2018/08/image6-768x780.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image6.png 1200w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    Bundy gives the OK—via memo marginalia. Office Files of Arthur D. Trottenberg, RAC.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image6.png" alt="Bundy gives the OK">
+<figcaption>Bundy gives the OK—via memo marginalia. Office Files of Arthur D. Trottenberg, RAC.</figcaption>
+</figure>
 
 All of this was happening as the Foundation made plans to move into its sparkling new headquarters on 43rd Street. If Ford was to develop in-house computational capacity, space would need to be found (it was, on level B) and equipment procured. Ford administration decided to rent the basic equipment, an [IBM 360/30 model](http://www.computerhistory.org/revolution/mainframe-computers/7/161/570?position=0), at the rate of $3,990 per month. That's approximately $28,000 in 2018 dollars. If my calculations are correct, the mainframe's 64K processing capacity, which would record basic descriptive facts about grants and grantees in the form of number codes, would amount to approximately .000032 the processing capacity of today's average iPhone.
 
-<div id="attachment_2064" style="width: 594px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image7.png"><img class="size-large wp-image-2064" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image7-1024x803.png" alt="A sales order from October 1968." width="584" height="458" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image7-1024x803.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7-300x235.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7-768x602.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7-383x300.png 383w, http://blog.rockarch.org/wp-content/uploads/2018/08/image7.png 1500w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    A sales order from October 1968. Office Files of Arthur D. Trottenberg, RAC.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image7.png" alt="A sales order from October 1968.">
+<figcaption>A sales order from October 1968. Office Files of Arthur D. Trottenberg, RAC.</figcaption>
+</figure>
 
 Furthermore, Ford would need to add specialized staff members to support the new system: keypunch operators, computer programmers, and systems analysts would join the Foundation in short order. And then, of course, staff in all departments would need to be trained (one hand-colored training schedule is reproduced below).
 
-<div id="attachment_2065" style="width: 594px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image5.png"><img class="size-large wp-image-2065" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image5-1024x797.png" alt="Ford Foundation Computer Training Schedule" width="584" height="455" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image5-1024x797.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5-300x234.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5-768x598.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5-385x300.png 385w, http://blog.rockarch.org/wp-content/uploads/2018/08/image5.png 1300w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-
-  <p class="wp-caption-text">
-    Ford Foundation Computer Training Schedule, marker on paper, 1969. RAC.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image5.png" alt="Ford Foundation Computer Training Schedule.">
+<figcaption>Ford Foundation Computer Training Schedule, marker on paper, 1969. RAC.</figcaption>
+</figure>
 
 From 1969-1976, Ford staff continued to reevaluate its computer needs. New grants information systems were tested, evaluated, and replaced. In 1976, frustrated Ford administrators proposed removing the computer system entirely and using outside vendors for all data processing. National Affairs Social Development program officer (and self-described poet) Thomas Cooney was brought into that discussion, since he was interested in the intersection of technology and the liberal arts (he had contributed to the [Computers and the Humanities](http://www.jstor.org/stable/30199283) journal in 1968). Many of the same issues remained as they had in 1965. Cooney's handwritten notes from a 1976 meeting about a new "program action system" for grants management seem to echo Richard Reed's "data processing for what?" question of over a decade earlier:
 
 > "[Management information systems] often don't work because the disseminators of the information pay attention only to the grammar of their output and not the rhetoric."
 
-<div id="attachment_2066" style="width: 723px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png"><img class="size-full wp-image-2066" src="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png" alt="1976 Meeting Notes" width="713" height="496" srcset="http://blog.rockarch.org/wp-content/uploads/2018/08/image4.png 713w, http://blog.rockarch.org/wp-content/uploads/2018/08/image4-300x209.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/08/image4-431x300.png 431w" sizes="(max-width: 713px) 100vw, 713px" /></a>
-
-  <p class="wp-caption-text">
-    1976 Meeting Notes, "Computer," Office Files of Thomas Cooney, RAC.
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/08/image4.png" alt="1976 Meeting Notes.">
+<figcaption>1976 Meeting Notes, "Computer," Office Files of Thomas Cooney, RAC.</figcaption>
+</figure>

@@ -34,37 +34,28 @@ We have designed Aurora primarily to enable ongoing transfers of records from ac
 
 At regular intervals, Aurora scans a directory structure where transfers are uploaded by donor organizations. Each transfer is first checked for viruses and then validated against the  [BagIt specification](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/bagit-specification.md) and the donor's [BagIt profile](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/organizational-bag-profile.json). Transfers that are not structurally valid, contain a virus, or are missing required metadata elements are rejected by the application and deleted immediately with notifications going to donors about the failure. The application displays transfer information in a searchable and sortable table where donors and archivists can track the status of transfers and view metadata. As transfers move through archival processes, their status will be updated in this interface, providing transparency for our donor organizations and increasing the visibility of archival labor.
 
-<div id="attachment_2001" style="width: 1255px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard.png"><img class="size-full wp-image-2001" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard.png" alt="Aurora dashboard interface" width="1245" height="876" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard.png 1245w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-300x211.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-768x540.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-1024x721.png 1024w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-dashboard-426x300.png 426w" sizes="(max-width: 1245px) 100vw, 1245px" /></a>
-
-  <p class="wp-caption-text">
-    Aurora Dashboard Interface
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/06/aurora-dashboard.png" alt="Aurora Dashboard Interface">
+<figcaption>Aurora Dashboard Interface.</figcaption>
+</figure>
 
 ### Archival Appraisal
 
 Once a transfer is validated, it moves to the appraisal queue, where appraisal archivists can review the transfers to ensure they are within a repository's collecting scope. Archivists can accept or reject transfers, as well as add appraisal notes. When a transfer is rejected, it is removed from the appraisal queue, and its status is updated in the transfer table.
 
-<div id="attachment_2002" style="width: 753px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue.png"><img class="wp-image-2002 size-full" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue.png" alt="Aurora appraisal queue" width="743" height="346" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue.png 743w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue-300x140.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-appraisal-queue-500x233.png 500w" sizes="(max-width: 743px) 100vw, 743px" /></a>
-
-  <p class="wp-caption-text">
-    Aurora Appraisal Queue
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/06/aurora-appraisal-queue.png" alt="Aurora appraisal queue">
+<figcaption>Aurora Appraisal Queue.</figcaption>
+</figure>
 
 ### Archival Accessioning
 
 Transfers accepted by an appraisal archivist move from the appraisal queue to the accessioning queue. Here, transfers are grouped by organization, record creators, and record type. Archivists can initiate the accessioning process by creating accession records for one or more transfers based on aggregated data from transfers grouped in an accession. Future work will integrate Aurora's accessioning functionality with an archival management system (in our context ArchivesSpace) and a digital preservation packaging system (Archivematica).
 
-<div id="attachment_2003" style="width: 893px" class="wp-caption alignnone">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record.png"><img class="size-full wp-image-2003" src="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record.png" alt="Aurora accession record" width="883" height="847" srcset="http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record.png 883w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-300x288.png 300w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-768x737.png 768w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-313x300.png 313w, http://blog.rockarch.org/wp-content/uploads/2018/06/aurora-accession-record-32x32.png 32w" sizes="(max-width: 883px) 100vw, 883px" /></a>
-
-  <p class="wp-caption-text">
-    Aurora Accession Record
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2018/06/aurora-accession-record.png" alt="Aurora accession record">
+<figcaption>Aurora Accession Record.</figcaption>
+</figure>
 
 ### User and Organization Administration
 

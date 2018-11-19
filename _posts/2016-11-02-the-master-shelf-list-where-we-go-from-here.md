@@ -17,23 +17,11 @@ Our Collections Management team has embarked on a major project to accurately de
 
 We thought the best solution to avoid multiple clicks in AS would be to build a web application that can pull JSON data directly from ArchivesSpace and display it in your web browser for easy copy/paste operations. So we made what we're calling [FindIt](https://github.com/RockefellerArchiveCenter/find-it)).
 
-<div id="attachment_1622" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt.jpg"><img class="size-medium wp-image-1622" src="http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-300x83.jpg" alt="The Base FindIt interface" width="300" height="83" srcset="http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-300x83.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-768x212.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-1024x282.jpg 1024w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt-500x138.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2016/11/BaseFindIt.jpg 1027w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-
-  <p class="wp-caption-text">
-    The Base FindIt interface
-  </p>
-</div>
+![The Base FindIt Interface](/wp-content/uploads/2016/11/BaseFindIt.jpg)
 
 FindIt is a single-page application that fetches JSON information about archival objects in ArchivesSpace using refids. Our Aeon installation automatically includes an ArchivesSpace refid and a link to each requested object in our discovery system, and an RAC staff member can take either this link or a refid and drop it into the FindIt search box to quickly display a location that they can then copy and save back in Aeon. FindIt works by quickly searching through all refids in the ArchivesSpace application, and then works backwards to grab the archival object title, container information, and location information. It also provides a link back to the archival object in your Archivesspace installation.
 
-<div id="attachment_1623" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults.jpg"><img class="size-medium wp-image-1623" src="http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-300x152.jpg" alt="The results returned after using FindIt" width="300" height="152" srcset="http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-300x152.jpg 300w, http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-768x389.jpg 768w, http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults-500x253.jpg 500w, http://blog.rockarch.org/wp-content/uploads/2016/11/FindItResults.jpg 978w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-
-  <p class="wp-caption-text">
-    The results returned after using FindIt
-  </p>
-</div>
+![The Results Returned After Using FindIt](/wp-content/uploads/2016/11/FindItResults.jpg)
 
 We have made a few assumptions for this work, the primary ones are that our users would want something simple that only had a single use. We wanted to build something that anyone on our staff could use with little to no training; anyone that has used Google could probably use FindIt. There's nowhere to get lost on the page, and we like that. As of writing this post, there application only returns results for a single item because that's how we anticipated our users interacting with it, but there's not much stopping us from building it out to handle multiple requests later on if necessary. Additionally, the current design requires us to include ArchivesSpace refids in the our discovery system's (DIMES) URL. Our DIMES URLs look like this: `http://dimes.rockarch.org/xtf/view?docId=ead/FA392/FA392.xml;chunk.id=aspace_ref8_mfy;doc.view=contents;#aspace_ref9_jun` ; anything following the # at the end is the AS refid. If you enter a URL into the FindIt search box, it just splits the string at the # and then searches for the refid as if you just entered the refid in by itself. If an instance does not contain any location information, FindIt will just tell you "No location found" and will not provide you an option to copy anything. We've also assumed that ArchivesSpace refids should be unique across the entire repository.  Currently, if you have duplicate refids, which is technically possible but unlikely if you've let AS generate all of your refids, FindIt will only return the first result it finds, but we are working on a fix to this to return all valid refids in a search. We originally skewed towards simplicity with the results, but we definitely understand that duplicate refids could happen in the future.
 
