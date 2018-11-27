@@ -7,7 +7,22 @@ layout: default
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="meta">
       {{ page.date | date: "%B %-d, %Y" }}
-      {% if page.author %} - {{ page.author }}{% endif %}
+      {% assign authorCount = page.author | size %}
+      {% if authorCount == 0 %}
+        No author
+      {% elsif authorCount == 1 %}
+        {{ page.author | first }}
+      {% else %}
+        {% for author in page.author %}
+          {% if forloop.first %}
+            {{ author }}
+          {% elsif forloop.last %}
+            , and {{ author }}
+          {% else %}
+            , {{ author }}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>
