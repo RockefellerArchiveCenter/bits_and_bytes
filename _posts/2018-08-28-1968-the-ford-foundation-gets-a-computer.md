@@ -2,7 +2,9 @@
 id: 2056
 title: '1968: The Ford Foundation Gets a Computer'
 date: 2018-08-28T09:28:13+00:00
-author: Hille Arnold, Rachel Wimpee
+author:
+- Hillel Arnold
+- Rachel Wimpee
 layout: post
 permalink: /?p=2056
 categories:

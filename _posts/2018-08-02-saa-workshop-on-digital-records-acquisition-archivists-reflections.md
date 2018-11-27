@@ -2,7 +2,11 @@
 id: 2048
 title: 'SAA Workshop on Digital Records Acquisition: Archivists' Reflections'
 date: 2018-08-02T14:49:32+00:00
-author: Darren Young,	Emeline Swanson,	Erich Chang,	Katherine Martin
+author:
+- Darren Young
+- Emeline Swanson
+- Erich Chang
+- Katherine Martin
 layout: post
 permalink: /?p=2048
 categories:

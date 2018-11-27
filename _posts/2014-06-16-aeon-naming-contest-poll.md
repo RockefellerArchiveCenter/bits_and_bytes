@@ -4,7 +4,6 @@ title: Aeon Naming Contest Poll
 date: 2014-06-16T10:20:15+00:00
 author: Hillel Arnold
 layout: post
-
 permalink: /?p=1072
 categories:
   - Software and Systems
