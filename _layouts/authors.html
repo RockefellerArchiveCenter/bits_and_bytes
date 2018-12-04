@@ -10,11 +10,11 @@ author: me
 {% assign prev = null %}
 {% for author in author_names %}
  {% unless author == prev %}
- <h2>{{author}}</h2>
+ <h2 id="{{ author | cgi_escape }}" class="author-title">{{author}}</h2>
  {% for post in site.posts %}
   {% if post.author contains author %}
    {% if post.title != null %}
-     <div class="tagged-post">
+     <div class="author-post">
        <h3 class="title">
          <a href="{{ post.url | relative_url }}">
            {{ post.title }}
