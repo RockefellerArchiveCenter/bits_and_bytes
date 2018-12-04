@@ -1,0 +1,9 @@
+{% if include.tag_count > 0 %}
+<footer>
+  <div class="authors">
+    {% for tag in include.tags %}
+    <a class="authors" href="{{site.baseurl}}/authors#{{ author | cgi_escape | url_encode}}">#{{author}}</a>
+    {% endfor %}
+  </div>
+</footer>
+{% endif %}
