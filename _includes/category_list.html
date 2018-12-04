@@ -2,7 +2,7 @@
 <footer>
   <div class="categories">
     {% for tag in include.tags %}
-    <a class="categories" href="{{site.baseurl}}/categories#{{ category | cgi_escape }}">#{{category}}</a>
+    <a class="categories" href="{{site.baseurl}}/categories#{{ category | cgi_escape | url_encode }}">#{{category}}</a>
     {% endfor %}
   </div>
 </footer>
