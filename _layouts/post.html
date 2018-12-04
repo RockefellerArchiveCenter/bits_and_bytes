@@ -11,15 +11,15 @@ layout: default
       {% if authorCount == 0 %}
         No author
       {% elsif authorCount == 1 %}
-        {{ page.author | first }}
+        <a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{ page.author | first }}</a>
       {% else %}
         {% for author in page.author %}
           {% if forloop.first %}
-            {{ author }}
+            <a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{ author }}</a>
           {% elsif forloop.last %}
-            , and {{ author }}
+            , and <a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{ author }}</a>
           {% else %}
-            , {{ author }}
+            , <a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{ author }}</a>
           {% endif %}
         {% endfor %}
       {% endif %}
