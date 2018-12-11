@@ -12,6 +12,7 @@ tags:
   - data migration
   - description
   - metadata
+excerpt_separator: <!--more-->
 ---
 You might remember that earlier this year I wrote a post about [Metadata Cleanup and Ford Foundation Grants](http://rockarch.org/programs/digital/bitsandbytes/?p=1005) that gave a very basic overview of how I went about reconciling thousands of subject terms against the Library of Congress. This reconciliation was essential in helping us gain control over data that we did not create, but that we also identified as possibly extremely valuable to researchers. This post will give an in-depth and updated account of how I hobbled together a (mostly) automatic way to check large amounts of topical terms against the Library of Congress. It still requires some hands-on work and quality checking is a must, but it cut a hundreds of hours job down exponentially.
 

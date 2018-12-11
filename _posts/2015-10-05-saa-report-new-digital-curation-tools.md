@@ -11,6 +11,7 @@ tags:
   - conferences
   - digital accessioning workflow
   - Digital Preservation
+excerpt_separator: <!--more-->
 ---
 One of my biggest takeaways from this year's SAA was how many awesome digital curation and digital preservation tools are in development. The tools that most stuck with me were related to the appraisal and accessioning of born digital materials. This is something we've been thinking about a \*lot\* at the RAC, and it's encouraging that so many smart folks are working on these issues, and developing amazing tools that we'll be able to use. I saw way more tools than I can talk about here, but here are a couple of highlights that I hope to explore more:<!--more-->
 

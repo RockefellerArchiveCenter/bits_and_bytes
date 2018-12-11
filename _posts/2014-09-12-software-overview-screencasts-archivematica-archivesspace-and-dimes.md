@@ -26,6 +26,7 @@ tags:
   - description
   - Digital Preservation
   - metadata
+excerpt_separator: <!--more-->
 ---
 We prepared a series of screencasts for a recent donor meeting. These screencasts give a really nice, visual, overview of how we use three different systems: Archivematica, ArchivesSpace, and DIMES, and how they connect to each other.
 

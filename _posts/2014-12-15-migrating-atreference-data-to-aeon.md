@@ -15,6 +15,7 @@ tags:
   - data
   - data migration
   - RACcess
+excerpt_separator: <!--more-->
 ---
 Since the RAC was [founded in 1974](http://rockarch.org/about/), we've collected information about our researchers, including contact details, visit dates, topics of research, and publications. Starting in the 1980s, we captured this information in a number of different databases. Currently, this data is stored in [ATReference](https://github.com/RockefellerArchiveCenter/ATReference), a customized version of the [Archivists' Toolkit](http://www.archiviststoolkit.org/) that was developed by the RAC. As part of both the [Aeon](http://www.atlas-sys.com/aeon/) and [ArchivesSpace](http://archivesspace.org/) implementation processes, we needed to migrate that data forward into Aeon so we can continue to access and add to the wealth of information it contains without having to support ATReference.<!--more-->
 

@@ -13,6 +13,7 @@ tags:
   - Archivematica
   - Artefactual
   - ATReference
+excerpt_separator: <!--more-->
 ---
 On Thursday and Friday of last week, we had a visit from Evelyn and Austin of Artefactual Systems, who were here to set up a new version of Archivematica for us to test. This new version has some important functionality which will allow us to present access copies of digitized material online in DIMES.
 

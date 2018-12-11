@@ -11,6 +11,7 @@ tags:
   - code4lib
   - empathy
   - presentations
+excerpt_separator: <!--more-->
 ---
 One of the talks that has really stuck with me from this year's [Code4Lib conference](http://code4lib.org/conference/2014/) was the opening keynote, "UX Is A Social Justice Issue," given by Sumana Harihareswara. She is an [Engineering Community Manager at the Wikimedia Foundation](https://www.mediawiki.org/wiki/User:Sharihareswara_%28WMF%29), and you can read more about her (very impressive) work on [her website](http://www.harihareswara.net/).
 

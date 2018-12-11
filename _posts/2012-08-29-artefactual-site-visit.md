@@ -11,6 +11,7 @@ tags:
   - Archivematica
   - Artefactual
   - Digital Preservation
+excerpt_separator: <!--more-->
 ---
 This past week, the Artefactual team of Peter Van Garderen, President/Systems Archivist, Evelyn McLellan, Systems Archivist and Austin Trask, Systems Engineer made a site visit to Rockefeller Archive Center to install the 0.9 version of Archivematica. This beta version of the open sourced digital preservation system will allow us to preserve and maintain our backlog of born digital and digitized records.<!--more-->
 

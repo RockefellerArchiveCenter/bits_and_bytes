@@ -10,6 +10,7 @@ categories:
 tags:
   - SAA
   - web archiving
+excerpt_separator: <!--more-->
 ---
 ![JS 1]({{ site.baseurl }}/wp-content/uploads/2014/08/JS_1.png)After seeing lots of interesting interactions on Twitter with [@textfiles](https://twitter.com/textfiles), otherwise known as Jason Scott, I was super excited to hear him present at the Web Archiving Roundtable. According to his Twitter profile, Jason is: "the proprietor of [http://TEXTFILES.COM](http://textfiles.com/) , historian, filmmaker, archivist, famous cat maintenance staff. He works on/for/over the Internet Archive." <!--more-->
 

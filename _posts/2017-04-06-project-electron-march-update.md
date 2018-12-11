@@ -12,6 +12,7 @@ tags:
   - standards
   - storage
   - transfer
+excerpt_separator: <!--more-->
 ---
 March was a busy month for the Project Electron team, with [conference presentations at Code4Lib](http://blog.rockarch.org/?p=1707), attendance at [LDCX, Born Digital Archiving eXchange and Personal Digital Archiving](http://blog.rockarch.org/?p=1717), and participation in the [DACS Principles revision process](http://blog.rockarch.org/?p=1710). Despite this, we managed to make significant progress on Project Electron, specifically in developing requirements for archival storage as well as transfer of records from donor organizations to the Rockefeller Archive Center.<!--more-->
 

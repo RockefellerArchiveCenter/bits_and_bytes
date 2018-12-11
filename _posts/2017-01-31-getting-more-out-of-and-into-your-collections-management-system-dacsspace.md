@@ -13,6 +13,7 @@ tags:
   - finding aids
   - METRO
   - presentations
+excerpt_separator: <!--more-->
 ---
 Recently, I attended [METRO's Annual Conference](http://metro.org/events/794/) where I presented on a panel titled "Getting More Out of (and Into) Your Collections Management System." I spoke about my experience learning to code as a processing archivist and developing DACSspace. The following is the text from my presentation.<!--more-->
 

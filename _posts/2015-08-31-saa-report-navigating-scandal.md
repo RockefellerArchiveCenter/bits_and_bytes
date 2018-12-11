@@ -10,6 +10,7 @@ categories:
 tags:
   - archives profession
   - SAA
+excerpt_separator: <!--more-->
 ---
 Somewhat surprisingly, one of my favorite panels of Archives 2015 had very little to do with the actual work that I do day to day. [Session 702, Controversial Crawling: Documenting University Scandal in Real Time](https://archives2015.sched.org/event/0fa24098d19aab98f87bb1cd3718aea6#.VeSciPlVhBc), dealt with the practical issues of trying to capture internal and public discussions of university controversies on the web.
 

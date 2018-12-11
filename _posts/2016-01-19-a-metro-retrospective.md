@@ -12,6 +12,7 @@ tags:
   - conferences
   - digital systems
   - METRO
+excerpt_separator: <!--more-->
 ---
 I attended METRO's annual conference on 1/21. METRO is the Metropolitan New York Library Council, and as members, RAC staff is open to attend any of their events. There were a lot of fantastic panels and speakers at the panel this year, but I'd like to focus on an overarching theme that I picked up on this year: getting our systems to communicate nicely with each other can streamline our work processes and improve our work as archivists.<!--more-->
 

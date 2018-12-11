@@ -12,6 +12,7 @@ tags:
   - APIs
   - ArchivesSpace
   - version control
+excerpt_separator: <!--more-->
 ---
 In preparation for upcoming changes to the display of digital objects in DIMES, I've been pursuing some enhancements to data export from ArchivesSpace. This began with [a plugin to improve METS exports](https://github.com/RockefellerArchiveCenter/ArchivesSpace-Customizations/tree/mods-mets/plugins/local/backend/model), including embedded MODS records, but then grew into a more comprehensive project to automate the export of updated resource records, version that data, and then push it to [DIMES](http://dimes.rockarch.org/).<!--more-->
 

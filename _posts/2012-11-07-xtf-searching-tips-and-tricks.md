@@ -7,6 +7,7 @@ layout: post
 permalink: /?p=310
 categories:
   - XTF
+excerpt_separator: <!--more-->
 ---
 _Thanks to everyone who attended today's XTF training! I'm posting some of the tips and tricks I shared today, as well as a link to our development server below:_
 

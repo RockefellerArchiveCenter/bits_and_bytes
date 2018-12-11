@@ -11,6 +11,7 @@ tags:
   - Aeon
   - RACcess
   - reference
+excerpt_separator: <!--more-->
 ---
 It's been a while since we posted anything about our Aeon implementation, so I wanted to share some of what we've been working on, as well as what you can expect in the coming months.<!--more-->
 

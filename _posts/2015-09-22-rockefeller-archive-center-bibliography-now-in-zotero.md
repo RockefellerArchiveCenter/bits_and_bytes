@@ -11,6 +11,7 @@ tags:
   - data migration
   - open refine
   - zotero
+excerpt_separator: <!--more-->
 ---
 I'm very pleased to announce that the [Rockefeller Archive Center's substantial (and rapidly growing) bibliography](https://www.zotero.org/groups/rac) of publications based on work completed using our collections is now available in [Zotero](https://www.zotero.org/). This is the culmination of several months of hard work on the part of many individuals here, working together to create functional requirements, evaluate potential solutions and select the best option, and then migrate our existing bibliography into Zotero.<!--more-->
 

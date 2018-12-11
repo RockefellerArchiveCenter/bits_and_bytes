@@ -13,6 +13,7 @@ tags:
   - description
   - Digital Preservation
   - FTK
+excerpt_separator: <!--more-->
 ---
 It's been a busy couple of weeks for conferences! On Friday, Bonnie and I attended a [Born-Digital Workflows CURATEcamp](http://wiki.curatecamp.org/index.php/Born-Digital_Workflows_CURATEcamp,_April_23rd_at_Brooklyn_Historical_Society), held at the [Brooklyn Historical Society](http://brooklynhistory.org/). We gave a brief presentation on our workflows for arranging and descriping born-digital materials, and also learned a lot from other attendees.<!--more-->
 

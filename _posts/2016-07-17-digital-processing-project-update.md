@@ -7,6 +7,7 @@ layout: post
 permalink: /?p=1589
 categories:
   - Uncategorized
+excerpt_separator: <!--more-->
 ---
 We're now a few months into our Digital Processing Project, which [I wrote about back in April](https://saaers.wordpress.com/2016/04/05/digital-processing-at-the-rockefeller-archive-center/) for the blog of SAA's Electronic Records Section. By the end of this project, RAC processing archivists will have the tools, workflows and competencies needed to process digital materials. Through this, we will be able to preserve and provide access to unique born digital content stored on obsolete and decaying media.<!--more-->
 

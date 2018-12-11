@@ -15,6 +15,7 @@ tags:
   - search
   - XML
   - XSLT
+excerpt_separator: <!--more-->
 ---
 Our finding aids get from AT Reference to DIMES in what is basically a three-step process:
 

@@ -18,6 +18,7 @@ tags:
   - Video
   - virtual vault
   - Year in the Life of an Audiovisual Archivist
+excerpt_separator: <!--more-->
 ---
 # Audiovisual Access
 

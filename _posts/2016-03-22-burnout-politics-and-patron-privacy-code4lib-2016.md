@@ -12,6 +12,7 @@ tags:
   - code4lib
   - politics
   - privacy
+excerpt_separator: <!--more-->
 ---
 Following up on [Bonnie](http://blog.rockarch.org/?p=1472) and [Patrick's](http://blog.rockarch.org/?p=1474) posts about this year's Code4Lib, I thought I'd write briefly about a few talks that really struck me this year.<!--more-->
 

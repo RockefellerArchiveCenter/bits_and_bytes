@@ -13,6 +13,7 @@ tags:
   - display
   - search
   - usability
+excerpt_separator: <!--more-->
 ---
 I've recently pushed out a pretty major change to the search results page in [DIMES](http://dimes.rockarch.org), inspired by direct feedback from users as well as analysis of web analytics and server logs, so I wanted to post a detailed account of both what I did as well as why I did it.<!--more-->
 

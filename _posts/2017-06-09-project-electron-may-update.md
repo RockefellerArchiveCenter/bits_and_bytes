@@ -12,6 +12,7 @@ tags:
   - fedora
   - project electron
   - repository
+excerpt_separator: <!--more-->
 ---
 Our major news for this month is that, after evaluating a number of existing solutions against our requirements for archival storage, we have decided to use Fedora as the repository solution for Project Electron. Although there were other systems that met many of our requirements - [DSpace](http://www.dspace.org/) for example - in the end we felt that [Fedora](http://fedorarepository.org/) was the closest match for our needs both in terms of feature coverage and scope. It does what we want it to do without requiring us to support a lot of extra functionality or complexity.<!--more-->
 

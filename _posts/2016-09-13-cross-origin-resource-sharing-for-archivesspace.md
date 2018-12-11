@@ -11,6 +11,7 @@ tags:
   - APIs
   - ArchivesSpace
   - Javascript
+excerpt_separator: <!--more-->
 ---
 We've written a lot on this blog about [things we're doing with the ArchivesSpace API](https://github.com/RockefellerArchiveCenter/scripts/tree/master/archivesspace), ranging from [find and replace operations in notes](https://github.com/RockefellerArchiveCenter/scripts/blob/master/archivesspace/advancedNoteEdit.py) to [reporting on our DACS compliance](http://blog.rockarch.org/?p=1581) across our repository. It should be pretty obvious we're big fans of the power and flexibility it provides to automate what otherwise would be some pretty tedious and error-prone, and also that the data model is getting us to [think about archival description](https://github.com/helrond/staticAid) outside of the EAD box.<!--more-->
 

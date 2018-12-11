@@ -17,6 +17,7 @@ tags:
   - Survey
   - Video
   - Year in the Life of an Audiovisual Archivist
+excerpt_separator: <!--more-->
 ---
 # Walk the vaults!
 

@@ -10,6 +10,7 @@ categories:
 tags:
   - Digital Preservation
   - IDPD17
+excerpt_separator: <!--more-->
 ---
 Over the past year, the RAC has been taking steps towards preserving digital media found within our collections. We have established new policies and moved away from separating digital media from their parent collection upon accessioning due to format. In the near future, we plan to institute a new workflow that involves processing archivists inventorying, imaging, and virus checking these materials during processing and recording their progress using the [Digital Media Log](http://blog.rockarch.org/?p=1643). We are currently at the documentation stage of this project where we are working to develop and make available imaging workflows that encourage a comprehensive understanding of the transfer process.<!--more-->
 

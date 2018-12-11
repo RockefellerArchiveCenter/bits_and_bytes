@@ -11,6 +11,7 @@ categories:
 tags:
   - Digital Preservation
   - webinar
+excerpt_separator: <!--more-->
 ---
 
 ## Digital Dark Ages to Digital Renaissance: Art of Selecting Digital Content to Preserve

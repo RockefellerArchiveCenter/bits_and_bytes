@@ -11,6 +11,7 @@ tags:
   - project electron
   - user centered design
   - wireframes
+excerpt_separator: <!--more-->
 ---
 As development of the Project Electron transfer application has continued over the past month, one important aspect of the work has been the creation of user interfaces based on the [wireframes](https://www.uxpin.com/studio/ui-design/what-is-a-wireframe-designing-your-ux-backbone/) we have designed during the design planning process. In this month's update, I will discuss how both wireframes and the resulting user interfaces (UIs) of the application are important communication tools both internally for the development team, and externally with user groups including Rockefeller Archive Center staff and donors.<!--more-->
 

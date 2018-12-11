@@ -13,6 +13,7 @@ tags:
   - license
   - open
   - public domain
+excerpt_separator: <!--more-->
 ---
 I'm pleased to announce that Rockefeller Archive Center's finding aids and library records available on our discovery system, [DIMES](http://dimes.rockarch.org), are now licensed under a Creative Commons Zero (CC0) dedication! This means that you can copy, modify and distribute our descriptive metadata in any way you want without asking us for permission. The CC0 license is explained in full on the [Creative Commons website](http://creativecommons.org/publicdomain/zero/1.0/).<!--more-->
 

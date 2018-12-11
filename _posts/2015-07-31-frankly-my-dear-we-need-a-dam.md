@@ -10,6 +10,7 @@ categories:
 tags:
   - dam
   - user stories
+excerpt_separator: <!--more-->
 ---
 Over the last few years, we've been creating and acquiring digital assets (more on what I mean by that term in a second) at a pretty astonishing rate, and we've thus far lacked a way of managing them. They're stored in a variety of places (some more discoverable than others) and it's difficult to know exactly what we have. In fact, when I tried to figure out the extent of these assets when writing this post, I couldn't do it. I just ended up feeling like Clark Gable:<!--more-->
 

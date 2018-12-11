@@ -11,6 +11,7 @@ categories:
   - Digitization
 tags:
   - digital formats
+excerpt_separator: <!--more-->
 ---
 Collect references once, export and share infinitely. That's what tools like [Endnote](http://endnote.com) and [Zotero](http://zotero.org) come down to. In grad school I used [Endnote](http://endnote.com/) to manage my references and then cite them as needed in Word documents (papers, my dissertation...). The software would automatically create bibliographies from cited material, in virtually any format imaginable (MLA and Chicago are just the beginning). But I never took it a step further to create an online, shareable library. It wasn't until I began work on a Ford Foundation bibliography here at the Archive Center that I saw the benefits of an online reference-storing tool. Thanks to Hillel's suggestion, I began to build one using [Zotero](http://www.zotero.org/), a free program .
 

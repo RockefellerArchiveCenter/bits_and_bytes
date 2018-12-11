@@ -13,6 +13,7 @@ tags:
   - maintenance
   - politics
   - technology
+excerpt_separator: <!--more-->
 ---
 You might not think a conference on maintenance would be all that exciting. But [The Maintainers](http://themaintainers.org/) - a conference I attended this past week at [Stevens Institute of Technology](https://www.stevens.edu/) in scenic Hoboken, New Jersey - was not only exciting, but thought-provoking, inspiring and challenging as well.<!--more-->
 

@@ -13,6 +13,7 @@ tags:
   - Git
   - GitHub
   - Python
+excerpt_separator: <!--more-->
 ---
 A large part of my first month at the RAC has been spent learning [Python](https://www.python.org/), [Git](https://git-scm.com/), and [GitHub](https://github.com/).  As a processing archivist, who is also fairly new to the profession, I had no programming experience and was _vaguely_ familiar with these tools. I began with a goal-orientated learning plan that essentially required me to learn enough of Python to be able to interpret an ArchivesSpace script. This experience not only taught me that programming is a powerful tool – but that it takes a sense of **fearlessness** to conquer a programming language.<!--more-->
 

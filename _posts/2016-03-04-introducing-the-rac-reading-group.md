@@ -10,6 +10,7 @@ categories:
   - Professional Reading
 tags:
   - readings
+excerpt_separator: <!--more-->
 ---
 A few weeks ago, in a series of conversations with some of the smart people in our [Research and Education](http://rockarch.org/programs/research/) division, we came up with the idea of a reading group that would allow all RAC staff to engage with professional literature, share methodological expertise, and in general exercise our critical reading and thinking muscles. We've since had our first session – which focused on the [concept of original order](https://www.zotero.org/groups/rac_reading_group/items/collectionKey/6J7CUUGB) – and will be holding the next one on April 29<sup>th</sup>. Overall, our readings will focus on methodology – rather than the history of a specific organization or more general field – in order to get us talking comprehensively about the what, how and why of our work.<!--more-->
 

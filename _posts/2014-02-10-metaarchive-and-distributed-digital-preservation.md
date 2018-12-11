@@ -12,6 +12,7 @@ tags:
   - distributed digital preservation
   - LOCKSS
   - MetaArchive
+excerpt_separator: <!--more-->
 ---
 About a year ago, I started reviewing ways to secure our digital assets against potential catastrophic losses due to disaster (natural or otherwise), technical error, hardware failure, and system attacks. I wanted a solution that offered geographically-dispersed server space to minimize the risk of loss due to disaster, regular fixity checks to help uncover any potential hardware issues on those servers, and administration differentiation between those servers and our own systems to help alleviate technical error and system attack issues.
 

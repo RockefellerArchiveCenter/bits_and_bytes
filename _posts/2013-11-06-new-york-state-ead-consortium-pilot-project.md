@@ -12,6 +12,7 @@ tags:
   - EAD
   - finding aids
   - nysead
+excerpt_separator: <!--more-->
 ---
 I wanted to let everyone know about a [new effort underway](http://www.ny3rs.org/projects/ead-repository-pilot/) in New York State to test the feasibility of a state-wide consortium for EAD finding aids. The RAC has been involved from the beginning of this project, which started with a [2011 survey](http://library.buffalo.edu/libraries/units/music/spcoll/ead/NYEADsurveysummary.html) of archives, special collections, historical societies and other institutions in New York State that hold unique materials to determine the level of EAD implementation at the state level. This survey found a very strong support for a finding aid consortium in the state.<!--more-->
 

@@ -10,6 +10,7 @@ categories:
 tags:
   - electronic records
   - records management
+excerpt_separator: <!--more-->
 ---
 In Fall 2012, I attended an Electronic Records Management course at Pratt Institute's School of Library and Information Science.  The course focused on the organizational transitions and culture changes required for successful electronic records program implementation, staffer roles and responsibilities, current practices in management of electronic records in email, inventorying, vital record program, disaster recovery and retention scheduling.
 

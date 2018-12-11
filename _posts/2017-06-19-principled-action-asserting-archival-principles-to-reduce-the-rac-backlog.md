@@ -14,6 +14,7 @@ tags:
   - description
   - finding aids
   - standards
+excerpt_separator: <!--more-->
 ---
 Several years ago RAC faced a dilemma familiar to many in our profession – a daunting processing backlog that was growing exponentially and depriving scholar's and staff of access to many of the records held in our collections. Our collections are great resources of knowledge, but only if those resources are available to our users!
 

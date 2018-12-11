@@ -11,6 +11,7 @@ tags:
   - data
   - social media
   - structured data
+excerpt_separator: <!--more-->
 ---
 Last week, we made some changes to [DIMES](http://dimes.rockarch.org/xtf/search) that will allow for better sharing on social media sites, particularly Facebook and Twitter, by adding embedded metadata.<!--more-->
 

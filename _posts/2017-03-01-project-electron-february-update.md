@@ -12,6 +12,7 @@ tags:
   - personas
   - project electron
   - user centered design
+excerpt_separator: <!--more-->
 ---
 Following the [release of our personas and user stories](http://blog.rockarch.org/?p=1668) last month, we've been moving forward on several fronts to map out the next steps for [Project Electron](http://projectelectron.rockarch.org/). This includes developing user scenarios, requirements and an annotated bibliography on data modeling.<!--more-->
 

@@ -14,6 +14,7 @@ tags:
   - description
   - processing
   - reference
+excerpt_separator: <!--more-->
 ---
 As you should all know by now, we will be transitioning from ATReference to ArchivesSpace in a couple of months. It has been a lengthy project, but we're quickly approaching its final stages. As such, I wanted to give everyone a quick rundown of the final timeline and the work that we are doing to get us there.
 

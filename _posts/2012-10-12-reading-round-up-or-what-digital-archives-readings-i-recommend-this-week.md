@@ -12,6 +12,7 @@ tags:
   - Digital Preservation
   - finding aids
   - readings
+excerpt_separator: <!--more-->
 ---
 Part of my job is being up-to-date on the latest happenings in technology and digital archiving. In my attempts to accomplish this (one can never be truly up-to-date; there's always some new information out there) I tend to browse through many, many, many, publications, blog postings, presentations, videos, etc. each week. Some are gems, some reinforce knowledge I already had, some introduce new technologies, and some make you wonder why the author bothered. Thankfully that last category isn't very numerous! Below are articles from the past couple weeks which I'd recommend. I'm listing these partly to spread the knowledge through the RAC, and partly to create a running bibliography of texts from which we can form discussions, or refer to when questions like "What did that project do?" or "Wasn't there some article on a program that did that well?" come up. Please feel free to leave feedback or responses to the texts in the comments.<!--more-->
 

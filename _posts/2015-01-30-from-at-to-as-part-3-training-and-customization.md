@@ -10,6 +10,7 @@ categories:
 tags:
   - ArchivesSpace
   - data migration
+excerpt_separator: <!--more-->
 ---
 ## CUSTOMIZING THE APPLICATION – 22 hours in 4 months
 

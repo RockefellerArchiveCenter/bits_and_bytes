@@ -14,6 +14,7 @@ tags:
   - digital objects
   - discovery
   - usability
+excerpt_separator: <!--more-->
 ---
 As you've probably noticed, we recently rolled out a pretty major overhaul to DIMES. This post describes the changes that were made in some detail and also describes the reasons behind the changes.<!--more-->
 

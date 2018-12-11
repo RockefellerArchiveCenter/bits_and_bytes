@@ -12,6 +12,7 @@ tags:
   - digital transfers
   - milestones
   - project electron
+excerpt_separator: <!--more-->
 ---
 As I mentioned last month, we're moving forward with Project Electron on two fronts: defining the process by which digital records are transferred to the Rockefeller Archive Center and selecting a solution to provide archival storage for those records once they are in our custody.<!--more-->
 

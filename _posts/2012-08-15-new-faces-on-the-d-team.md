@@ -7,6 +7,7 @@ layout: post
 permalink: /?p=25
 categories:
   - D-Team
+excerpt_separator: <!--more-->
 ---
 The D-Team has several new additions, and we want to introduce them to you.<!--more-->
 

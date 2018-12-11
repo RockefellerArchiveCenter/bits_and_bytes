@@ -10,6 +10,7 @@ categories:
 tags:
   - special projects
   - statistics
+excerpt_separator: <!--more-->
 ---
 As part of the cost assessment project we recently underwent, I was asked to provide a count of how many items and pages were digitized during each fiscal year that the Special Projects Digitization Program has been in operation.
 

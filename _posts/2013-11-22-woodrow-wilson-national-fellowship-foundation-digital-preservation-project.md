@@ -15,6 +15,7 @@ tags:
   - metadata
   - PREMIS
   - preservation metadata
+excerpt_separator: <!--more-->
 ---
 The [Woodrow Wilson National Fellowship Foundation](http://woodrow.org/ "Woodrow Wilson National Fellowship Foundation") (WWNFF) program was designed to encourage college graduates to consider college teaching as a career and provided support for first-year graduate students in the humanities and the social sciences in its early years before expanding to include mathematics and the sciences. Each fellowship file contains application forms, recommendations, transcripts, and other documentation used to track the fellow's progress.
 

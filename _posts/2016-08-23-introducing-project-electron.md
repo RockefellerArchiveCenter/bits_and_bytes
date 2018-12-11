@@ -14,6 +14,7 @@ tags:
   - project electron
   - standards
   - user experience
+excerpt_separator: <!--more-->
 ---
 Today we're announcing a major project to build sustainable, user-centered and standards-compliant infrastructure to support the ongoing acquisition, management and preservation of digital records so we can make them available in the broadest and most equitable way possible. Because a snappy title makes everything better, we've codenamed this effort Project Electron, and we even have a cool mascot (Captain Electron, discovered by our internet expert Patrick Galligan):<!--more-->
 

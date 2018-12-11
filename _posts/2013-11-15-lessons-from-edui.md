@@ -14,6 +14,7 @@ tags:
   - edui
   - organizational culture
   - process
+excerpt_separator: <!--more-->
 ---
 Last week I attended [edUI](http://eduiconf.org), a conference for web professionals (including designers, developers and managers) who work at learning or teaching institutions like colleges, universities, libraries, archives and museums. It was one of the best conferences I've attended, and I wanted to share four lessons from the conference with you.<!--more-->
 

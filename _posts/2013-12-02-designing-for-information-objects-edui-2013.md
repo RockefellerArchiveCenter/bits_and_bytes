@@ -12,6 +12,7 @@ tags:
   - edui
   - information
   - usability
+excerpt_separator: <!--more-->
 ---
 One of the sessions I really enjoyed at this year's edUI conference (for a broad recap of the conference, see my earlier post) was [Designing for Information Objects](http://eduiconf.org/sessions/designing-for-information-objects/), presented by [Duane Degler](http://eduiconf.org/speakers/duane-degler/) (Design for Context) and [Neal Johnson](http://eduiconf.org/speakers/neal-johnson/) (National Gallery of Art). Although the presentation took place on the afternoon of the last day of the conference, by which time my brain was already past its saturation point, it was immediately apparent to me that there were some pretty important ideas in the presentation that deserved some detailed attention. In part, I wanted to write this post as a way to revisit that session now that I've had some time to recover from the conference overload.<!--more-->
 

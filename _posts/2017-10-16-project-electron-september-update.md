@@ -13,6 +13,7 @@ tags:
   - milestones
   - project electron
   - scenario mapping
+excerpt_separator: <!--more-->
 ---
 It has been a busy month for Project Electron as we near the end of the first phase of development, which focused on building an application to enable the secure transfer and validation of digital records and their metadata according to the [Rockefeller Archive Center BagIt specification](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/bagit-specification.md). In addition to the transfer application development, much of our work this month has been about planning for the next phase of the project. In this post I will share a few activities and strategies we undertook to prepare for development and to keep [users at the center of the design process](http://projectelectron.rockarch.org/).<!--more-->
 

@@ -11,6 +11,7 @@ tags:
   - access
   - digital formats
   - electronic records
+excerpt_separator: <!--more-->
 ---
 Back in January, archivists from the Princeton University Manuscripts Division [visited](https://blogs.princeton.edu/techsvs/2017/01/31/princeton-goes-to-rac/) the Rockefeller Archive Center to discuss digital processing with members of the RAC Processing Team. To continue this conversation, a few staff members from the RAC went on a field trip to Princeton on June 8th. The group consisted of staff from various departments including members of the Processing, Collections Management, and Digital Teams.<!--more-->
 

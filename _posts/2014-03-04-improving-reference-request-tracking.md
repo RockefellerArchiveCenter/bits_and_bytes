@@ -12,6 +12,7 @@ tags:
   - osticket
   - reference
   - request tracking
+excerpt_separator: <!--more-->
 ---
 Over the last few weeks, I've been looking into systems which will help us do a better job handling research requests that come in to us via email. You can see what our current workflow looks like in this chart.<!--more-->
 

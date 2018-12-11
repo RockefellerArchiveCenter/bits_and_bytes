@@ -15,6 +15,7 @@ tags:
   - conferences
   - Digital Preservation
   - electronic records
+excerpt_separator: <!--more-->
 ---
 ## Introduction
 

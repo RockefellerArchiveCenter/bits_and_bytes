@@ -16,6 +16,7 @@ tags:
   - project electron
   - transfer
   - unit test
+excerpt_separator: <!--more-->
 ---
 This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) and the development decisions we made last month with our Marist College partners at [the hackathon](http://blog.rockarch.org/?p=1815). We are really excited about testing transfers in the coming month.
 

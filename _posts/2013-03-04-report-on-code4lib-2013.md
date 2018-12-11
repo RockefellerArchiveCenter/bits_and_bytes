@@ -12,6 +12,7 @@ tags:
   - conferences
   - discovery
   - learning
+excerpt_separator: <!--more-->
 ---
 A few weeks ago, I attended the annual [code4lib conference](http://code4lib.org/conference/2013) in Chicago. Code4lib is more than a conference; it's a loose collective of software developers, programmers and people who work with technology in libraries, all of whom connect through a listserv, an internet relay chat (IRC) channel, and various forms of social media in addition to the annual meeting. Code4libbers tend to have a strong open-source bias, and are also mostly people who work for secondary education institutions. I always find code4lib conferences to be inspiring and a little overwhelming. There's a flood of new information, and many old friends to catch up with and new people to meet.
 

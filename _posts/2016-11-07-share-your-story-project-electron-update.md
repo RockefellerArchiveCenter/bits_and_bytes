@@ -12,6 +12,7 @@ tags:
   - discovery
   - project electron
   - user experience
+excerpt_separator: <!--more-->
 ---
 Since Project Electron kicked off in September, we've made significant progress on a number of different fronts. First, together with our Marist College partners, we created a [milestones document](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/Milestones.md) which lays out major phases of work. We also developed some [general principles and overall approaches to licensing project deliverables](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/Licensing_Plan.md), including code, documentation and planning documents. Since we anticipate both of these documents will change over time, we've versioned them using [git](https://git-scm.com/) (and have pushed [a copy to GitHub](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/docs)) so we can keep track of those changes.<!--more-->
 

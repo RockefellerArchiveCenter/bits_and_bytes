@@ -14,6 +14,7 @@ tags:
   - digital formats
   - Digital Preservation
   - electronic records
+excerpt_separator: <!--more-->
 ---
 Last week on Friday, June 14<sup>th</sup> I attended the NDSA Regional Meeting hosted by the [Metropolitan New York Library Council](http://metro.org/ "Metropolitan New York Library Council") in New York City. This regional meeting of National Digital Stewardship Alliance members, [NDIIPP](http://en.wikipedia.org/wiki/National_Digital_Information_Infrastructure_and_Preservation_Program "NDIIPP") project partners and other institutions interested in digital stewardship was held in an "unconference" format allowing for various short and long presentations on institution activities that are focused around digital stewardship and an open agenda session for topics of discussion to arise. Sibyl presented on the work the Digital Team has accomplished at the RAC creating and implementing a digital preservation program from ingest to access.
 

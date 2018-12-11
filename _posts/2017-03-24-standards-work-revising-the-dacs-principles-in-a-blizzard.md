@@ -15,6 +15,7 @@ tags:
   - TS-DACS
   - user centered design
   - values
+excerpt_separator: <!--more-->
 ---
 This past week, I was invited to attend a working meeting of seventeen archivists and information professionals facilitated by SAA's [Technical Subcommittee on Describing Archives: A Content Standard](http://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs) with the goal of drafting a new set of Principles for [DACS](http://www2.archivists.org/standards/DACS). It was a week that was simultaneously draining and exhilarating, beginning with a blizzard that shut down most of the northeastern United States and ending with a draft of principles that repositions DACS as a standard that communicates professional values, and is also far more aligned with recent literature and theory regarding archival description.<!--more-->
 

@@ -11,6 +11,7 @@ tags:
   - ArchivesSpace
   - ATReference
   - SAA
+excerpt_separator: <!--more-->
 ---
 A Next-Generation Archives Management System [SAA session 601]
 

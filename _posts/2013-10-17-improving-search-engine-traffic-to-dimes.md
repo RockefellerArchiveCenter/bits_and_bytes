@@ -13,6 +13,7 @@ tags:
   - relevance
   - schema.org
   - search
+excerpt_separator: <!--more-->
 ---
 Over the last several months, I've noticed that DIMES is getting a very small number of hits from search engines such as Google, Yahoo! and Bing. In an effort to increase traffic from those sources, I've added some structured data to the pages for finding aids and library materials that major search engines use to improve their search results. By adding this markup to DIMES, we should be able to improve our presence on results pages while also increasing our relevance rankings, which will move us closer to the top of the results set.<!--more-->
 

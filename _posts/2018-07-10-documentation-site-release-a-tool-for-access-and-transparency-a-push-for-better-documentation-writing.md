@@ -12,6 +12,7 @@ tags:
   - archives profession
   - documentation
   - transparency
+excerpt_separator: <!--more-->
 ---
 We are excited to announce the release of the [Rockefeller Archive Center Documentation Website](http://docs.rockarch.org/), a central platform for storing and sharing our institutional policies, workflows, guides, and other forms of documentation! We also want our site to generate more critical thought about how and why we write documentation, especially in terms of how we manage revisions to content, what formatting decisions we make in order to provide meaningful structure, and how we can use our documentation to contribute to the larger archives community. As a well-resourced institution, we feel a professional responsibility to be transparent about the tools and procedures we develop that may benefit our fellow archivists.
 

@@ -11,6 +11,7 @@ tags:
   - conferences
   - labor
   - maintenance
+excerpt_separator: <!--more-->
 ---
 Last week, I attended [_Maintainers II: Labor, Technology, and Social Orders_](http://themaintainers.org/maintainers-ii-program/), a conference at Stevens Institute of Technology, and presented a talk which attempted to make the case that [folk music is maintenance work](http://hillelarnold.com/blog/2017/04/whats-wrong-and-how-to-fix-it/) by looking at the songs and methodologies of Woody Guthrie. This was a followup to last year's conference, which you may remember from my [rave review](http://blog.rockarch.org/?p=1498). This year's conference matched the first in terms of relevance and resonance, while opening up some new ground for me related to maintenance and archives.<!--more-->
 

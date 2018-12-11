@@ -14,6 +14,7 @@ tags:
   - society
   - technology
   - ursula franklin
+excerpt_separator: <!--more-->
 ---
 In our mission statement, the D-Team talks about "providing technical leadership and expertise," which is accurate but not really the most conversational way of talking about what it is that we do. Lately I've been saying the D-Team's role here at the RAC is "helping our staff and researchers have a healthy relationship with technology." I thought it was time to dig into what that means a little. In thinking about this, I've realized this conceptualization of our work is has been strongly informed by some recent reading as well as conversations I've had with colleagues.<!--more-->
 

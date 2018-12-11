@@ -10,6 +10,7 @@ categories:
 tags:
   - access
   - personal archives
+excerpt_separator: <!--more-->
 ---
 On April 24-26, Hillel, Meg, and I attended the [Personal Digital Archiving Conference](http://personaldigitalarchiving.com/) at NYU. The conference focused on the management, preservation, and use of digital archives created by individuals, families, and community organizations. One of the great things about PDA is the variety of speakers and topics. Just the first day covered digitizing family photographs, using BitTorrent as a digital repository, and using hashtags on social media.<!--more-->
 

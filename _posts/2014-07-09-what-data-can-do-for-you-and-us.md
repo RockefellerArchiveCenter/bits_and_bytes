@@ -10,6 +10,7 @@ categories:
 tags:
   - data
   - web analytics
+excerpt_separator: <!--more-->
 ---
 Since September 2012, when we first launched DIMES, we've been using a variety of methods to gather data on where our users come from, what they look at on DIMES, what functionality they use, and what kinds of things they search for. Looking at this data over time gives us valuable into how users are actually interacting with DIMES, and helps us evaluate the system's functionality as well as the description of our collections.<!--more-->
 

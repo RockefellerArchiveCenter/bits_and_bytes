@@ -10,6 +10,7 @@ categories:
 tags:
   - Historypin
   - special projects
+excerpt_separator: <!--more-->
 ---
 Over the last few weeks I've had the opportunity to work with Teresa and Hillel to develop [the RAC's Historypin channel](https://www.historypin.org/en/rockefeller-archive-center-s-collection/geo/37.143056,-77.028164,5/bounds/27.13765,-86.006054,45.981915,-68.050274/paging/1). [Historypin](http://www.historypin.com/) is a geographically-based content aggregator that provides a platform for both institutions and individuals to upload images, audio, video, or narrative text and pin them to locations on a map of the world. Historypin is great because it dramatically expands access to historical materials that otherwise might be part of an infrequently used archival collection or gathering dust in someone's attic. For the RAC, Historypin is especially beneficial because it allows us to reuse already-digitized content and metadata while also improving our search rankings and creating more ways for people to discover our collections.<!--more-->
 

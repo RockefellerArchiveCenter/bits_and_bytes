@@ -13,6 +13,7 @@ tags:
   - data
   - data modeling
   - workshops
+excerpt_separator: <!--more-->
 ---
 As our work on the transfer application portion of Project Electron nears its completion, I've started to think more seriously about modeling our data that we are bringing into our systems. We've actually been prepping for this stage of the project for months, going all the way back to the [Data Model Bibliography](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/data_model_bibliography.md) I put together in February 2017. Now that the D-Team was in the thick of data modeling, we thought it was time to bring the rest of the Archive Center on board as well. I'm just a single archivist, and even though I've done a lot of reading about data models, I'm no expert on the entirety of our collection or its materials. We knew that we'd need more eyes on our initial data model draft once we made it to make sure we weren't forgetting an important component of our collections.<!--more-->
 

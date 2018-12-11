@@ -7,6 +7,7 @@ layout: post
 permalink: /?p=513
 categories:
   - Digital Preservation
+excerpt_separator: <!--more-->
 ---
 On April 16, 2013 the third of four webinars on the Introduction to Digital Preservation was given.  The topic was management of born digital collections. Gretchen Gueguen, Digital Archivist for the Albert and Shirley Small Special Collections Library at the University of Virginia was the speaker.
 

@@ -12,6 +12,7 @@ tags:
   - SAA
   - usability
   - ux
+excerpt_separator: <!--more-->
 ---
 One of the panels I attended at SAA this year was titled "[Exploring the User Experience with Digital Primary Sources](http://sched.co/10WSkge)," which covered a wide range of topics, starting with understanding a repository's user community, assessing that community's needs and behavior, and discovering new opportunities for archives and archivists to engage in research and scholarly production.<!--more-->
 

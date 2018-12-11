@@ -13,6 +13,7 @@ tags:
   - DIMES
   - EAD
   - reference
+excerpt_separator: <!--more-->
 ---
 A while ago I wrote a post detailing how data in [DIMES](http://dimes.rockarch.org/xtf/search) is imported into [Aeon](http://www.atlas-sys.com/aeon/) to populate requests. Since then, I've had conversations with several individuals asking about the technical details of this implementation. As a way of documenting that work, and also offering some direction for future Aeon implementers, I thought I'd pull together a post describing the interaction in technical terms, since there's [limited documentation](https://prometheus.atlas-sys.com/display/aeon/Submitting+Requests+via+EAD+Finding+Aids#SubmittingRequestsviaEADFindingAids-ExternalMethod) on how to do external EAD requesting for Aeon. I pieced together this information by looking at existing implementations, particularly [Princeton's archival discovery system](http://findingaids.princeton.edu/), with a lot of false steps along the way. I hope to help others avoid the same frustrations and pitfalls!<!--more-->
 

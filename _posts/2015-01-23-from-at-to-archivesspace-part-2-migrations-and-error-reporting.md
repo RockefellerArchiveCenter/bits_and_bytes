@@ -11,6 +11,7 @@ categories:
   - Uncategorized
 tags:
   - ArchivesSpace
+excerpt_separator: <!--more-->
 ---
 ## Migration Testing, Data Quality Checks, and Troubleshooting Errors – 295 hours in 8 months
 

@@ -11,6 +11,7 @@ tags:
   - DIMES
   - search
   - usability
+excerpt_separator: <!--more-->
 ---
 Over the weekend, we launched an improved version of DIMES functionality that allows users to search within a single finding aid. Previously, the "Search this collection" simply added highlighting to hits within the body of the finding aid, which meant it was often impossible to find hits in long contents lists. In fact, we noticed that many users were simply resorting to using their browser's "Find" functionality.<!--more-->
 

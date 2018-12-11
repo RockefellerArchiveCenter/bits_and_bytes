@@ -11,6 +11,7 @@ tags:
   - data interoperability
   - integrations
   - repositories
+excerpt_separator: <!--more-->
 ---
 I attended my first Open Repositories conference in Brisbane, Australia two weeks ago. And while the RAC is still fairly new to the repository world and ecosystem, I picked up on a few trends that I think span across systems, institutions, and disciplines. Most of the attendees at the conference were coming from university library settings, but those institutions seemed to struggle with the same things we, as archivists, do: managing and maintaining a large infrastructure made of many systems, eliminating silos of information, and how to adapt to changing researcher or user needs. Sound familiar? If you said the above concerns made you think about what we're trying to solve here with Project Electron, kudos to you. The entire conference I kept thinking about how it felt like almost everyone was trying to deal with the same issues we were, and in largely the same manners.<!--more-->
 

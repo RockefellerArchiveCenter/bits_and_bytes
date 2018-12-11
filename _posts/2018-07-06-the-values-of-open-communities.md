@@ -16,6 +16,7 @@ tags:
   - open repositories
   - open source systems
   - values
+excerpt_separator: <!--more-->
 ---
 I (relatively) recently came back from [Open Repositories](http://www.or2018.net/) and have had a myriad of jumbled thoughts bouncing around in my head about aligning communities, values, software, and expectations within libraries and archives. Hopefully, this blog post will serve as an outline for the thoughts that have been percolating for a few weeks, and really, a few years before that. I've met a significant number of professionals that I know share these opinions as well, but I think it's helpful to spend some time reflecting on the ideas they've imparted and how we, as members of a community, can better align our actions with our values, and the difficulties that work presents.<!--more-->
 

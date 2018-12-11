@@ -10,6 +10,7 @@ categories:
 tags:
   - digital preservation
   - webinar
+excerpt_separator: <!--more-->
 ---
 ## Role of Long Term Storage in Digital Collections: From Digital Dark Ages to Digital Renaissance
 

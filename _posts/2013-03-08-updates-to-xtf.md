@@ -10,6 +10,7 @@ categories:
 tags:
   - discovery
   - finding aids
+excerpt_separator: <!--more-->
 ---
 A number of changes have recently been made to our XTF discovery interface system.
 

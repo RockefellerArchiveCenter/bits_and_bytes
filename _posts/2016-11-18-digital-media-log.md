@@ -10,6 +10,7 @@ categories:
 tags:
   - description
   - Digital Preservation
+excerpt_separator: <!--more-->
 ---
 I'm excited to announce that the Rockefeller Archive Center's new Digital Media Log is live!<!--more-->
 

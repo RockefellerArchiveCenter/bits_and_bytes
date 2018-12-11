@@ -11,6 +11,7 @@ tags:
   - access
   - Digital Preservation
   - legacy digital media survey
+excerpt_separator: <!--more-->
 ---
 In November 2013, the first phase of the Legacy Digital Media Survey began with examining collection information of the legacy collections at the Rockefeller Archive Center.
 

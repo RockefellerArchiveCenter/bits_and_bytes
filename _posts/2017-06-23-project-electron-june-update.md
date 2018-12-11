@@ -12,6 +12,7 @@ tags:
   - project electron
   - standards
   - transfer
+excerpt_separator: <!--more-->
 ---
 This month we're excited to announce the release of the first version of a [specification for transferring digital records](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) to the RAC over a network connection. In line with our [project value](http://projectelectron.rockarch.org/?#values) of supporting archival practices and standards, we've built many parts of this specification on existing standards and frameworks such as [BagIt](https://en.wikipedia.org/wiki/BagIt), [BagIt Profiles](https://github.com/ruebot/bagit-profiles), [Activity Streams](http://activitystrea.ms/), and [OAIS](https://en.wikipedia.org/wiki/Open_Archival_Information_System). We believe this approach will make the products we come up with more easily reproducible at other institutions, which is another one of our project values.<!--more-->
 

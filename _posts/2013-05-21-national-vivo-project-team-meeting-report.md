@@ -11,6 +11,7 @@ tags:
   - discovery
   - linked data
   - vivo
+excerpt_separator: <!--more-->
 ---
 Yesterday I attended a presentation at the Weill Cornell Medical College on [VIVO](http://vivoweb.org/), a system that can aggregate information about research and scholarship from a variety of data sources. Although it comes out of the biomedical research community, VIVO can theoretically supply this same functionality to any academic discipline. In addition, because information in VIVO is typically derived from an academic institution's records, it is generally more trustworthy and accurate than information in a system like [LinkedIn](http://www.linkedin.com/) or [Academia.edu](http://academia.edu/), where an individual can edit their own profile and so could misrepresent themselves and their expertise.
 

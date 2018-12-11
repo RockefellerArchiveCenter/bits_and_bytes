@@ -13,6 +13,7 @@ tags:
   - conferences
   - SAA
   - user experience
+excerpt_separator: <!--more-->
 ---
 One of the sessions I found most intriguing at this year's SAA Annual Meeting was "[How Are We Doing? Improving Access Through Assessment](http://archives2014.sched.org/event/4f1b651f77638e11f0d80fda214ef9f9)," which discussed a variety of tools and methodologies for quantifying information about users, collections and discovery tools, as well as how gathering that data can help us improve our users' experience.<!--more-->
 

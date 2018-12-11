@@ -8,6 +8,7 @@ permalink: /?p=685
 categories:
   - Conferences/Education
   - Digital Preservation
+excerpt_separator: <!--more-->
 ---
 Below are the summaries and slides from the presentations of the Digital Preservation Interest group at ALA annual in Chicago. Overall it was an informative session which gave a great overview of some of the current activities in the digital preservation fields.
 

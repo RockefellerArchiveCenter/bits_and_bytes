@@ -20,6 +20,7 @@ tags:
   - user centered design
   - Video
   - Year in the Life of an Audiovisual Archivist
+excerpt_separator: <!--more-->
 ---
 John Dewey once stated: "We do not learn from experience...we learn from reflecting on experience."
 

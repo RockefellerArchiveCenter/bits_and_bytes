@@ -12,6 +12,7 @@ tags:
   - appraisal
   - education
   - electronic records
+excerpt_separator: <!--more-->
 ---
 This past Monday I had the opportunity to attend the SAA workshop "Appraisal of Electronic Records" held at the METRO office in NYC. Taught by Caryn Wojcik, Government Records Archivist for the State of Michigan, the objective of the workshop was to discuss some of the unique issues involved with the appraisal of electronic records and adapt the approach to appraisal in response.
 

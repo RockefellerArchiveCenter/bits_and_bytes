@@ -13,6 +13,7 @@ tags:
   - conservators
   - poster
   - Preservation Report
+excerpt_separator: <!--more-->
 ---
 This year's theme for the AIC Annual Conference was _Treatment 2017: Innovation in Conservation and Collection Care_. Julia and I were excited to present our work that culminated in the creation of the Preservation Report. The report allows our institution to better document preservation decisions and workflows.  Although we represented an archive and its unique documentation challenges, we felt strongly that the theory and principals at play in our report would benefit the larger conservation community. It is critical that we create and use a form that is readable and useable long-term and we knew that feedback from outside our organization was key.<!--more-->
 

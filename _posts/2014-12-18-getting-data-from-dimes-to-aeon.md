@@ -14,6 +14,7 @@ tags:
   - data
   - RACcess
   - reference
+excerpt_separator: <!--more-->
 ---
 Among the many things that Aeon will do for us, communicating directly with DIMES to import data about our materials is among the most important, and a feature that will likely save both researchers and staff a great deal of time and frustration. Starting in February, researchers will no longer have to fill out requests for materials by hand; staff will no longer have to decipher researchers' handwriting, correct inaccurate or missing information, or complete charge-outs by hand. In addition, we'll be able to run much more accurate reports on use of our collections, which will help us better target digitization and preservation efforts. This post explains how that data moves from DIMES to Aeon, detailing some of the things that happen along the way with restrictions information and grouping of folders within the same box.<!--more-->
 

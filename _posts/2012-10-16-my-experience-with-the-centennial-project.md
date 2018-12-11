@@ -10,6 +10,7 @@ categories:
 tags:
   - Omeka
   - special projects
+excerpt_separator: <!--more-->
 ---
 The Rockefeller Foundation Centennial project has made it possible for me to learn many things about the process of digitization, digital archival standards, and the construction of a website. I also have seen the decisions that need to be made so that a comprehensive, user friendly site can be built.
 

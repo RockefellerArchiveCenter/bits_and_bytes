@@ -12,6 +12,7 @@ tags:
   - project electron
   - user centered design
   - user stories
+excerpt_separator: <!--more-->
 ---
 As I wrote in my last update, since kicking off Project Electron in September 2016, we've been gathering information through conversations, surveys and a literature review, and then structuring that information into user stories and personas. In line with our "open by default" licensing principle, we're making these design artifacts available with a CC0 license, which means you can take them and use them freely in your own local environments.
 

@@ -9,6 +9,7 @@ categories:
   - XTF
 tags:
   - data migration
+excerpt_separator: <!--more-->
 ---
 Getting our library records out of Re:Discovery and into the Archivists' Toolkit has proven to be a challenging process. This post describes that process in somewhat gory and technical detail. <!--more-->
 

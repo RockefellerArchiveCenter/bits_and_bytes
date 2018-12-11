@@ -13,6 +13,7 @@ tags:
   - audiovisual digitization
   - digitization
   - virtual vault
+excerpt_separator: <!--more-->
 ---
 This month, we launched a system called Virtual Vault, which allows us to deliver digitized content to any user within the RAC network. It's a temporary solution that we hope will help us better understand responsible access to digital archival records. Our thinking around this solution is motivated by one central question: given the limitations of copyright and donor agreement restrictions, what is the most and best access we can provide?<!--more-->
 

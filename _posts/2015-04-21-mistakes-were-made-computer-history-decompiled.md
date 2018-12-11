@@ -13,6 +13,7 @@ tags:
   - Digital Preservation
   - history
   - powerpoint
+excerpt_separator: <!--more-->
 ---
 On Friday, April 17, we attended [_Mistakes Were Made: Computer History, Decompiled_](http://www.programseries.com/2014-2015/mistakes-were-made-computer-history-decompiled/). Sponsored by NYU's [Department of Media, Culture and Communication](http://steinhardt.nyu.edu/mcc/), the program was organized around a series of conversations which paired "emerging scholars" with practitioners in the field.<!--more-->
 

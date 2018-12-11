@@ -12,6 +12,7 @@ tags:
   - digital accessioning workflow
   - Digital Preservation
   - electronic records
+excerpt_separator: <!--more-->
 ---
 On October 25<sup>th</sup>, 2013 I attended SAA's DAS workshop of Accessioning and Ingest of Electronic Records.  The workshop was hosted by Harvard and led by Erin Faulder, the Digital Archivist for Tisch Library at Tufts University.
 

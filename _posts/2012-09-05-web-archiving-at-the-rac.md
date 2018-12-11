@@ -11,6 +11,7 @@ tags:
   - Archive-It
   - Digital Preservation
   - web archiving
+excerpt_separator: <!--more-->
 ---
 We have just partnered with Archive-It to begin our Web Archiving Program. Web archiving is the capture, management and preservation of websites and web resources; Archive-It is a web-based subscription service from the Internet Archive that will capture digital content for the Rockefeller Archive Center. Archive-It will host and store the crawled website files, called Web ARChive or WARC files, at the Internet Archive data centers and provide the Rockefeller Archive Center with a copy of those WARC files. We will in turn preserve these electronic records using Archivematica our digital preservation management system.<!--more-->
 

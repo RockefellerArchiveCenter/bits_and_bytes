@@ -13,6 +13,7 @@ tags:
   - digital file structure
   - file systems
   - preservation
+excerpt_separator: <!--more-->
 ---
 _In May, Marissa Vassari and I presented a poster at the 2017 Annual Meeting of The American Institute for Conservation of Historic and Artistic Works (AIC) in Chicago. Check back soon for a posting about our poster experience._
 

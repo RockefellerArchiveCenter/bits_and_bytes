@@ -12,6 +12,7 @@ tags:
   - liberating structures
   - meetings
   - training
+excerpt_separator: <!--more-->
 ---
 Like many managers, I have a lot of meetings, so I'm always looking for ways to make sure I get the most out of them. Am I hearing from everyone at the table? Are a group's best ideas being surfaced, or am I just hearing from the extroverts? How can I get my team engaged in strategic planning? Consequently, I'm always on the lookout for tools and techniques to make meetings - one-on-ones, team conversations, administrative updates and beyond - useful, engaging and inclusive.
 

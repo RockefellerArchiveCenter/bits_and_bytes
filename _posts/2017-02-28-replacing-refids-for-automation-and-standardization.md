@@ -14,6 +14,7 @@ tags:
   - digitization
   - refids
   - scripting
+excerpt_separator: <!--more-->
 ---
 A few months ago, I wrote about [selected digitization readings](http://blog.rockarch.org/?p=1586) and how we were going to use them to overhaul our digitization workflows. We're now a couple of months into our new digitization workflow, and things are starting to run smoothly, but during the process, we noticed that we wanted a better way to match our digitized files to their description without using semantic filenames or separate metadata sheets. <!--more-->
 

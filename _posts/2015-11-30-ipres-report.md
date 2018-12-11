@@ -11,6 +11,7 @@ tags:
   - conferences
   - Digital Preservation
   - iPRES
+excerpt_separator: <!--more-->
 ---
 I spent the first week of November in Chapel Hill for this year's [iPRES](http://ipres2015.web.unc.edu/) conference. iPRES is an international conference covering the latest trends, innovations, policies, and practices in the realm of digital preservation.. The conference was full of smart, innovative, and knowledgeable people working to solve the problems posed by digital preservation. It's not possible to cover everything that I learned here, but one of the themes that emerged for me was that of the importance of people in digital preservation. It can be tempting to think of this work as all about computers, but people and policies are integral to sustainable digital preservation.<!--more-->
 

@@ -10,6 +10,7 @@ categories:
   - Conferences/Education
 tags:
   - education
+excerpt_separator: <!--more-->
 ---
 _By Amy Berish, Kanisha Greaves, and Emeline Swanson_
 

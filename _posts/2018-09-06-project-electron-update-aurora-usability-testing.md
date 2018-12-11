@@ -13,6 +13,7 @@ tags:
   - usability
   - user centered design
   - user experience
+excerpt_separator: <!--more-->
 ---
 Following our initial release of [Aurora](https://github.com/RockefellerArchiveCenter/aurora), we've continued to improve the application through usability testing with RAC staff members. This process has been essential in identifying usability issues in Aurora and guiding our strategy to implement fixes to address those issues. In this post, I want to share our approach to usability testing, a summary of our findings and fixes, and our next steps.
 

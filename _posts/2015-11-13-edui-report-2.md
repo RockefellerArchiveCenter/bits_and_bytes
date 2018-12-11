@@ -12,6 +12,7 @@ tags:
   - accessibility
   - conferences
   - usability
+excerpt_separator: <!--more-->
 ---
 This week I attended the annual [edUi conference](http://eduiconf.org/) in Charlottesville, Virginia. As I've [written](http://blog.rockarch.org/?p=875) [before](http://blog.rockarch.org/?p=1239) - this was my third year in a row attending - I've found the conference and community to be a place of challenge and inspiration, and I always leave with at least one major "aha" moment.<!--more-->
 

@@ -14,6 +14,7 @@ tags:
   - digital policies
   - Digital Preservation
   - SAA
+excerpt_separator: <!--more-->
 ---
 One of the first sessions I attended at this year's SAA annual meetings was "[Getting Things Done with Born-Digital Collections](http://archives2014.sched.org/event/0dc177748b88b956157d77daed013a94#.VBmZI_ldU1J)," and it stuck with me as a great entry-level review of how to deal with born digital materials in a variety of different institutional environments. It also introduced tools to help archivists jump into their work, while providing some advice for those looking implement or expand born-digital programs. Many of the following tools/concepts may seem familiar in the work that we do here at the RAC.
 

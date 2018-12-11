@@ -13,6 +13,7 @@ tags:
   - linked data
   - metadata
   - reconciliation
+excerpt_separator: <!--more-->
 ---
 Today I'm going to write about something that came up at Code4Lib, has been on my mind recently, and is near and dear to my heart: authority reconciliation.  You might remember [this blog post](http://blog.rockarch.org/?p=1333) from almost a year ago? If you don't remember, or don't have time to go back and read it, I'll summarize the gist pretty quickly: reconciling large amounts of data against established authorities is complicated, time-consuming, and often frustrating, but we do the best that we can. I think my own experience in doing this type of work is why Christina Harlow's talk "[Get Your Recon](http://2016.code4lib.org/Get-Your-Recon)" resonated so strongly with me.<!--more-->
 

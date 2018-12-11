@@ -12,6 +12,7 @@ tags:
   - design
   - ia summit
   - project electron
+excerpt_separator: <!--more-->
 ---
 I recently attended the[ IA Summit 2018](http://www.iasummit.org/past-summits/ia-summit-2018/) in Chicago. This was my first time attending the conference, which brings together a mix of information architects and design-related professionals, and I came away with some fresh perspectives on my work here at the RAC. The summit consisted of both practical talks about specific methods and tools, as well as wider reflections on ethical considerations and trends in the field.<!--more-->
 

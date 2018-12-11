@@ -16,6 +16,7 @@ tags:
   - reference
   - reshelving
   - retrievals
+excerpt_separator: <!--more-->
 ---
 As most of you know by now, we'll be implementing Aeon here at the RAC starting in a couple of months. This will be a pretty big project, and one that gives us the opportunity to reconfigure and restructure some core reference services workflows. It's an exciting prospect, but one that will also involve a lot of change, so I thought I'd outline the three major processes that will be affected by Aeon.<!--more-->
 

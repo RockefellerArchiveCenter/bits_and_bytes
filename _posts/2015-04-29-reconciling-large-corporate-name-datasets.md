@@ -12,6 +12,7 @@ tags:
   - data migration
   - names
   - structured data
+excerpt_separator: <!--more-->
 ---
 Over the weekend, we finished up a year-long project to import description for almost every single grant record the Ford Foundation ever gave. This is the same project that I wrote a [post about last October](http://rockarch.org/programs/digital/bitsandbytes/?p=1230). To refresh your memory, we started with 54,644 grant files described in an Excel spreadsheet, and we wanted to transform much of that data into EAD, and then import it into ArchivesSpace. Normally this project wouldn't require an entire year, but we realized over the course of the project that we did not have efficient ways to reconcile our structured data against Library of Congress vocabularies. The post in October laid out our methods for reconciling subjects against LoC data; this post will detail the methods we took to reconcile corporate names against the LCNAF.<!--more-->
 

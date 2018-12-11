@@ -11,6 +11,7 @@ tags:
   - archives profession
   - critical theory
   - dlf
+excerpt_separator: <!--more-->
 ---
 I just got back from the [DLF Forum](https://www.diglib.org/forums/2016forum/) and [Digital Preservation 2016](http://ndsa.org/meetings/). While I'm still processing the past few days, I wanted to share the amazing keynotes from both events.
 

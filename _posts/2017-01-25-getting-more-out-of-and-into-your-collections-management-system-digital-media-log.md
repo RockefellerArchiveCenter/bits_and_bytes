@@ -14,6 +14,7 @@ tags:
   - digital processing
   - METRO
   - presentations
+excerpt_separator: <!--more-->
 ---
 _The following is the text from the talk I gave at [METRO's Annual Conference](http://metro.org/events/794/) held this year on January 11, 2017. This talk was part of the panel "Getting More Out of (and Into) Your Collections Management System."_
 

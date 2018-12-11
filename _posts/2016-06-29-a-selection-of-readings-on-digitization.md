@@ -12,6 +12,7 @@ tags:
   - bibliography
   - digitization
   - readings
+excerpt_separator: <!--more-->
 ---
 Earlier this year, the Rockefeller Archive started a multi-year plan to re-envision its digitization activities. The goal of this project is to contribute to the RAC's mission of preserving and providing access to our collections as widely as possible by making digitized content findable, usable, and accessible in a timely manner. In order to achieve this goal, we will provide archivists with the tools, experience, and competencies to handle any digitization request that comes to the RAC, whether it is from a researcher, donor, or other staff member. On top of these tools and competencies, we will create mechanisms for prioritizing requests for in-house and outsourced digitization. <!--more-->
 

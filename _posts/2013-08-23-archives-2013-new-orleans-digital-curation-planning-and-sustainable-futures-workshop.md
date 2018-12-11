@@ -12,6 +12,7 @@ tags:
   - digital curation
   - digital policies
   - digtal preservation
+excerpt_separator: <!--more-->
 ---
 ## SAA 2013 New Orleans
 

@@ -14,6 +14,7 @@ tags:
   - ldcx
   - pda
   - personas
+excerpt_separator: <!--more-->
 ---
 Last week I attended three events held at Stanford University: LDCX, Born Digital Archiving eXchange (BDAX), and Personal Digital Archiving. There was a lot of digital archives talk at all of these events, and it was great to chat with folks who are also dealing with the issues I'm encountering in my work.<!--more-->
 

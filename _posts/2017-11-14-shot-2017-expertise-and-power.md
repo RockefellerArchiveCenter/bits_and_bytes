@@ -11,6 +11,7 @@ tags:
   - conferences
   - expertise
   - SHOT
+excerpt_separator: <!--more-->
 ---
 A few weeks ago, I attended the annual meeting of the [Society for the History of Technology](https://www.historyoftechnology.org/) in Philadelphia. Along with my colleague [Eira Tansey](http://eiratansey.com/), I presented a paper titled "For Good Measure: The Role of Regulatory Records in Environmental Maintenance," which made the case that environmental regulation relies on the work of recordkeeping. Eira was fresh off of delivering the [opening keynote](http://eiratansey.com/2017/11/03/the-necessary-knowledge/) at NDSA's [_Digital Preservation 2017: Preservation is Political_](http://ndsa.org/digital-preservation-2017/), a talk which covered many of the same themes.<!--more-->
 

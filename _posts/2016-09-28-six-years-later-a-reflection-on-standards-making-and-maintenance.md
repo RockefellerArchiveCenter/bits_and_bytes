@@ -11,6 +11,7 @@ tags:
   - DACS
   - standards
   - TS-DACS
+excerpt_separator: <!--more-->
 ---
 This past August, after six years, I rotated off the Society of American Archivists' [Technical Subcommittee on Describing Archives: A Content Standard](http://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs) (TS-DACS). During that time, substantial changes were made to the standard, but more importantly to the processes by which it is maintained and promoted, as well as in the composition of TS-DACS. I wanted to take the opportunity to reflect on some of those changes, since I think they reflect some trends happening in archival standards-making and maintenance in general, and open up some possibilities for how we might reconceptualize them.<!--more-->
 

@@ -9,6 +9,7 @@ categories:
   - D-Team
 tags:
   - project electron
+excerpt_separator: <!--more-->
 ---
 I am happy to introduce myself as the newest member of the RAC's D-Team! I've joined the RAC thanks to the generous support of the Ford Foundation to work on Project Electron, and to help facilitate the transfer of digital records from our donor organizations. My work will have a specific emphasis on usability and user-centered design, [a core value](http://projectelectron.rockarch.org/) of Project Electron. <!--more-->
 

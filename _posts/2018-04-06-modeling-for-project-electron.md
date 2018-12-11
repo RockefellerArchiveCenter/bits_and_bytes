@@ -12,6 +12,7 @@ tags:
   - data
   - data modeling
   - project electron
+excerpt_separator: <!--more-->
 ---
 In her [most recent blog post](http://blog.rockarch.org/?p=1954), Hannah wrote about our approach to Project Electron's proposed systems integration architecture. One of our goals with Project Electron is to support the flow of data about digital materials between our systems and getting valuable information to researchers in new ways. Supporting data in motion is integral to Project Electron's success, and while Hannah and Hillel have been hammering away at creating a comprehensive overview of the microservices architecture, I've been working with the entire archive center to develop a draft data model for discovery and display of born digital and digitized materials. If, as we've been thinking, Project Electron is about creating infrastructure to support data, a data model will in turn act as a blueprint for that infrastructure. Data models are tools we can use to communicate and define how we want data to move between systems, and we think understanding how our data will move throughout our systems to our researchers is vital to the success of the entire project.<!--more-->
 

@@ -10,6 +10,7 @@ categories:
 tags:
   - SAA
   - social justice
+excerpt_separator: <!--more-->
 ---
 I've just returned from the Society of American Archivists Annual Meeting, held this year in Cleveland. As usual, it was a rewarding experience, full of opportunities to connect and catch up with colleagues from all over the country, as well as to learn from the speakers in a variety of sessions.<!--more-->
 

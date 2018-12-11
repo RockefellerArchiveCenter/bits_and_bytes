@@ -12,6 +12,7 @@ tags:
   - code4lib
   - conferences
   - discovery
+excerpt_separator: <!--more-->
 ---
 I'm just back from [Code4Lib](http://code4lib.org/conference/2014/), a conference of people who work with technology in libraries and archives, held this year in Raleigh, North Carolina. This is the third time I've been to Code4Lib, and as before, I found it a conference that is both stimulating and exhausting; that takes a lot, but [gives a lot in return](https://twitter.com/helrond/status/449293571309715456).<!--more-->
 

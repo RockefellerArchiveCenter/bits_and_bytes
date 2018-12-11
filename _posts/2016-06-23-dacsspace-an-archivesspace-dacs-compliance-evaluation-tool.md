@@ -13,6 +13,7 @@ tags:
   - finding aids
   - Python
   - scripting
+excerpt_separator: <!--more-->
 ---
 As the newest member of the Processing Team, I have been working on writing a DACS compliance evaluation script called DACSspace. Creating this tool came with a lot of "firsts" - this was my first experience writing code as well as interacting with an API. After a successful (yet sometimes frustrating) three months, I am excited to introduce DACSspace to the archival community and share a reflection of my work.
 

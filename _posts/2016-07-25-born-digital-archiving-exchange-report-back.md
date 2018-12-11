@@ -12,6 +12,7 @@ tags:
   - description
   - digital processing
   - processing
+excerpt_separator: <!--more-->
 ---
 This week I had the opportunity to attend the Born Digital Archiving eXchange hosted by Stanford University.  It was a really great unconference that brought together digital archivists, curators, and others working to preserve and provide access to born-digital archives.<!--more-->
 

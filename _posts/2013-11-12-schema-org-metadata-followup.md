@@ -12,6 +12,7 @@ tags:
   - relevance
   - schema.org
   - search
+excerpt_separator: <!--more-->
 ---
 
 A few weeks ago, I described how we included schema.org metadata in our finding aids and library records, with the hope that this would improve our search relevance and visibility rankings. So, is it working?<!--more-->

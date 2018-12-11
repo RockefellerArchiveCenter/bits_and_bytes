@@ -12,6 +12,7 @@ tags:
   - conferences
   - metadata
   - METRO
+excerpt_separator: <!--more-->
 ---
 Last week I attended the annual meeting of the Metropolitan New York Library Council (METRO). I felt inspired and excited by a lot of the talks I saw, but one project that stood out to me was the Culture in Transit project.<!--more-->
 

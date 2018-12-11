@@ -11,6 +11,7 @@ tags:
   - Archivematica
   - finding aids
   - usability
+excerpt_separator: <!--more-->
 ---
 As many of you know, we have moved all of our finding aid data to XTF (see an [earlier post](http://dteamblog/?p=25) for details on XTF), which is now available online at [http://collectionguides.rockarch.org/xtf/search](http://collectionguides.rockarch.org/xtf/search).<!--more-->
 

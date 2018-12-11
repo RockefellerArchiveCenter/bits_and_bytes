@@ -9,6 +9,7 @@ layout: post
 permalink: /?p=2056
 categories:
   - Uncategorized
+excerpt_separator: <!--more-->
 ---
 _Today's post comes from Rachel Wimpee, Historian and Project Director in our Research and Education division. Rachel uncovered this story while working with the Ford Foundation archives held at the RAC, and asked if it might be worth posting here. I only had to quickly skim the text to see the relevance for this blog._
 

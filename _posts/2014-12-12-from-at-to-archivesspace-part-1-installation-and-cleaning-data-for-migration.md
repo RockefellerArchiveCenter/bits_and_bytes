@@ -12,6 +12,7 @@ categories:
 tags:
   - ArchivesSpace
   - metadata
+excerpt_separator: <!--more-->
 ---
 About a year and a half ago, we decided that we were going to make the switch from our current Archival Management System, the no-longer-updated Archivists Toolkit, to its next iteration, ArchivesSpace. The RAC officially began preparing ourselves for ArchivesSpace in January of 2014. <!--more-->
 

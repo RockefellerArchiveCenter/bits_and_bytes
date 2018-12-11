@@ -16,6 +16,7 @@ tags:
   - Digital Preservation
   - Foundation for Child Development
   - special projects
+excerpt_separator: <!--more-->
 ---
 Last week, we had a site visit from Evelyn McLellan, a Systems Archivist at Artefactual (the company that is developing Archivematica). We discussed a number of issues related to the integration of Archivematica, XTF and ATReference.<!--more-->
 

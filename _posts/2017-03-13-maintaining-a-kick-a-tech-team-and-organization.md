@@ -16,6 +16,7 @@ tags:
   - social justice
   - user centered design
   - values
+excerpt_separator: <!--more-->
 ---
 _Below is a talk that Bonnie, Patrick and Hillel gave at the [2017 Code4Lib Conference](http://2017.code4lib.org/) in Los Angeles. Our slides are [available online](http://rockefellerarchivecenter.github.io/presentations/code4lib-2017/#/)._
 

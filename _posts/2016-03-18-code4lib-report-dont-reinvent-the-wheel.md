@@ -12,6 +12,7 @@ tags:
   - digital policies
   - Digital Preservation
   - documentation
+excerpt_separator: <!--more-->
 ---
 A big theme at this year's Code4Lib conference was the importance of collaboration and building upon others' work. Since collaboration and openness are some of the [D-Team's core values](https://github.com/RockefellerArchiveCenter/dteamValues/blob/master/values.md), this really resonated with me. A few different strategies were suggested to increase sharing and collaboration; these included openly sharing tools and documentation on the web, as well as designing code and tools so that they can easily be re-used by others.<!--more-->
 

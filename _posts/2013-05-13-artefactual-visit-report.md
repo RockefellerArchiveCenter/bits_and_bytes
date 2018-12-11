@@ -17,6 +17,7 @@ tags:
   - digital formats
   - Digital Preservation
   - email
+excerpt_separator: <!--more-->
 ---
 Last week we had a visit from Evelyn, Austin and Justin of Artefactual, who were here to continue working on our Archivematica implementation.
 

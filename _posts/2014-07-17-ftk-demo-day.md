@@ -11,6 +11,7 @@ tags:
   - arrangement
   - description
   - FTK
+excerpt_separator: <!--more-->
 ---
 This past Wednesday, we gathered all the archivists who do processing into the D-Lab and wowed them with a demo of the [Forensic ToolKit](http://www.accessdata.com/solutions/digital-forensics/ftk) (FTK) software.
 
@@ -37,8 +38,6 @@ FTK is computer forensics software designed for use by investigators in law enfo
 * File visualization!
 
 ![A visualisation of email domains]({{ site.baseurl }}/wp-content/uploads/2014/07/file_visualization.jpg)
-
-<!--more-->
 
 Mary Ann then talked a bit about the work she's doing with the Taconic electronic records.
 

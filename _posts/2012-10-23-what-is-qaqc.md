@@ -7,6 +7,7 @@ layout: post
 permalink: /?p=256
 categories:
   - Digitization
+excerpt_separator: <!--more-->
 ---
 !["I'm trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)]({{ site.baseurl }}/wp-content/uploads/2012/10/Inspector342.jpg)
 

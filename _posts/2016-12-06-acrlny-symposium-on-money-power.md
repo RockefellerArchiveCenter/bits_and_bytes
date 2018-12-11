@@ -13,6 +13,7 @@ tags:
   - open source
   - privacy
   - readings
+excerpt_separator: <!--more-->
 ---
 Last Friday, I attended the annual symposium of the Greater New York Metropolitan Area Chapter of the Association of College and Research Libraries ([ACRL/NY](http://acrlny.org/)). This year's theme was [Money and Power](https://acrlnysymp2016.wordpress.com), and the talks covered standards, instruction, labor, and other library issues that intersect with issues of money and power.<!--more-->
 

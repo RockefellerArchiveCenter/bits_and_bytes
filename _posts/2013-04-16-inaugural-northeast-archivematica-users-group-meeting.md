@@ -9,6 +9,7 @@ categories:
   - Digital Preservation
 tags:
   - Archivematica
+excerpt_separator: <!--more-->
 ---
 The first NE Archivematica Users Group was held last Friday to great success. There were roughly 20 attendees present, representing institutions like Yale, NYPL (the host of the meeting), Columbia, Harvard Business School, MOMA, and the Frick.
 

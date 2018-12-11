@@ -11,6 +11,7 @@ categories:
 tags:
   - researchers
   - web archiving
+excerpt_separator: <!--more-->
 ---
 I recently attended the [IIPC (International Internet Preservation Consortium) conference](http://www.netpreserve.org/general-assembly/2016/schedule) in lovely Reykjavik from April 15<sup>th</sup> to the 17<sup>th</sup>. This was the first official year of the IIPC conference and it was a great opportunity for institutions of all sizes to get together and talk about the challenges facing web archiving today, and to strategize about the path forward. The presentations covered a wide variety of topics, but I think the ones that I found most helpful were those that focused on how researchers interact with web archives.<!--more-->
 

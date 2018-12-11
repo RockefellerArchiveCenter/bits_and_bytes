@@ -12,6 +12,7 @@ tags:
   - conferences
   - project electron
   - technical debt
+excerpt_separator: <!--more-->
 ---
 I'm just back from this year's [Code4Lib conference](http://2018.code4lib.org/), held in Washington D.C. As I've [written here before](http://blog.rockarch.org/?p=1033), it's an event that is, without fail, productive, provocative and exhausting. Over the years, the things that have stayed with me from the conference have changed (arguably the focus of the conference has changed as well) from technological tools for _solving_ problems to values and frameworks for _thinking through_ problems.<!--more-->
 

@@ -12,6 +12,7 @@ tags:
   - conferences
   - MARAC
   - usability
+excerpt_separator: <!--more-->
 ---
 This past week I had the opportunity to attend the [Mid-Atlantic Regional Archives Conference (MARAC)](http://www.marac.info/) in Erie, Pennsylvania. Sibyl and I presented on some of the work we've done with our implementation of XTF, focusing on user testing and other forms of evaluation.
 

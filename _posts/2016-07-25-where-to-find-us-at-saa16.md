@@ -7,6 +7,7 @@ layout: post
 permalink: /?p=1596
 categories:
   - Uncategorized
+excerpt_separator: <!--more-->
 ---
 Like many of our archivist colleagues, the D-Team is gearing up for the [Society of American Archivists' Annual Meeting](http://www2.archivists.org/am2016), held this year in Atlanta, Georgia. If you're interested in catching up with us there, here are some of the things we'll be doing:<!--more-->
 

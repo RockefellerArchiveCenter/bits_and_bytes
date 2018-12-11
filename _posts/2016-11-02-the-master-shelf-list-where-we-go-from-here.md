@@ -10,6 +10,7 @@ categories:
   - Software and Systems
 tags:
   - reference
+excerpt_separator: <!--more-->
 ---
 For many archives, the master shelf list has been a permanent staple since their inception. We have one. It's an ever-growing Excel spreadsheet that lists the location of every single box in our collection down to the shelf number. It's enormous, it's unwieldy, and it takes a ton of work to keep updated month to month. For years we've been looking for a way to move away from it, and the release of ArchivesSpace version 1.5 has given us the rare opportunity to move entirely away from our spreadsheet into a more structured and interoperable. The Rockefeller Archive Center will no longer enter new information into our Master Shelf List.<!--more-->
 

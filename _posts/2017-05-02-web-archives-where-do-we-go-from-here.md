@@ -11,6 +11,7 @@ tags:
   - access
   - reference
   - web archiving
+excerpt_separator: <!--more-->
 ---
 We've recently been thinking a lot about the potentials of web archives here at the RAC. Last week, I attended the appropriately titled web archives WARCshop hosted by Penn State University, and, while the organizers focused on getting its participants hands-on experience working with web archives research tools, the lesson that I took away from it is that libraries and archivists still have a long way to go in fully supporting researchers working with web archives. Penn State invited a great group of librarians and archivists to learn, as well as Jefferson Bailey and Lori Donovan from Archive-It, Nick Ruest from York University, and Ian Milligan from Waterloo to help lead the workshop. I was personally very excited for the meeting because I think Nick and Ian have been doing some of the most exciting research in web archives for the past few years, and I always love hearing them talk.<!--more-->
 

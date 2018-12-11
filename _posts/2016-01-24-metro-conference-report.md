@@ -11,6 +11,7 @@ tags:
   - conferences
   - METRO
   - transparency
+excerpt_separator: <!--more-->
 ---
 As you may have read in [previous](http://blog.rockarch.org/?p=1441) [posts](http://blog.rockarch.org/?p=1448) from Patrick and Bonnie, the D-Team went to METRO's annual conference this past week. It was a great day (thanks to METRO staff for pulling off a fantastic event) with a lot of really informative sessions; the greater New York City library and archives community has a lot of smart people doing really creative work! Aside from the themes of systems and data interoperability that Bonnie and Patrick wrote about, I noted a common thread of attempts to integrate transparency across a number of presentations and institutions.<!--more-->
 
