@@ -34,7 +34,7 @@ RAC used DACSspace as a way to get to know the quality of our archival descripti
 
 # The DACSspace Report
 
-![DACSpace report](http://blog.rockarch.org/wp-content/uploads/2017/01/DACSPSACE-SNIP-REPORT.png)
+![DACSpace report](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/DACSPSACE-SNIP-REPORT.png)
 
 As you can see here, DACSspace pulls all of the DACS single-level minimum elements from each resource and if the element is missing, it writes "FALSE."
 

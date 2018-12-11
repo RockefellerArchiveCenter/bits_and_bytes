@@ -19,7 +19,7 @@ _In many ways, this is cautionary tale of what happens when we start with the ne
 <!--more-->
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image3.png" alt="MIT Computation Center">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image3.png" alt="MIT Computation Center">
 <figcaption>MIT Computation Center, 1957. Rockefeller Archive Center (RAC).</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Julius Stratton, elected Foundation board chair in 1965, had been a Ford Trustee
 It was finally time for Ford to get a computer.
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image8.png" alt="Ford Foundation Information Flow">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image8.png" alt="Ford Foundation Information Flow">
 <figcaption>Information flow at the Ford Foundation, thanks to electronic data processing (proposal). RAC.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ The Foundation hired Documentation, Incorporated, a computer and systems consult
 Documentation, Incorporated proposed raising the necessary funds through the elimination of twenty-two staff positions (clerks, typists, assistants), resulting in an annual savings of $154,000—not nearly enough. The study authors then suggested that the new system would so increase the efficiency of existing program professionals that it would essentially result in a savings worth $620,000. Adding to that an elimination of growth costs would result in net savings of $99,000, so the reasoning went. This argument might be persuasive for companies making products for profit. But everyone failed to notice that increasing the "efficiency" of Ford Foundation program staff— whose job was giving money away— would not result in cold, hard cash.
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image1.png" alt="Cost Estimates">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image1.png" alt="Cost Estimates">
 <figcaption>Cost Estimates, 1966. Office Files of Arthur R. Trottenberg, RAC.</figcaption>
 </figure>
 
@@ -52,21 +52,21 @@ A decision about whether to follow the "artificial intelligence" (machine-learni
 The Administration Office drew up a plan, outlined in a memo Atwater sent to Ford Foundation President McGeorge Bundy. Ironically, the latter's approval came in the form of a hand-written note on the memo itself (pictured below)—evidence of what Philip Kemp referred to as "limited manual procedures!"
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image6.png" alt="Bundy gives the OK">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image6.png" alt="Bundy gives the OK">
 <figcaption>Bundy gives the OK—via memo marginalia. Office Files of Arthur D. Trottenberg, RAC.</figcaption>
 </figure>
 
 All of this was happening as the Foundation made plans to move into its sparkling new headquarters on 43rd Street. If Ford was to develop in-house computational capacity, space would need to be found (it was, on level B) and equipment procured. Ford administration decided to rent the basic equipment, an [IBM 360/30 model](http://www.computerhistory.org/revolution/mainframe-computers/7/161/570?position=0), at the rate of $3,990 per month. That's approximately $28,000 in 2018 dollars. If my calculations are correct, the mainframe's 64K processing capacity, which would record basic descriptive facts about grants and grantees in the form of number codes, would amount to approximately .000032 the processing capacity of today's average iPhone.
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image7.png" alt="A sales order from October 1968.">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image7.png" alt="A sales order from October 1968.">
 <figcaption>A sales order from October 1968. Office Files of Arthur D. Trottenberg, RAC.</figcaption>
 </figure>
 
 Furthermore, Ford would need to add specialized staff members to support the new system: keypunch operators, computer programmers, and systems analysts would join the Foundation in short order. And then, of course, staff in all departments would need to be trained (one hand-colored training schedule is reproduced below).
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image5.png" alt="Ford Foundation Computer Training Schedule.">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image5.png" alt="Ford Foundation Computer Training Schedule.">
 <figcaption>Ford Foundation Computer Training Schedule, marker on paper, 1969. RAC.</figcaption>
 </figure>
 
@@ -75,6 +75,6 @@ From 1969-1976, Ford staff continued to reevaluate its computer needs. New grant
 > "[Management information systems] often don't work because the disseminators of the information pay attention only to the grammar of their output and not the rhetoric."
 
 <figure>
-<img src="/wp-content/uploads/2018/08/image4.png" alt="1976 Meeting Notes.">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/08/image4.png" alt="1976 Meeting Notes.">
 <figcaption>1976 Meeting Notes, "Computer," Office Files of Thomas Cooney, RAC.</figcaption>
 </figure>

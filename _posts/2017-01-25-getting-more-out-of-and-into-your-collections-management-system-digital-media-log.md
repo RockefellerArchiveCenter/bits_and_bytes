@@ -43,11 +43,11 @@ So, we decided that building a system from scratch was the best way forward. But
 
 There are plenty of Ruby and Rails tutorials resources out there, but for me I found Codecademy and Lynda.com to be the most useful. I also reverse-engineered the NYU Media Log-which I mentioned earlier-whose code is up on GitHub. And I had a lot of other support from great colleagues-my boss helped me through my struggles with JavaScript and Bootstrap, and I want to especially thank Dave Mayo at Harvard, who walked me through several issues that I had building a rails app and reviewed my code.
 
-![Digital Media Log Form](http://blog.rockarch.org/wp-content/uploads/2017/01/dm2.jpg)
+![Digital Media Log Form](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/dm2.jpg)
 
 After many weeks of learning (and struggling with) Ruby, Rails, and JavaScript, I had a new Digital Media Log! Only 5 out of these ten fields need to be manually entered by a user, which means the actual data entry is minimal. The ID is auto generated, and the date transferred is auto populated with today's date once the transfer method field changes. And you can't see it here, but the Component and Resource title are populated after a user fills out the "ArchivesSpace RefID" field and clicks "Find in ArchivesSpace." This is much faster and more efficient than copying and pasting or rekeying all that information. Now inventorying will not get in the way of actually preserving our born digital content. Additionally, making this process easier helps to encourage our processing archivists to work with born digital materials.
 
-![Digital Media Log Index](http://blog.rockarch.org/wp-content/uploads/2017/01/dm1.jpg)
+![Digital Media Log Index](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/dm1.jpg)
 
 One step that I glossed over was migrating the data from the old system to the new system-which Amy did an immense amount of data cleanup for. While that step was a fair amount of work, I'm looking forward to how efficient this new system will be.
 

@@ -25,7 +25,7 @@ With Project Electron, we have an opportunity to implement an architecture that 
 As we found in researching integrations models, each approach has advantages and disadvantages and there is often overlap between models. Based on our evaluation, the model that seems to be the best match for our organizational capacities and the requirements of the project is the microservices approach. Simply summarized, this is a style of systems architecture which consists of multiple component services that can be deployed independently of one another. In contrast to a single large application, this approach allows multiple smaller services to be developed, maintained, or decommissioned separately. Each of these services performs a specific, discrete task and communicates with other services by using common protocols and data structures. For Project Electron, this means creating microservices that facilitate communication, data creation, updating, transformation and validation between the transfer application we are developing, the archives management system (ArchivesSpace), preservation system (Archivematica), and the repository (Fedora).
 
 <figure>
-<img src="/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png" alt="Project Electron microservices overview diagram">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/03/Draft-PE-service-based-architecture-overview.png" alt="Project Electron microservices overview diagram">
 <figcaption>Draft Diagram - Project Electron microservices overview.</figcaption>
 </figure>
 

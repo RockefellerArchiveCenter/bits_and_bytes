@@ -17,7 +17,7 @@ _The following is the text from the talk I gave at [METRO's Annual Conference](h
 
 <!--more-->
 
-![Getting More out of and Into Your CMS - MetroCon2017 Slide 1](http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-1.jpg)
+![Getting More out of and Into Your CMS - MetroCon2017 Slide 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-1.jpg)
 
 Hi, thank you all for joining us today. All of the speakers today are from the Rockefeller Archive Center. The RAC is an independent operating foundation that preserves and makes available for research the archival collections of members of the Rockefeller family, institutions and organizations founded by Rockefeller family members, and other philanthropic organizations like the Ford Foundation or the Commonwealth Fund. We're fully staff at about 45 employees, and while we have two full-time IT professionals, they are not developers. We currently have no developers on staff, and everyone speaking today comes from a traditional archival background and didn't have previous development experience outside of graduate school. We do have a small three-person Digital Projects team who assists with technological and digital projects around the Archive Center.
 
@@ -33,7 +33,7 @@ We'll primarily be talking about our work with ArchivesSpace, our current Collec
 
 I'd like to take a few minutes to briefly cover APIs before we get to the real meat of our presentations, because ArchivesSpace's API is really what made all of our work easier and jumpstarted a lot of changes in our data quality.
 
-![Getting More out of and Into Your CMS - MetroCon2017 Slide 3](http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-2.jpg)
+![Getting More out of and Into Your CMS - MetroCon2017 Slide 3](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-2.jpg)
 
 API stands for Application Programming Interface, and they basically define different ways to communicate with various software components.
 
@@ -41,7 +41,7 @@ ArchivesSpace specifically uses a RESTful API, which allows a requesting system,
 
 You can use your command line, another tool like Postman, a script, or an entirely separate application to make calls against ArchivesSpace's API. What this means is that you can pull collection information from AS to another system, update mass amounts of data, or automate tasks, all without ever opening the ArchivesSpace interface or touching its backend database.
 
-![Getting More out of and Into Your CMS - MetroCon2017 Slide 3](http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-3.jpg)
+![Getting More out of and Into Your CMS - MetroCon2017 Slide 3](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-3.jpg)
 
 So, this is just a quick example of some of the structured JSON data that ArchivesSpace's API returns when you send a simple get request against an Archival Object. This may look pretty technical and scary, but it's pretty easy to read once you get used to the syntax.
 
@@ -55,7 +55,7 @@ Now, it's super easy to pull data from ArchivesSpace, make changes, and push tho
 
 Additionally, as our presentations will go into, APIs make systems customizations, plugins, or integrations much easier. With a well-created API, a system opens itself up and makes your data way more inter-operable.
 
-![Getting More out of and Into Your CMS - MetroCon2017 Slide 4](http://blog.rockarch.org/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4.jpg)
+![Getting More out of and Into Your CMS - MetroCon2017 Slide 4](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/01/Getting-More-out-of-and-Into-Your-CMS-MetroCon2017-4.jpg)
 
 Thanks for listening to me signpost and talk about APIs for a couple of minutes, but it's time for the real cool stuff to start.
 

@@ -19,17 +19,17 @@ Web analytics give us vital demographic information including the countries or r
 
 We also gather information on the source of traffic to our website: from a search engine; a link from another site; or directly from a user typing in the website's URL in their browser's address bar. Here you can see a breakdown of those sources for the last year.
 
-![traffic-sources](/wp-content/uploads/2014/07/traffic-sources.png)
+![traffic-sources]({{ site.baseurl }}/wp-content/uploads/2014/07/traffic-sources.png)
 
 Detailed information on referring sites helps us evaluate our participation in consortia - we regularly get hits from consortia we participate in, such as [ArchiveGrid](http://beta.worldcat.org/archivegrid/?q=contributor:93&label=Rockefeller%20Archive%20Center) or the [National Library of Medicine](http://www.nlm.nih.gov/hmd/consortium/) - as well as the degree to which projects like the RF Centennial website drive traffic to DIMES. Search traffic tells us both how many people are finding our site via search engines (I talked about improving those numbers in a [series of earlier posts](http://rockarch.org/programs/digital/bitsandbytes/?tag=schema-org)) and also the relevance of search terms which lead users to our site. As you can see, over the past year the number of visits to DIMES from web search engines like Google has grown pretty dramatically:
 
-![search-traffic-increase](/wp-content/uploads/2014/07/search-traffic-increase.png)
+![search-traffic-increase]({{ site.baseurl }}/wp-content/uploads/2014/07/search-traffic-increase.png)
 
 ## Content
 
 In addition, we gather statistics related to the content on DIMES, including general information on how long people stay on our site and how many pages they view during a visit. Although one might assume that it would be better for users to spend longer amounts of time on our site, that's not necessarily true for DIMES, since the purpose of the site is to provide information regarding collections to users as quickly as possible. A shorter visit time might indicate that a user was able to quickly find the information they need, while a long visit with lots of page views might indicate a frustrated user unable to find the information they need. Here's what the average number of pages per session (analytics-speak for a website visit) and duration of session for the past year look like:
 
-![pages-and-visit-duration](/wp-content/uploads/2014/07/pages-and-visit-duration.png)
+![pages-and-visit-duration]({{ site.baseurl }}/wp-content/uploads/2014/07/pages-and-visit-duration.png)
 
 Information about which pages are accessed most often, including which finding aids are most viewed, can help us decide which collections we want to improve description for, as well as what collections are likely to be most requested in the reading room.
 
@@ -51,11 +51,11 @@ Lastly, with a bit of additional legwork we can also find out which search terms
 
 Here are the top search terms from the past year:
 
-![top-queries](/wp-content/uploads/2014/07/top-queries.png)
+![top-queries]({{ site.baseurl }}/wp-content/uploads/2014/07/top-queries.png)
 
 And here you can see the frequency with which these terms were searched over time:
 
-![terms-over-time](/wp-content/uploads/2014/07/terms-over-time.png)
+![terms-over-time]({{ site.baseurl }}/wp-content/uploads/2014/07/terms-over-time.png)
 
 As you can imagine, this data is incredibly valuable in helping us think about what are users are searching for, and whether or not they'll find it in DIMES. It can also help us come up with strategies to improve our description, so that particular keyword terms or structured data are present in our finding aids.
 

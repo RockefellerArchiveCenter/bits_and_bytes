@@ -15,7 +15,7 @@ tags:
 ---
 We are excited to announce the release of the [Rockefeller Archive Center Documentation Website](http://docs.rockarch.org/), a central platform for storing and sharing our institutional policies, workflows, guides, and other forms of documentation! We also want our site to generate more critical thought about how and why we write documentation, especially in terms of how we manage revisions to content, what formatting decisions we make in order to provide meaningful structure, and how we can use our documentation to contribute to the larger archives community. As a well-resourced institution, we feel a professional responsibility to be transparent about the tools and procedures we develop that may benefit our fellow archivists.
 
-![RAC Documentation Site homepage](http://blog.rockarch.org/wp-content/uploads/2018/07/docs-home-pic4.png)
+![RAC Documentation Site homepage](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/07/docs-home-pic4.png)
 
 <!--more-->
 
@@ -35,7 +35,7 @@ The idea of building a website to store our institution's documentation excited 
 
 Efficient navigation is an especially useful feature for documentation because most people do not want to read the complete text of a manual or even a policy. We want to quickly find the content that will explain how to perform a certain procedure or how to comply with a stipulation in a policy. The Markdown format we use to manage our documentation on GitHub allows us to embed links that can bring users directly to specific passages within our documentation or to external content such as established standards and practices, additional resources, and consulted examples. Although, we could create those links within a Word document, links are an integral part of how the internet works, so a website is better suited to deploy them. Our site also provides side navigation for movement between the different segments of a piece of documentation.
 
-![RAC Documentation Site side navigation feature](http://blog.rockarch.org/wp-content/uploads/2018/07/docs-features-pic2.png)
+![RAC Documentation Site side navigation feature](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/07/docs-features-pic2.png)
 
 Taking a step back from the features facilitated by pushing our content to the web, I want to highlight our project's goal to promote the creation of well-structured documentation that lends itself to enhancement by a markup language like Markdown. Features like the side navigation are impossible to implement if the documentation is not meaningfully structured. When completing our initial conversions of documentation in Word Documents to Markdown, we soon observed the differences between styling a piece of documentation and structuring one. As part of our efforts to involve more of our colleagues in moving greater quantities of RAC documentation to the site, we try to emphasize the larger learning objective of discovering how to make intentional and meaningful structure decisions. These decisions largely concern how to define a document's individual components with headings, how to use varying levels of headings to express the relationships between the different components and their subcomponents, and how to determine when it is is appropriate to use ordered or unordered lists to represent sets of information.
 

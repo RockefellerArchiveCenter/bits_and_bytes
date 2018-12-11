@@ -19,7 +19,7 @@ Presenter:
 
 Jefferson Bailey, Strategic Initiatives Manager at Metropolitan New York Library Council and Co-chair of the Innovation Working Group of the NDSA.
 
-Slides: [LevelsofPreservation](/wp-content/uploads/2013/07/LevelsofPreservation.pptx)
+Slides: [LevelsofPreservation]({{ site.baseurl }}/wp-content/uploads/2013/07/LevelsofPreservation.pptx)
 
 ## The Digital POWRR project
 
@@ -31,7 +31,7 @@ Aaisha Haykal, Director of Archives and Special Collections at Chicago State Un
 
 Patrice-Andre Prud'homme, Head of Digital Collections at Illinois State University
 
-Slides:[LevelsofPreservation](/wp-content/uploads/2013/07/LevelsofPreservation1.pptx) [digitalpowrr\_dp\_ala\_2013\_haykal_prudhomme](/wp-content/uploads/2013/07/digitalpowrr_dp_ala_2013_haykal_prudhomme.pptx)
+Slides:[LevelsofPreservation]({{ site.baseurl }}/wp-content/uploads/2013/07/LevelsofPreservation1.pptx) [digitalpowrr\_dp\_ala\_2013\_haykal_prudhomme]({{ site.baseurl }}/wp-content/uploads/2013/07/digitalpowrr_dp_ala_2013_haykal_prudhomme.pptx)
 
 ## Chronicles in Preservation: Preserving Digital News and Newspapers
 
@@ -45,7 +45,7 @@ Matt Schultz, Program Manager, Educopia Institute
 
 Nick Krabbenhoeft, Project Manager, Educopia Institute
 
-Slides: [chronicles\_ala2013\_20130703](/wp-content/uploads/2013/07/chronicles_ala2013_20130703.pdf)
+Slides: [chronicles\_ala2013\_20130703]({{ site.baseurl }}/wp-content/uploads/2013/07/chronicles_ala2013_20130703.pdf)
 
 ## Building a Robust Pipeline for ETD Ingestion with Rich Metadata
 
@@ -55,4 +55,4 @@ Presenter:
 
 Lucas Mak, Metadata and Catalog Librarian at Michigan State University Libraries.
 
-Slides: [ETD_metadata](/wp-content/uploads/2013/07/ETD_metadata.pdf)
+Slides: [ETD_metadata]({{ site.baseurl }}/wp-content/uploads/2013/07/ETD_metadata.pdf)

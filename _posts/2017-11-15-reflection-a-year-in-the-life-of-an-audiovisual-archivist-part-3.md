@@ -29,7 +29,7 @@ A current trend in the archival field is "Accessioning as Processing," based upo
 However, what we have implemented at the RAC is a form of "Accessioning as Processing." We're creating a detailed item-level inventory which is initiated before acquisition and completed during the accessioning phase of an in-coming audiovisual collection. In short, a robust inventory form is expected to be completed by the donor prior to acquisition - listing titles, formats, whether an item has a digital surrogate, prior storage conditions, etc. This information is expanded by the RAC accessioning staff by applying unique identifiers, noting tape brand, playback speed based on annotations, etc. We also inventory previously accessioned collections that are too minimally described, so that they are ready to be digitized.
 
 <figure>
-<img src="/wp-content/uploads/2017/11/Inventory.jpg" alt="AV Inventory">
+<img src="{{ site.baseurl }}/wp-content/uploads/2017/11/Inventory.jpg" alt="AV Inventory">
 <figcaption>Partial screenshot of RAC accessioning inventory.</figcaption>
 </figure>
 

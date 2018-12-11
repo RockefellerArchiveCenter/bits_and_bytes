@@ -30,7 +30,7 @@ The project team has been largely focused on working through the processes for r
 
 The registration processes are detailed in the workflow diagram below (you'll probably want to click on the image to enlarge it):
 
-![Registration Workflow ](/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1.png)
+![Registration Workflow ]({{ site.baseurl }}/wp-content/uploads/2014/12/Registration-Workflow-New-Page-1.png)
 
 ### Policy Revision
 

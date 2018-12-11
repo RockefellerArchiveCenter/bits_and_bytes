@@ -33,7 +33,7 @@ Of course, any initial steps at a new institution should include the examination
 
 Beyond these steps, it is key to remember that the heart of any successful audiovisual program is the idea that user-needs (primarily, in our case, the researcher's needs) must remain paramount.  Keeping that in mind, we should always ask: How do users locate our a/v material? What can we do to make the user experience more effective? How do we most expeditiously provide access to a/v material?
 
-![Moving Image Reels](http://blog.rockarch.org/wp-content/uploads/2017/11/IMG_1260.jpg)
+![Moving Image Reels](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/11/IMG_1260.jpg)
 
 Come back tomorrow for Part 2: Processing!
 
