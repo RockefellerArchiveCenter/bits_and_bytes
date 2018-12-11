@@ -11,7 +11,7 @@ The D-Team has several new additions, and we want to introduce them to you.<!--m
 
 ## Hillel Arnold (Digital Archivist)
 
-![Hillel Arnold headshot](/wp-content/uploads/2012/08/hillel.jpg)
+![Hillel Arnold headshot]({{ site.baseurl }}/wp-content/uploads/2012/08/hillel.jpg)
 Hillel is primarily working on setting up the eXtensible Text Framework (or XTF), the new system for displaying our finding aids online. This system is the same that backs the [Online Archive of California](http://www.oac.cdlib.org/), [Virginia Heritage](http://ead.lib.virginia.edu/vivaxtf/search), and other finding aid sites. Hillel is revising the default stylesheets to customize the finding aids display for the RAC, as well as ensuring that the system works in a way that meets the needs of researchers and archival staff. In the future, he will be integrating library records and digital objects into XTF as well.
 
 ## Jeff Destine (Consultant)
