@@ -28,14 +28,14 @@ Following these sessions, it was finally time to start dipping our toes into act
 After reading up, looking at other diagrams, and working up the courage to actually make something, we ended up with the below image as a first draft. This draft model was dated October 17<sup>th</sup>, 2017 and you'll notice that there's a lot going on here.
 
 <figure>
-<img src="/wp-content/uploads/2018/04/Model-v1.png" alt="Data Modeling First Attempt">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/04/Model-v1.png" alt="Data Modeling First Attempt">
 <figcaption>Our first attempt at data model diagramming.</figcaption>
 </figure>
 
 The diagram is messy, not laid out well, and difficult to read, and has more information than we ultimately decided was necessary. Following this first draft, we sat down as a team and talked about the data we thought was absolutely necessary to display to researchers, and, in the end, we settled on a DACS minimum level of metadata and description with information supporting the adoption of linked data standards. Our goal was to reuse as many existing vocabularies as possible while also allowing for the expansion of the model if necessary. The end result of these insular discussions was the below draft of the diagram.
 
 <figure>
-<img src="/wp-content/uploads/2018/04/Model-v3-1.png" alt="Legible diagram">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/04/Model-v3-1.png" alt="Legible diagram">
 <figcaption>The third, and legible, diagram.</figcaption>
 </figure>
 
@@ -59,27 +59,27 @@ I'll breakdown the key takeaways we observed from these models at the end of thi
 
 ## Task 1
 
-![Task 1 diagram 1](http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_1.jpg)
+![Task 1 diagram 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task1_1.jpg)
 
-![Task 1 diagram 2](http://blog.rockarch.org/wp-content/uploads/2018/04/Task1_2.jpg)
+![Task 1 diagram 2](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task1_2.jpg)
 
 ## Task 2
 
-![Task 2 diagram 1](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_1.jpg)
+![Task 2 diagram 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task2_1.jpg)
 
-![Task 2 diagram 2](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_2.jpg)
+![Task 2 diagram 2](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task2_2.jpg)
 
-![Task 2 diagram 3](http://blog.rockarch.org/wp-content/uploads/2018/04/Task2_3.jpg)
+![Task 2 diagram 3](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task2_3.jpg)
 
 ## Task 3
 
-![Task 3 diagram 1](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_1.jpg)
+![Task 3 diagram 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_1.jpg)
 
-![Task 3 diagram 2](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_2.jpg)
+![Task 3 diagram 2](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_2.jpg)
 
-![Task 3 diagram 3](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_3.jpg)
+![Task 3 diagram 3](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_3.jpg)
 
-![Task 3 diagram 4](http://blog.rockarch.org/wp-content/uploads/2018/04/Task3_4.jpg)
+![Task 3 diagram 4](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_4.jpg)
 
 # Takeaways and Final Draft
 
@@ -92,7 +92,7 @@ Secondly, we noticed a lot of groups trying to make relationships between differ
 Ultimately, none of the groups had any major changes for us except to find a few flaws in our relationship linkages and some minor spelling mistakes. They all were savvy and picked up that we excluded boxes and folders from our model. However, we designed this diagram primarily for born digital and digitized materials, so they weren't really necessary for the time being. (Ask me about my campaign to remove boxes and folders as much as possible from researcher-facing archival description next time you see me and I'll talk your ear off.) Thanks to all of the help and input from everyone involved, we ended up with the below draft that we're going to use moving forward.
 
 <figure>
-<img src="/wp-content/uploads/2018/04/Model-v5.png" alt="Final draft of data model">
+<img src="{{ site.baseurl }}/wp-content/uploads/2018/04/Model-v5.png" alt="Final draft of data model">
 <figcaption>Final draft version of our display data model diagram.</figcaption>
 </figure>
 

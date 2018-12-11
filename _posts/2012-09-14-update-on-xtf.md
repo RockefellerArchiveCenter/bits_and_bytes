@@ -16,7 +16,7 @@ As many of you know, we have moved all of our finding aid data to XTF (see an [e
 
 First of all, a huge thank you to all of you who have provided us feedback during our internal testing period. We have received many helpful and insightful comments from a number of you about the system's functionality and display and will be continuing to tweak the system over the coming months, so please keep the comments coming!
 
-![XTF logo](/wp-content/uploads/2012/09/xtf_logo.gif)
+![XTF logo]({{ site.baseurl }}/wp-content/uploads/2012/09/xtf_logo.gif)
 
 We have more plans for enhancements to XTF in the coming months. We'll be creating an automated way for updated finding aids to get into XTF, so that we can reduce the amount of time between edits being made in ATReference and those changes appearing online. We'll also be working to add library records to the system, which we hope will allow researchers and staff better access to our library collection.
 

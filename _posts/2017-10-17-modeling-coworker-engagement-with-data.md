@@ -24,12 +24,12 @@ We started out with an exercise in recognizing the essential characteristics of 
 
 Next, the groups took a prose description of needs for a digital repository and broke it out into attributes, types, objects, classes, and functions. I took this exercise directly from the C4L data modeling course, and it worked wonders in explaining the differences between the different types of objects in a data model. Using confusing terminology like this is about as technical as these workshops got, but I think they were still successful in getting coworkers invested in the process and granting them a little more understanding of the work that I'm currently doing.
 
-![Data model](http://blog.rockarch.org/wp-content/uploads/2017/10/model_3.jpg)
+![Data model](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/10/model_3.jpg)
 
 We finished off the workshops with a group data model diagramming activity. Each workshop split into three groups, chose a sample object, and tried to draw a model of it within a digital repository. I've posted three of these in this blog, and while these are first attempts at diagramming and will not be used for the overall model, I think they are admirable for groups that had no idea what a data model was 90 minutes earlier.
 
-![Data model](http://blog.rockarch.org/wp-content/uploads/2017/10/model_1.jpg)
+![Data model](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/10/model_1.jpg)
 
-![Data model](http://blog.rockarch.org/wp-content/uploads/2017/10/model_2-e1508253019640.jpg)
+![Data model](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2017/10/model_2-e1508253019640.jpg)
 
 With the changes to the types of records that libraries and archives collect, data modeling is becoming a core concept for many in our field. It's scary and intimidating to think about at first, but if you were to take anything from our data model workshopping experience, it's that anyone can learn to think with a data model mindset. Modeling is a skill that has to be learned, like any other, but it's not one that's so specialized that a processing archivist, reference archivist, or really anyone couldn't it pick up. If I can learn it, anyone can.

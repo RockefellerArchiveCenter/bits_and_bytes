@@ -16,7 +16,7 @@ Over the past year, the RAC has been taking steps towards preserving digital med
 At the RAC, we are using a series of tools for imaging such as the [KryoFlux](https://www.kryoflux.com/) and the [FRED](https://www.digitalintelligence.com/products/fred/). Becoming familiar with the hardware (including its quirks) was one of the more challenging aspects of learning how to create disk images. As a processing archivist, the different drives, cables, write blockers, even the KryoFlux itself, were unfamiliar at first. Since the KryoFlux needs to be connected to the drive and computer in a particular order, it was risky to set up the digital workstation without having a more comprehensive understanding of the components. This particular barrier made it clear that our documentation project would involve more than just a list of steps - we would need to document setup procedures, identify components, and ensure the workflow pointed to various troubleshooting options a processing archivist could take in the event the legacy media was not functioning properly.
 
 <figure>
-<img src="/wp-content/uploads/2017/11/IMG_5989.jpg" alt="KryoFlux">
+<img src="{{ site.baseurl }}/wp-content/uploads/2017/11/IMG_5989.jpg" alt="KryoFlux">
 <figcaption>Assistant Processing Archivists Amy Berish and Katie Martin preparing the KryoFlux to image a 5.25-inch floppy disk.</figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ permalink: /?p=256
 categories:
   - Digitization
 ---
-!["I'm trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)](/wp-content/uploads/2012/10/Inspector342.jpg)
+!["I'm trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)]({{ site.baseurl }}/wp-content/uploads/2012/10/Inspector342.jpg)
 
   <p class="wp-caption-text">
     "I'm trained to catch defects before they become defeats" - Inspector 34 (Pete and Pete, 1994)
@@ -18,7 +18,7 @@ In addition to our OnDemand, reference driven digitization program, the D-Team h
 
 This massive amount of digitization was made possible by outsourcing to [Hudson Microimaging (HMI)](http://www.hudsonmicroimaging.com/), a digital imaging vendor located up in Port Ewen, where they have the equipment and staff necessary to accomplish digitization at this scale.
 
-![An overhead scanner, such as those used at HMI. (image by jmignault, some rights reserved)](/wp-content/uploads/2012/10/overheadscanning2.jpg)
+![An overhead scanner, such as those used at HMI. (image by jmignault, some rights reserved)]({{ site.baseurl }}/wp-content/uploads/2012/10/overheadscanning2.jpg)
 
   <p class="wp-caption-text">
     An overhead scanner, such as those used at HMI. (image by jmignault, some rights reserved)
@@ -26,7 +26,7 @@ This massive amount of digitization was made possible by outsourcing to [Hudson 
 
 While this arrangement has allowed us to digitize much larger selections of material in a MUCH shorter time, (than if we used in-house resources), we still face the challenge of assuring that the huge amount of files we receive from HMI meet our stated specifications. We do this by implementing a QA system and performing QC on the files produced.
 
-![Lucy and Ethel performing "QC" on chocolates at a candy factory. (I Love Lucy, 1952)](/wp-content/uploads/2012/10/I-Love-Lucy-Chocolate-Factory-scene3.jpg)
+![Lucy and Ethel performing "QC" on chocolates at a candy factory. (I Love Lucy, 1952)]({{ site.baseurl }}/wp-content/uploads/2012/10/I-Love-Lucy-Chocolate-Factory-scene3.jpg)
 
   <p class="wp-caption-text">
     Lucy and Ethel performing "QC" on chocolates at a candy factory. (I Love Lucy, 1952)
@@ -53,7 +53,7 @@ QA begins with setting up a workflow that supports the creation of high quality 
 
 By making sure that all of our digitization efforts go through each of these steps and also meet all of these requirements, we can be assured that our digital repository will consist of the highest quality digital surrogates that our resources will allow. We can also have the confidence to ensure users of these files that the surrogates we've created are faithful representations of the original items they were derived from.
 
-![Belgian War Relief Effort Flour Sack](/wp-content/uploads/2012/10/copy-500655_se.jpg)
+![Belgian War Relief Effort Flour Sack]({{ site.baseurl }}/wp-content/uploads/2012/10/copy-500655_se.jpg)
 
   <p class="wp-caption-text">
     An example of a digital surrogate made from an item that would otherwise be difficult to provide access to. Even though this is a reduced resolution & size "Service_Edited" derivative, check out the detail & quality we are making available to our users.

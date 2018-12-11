@@ -14,4 +14,4 @@ On April 16, 2013 the third of four webinars on the Introduction to Digital Pres
 
 The webinar covered the basics of managing born-digital archives with techniques such as inventorying digital media and practical suggestions such as constantly updating your documentation and policy framework. Also, the webinar describes how to assess a collection, develop a management plan, put policies into practice and set up an accessioning workflow. Lastly, the webinar suggests tools to use and further reading.
 
-The webinar slides can be accessed [here](http://www.aserl.org/wp-content/uploads/2013/04/Intro_DP_2013-3_Born_Dig_Docs.pdf "here"). The webinar session recording with slides can be accessed [here](http://vimeo.com/64166341 "here").
+The webinar slides can be accessed [here](http://www.aserl.org{{ site.baseurl }}/wp-content/uploads/2013/04/Intro_DP_2013-3_Born_Dig_Docs.pdf "here"). The webinar session recording with slides can be accessed [here](http://vimeo.com/64166341 "here").

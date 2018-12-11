@@ -17,11 +17,11 @@ While we were mostly happy with the base ArchivesSpace application, we did want 
 
 Most of what we needed to was pretty simple: adding items to the enumerations files in order to have the titles display properly, change the search results columns, rearranging the facet options in the browse screens, and totaling removing the classifications module from all site navigation. All of these desired customizations required very small changes in the code, but unfortunately, I had no experience working with Ruby before AS, so it was a crash course in finding the correct places to make the changes. At least twelve of these twenty-two hours were spent reading code and trying to understand what everything did and which file was the right file to change.
 
-![Enumerations](/wp-content/uploads/2015/01/Enumerations.jpg)
+![Enumerations]({{ site.baseurl }}/wp-content/uploads/2015/01/Enumerations.jpg)
 
 We did call on the help of the developers and Chris Fitzpatrick was kind enough to create a few quick customizations in the form of local plugins. You can find these files here: <https://gist.github.com/cfitz>. Most of these changes can go into your system's plugins/local/frontend directory, and then if you call "local" plugins in the config.rb file of ArchivesSpace, the plugins will override the base system settings.
 
-![Plugins](/wp-content/uploads/2015/01/Config_Plugins.jpg)
+![Plugins]({{ site.baseurl }}/wp-content/uploads/2015/01/Config_Plugins.jpg)
 
 The trickiest part of this whole section was figuring out what files to change and the correct syntax. I'm sure someone with a better understanding of Ruby could have done this in half of the time, but, [say something about learning, now have more familiarity with the system, those type of positive outcomes from taking this time etc]
 
@@ -29,7 +29,7 @@ The trickiest part of this whole section was figuring out what files to change a
 
 Going into the transition, our AT documentation was excessively long, years old, and out of date even for the work we were doing in our current systems, so we saw the migration as an opportunity to update these manuals into something that users might be more willing to use. We wanted to move away from a more narrative approach to the manuals, so we settled on Quick Reference Charts for both the Accessions and Resources modules in ArchivesSpace. These charts include the name of every field in their respective module, a definition of the field, an example of how we use the field at the RAC, whether they are DACS or locally required, and what level DACS.
 
-![Quick reference guide](/wp-content/uploads/2015/01/AS-Quick-Reference.jpg)
+![Quick reference guide]({{ site.baseurl }}/wp-content/uploads/2015/01/AS-Quick-Reference.jpg)
 
 Compiling the quick reference charts was actually fairly easy, if time consuming. I spent the majority of the time in this section reviewing hundreds of pages of the old documentation, laying out the quick reference chart, and reviewing DACS specifications. With these documents done, we were ready to move onto the final step of our migration process: training.
 
@@ -49,4 +49,4 @@ Ultimately, migrating to ArchivesSpace took about one third of my time over the 
 
 As is often necessary with open-source systems, we relied heavily on the help and expertise of the community surrounding the application. Our transition was a success because we took our time, involved other groups in our decision-making process, and tried to keep our end users in mind when making all decisions.
 
-![Patrick in ArchivesSpace hat](/wp-content/uploads/2015/01/hat4.jpg)
+![Patrick in ArchivesSpace hat]({{ site.baseurl }}/wp-content/uploads/2015/01/hat4.jpg)

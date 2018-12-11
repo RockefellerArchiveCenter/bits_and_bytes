@@ -24,7 +24,7 @@ Each section was built around the following reports -
 * [Audit and Certification of Trustworthy Repositories](http://public.ccsds.org/publications/archive/652x0m1.pdf "Audit and Certification of Trustworthy Repositories") (TRAC report)
 * [Aligning National Approaches to Digital Preservation](http://educopia.org/sites/educopia.org/files/ANADP_Educopia_2012.pdf "Aligning National Approaches to Digital Preservation")
 * [Reference Model for an Open Archival Information System](http://en.wikipedia.org/wiki/Open_Archival_Information_System "Reference Model for an Open Archival Information System") (OAIS)
-* [Building and sustaining a culture of assessment](/wp-content/uploads/2013/08/Building-and-sustaining-a-culture-of-assessment.pdf)
+* [Building and sustaining a culture of assessment]({{ site.baseurl }}/wp-content/uploads/2013/08/Building-and-sustaining-a-culture-of-assessment.pdf)
 * [DCC Curation Lifecycle Model](http://www.dcc.ac.uk/resources/curation-lifecycle-model "DCC Curation Lifecycle Model")
 * [Sustainable Economics for a Digital Planet: Ensuring Long-Term Access to Digital Information](http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf "Sustainable Economic for a Digital Planet: Ensuring Long-Term Access to Digtial Information")
 

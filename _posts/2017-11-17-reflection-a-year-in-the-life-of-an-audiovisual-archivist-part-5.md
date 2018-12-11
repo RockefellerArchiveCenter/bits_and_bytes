@@ -36,7 +36,7 @@ One primary accomplishment of our 2017 Selznick fellow came with the assistance 
 I cannot stress the importance of physically spending time with your collections – and opening those boxes or film cans – both to get a true sense of the material that is in your care and to verify that any previously collected data is accurate.
 
 <figure>
-<img src="/wp-content/uploads/2017/11/IMG_1273.jpg" alt="Film Survey">
+<img src="{{ site.baseurl }}/wp-content/uploads/2017/11/IMG_1273.jpg" alt="Film Survey">
 <figcaption>Selznick School fellow Katie Pratt surveying film prints.</figcaption>
 </figure>
 
