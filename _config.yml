@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/rac_blog"
+baseurl: "/blog_markdown"
 url: Your URL
 
 # THEME-SPECIFIC CONFIGURATION
