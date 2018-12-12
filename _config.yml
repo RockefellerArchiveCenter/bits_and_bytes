@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blog_markdown"
-url: Your URL
+url: "https://rockefellerarchivecenter.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
