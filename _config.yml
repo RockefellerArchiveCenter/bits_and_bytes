@@ -12,11 +12,8 @@ theme_settings:
   description: "News from Rockefeller Archive Center's Digital Team" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-     <p>&nbsp;</p>
-  header_text_feature_image: assets/cropped-header.jpg
+  header_text:
+  header_text_feature_image: 
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
