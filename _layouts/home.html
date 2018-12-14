@@ -25,10 +25,10 @@ layout: default
       </header>
       <div class="excerpt">
         {{ post.excerpt }}
-        <a class="button" href="{{ post.url | relative_url }}">
+      </div>
+        <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
           {{ site.theme_settings.str_continue_reading }}
         </a>
-      </div>
     </div>
     {% endfor %}
   </div>
