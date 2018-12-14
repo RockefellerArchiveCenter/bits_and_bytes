@@ -118,6 +118,15 @@ a {
 .excerpt a {
   text-decoration: underline;
 }
+.author-post a{
+  text-decoration: none;
+}
+.category-post a{
+  text-decoration: none;
+}
+.tagged-post a{
+  text-decoration: none;
+}
 .nav {
   list-style: none;
   margin: 0;
