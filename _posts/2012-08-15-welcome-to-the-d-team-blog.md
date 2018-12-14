@@ -4,7 +4,6 @@ title: Welcome to the D-Team blog!
 date: 2012-08-15T08:00:31+00:00
 author: Sibyl Schaefer
 layout: post
-permalink: /?p=17
 categories:
   - D-Team
 ---
