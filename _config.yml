@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/blog_markdown"
 url: "https://rockefellerarchivecenter.github.io"
+permalink: /:title:output_ext
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
