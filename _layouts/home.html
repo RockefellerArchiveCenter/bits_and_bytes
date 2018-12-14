@@ -9,16 +9,20 @@ layout: default
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}
+  
+  <div class="welcome">
+    <h1>Recent Posts</h1>
+  </div>
 
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
-        <h1>
+        <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title }}
           </a>
-        </h1>
+        </h2>
         <p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
         </p>
