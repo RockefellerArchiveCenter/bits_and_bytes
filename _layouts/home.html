@@ -9,12 +9,13 @@ layout: default
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}
-  
-  <div class="welcome">
-    <h1>Recent Posts</h1>
-  </div>
 
   <div class="posts">
+    <header>
+    <div class="welcome">
+      <h1>Recent Posts</h1>
+    </div>
+  </header>
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
