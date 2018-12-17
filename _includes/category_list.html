@@ -1,9 +1,15 @@
-{% if include.tag_count > 0 %}
+{% if include.category_count > 0 %}
 <footer>
-  <div class="categories">
-    {% for tag in include.tags %}
-    <a class="categories" href="{{site.baseurl}}/categories#{{ category | cgi_escape | url_encode }}">#{{category}}</a>
-    {% endfor %}
+  <div class="post-categories">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories#{{category|slugize|url_encode}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
   </div>
 </footer>
 {% endif %}
