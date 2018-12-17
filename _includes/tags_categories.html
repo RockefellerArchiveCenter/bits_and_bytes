@@ -1,0 +1,24 @@
+{% if include.tag_count > 0 or include.category_count > 0 %}
+<footer>
+  {% if include.tag_count > 0 %}
+    <div class="tags">
+      {% for tag in include.tags %}
+        <a class="tag" href="{{site.baseurl}}/tags#{{ tag | cgi_escape }}">#{{tag}}</a>
+      {% endfor %}
+  {% endif %}
+    </div>
+  {% if include.category_count > 0 %}
+    <div class="post-categories">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories#{{category|slugize|url_encode}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    {% endif %}
+    </div>
+</footer>
+{% endif %}
