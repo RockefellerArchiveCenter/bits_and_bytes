@@ -21,27 +21,23 @@ Following our [usability testing of Aurora](http://blog.rockarch.org/?p=2078#mor
 
 <!--more-->
 
-<h1>Accessibility and Universal Design</h1>
+## Accessibility and Universal Design
 
 Accessibility is the practice of making systems usable by as many people as possible, including individuals who have visual, motor, auditory, speech, or cognitive disabilities. In providing access to digital infrastructure, there are various legal requirements and international standards that guide best practices. In the United States, [Section 508 of the Rehabilitation Act of 1973](https://section508.gov/manage/laws-and-policies#508-policy) provides standards for electronic and information technology accessibility, which have recently been updated to reflect European Commission standards and the World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/WAI/standards-guidelines/wcag/). These guidelines provide specific requirements for making web content accessible for everyone including users who access text with screen readers and visual zoom, rely on captions and textual descriptions for audio and video content, and use the keyboard or voice-based navigation. There are three levels of conformance for the WCAG 2.0 standard: A (lowest), AA, and AAA (highest). While these standards and legal requirements provide guidance in addressing web accessibility issues, web accessibility should be an integral part of all user-centered design processes, not just left as a box to tick at the very end of an application's development.
 
 Accessibility is also a central component of universal design, a user-centered approach to the design of a system or environment aimed at making it usable by as many people as possible regardless of their ability, age, size, or other factors. It is rooted in the idea that a diverse range and breadth of human ability is normal, and that rather than adding specialized adaptations for access, the design should strive to be widely inclusive from the outset. For example, designing building entrances without stairs benefits people using wheelchairs, folks with strollers, a person carrying groceries, someone using a cane to walk, movers carrying a couch, or a person in a leg cast recovering from an injury. As defined by a working group at the Center For Universal Design at North Carolina State University in 1997, there are [7 Principles of Universal Design](http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html):
 
-<ol>
-
-   <li>Equitable Use</li>
-   <li>Flexibility in Use</li>
-   <li>Simple and Intuitive Use</li>
-   <li>Perceptible Information</li>
-   <li>Tolerance for Error</li>
-   <li>Low Physical Effort</li>
-   <li>Size and Space for Approach and Use</li>
-
-</ol>
+1. Equitable Use
+2. Flexibility in Use
+3. Simple and Intuitive Use
+4. Perceptible Information
+5. Tolerance for Error
+6. Low Physical Effort
+7. Size and Space for Approach and Use
 
 This approach helps reduce stigma, promotes creativity and innovation, and contributes to inclusive environments that provide equitable access for a wide range of users including user groups that are often excluded in the design process. Universal design and accessibility are not definitively achieved as part of a project, but are a set of approaches, goals, and best practices that are part of an ongoing effort to engage and empower as many user communities as possible.
 
-<h1>Aurora Accessibility Audit</h1>
+## Aurora Accessibility Audit
 
 In testing Aurora, we used WCAG 2.0 AA as a compatibility goal. We measured our compliance by using a few different accessibility evaluation tools, running them on each page of the application's web user interface and recording issues that the tools identified. The tools we used are all browser extensions, available for most modern browsers:
 
@@ -58,7 +54,7 @@ In addition to using these evaluation tools, we also:
 * Checked to ensure visual information included alternative text or verbal explanation.
 * Tested the site navigation using screen readers: [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) browser extension and [VoiceOver](https://www.apple.com/accessibility/mac/vision/) for MacOS).
 
-<h2>Aurora Accessibility Issues</h2>
+### Aurora Accessibility Issues
 
 The main accessibility issues identified are as follows. Unless noted, the issues were fixed:
 
@@ -71,13 +67,13 @@ The main accessibility issues identified are as follows. Unless noted, the issue
 * Change text and link color to provide [sufficient color contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) to improve visual access to content. This issue is pending. The Bootstrap CSS theme used by Aurora does not meet the WCAG 2.0 requirements for an optimal color contrast ratio.
 * Provide [visible keyboard focus](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html) to enable keyboard navigation. This issue is pending and has been tagged for the next release of Aurora.
 
-<h1>What's Next</h1>
+## What's Next
 
 With the accessibility audit, we identified and made some important changes to Aurora that will improve its usability for a wide range of users, and we will continue to incorporate fixes to accessibility issues as part of the usability improvements we make to Aurora. This work is closely tied to the [Project Electron value](https://projectelectron.rockarch.org/) of placing users at the center of the design process in order to make tools that are empowering, engaging, transparent, and robust. The process has been an important growth opportunity for the RAC, because we have developed new skills and knowledge to be able to improve accessibility across our existing web properties, open source tools, design workflows, and organizational policies. We recognize that we still have a lot to learn in this domain, but we are eager to engage and incorporate existing best practices related to universal design methodologies and accessibility into our work.
 
 As I noted in my discussion of universal design, it is an approach that is widely inclusive from the outset. Our accessibility audit has improved Aurora, but it will be important in future work to incorporate universal design methodologies in all aspects of design and development processes, including creating user stories and personas, defining requirements, wireframing, and throughout development. The process is not just about code, but about an inclusive approach to who our users are and can be.
 
-<h1>Web Accessibility Resources</h1>
+## Web Accessibility Resources
 
 A11Y Nutrition Cards for Accessible Components. Based in WAI-ARIA Authoring Practices Guide: [https://davatron5000.github.io/a11y-nutrition-cards/](https://davatron5000.github.io/a11y-nutrition-cards/)
 
@@ -94,4 +90,3 @@ W3C Web Accessibility Initiative Web Accessibility Tutorials: [https://www.w3.or
 WebAIM Accessible Javascript: [https://webaim.org/techniques/javascript/](https://webaim.org/techniques/javascript/)
 
 WebAIM Color Contrast Checker: [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)
-<br>

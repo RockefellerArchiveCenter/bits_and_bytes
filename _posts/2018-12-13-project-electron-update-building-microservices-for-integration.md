@@ -18,20 +18,21 @@ As we've continued to refine Aurora's functionality, and improve the application
 
 <!--more-->
 
-<h2>What's a microservice?</h2>
+## What's a microservice?
 
 Although there are many definitions of what a microservice is, for our purposes we define it as a piece of code that performs a clearly defined and independent function: it does one thing and does it well. Microservices are usually part of an event-driven infrastructure, which means that they are triggered on an as-needed basis by other services or systems.
 
 Another way of thinking about microservices is that they are the seams that stitch systems together and turn single pieces of functionality into the fabric of a platform. These connections are not one-size-fits-all. Just as a tailor might choose different kinds of [seams](https://en.wikipedia.org/wiki/Seam_(sewing)) and [stitches](https://en.wikipedia.org/wiki/Stitch_(textile_arts)) based on what kind of bond they want - strong, decorative, flexible, permanent or temporary - as well as the characteristics of the materials they want to join - what kind of edge does it have, do materials overlap or butt up against each other - microservices can be written in many different languages and interact with systems and each other using a variety of protocols. We've chosen to develop our microservices using a common set of languages, frameworks, and libraries, but that doesn't preclude us from using different languages in the future, or even reimplementing existing services in a different way.
 
-<h2>Why we chose this strategy</h2>
-[earlier post](http://blog.rockarch.org/?p=1954), we think the approach we've chosen gives us the best shot at achieving these goals by providing a single interface in which we can manage integrations, log activity, and manually recover from failures. We've given ourselves the ability to add or remove integrations iteratively, mitigate disaster when it strikes, and support the growth of our colleagues as well as our organization.
+## Why we chose this strategy
+
+As Hannah wrote in an [earlier post](http://blog.rockarch.org/?p=1954), we think the approach we've chosen gives us the best shot at achieving these goals by providing a single interface in which we can manage integrations, log activity, and manually recover from failures. We've given ourselves the ability to add or remove integrations iteratively, mitigate disaster when it strikes, and support the growth of our colleagues as well as our organization.
 
 A microservices approach also allows us to work consciously and intentionally in the spaces between systems. Most of the systems we use to do our work - [ArchivesSpace](https://archivesspace.org/), [Archivematica](https://www.archivematica.org/en/) and [Fedora](https://duraspace.org/fedora/) - are community-driven open source solutions. This means that, although we participate in the communities which develop and maintain these applications, we don't have total control over their functionality either now or in the future. Choosing to build integrations outside of these systems means we don't have to spend as much effort keeping those customizations up to date. It also means that we can incorporate functionality which is particular to our needs without foisting our specific edge cases on everyone else.
 
 However, owning these integrations as an organization will require us to develop and maintain an understanding across the RAC of what these systems do, how they work together, and how that functionality intersects with archival processes. I'd argue that's a good thing, and that developing this shared understanding will lead to more durable, documented and well-maintained applications, and a more technically-competent organization.
 
-<h2>Stitching the layers together</h2>
+## Stitching the layers together
 
 One way to think about our microservices environment is as five distinct layers tied together in different ways.
 
@@ -47,7 +48,7 @@ Supporting the microservice layer is a [message queue](https://en.wikipedia.org/
 
 Last, a shared storage layer supports the services by making transfer files accessible to each service. This allows us to move files between services without using a network transfer protocol like SSH or rsync, improving performance and reducing complexity.
 
-<h2>Introducing our microservice applications</h2>
+## Introducing our microservice applications
 
 The diagram below represents another way to think about our system architecture. Here you can see how the microservice applications help sew together Aurora, Archivematica, Fedora and ArchivesSpace using HTTP requests and shared storage directories, and how data flows between these applications in a roughly clockwise direction, starting with Aurora.
 
@@ -55,7 +56,7 @@ The diagram below represents another way to think about our system architecture.
 
 To make deployment easier, and to reduce redundant code, we've clustered our services together into five applications, each of which comes with a Docker container, a fairly comprehensive README, and a constellation-themed name. As with all Project Electron products, code is open source and released under an MIT License.
 
-<h3>Zodiac</h3>
+### Zodiac
 
 [GitHub repository](https://github.com/RockefellerArchiveCenter/zodiac) and [README](https://github.com/RockefellerArchiveCenter/zodiac/blob/master/README.md)
 
@@ -63,25 +64,25 @@ The first is our API Gateway application, which serves as a management and loggi
 
 If you're interested in checking out this microservice layer as a whole, I'd suggest starting with Zodiac's GitHub repository, since all the other microservice applications are included as submodules, and there's also a docker-compose file which allows you to stand up all of the microservice applications at once.
 
-<h3>Ursa Major</h3>
+### Ursa Major
 
 [GitHub repository](https://github.com/RockefellerArchiveCenter/ursa_major) and [README](https://github.com/RockefellerArchiveCenter/ursa_major/blob/master/README.md)
 
 When accessions are created in Aurora, that data is delivered to Ursa Major. The accession data is stored there along with data and files for each of the transfers in the accession. Other applications can then access this data store without making requests against Aurora's API, which increases the overall scalability of the microservices layer and also reduces authentication complexity.
 
-<h3>Fornax</h3>
+### Fornax
 
 [GitHub repository](https://github.com/RockefellerArchiveCenter/fornax) and [README](https://github.com/RockefellerArchiveCenter/fornax/blob/master/README.md)
 
 After being stored in Ursa Major, transfers and their associated data are handed off to Fornax, which creates Archivematica-compliant transfers and then starts moving those transfers through an Archivematica pipeline. Through the use of a processing configuration file, we hope to limit the need for archivists to interact with the Archivematica Dashboard UI to occasions when troubleshooting is required.
 
-<h3>Gemini</h3>
+### Gemini
 
 [GitHub repository](https://github.com/RockefellerArchiveCenter/gemini) and [README](https://github.com/RockefellerArchiveCenter/gemini/blob/master/README.md)
 
 Once transfers have been processed through the Archivematica pipeline, Gemini downloads the packages and stores the resulting files in Fedora (our code leans heavily on Graham Hukill's pyfc4 Python library). We add very minimal metadata to these packages in Fedora, preferring instead to use ArchivesSpace as our canonical metadata source.
 
-<h3>Aquarius</h3>
+### Aquarius
 
 [GitHub repository](https://github.com/RockefellerArchiveCenter/aquarius) and [README](https://github.com/RockefellerArchiveCenter/aquarius/blob/master/README.md)
 
