@@ -5,7 +5,6 @@ date: 2013-11-20T20:48:10+00:00
 author: Rachel Wimpee
 layout: post
 redirect_from: /?p=873
-image: {{ site.baseurl }}/wp-content/uploads/2013/11/ZoteroMyLibrary-977x288.png
 categories:
   - D-Recs committee
   - Digitization
