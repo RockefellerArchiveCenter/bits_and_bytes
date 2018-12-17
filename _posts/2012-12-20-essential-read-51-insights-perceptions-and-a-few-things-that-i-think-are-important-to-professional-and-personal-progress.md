@@ -4,7 +4,7 @@ title: 'Essential read: 51 Insights, Perceptions, and a Few Things That I Think 
 date: 2012-12-20T14:57:25+00:00
 author: Sibyl Schaefer
 layout: post
-permalink: /?p=374
+redirect_from: /?p=374
 categories:
   - Conferences/Education
 ---
@@ -20,8 +20,8 @@ In this new web-enabled (web-dominated) world of information service and deliver
 
 If you or your team is studying something to death – remember that death was not the original goal! I have been in libraries where their systems folks in the host institution were studying whether to upgrade from Windows 95 to 98 in 2005! Scary! You see studies today about cloud initiatives that take too long and delay the savings.
 
-### #34: Don’t assume – TEST
+### #34: Don't assume – TEST
 
-You may believe that you understand your customer. You may even have been a customer or ‘ordinary’ person or ‘normal’ user in a past life. You may think that you know what the user will do in nearly every situation. Don’t believe it. There is nothing more humbling than discovering the infinite variety of user paths and behaviors and thinking patterns out there in the real world.
+You may believe that you understand your customer. You may even have been a customer or 'ordinary' person or 'normal' user in a past life. You may think that you know what the user will do in nearly every situation. Don't believe it. There is nothing more humbling than discovering the infinite variety of user paths and behaviors and thinking patterns out there in the real world.
 
 _(I find this one is important for ANY technical system - don't assume it works, test it and make sure it works.)_

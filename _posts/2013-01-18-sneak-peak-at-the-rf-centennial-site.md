@@ -4,7 +4,7 @@ title: Sneak Peak at the RF Centennial Site
 date: 2013-01-18T15:41:21+00:00
 author: Sibyl Schaefer
 layout: post
-permalink: /?p=386
+redirect_from: /?p=386
 categories:
   - RF Centennial
 tags:

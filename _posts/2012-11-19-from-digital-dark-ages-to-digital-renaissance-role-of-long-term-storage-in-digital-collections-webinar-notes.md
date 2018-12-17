@@ -4,14 +4,15 @@ title: 'From Digital Dark Ages to Digital Renaissance: Role of Long Term Storage
 date: 2012-11-19T19:41:31+00:00
 author: Laura Montgomery
 layout: post
-permalink: /?p=326
+redirect_from: /?p=326
 categories:
   - Digital Preservation
 tags:
   - digital preservation
   - webinar
+excerpt_separator: <!--more-->
 ---
-## Role of Long Term Storage in Digital Collections: From Digital Dark Ages to Digital Renaissance**
+## Role of Long Term Storage in Digital Collections: From Digital Dark Ages to Digital Renaissance
 
 ### Store - How should digital content be stored for the long term?
 

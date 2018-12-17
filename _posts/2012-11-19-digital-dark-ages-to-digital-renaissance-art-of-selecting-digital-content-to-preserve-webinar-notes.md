@@ -4,13 +4,14 @@ title: 'Digital Dark Ages to Digital Renaissance: Art of Selecting Digital Conte
 date: 2012-11-19T18:58:01+00:00
 author: Laura Montgomery
 layout: post
-permalink: /?p=319
+redirect_from: /?p=319
 categories:
   - Digital Preservation
   - Digitization
 tags:
   - Digital Preservation
   - webinar
+excerpt_separator: <!--more-->
 ---
 
 ## Digital Dark Ages to Digital Renaissance: Art of Selecting Digital Content to Preserve
