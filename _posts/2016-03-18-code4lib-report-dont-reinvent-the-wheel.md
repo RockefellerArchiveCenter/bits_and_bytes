@@ -1,6 +1,6 @@
 ---
 id: 1472
-title: 'Code4Lib Report: Don't Reinvent the Wheel'
+title: "Code4Lib Report: Don't Reinvent the Wheel"
 date: 2016-03-18T06:14:41+00:00
 author: Bonnie Gordon
 layout: post

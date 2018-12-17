@@ -1,6 +1,6 @@
 ---
 id: 1408
-title: 'SAA Report: Interrogating the 'Great Society''
+title: 'SAA Report: Interrogating the "Great Society"'
 date: 2015-08-25T15:53:40+00:00
 author: Hillel Arnold
 layout: post
