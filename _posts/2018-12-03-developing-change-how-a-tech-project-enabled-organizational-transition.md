@@ -200,10 +200,10 @@ I then thought about what systems we currently use, that would be heavily implic
 
 After thinking through all skills and underlying skills, I grouped them together into four overarching skills:
 
-* Digital preservation principles and the role of digital preservation tools, including the OAIS reference model, the BagIt specification, and an understanding of digital preservation risks and strategies to mitigate those risks</li>
-* Technical metadata and its role in managing digital objects in a repository, including the role of machine-actionable metadata, the PREMIS data dictionary, and METS</li>
-* Archivematica's role in the digital preservation environment, including the ability to troubleshoot Archivematica, and understanding standards associated with Archivematica</li>
-* Machine-actionable rights statements, including the PREMIS rights entity and associated controlled vocabularies</li>
+* Digital preservation principles and the role of digital preservation tools, including the OAIS reference model, the BagIt specification, and an understanding of digital preservation risks and strategies to mitigate those risks
+* Technical metadata and its role in managing digital objects in a repository, including the role of machine-actionable metadata, the PREMIS data dictionary, and METS
+* Archivematica's role in the digital preservation environment, including the ability to troubleshoot Archivematica, and understanding standards associated with Archivematica
+* Machine-actionable rights statements, including the PREMIS rights entity and associated controlled vocabularies
 
 ### Roles
 
@@ -240,7 +240,7 @@ After this timeline was approved by senior leadership and the Head of Collection
 
 I mentioned earlier that these skills needed to be attained by the end of the year. So now that we're almost there, how has this gone? Of course, as with any project, there were complications for our tight deadlines. This included two folks from our Collections Management Team leaving in February, and two other folks going on parental leave this year. In the former case, one of the advantages of having this plan was having already thought through competencies we would want in job candidates, and what skills we could realistically expect to train them on once they started. And in both cases, one of the impacts was that staff had to manage this training with an already increased workload. While this was not ideal, I think creating a concrete timeline and doing the legwork of finding resources (while giving options so that staff had some choice), made this more manageable. And the folks doing the training felt the same way: I checked in with everyone in July, and staff generally felt confident about the skills they had learned and how everything was going.
 
-# Concluding remarks
+## Concluding remarks
 
 The title of our talk claims that this work has helped us enable cultural and organizational change, and I think all our work on Project Electron has successfully helped us grow as an organization. While many of these projects saw the three of us in the guiding or leadership roles, we've also been learning as we go. Incorporating participatory UX activities into the development and testing of new technology involved the users and future maintainers of that technology in ways that can encourage transparency, incorporate perspectives from across the organization, break down common barriers to engaging with tech development, and consequently contribute to the long-term sustainability of digital infrastructure. It's important to think critically about the skills staff need to do their work, and seriously provide the support and resources to enable them to achieve those skills and give them the space they need to learn. And finally, working and learning collaboratively on new tech projects with coworkers uncovers ways to strengthen the end product and grow our institution's skills at the same time.
 
