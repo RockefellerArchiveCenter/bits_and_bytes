@@ -9,6 +9,7 @@ author: me
 
 {% assign prev = null %}
 {% for author in author_names %}
+ {% if author !="" %}
  {% unless author == prev %}
  <h2 id="{{ author | cgi_escape }}" class="author-title">{{author}}</h2>
  {% for post in site.posts %}
@@ -28,5 +29,6 @@ author: me
 {% endif %}
 {% endfor %}
 {% endunless %}
+{% endif %}
 {% assign prev = author %}
 {% endfor %}
