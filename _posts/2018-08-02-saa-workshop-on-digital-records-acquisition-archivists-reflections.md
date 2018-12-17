@@ -1,6 +1,6 @@
 ---
 id: 2048
-title: 'SAA Workshop on Digital Records Acquisition: Archivists' Reflections'
+title: "SAA Workshop on Digital Records Acquisition: Archivists' Reflections"
 date: 2018-08-02T14:49:32+00:00
 author:
 - Darren Young
