@@ -4,7 +4,12 @@
   box-sizing: border-box;
 }
 figure {
-  margin: 0;
+  margin: 0 0 1em 0;
+  border: 1px solid #eee;
+}
+figcaption {
+  background-color: #eee;
+  font-size: smaller;
 }
 // For correct line number width in Github Gists
 .gist table tbody tr td {
@@ -100,7 +105,9 @@ li > ul, li > ol {
     margin-left: 1em;
 }
 ol, ul {
-  list-style-position: inside;
+  list-style: disc outside none;
+  margin-left: 0;
+  padding-left: 1em;
 }
 hr {
   border: 0;
