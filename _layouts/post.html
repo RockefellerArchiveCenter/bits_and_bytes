@@ -27,17 +27,7 @@ layout: default
   </header>
   <section class="post-content">{{ content }}</section>
   {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
-    <p><div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories#{{category|slugize|url_encode}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div></p>
+  {% include category_list.html categories=page.categories category_count=page.categories.size %}
 </article>
 
 <!-- Disqus -->
