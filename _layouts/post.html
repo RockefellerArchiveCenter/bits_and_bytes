@@ -26,8 +26,7 @@ layout: default
     </p>
   </header>
   <section class="post-content">{{ content }}</section>
-  {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
-  {% include category_list.html categories=page.categories category_count=page.categories.size %}
+  {% include tags_categories.html tags=page.tags tag_count=page.tags.size categories=page.categories category_count=page.categories.size %}
 </article>
 
 <!-- Disqus -->
