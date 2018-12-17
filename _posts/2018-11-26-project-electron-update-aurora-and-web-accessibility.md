@@ -30,17 +30,11 @@ Accessibility is also a central component of universal design, a user-centered a
 <ol>
 
    <li>Equitable Use</li>
-
    <li>Flexibility in Use</li>
-
    <li>Simple and Intuitive Use</li>
-
    <li>Perceptible Information</li>
-
    <li>Tolerance for Error</li>
-
    <li>Low Physical Effort</li>
-
    <li>Size and Space for Approach and Use</li>
 
 </ol>
@@ -51,55 +45,31 @@ This approach helps reduce stigma, promotes creativity and innovation, and contr
 
 In testing Aurora, we used WCAG 2.0 AA as a compatibility goal. We measured our compliance by using a few different accessibility evaluation tools, running them on each page of the application's web user interface and recording issues that the tools identified. The tools we used are all browser extensions, available for most modern browsers:
 
-<ul>
-
-   <li> [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl=en-US) Chrome Extension</li>
-
-   <li> [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)</li>
-
-   <li> [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)</li>
-
-</ul>
+* [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl=en-US) Chrome Extension
+* [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+* [Axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 
 The tools each evaluate a slightly different set of issues, and present the results of their evaluations in different ways, so it was valuable to use all of them to get a comprehensive view of accessibility issues and fixes.
 
 In addition to using these evaluation tools, we also:
 
-<ul>
-
-   <li>Viewed each page without CSS to review the structure and hierarchy of content.</li>
-
-   <li>Reviewed the text in Aurora to ensure that it would be easy for users to understand.</li>
-
-   <li>Checked to ensure visual information included alternative text or verbal explanation.</li>
-
-   <li>Tested the site navigation using screen readers: [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) browser extension and [VoiceOver](https://www.apple.com/accessibility/mac/vision/) for MacOS).</li>
-
-</ul>
+* Viewed each page without CSS to review the structure and hierarchy of content.
+* Reviewed the text in Aurora to ensure that it would be easy for users to understand.
+* Checked to ensure visual information included alternative text or verbal explanation.
+* Tested the site navigation using screen readers: [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) browser extension and [VoiceOver](https://www.apple.com/accessibility/mac/vision/) for MacOS).
 
 <h2>Aurora Accessibility Issues</h2>
 
 The main accessibility issues identified are as follows. Unless noted, the issues were fixed:
 
-<ul>
-
-   <li>Add [ARIA labels](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html) to modals, input fields, select boxes, and text areas to enable users with assistive technologies to access forms including Rights and BagIt Profiles, accession records, and dropdown menus and appraisal actions.</li>
-
-   <li>Add sectioning elements/[ARIA landmarks](https://www.w3.org/TR/WCAG20-TECHS/ARIA11.html) to pages. Pages need a "main" landmark to be able to easily bypass menu links in navigation.</li>
-
-   <li>Enable [text resizing](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html) in the html head &lt;meta&gt; tag to enable resizing functions such as scale and zoom.</li>
-
-   <li>Define [human-readable language of the page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html) in the html &lt;head&gt; element so that screen readers can correctly access the linguistic content.</li>
-
-   <li>Edit [section headings](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-headings.html#sectiondef) so that they are descriptive of their associated content, nested properly, and do not skip headings to ensure optimal page organization and navigation for users with assistive technologies.</li>
-
-   <li>Remove bold tags (&lt;b&gt; or &lt;strong&gt;) if they are used for styling instead of semantic purposes so that screen readers do not misinterpret the textual emphasis.</li>
-
-   <li>Change text and link color to provide [sufficient color contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) to improve visual access to content. This issue is pending. The Bootstrap CSS theme used by Aurora does not meet the WCAG 2.0 requirements for an optimal color contrast ratio.</li>
-
-   <li>Provide [visible keyboard focus](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html) to enable keyboard navigation. This issue is pending and has been tagged for the next release of Aurora.</li>
-
-</ul>
+* Add [ARIA labels](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html) to modals, input fields, select boxes, and text areas to enable users with assistive technologies to access forms including Rights and BagIt Profiles, accession records, and dropdown menus and appraisal actions.
+* Add sectioning elements/[ARIA landmarks](https://www.w3.org/TR/WCAG20-TECHS/ARIA11.html) to pages. Pages need a "main" landmark to be able to easily bypass menu links in navigation.
+* Enable [text resizing](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html) in the html head &lt;meta&gt; tag to enable resizing functions such as scale and zoom.
+* Define [human-readable language of the page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html) in the html &lt;head&gt; element so that screen readers can correctly access the linguistic content.
+* Edit [section headings](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-headings.html#sectiondef) so that they are descriptive of their associated content, nested properly, and do not skip headings to ensure optimal page organization and navigation for users with assistive technologies.
+* Remove bold tags (&lt;b&gt; or &lt;strong&gt;) if they are used for styling instead of semantic purposes so that screen readers do not misinterpret the textual emphasis.
+* Change text and link color to provide [sufficient color contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) to improve visual access to content. This issue is pending. The Bootstrap CSS theme used by Aurora does not meet the WCAG 2.0 requirements for an optimal color contrast ratio.
+* Provide [visible keyboard focus](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html) to enable keyboard navigation. This issue is pending and has been tagged for the next release of Aurora.
 
 <h1>What's Next</h1>
 
@@ -124,3 +94,4 @@ W3C Web Accessibility Initiative Web Accessibility Tutorials: [https://www.w3.or
 WebAIM Accessible Javascript: [https://webaim.org/techniques/javascript/](https://webaim.org/techniques/javascript/)
 
 WebAIM Color Contrast Checker: [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)
+<br>
