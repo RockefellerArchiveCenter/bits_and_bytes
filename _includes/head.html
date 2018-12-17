@@ -25,6 +25,17 @@
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
 
+	<!-- Twitter cards -->
+	<meta name="twitter:site"    content="@{{ site.theme_settings.twitter }}">
+	<meta name="twitter:title"   content="{{ page.title }}">
+
+	{% if page.summary %}
+	<meta name="twitter:description" content="{{ page.summary }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ site.theme_settings.description }}">
+	{% endif %}
+	<!-- end of Twitter cards -->
+
 	<!-- KaTeX -->
 	{% if site.theme_settings.katex and page.id %}
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-alpha/dist/katex.min.css" integrity="sha384-BTL0nVi8DnMrNdMQZG1Ww6yasK9ZGnUxL1ZWukXQ7fygA1py52yPp9W4wrR00VML" crossorigin="anonymous">
