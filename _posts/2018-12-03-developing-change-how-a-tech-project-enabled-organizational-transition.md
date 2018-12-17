@@ -75,8 +75,8 @@ For this activity we split into groups and each group created a step-by-step map
 #### Scenario mapping example
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2018/12/scenario-mapping-appraise.jpg">
-<figcaption>Scenario mapping exercise example result</figcaption>
+  <img src="{{ site.baseurl }}/wp-content/uploads/2018/12/scenario-mapping-appraise.jpg">
+  <figcaption>Scenario mapping exercise example result</figcaption>
 </figure>
 
 For example, this (see above) was a map created for a scenario that specified that Annette Johnson, an appraisal archivist, needs to make a final decision on whether to accept or reject some or all of the new transfers that have passed virus checks and validation and are waiting in Aurora's appraisal queue. You can see the steps represented by blue colored post-its that the group came up with, and a set of associated comments, questions, and ideas represented by the other post-it colors. These RAC staff members already have domain expertise in this area from their work, and so their insights and expectations were really key for us to design something that would make sense for their workflows.
@@ -118,8 +118,8 @@ Next, the groups took a prose description of needs for a digital repository and 
 We finished off the workshops with a group data model diagramming activity. Each workshop split into three groups, chose a sample object from the RAC, and tried to draw a model of it within a digital repository.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2017/10/model_2-e1508253019640.jpg">
-<ficaption>Beginning model diagrams from first exercise</figcaption>
+  <img src="{{ site.baseurl }}/wp-content/uploads/2017/10/model_2-e1508253019640.jpg">
+  <figcaption>Beginning model diagrams from first exercise</figcaption>
 </figure>
 
 These  were first attempts at diagramming and were not used for the overall model, but I think they were admirable for groups that had no idea what a data model was 90 minutes earlier.
@@ -131,8 +131,8 @@ Following these sessions, it was time to dip our toes into actual modeling. It's
 #### First model
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2018/04/Model-v1.png">
-<figcaption>Our first attempt at data model diagramming.</figcaption>
+  <img src="{{ site.baseurl }}/wp-content/uploads/2018/04/Model-v1.png">
+  <figcaption>Our first attempt at data model diagramming.</figcaption>
 </figure>
 
 We felt this version of the model offered a valuable jumping off point for critique and review even though it looks nothing like the later versions.
