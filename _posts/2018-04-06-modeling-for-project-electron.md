@@ -60,27 +60,27 @@ I'll breakdown the key takeaways we observed from these models at the end of thi
 
 ## Task 1
 
-![Task 1 diagram 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task1_1.jpg)
+![Task 1 diagram 1]({{ site.baseurl }}/wp-content/uploads/2018/04/Task1_1.jpg)
 
-![Task 1 diagram 2](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task1_2.jpg)
+![Task 1 diagram 2]({{ site.baseurl }}/wp-content/uploads/2018/04/Task1_2.jpg)
 
 ## Task 2
 
-![Task 2 diagram 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task2_1.jpg)
+![Task 2 diagram 1]({{ site.baseurl }}/wp-content/uploads/2018/04/Task2_1.jpg)
 
-![Task 2 diagram 2](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task2_2.jpg)
+![Task 2 diagram 2]({{ site.baseurl }}/wp-content/uploads/2018/04/Task2_2.jpg)
 
-![Task 2 diagram 3](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task2_3.jpg)
+![Task 2 diagram 3]({{ site.baseurl }}/wp-content/uploads/2018/04/Task2_3.jpg)
 
 ## Task 3
 
-![Task 3 diagram 1](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_1.jpg)
+![Task 3 diagram 1]({{ site.baseurl }}/wp-content/uploads/2018/04/Task3_1.jpg)
 
-![Task 3 diagram 2](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_2.jpg)
+![Task 3 diagram 2]({{ site.baseurl }}/wp-content/uploads/2018/04/Task3_2.jpg)
 
-![Task 3 diagram 3](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_3.jpg)
+![Task 3 diagram 3]({{ site.baseurl }}/wp-content/uploads/2018/04/Task3_3.jpg)
 
-![Task 3 diagram 4](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2018/04/Task3_4.jpg)
+![Task 3 diagram 4]({{ site.baseurl }}/wp-content/uploads/2018/04/Task3_4.jpg)
 
 # Takeaways and Final Draft
 
