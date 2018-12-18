@@ -6,7 +6,7 @@ permalink: /:title
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Bits & Bytes
+  title: Bits & Bytes <br>The Rockefeller Archive Center's Blog
   avatar: assets/RAClogo.jpg
   favicon: assets/favicon.png
   gravatar: # Email MD5 hash
