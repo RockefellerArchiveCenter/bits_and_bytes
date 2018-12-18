@@ -36,10 +36,10 @@
 		content="website">
 	{% if page.url != null %}
 	<meta property="og:url"
-		content="{{ site.url }}{{ site.baseurl }}/{{ page.url }}">
+		content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 	{% else %}
 	<meta property="og:url"
-		content="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">
+		content="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
 	{% endif %}
 	<meta name="twitter:title"   property="og:title"
 		content="{{ page.title }}">
