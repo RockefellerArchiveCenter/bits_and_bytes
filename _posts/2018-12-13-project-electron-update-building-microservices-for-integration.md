@@ -4,7 +4,7 @@ title: "Project Electron Update: Building Microservices for Integration"
 date: 2018-12-13T11:17:45+00:00
 author: Hillel Arnold
 layout: post
-redirect_to: www.github.com
+redirect_from: /?p=2120
 categories:
   - Project Electron
   - Software and Systems
