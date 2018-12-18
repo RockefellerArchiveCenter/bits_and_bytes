@@ -47,7 +47,7 @@
     		content="{{ site.url }}{{ site.baseurl }}/{{ site.theme_settings.twitteravatar }}">
 	{% if page.description %}
   	<meta name="twitter:description" property="og:description"
-    		content="{{ page.meta_description }}">
+    		content="{{ page.description }}">
 	{% else %}
   	<meta name="twitter:description" property="og:description"
     		content="{{ page.content | strip_html | xml_escape
