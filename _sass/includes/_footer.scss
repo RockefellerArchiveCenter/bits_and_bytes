@@ -1,20 +1,14 @@
-.grid{
-  display: flex;
-}
 .site-footer {
-  margin-top: 1em;
+  margin-top: .5em;
   margin-left: 2em;
   margin-bottom: 1em;
-  flex: 1;
-  align-items: center;
-  justify-content: center;
+  float: left;
   color: lighten($text-color, 10%);
   font-size: 0.9em;
 }
 .license-footer{
-  margin-top: 1em;
-  margin-left: 1px;
+  float: right;
+  margin-top: .5em;
   margin-right: 2em;
   margin-bottom: 1em;
 }
-
