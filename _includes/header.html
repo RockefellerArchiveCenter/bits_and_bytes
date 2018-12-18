@@ -9,7 +9,11 @@
 			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt="Bits & Bytes Home"/>
 		</a>
 		{% endif %}
-		<a class="site-title" href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
+		<a class="site-title" href="{{ site.baseurl }}/">{{ site.theme_settings.title }}
+			{% if site.theme_settings.subtitle %}
+				<br>{{ site.theme_settings.subtitle }}
+			{% endif %}
+		</a>
 	</div>
 	<nav class="site-nav">
 		<ul>
