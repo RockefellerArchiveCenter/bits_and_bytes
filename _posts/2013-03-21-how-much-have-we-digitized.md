@@ -2,7 +2,7 @@
 id: 252
 title: How Much Have We Digitized?
 date: 2013-03-21T19:38:45+00:00
-author: bfrancis
+author: Bethany Francis
 layout: post
 redirect_from: /?p=252
 categories:
