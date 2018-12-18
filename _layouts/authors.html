@@ -1,8 +1,6 @@
 ---
 layout: page
 title: authors
-author: me
-description: A page that lists all posts by specific authors.
 ---
 
 {% capture author_list %}{% for post in site.posts %}{% for author in post.author %}{{author}}{% unless forloop.last %},{% endunless %},{% endfor %}{% endfor %}{% endcapture %}
