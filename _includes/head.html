@@ -25,21 +25,35 @@
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
 
-	<!-- Twitter cards -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site"    content="@{{ site.theme_settings.twitter }}">
-	<meta name="twitter:title"   content="{{ page.title }}">
-	<meta name="twitter:image"
+	<!-- Twitter cards and Open Graph -->
+	<meta name="twitter:card"
+		content="summary">
+	<meta name="twitter:site"
+		content="@{{ site.theme_settings.twitter }}">
+	<meta property:"og:site_name"
+		content="{{ site.theme_settings.title }}">
+	<meta property="og:type"
+		content="website">
+	{% if page.url != null %}
+	<meta property="og:url"
+		content="{{ site.url }}{{ site.baseurl }}/{{ page.url }}">
+	{% else %}
+	<meta property="og:url"
+		content="{{ site.url }}{{ site.baseurl }}/{{ post.url }}">
+	{% endif %}
+	<meta name="twitter:title"   property="og:title"
+		content="{{ page.title }}">
+	<meta name="twitter:image"   property="og:image"
     		content="{{ site.url }}{{ site.baseurl }}/{{ site.theme_settings.twitteravatar }}">
 	{% if page.description %}
-  		<meta name="twitter:description"
+  	<meta name="twitter:description" property="og:description"
     		content="{{ page.meta_description }}">
 	{% else %}
-  		<meta name="twitter:description"
+  	<meta name="twitter:description" property="og:description"
     		content="{{ page.content | strip_html | xml_escape
       		| truncate: 200 }}">
 	{% endif %}
-	<!-- end of Twitter cards -->
+	<!-- end of Twitter cards and Open Graph -->
 
 	<!-- KaTeX -->
 	{% if site.theme_settings.katex and page.id %}
