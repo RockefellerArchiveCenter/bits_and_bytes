@@ -2,8 +2,7 @@
 id: 2101
 title: "Project Electron Update: Aurora and Web Accessibility"
 date: 2018-11-26T11:01:45+00:00
-author:
- - Hannah Sistrunk
+author: Hannah Sistrunk
 layout: post
 redirect_from: /?p=2101
 categories:
