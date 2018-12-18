@@ -26,9 +26,17 @@
 	{% endif %}
 
 	<!-- Twitter cards -->
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site"    content="@{{ site.theme_settings.twitter }}">
 	<meta name="twitter:title"   content="{{ post.title }}">
-	<meta name="twitter:description" content="{{ site.theme_settings.description }}">
+	{% if page.description %}
+  		<meta name="twitter:description"
+    		content="{{ page.meta_description }}">
+	{% else %}
+  		<meta name="twitter:description"
+    		content="{{ page.content | strip_html | xml_escape
+      		| truncate: 200 }}">
+	{% endif %}
 	<!-- end of Twitter cards -->
 
 	<!-- KaTeX -->
