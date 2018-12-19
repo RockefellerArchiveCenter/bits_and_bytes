@@ -1,5 +1,5 @@
 .site-header {
-  padding: 1.5em;
+  padding: 1em 1.5em;
   background: $brand-color;
   border-bottom: 1px solid $border-color;
   display: inline-block;
@@ -11,10 +11,8 @@
   }
 
   .avatar {
-    height: 3.5em;
+    height: 4em;
     float: left;
-    margin-top: -3px;
-    border-radius: 0.2em;
     margin-right: 1em;
   }
 
@@ -22,12 +20,17 @@
     float: left;
     font-weight: bold;
     font-size: 1em;
-    line-height: 1.5;
+    line-height: 1.2;
+    margin-top: 0.6em;
+  }
+
+  .site-subtitle {
+    color: $tags-color
   }
 
   .site-nav {
     ul {
-      margin: 0;
+      margin: 0.6em 0 0 0;
       padding: 0;
       list-style: none;
       line-height: 1.5;

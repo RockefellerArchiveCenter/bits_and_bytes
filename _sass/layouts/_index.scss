@@ -32,6 +32,9 @@
     p a {
       @extend .body-link;
     }
+    &:first-of-type {
+      padding-top: 2%;
+    }
   }
   .excerpt {
     margin-top: 1em;
