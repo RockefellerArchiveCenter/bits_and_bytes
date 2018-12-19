@@ -1,5 +1,5 @@
 ---
-id: 991
+post_id: 991
 title: MetaArchive and Distributed Digital Preservation
 date: 2014-02-10T18:16:11+00:00
 author: Sibyl Schaefer

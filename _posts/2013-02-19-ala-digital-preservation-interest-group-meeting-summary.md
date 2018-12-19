@@ -1,5 +1,5 @@
 ---
-id: 423
+post_id: 423
 title: ALA Digital Preservation Interest Group Meeting Summary
 date: 2013-02-19T22:03:16+00:00
 author: Sibyl Schaefer

@@ -1,5 +1,5 @@
 ---
-id: 1965
+post_id: 1965
 title: '2018 IA Summit Report: Designing for Ecosystems'
 date: 2018-04-04T13:35:31+00:00
 author: Hannah Sistrunk

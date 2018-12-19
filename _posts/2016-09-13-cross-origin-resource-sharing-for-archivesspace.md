@@ -1,5 +1,5 @@
 ---
-id: 1610
+post_id: 1610
 title: Cross-Origin Resource Sharing for ArchivesSpace
 date: 2016-09-13T07:52:57+00:00
 author: Hillel Arnold

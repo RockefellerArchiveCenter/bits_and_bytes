@@ -1,5 +1,5 @@
 ---
-id: 833
+post_id: 833
 title: Special Projects Digital Duplication Presentation
 date: 2013-10-24T18:33:58+00:00
 author: Sibyl Schaefer

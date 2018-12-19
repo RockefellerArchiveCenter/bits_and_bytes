@@ -1,5 +1,5 @@
 ---
-id: 1324
+post_id: 1324
 title: Born-Digital Workflows CURATEcamp Report
 date: 2015-04-27T16:20:40+00:00
 author: Hillel Arnold

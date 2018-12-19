@@ -1,5 +1,5 @@
 ---
-id: 1758
+post_id: 1758
 title: RAC goes to Princeton!
 date: 2017-06-22T13:34:22+00:00
 author: Amy Berish

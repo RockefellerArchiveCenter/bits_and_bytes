@@ -1,5 +1,5 @@
 ---
-id: 540
+post_id: 540
 title: National VIVO Project Team Meeting report
 date: 2013-05-21T19:45:53+00:00
 author: Hillel Arnold

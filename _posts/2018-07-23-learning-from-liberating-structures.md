@@ -1,5 +1,5 @@
 ---
-id: 2041
+post_id: 2041
 title: Learning from Liberating Structures
 date: 2018-07-23T11:10:32+00:00
 author: Hillel Arnold

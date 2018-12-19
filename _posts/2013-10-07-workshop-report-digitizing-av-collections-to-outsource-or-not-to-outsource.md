@@ -1,5 +1,5 @@
 ---
-id: 798
+post_id: 798
 title: 'Workshop Report: Digitizing A/V Collections - to Outsource or Not to Outsource?'
 date: 2013-10-07T14:24:25+00:00
 author: Patrick Galligan

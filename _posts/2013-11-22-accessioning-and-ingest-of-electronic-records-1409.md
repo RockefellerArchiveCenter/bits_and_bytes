@@ -1,5 +1,5 @@
 ---
-id: 923
+post_id: 923
 title: 'Accessioning and Ingest of Electronic Records #1409'
 date: 2013-11-22T20:05:54+00:00
 author: Suzie Irving

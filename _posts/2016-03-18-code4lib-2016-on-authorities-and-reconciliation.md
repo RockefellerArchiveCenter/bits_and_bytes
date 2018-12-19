@@ -1,5 +1,5 @@
 ---
-id: 1474
+post_id: 1474
 title: 'Code4Lib 2016: On Authorities and Reconciliation'
 date: 2016-03-18T09:12:09+00:00
 author: Patrick Galligan

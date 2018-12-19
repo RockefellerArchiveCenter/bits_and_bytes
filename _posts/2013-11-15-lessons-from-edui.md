@@ -1,5 +1,5 @@
 ---
-id: 875
+post_id: 875
 title: Lessons from edUI
 date: 2013-11-15T15:45:00+00:00
 author: Hillel Arnold

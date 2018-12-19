@@ -1,5 +1,5 @@
 ---
-id: 1675
+post_id: 1675
 title: 'Getting More Out of (and Into) Your Collections Management System: Introduction and APIs'
 date: 2017-01-31T06:32:46+00:00
 author: Patrick Galligan

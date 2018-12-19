@@ -1,5 +1,5 @@
 ---
-id: 1643
+post_id: 1643
 title: Digital Media Log
 date: 2016-11-18T09:40:02+00:00
 author: Bonnie Gordon

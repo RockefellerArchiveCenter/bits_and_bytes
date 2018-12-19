@@ -1,5 +1,5 @@
 ---
-id: 1419
+post_id: 1419
 title: Rockefeller Archive Center Bibliography now in Zotero!
 date: 2015-09-22T13:45:26+00:00
 author: Hillel Arnold

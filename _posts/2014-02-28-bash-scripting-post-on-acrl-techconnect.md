@@ -1,5 +1,5 @@
 ---
-id: 1016
+post_id: 1016
 title: Bash scripting post on ACRL TechConnect
 date: 2014-02-28T20:48:10+00:00
 author: Sibyl Schaefer

@@ -1,5 +1,5 @@
 ---
-id: 860
+post_id: 860
 title: New York State EAD Consortium Pilot Project
 date: 2013-11-06T21:24:13+00:00
 author: Hillel Arnold

@@ -1,5 +1,5 @@
 ---
-id: 948
+post_id: 948
 title: 'OCLC Research Webinar: "Achieving Thresholds for Discovery: Addressing Issues with EAD to Increase Discovery and Access"'
 date: 2013-12-06T16:24:42+00:00
 author: Hillel Arnold

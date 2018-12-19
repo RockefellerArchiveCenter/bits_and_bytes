@@ -1,5 +1,5 @@
 ---
-id: 1689
+post_id: 1689
 title: 'Getting More Out of (and Into) Your Collections Management System: DACSspace'
 date: 2017-01-31T07:00:21+00:00
 author: Amy Berish

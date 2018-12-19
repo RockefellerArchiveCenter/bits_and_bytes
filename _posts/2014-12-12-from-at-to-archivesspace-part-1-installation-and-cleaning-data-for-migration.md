@@ -1,5 +1,5 @@
 ---
-id: 1265
+post_id: 1265
 title: 'From AT to ArchivesSpace Part 1: Installation and Cleaning Data for Migration'
 date: 2014-12-12T17:05:58+00:00
 author: Patrick Galligan

@@ -1,5 +1,5 @@
 ---
-id: 256
+post_id: 256
 title: What is QA/QC?
 date: 2012-10-23T20:20:27+00:00
 author: Bethany Francis

@@ -1,5 +1,5 @@
 ---
-id: 1328
+post_id: 1328
 title: Personal Digital Archiving 2015 Report
 date: 2015-04-29T14:14:27+00:00
 author: Bonnie Gordon

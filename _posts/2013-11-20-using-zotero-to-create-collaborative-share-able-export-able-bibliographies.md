@@ -1,5 +1,5 @@
 ---
-id: 873
+post_id: 873
 title: Using Zotero to Create Collaborative, Share-able, Export-able Bibliographies
 date: 2013-11-20T20:48:10+00:00
 author: Rachel Wimpee

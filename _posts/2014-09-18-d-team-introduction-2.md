@@ -1,5 +1,5 @@
 ---
-id: 1214
+post_id: 1214
 title: D-Team Introduction
 date: 2014-09-18T17:12:41+00:00
 author: Bonnie Gordon

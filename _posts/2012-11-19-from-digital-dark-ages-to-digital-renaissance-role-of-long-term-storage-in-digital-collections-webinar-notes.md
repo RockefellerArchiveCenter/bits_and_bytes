@@ -1,5 +1,5 @@
 ---
-id: 326
+post_id: 326
 title: 'From Digital Dark Ages to Digital Renaissance: Role of Long Term Storage in Digital Collections webinar notes'
 date: 2012-11-19T19:41:31+00:00
 author: Laura Montgomery

@@ -1,5 +1,5 @@
 ---
-id: 1005
+post_id: 1005
 title: Metadata Cleanup and Ford Foundation Grants
 date: 2014-02-14T20:43:10+00:00
 author: Patrick Galligan

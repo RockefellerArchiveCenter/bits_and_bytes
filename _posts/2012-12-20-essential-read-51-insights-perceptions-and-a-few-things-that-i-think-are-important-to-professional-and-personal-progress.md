@@ -1,5 +1,5 @@
 ---
-id: 374
+post_id: 374
 title: 'Essential read: 51 Insights, Perceptions, and a Few Things That I Think Are Important to Professional and Personal Progress'
 date: 2012-12-20T14:57:25+00:00
 author: Sibyl Schaefer

@@ -1,5 +1,5 @@
 ---
-id: 972
+post_id: 972
 title: '"Violation of Privacy Is Part of the Process": Notes on a Workshop on Privacy and Access Considerations in Digital Collections'
 date: 2014-01-09T16:35:57+00:00
 author:

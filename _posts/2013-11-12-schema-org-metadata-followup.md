@@ -1,5 +1,5 @@
 ---
-id: 865
+post_id: 865
 title: Schema.org Metadata Followup
 date: 2013-11-12T16:45:31+00:00
 author: Hillel Arnold

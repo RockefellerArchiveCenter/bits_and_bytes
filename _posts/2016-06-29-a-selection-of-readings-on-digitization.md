@@ -1,5 +1,5 @@
 ---
-id: 1586
+post_id: 1586
 title: A Selection of Readings on Digitization
 date: 2016-06-29T06:44:27+00:00
 author: Patrick Galligan

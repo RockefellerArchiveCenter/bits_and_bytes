@@ -1,5 +1,5 @@
 ---
-id: 1300
+post_id: 1300
 title: 'From AT to AS Part 3: Training and Customization'
 date: 2015-01-30T12:10:33+00:00
 author: Patrick Galligan

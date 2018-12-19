@@ -1,5 +1,5 @@
 ---
-id: 750
+post_id: 750
 title: 'SAA Session Review: ArchivesSpace'
 date: 2013-08-29T19:19:15+00:00
 author: Sibyl Schaefer

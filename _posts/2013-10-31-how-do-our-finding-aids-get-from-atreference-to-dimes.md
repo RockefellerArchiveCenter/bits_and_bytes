@@ -1,5 +1,5 @@
 ---
-id: 851
+post_id: 851
 title: How do our finding aids get from ATReference to DIMES?
 date: 2013-10-31T20:07:55+00:00
 author: Hillel Arnold

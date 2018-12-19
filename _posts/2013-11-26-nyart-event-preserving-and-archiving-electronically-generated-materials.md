@@ -1,5 +1,5 @@
 ---
-id: 927
+post_id: 927
 title: 'NYART event: Preserving and Archiving Electronically Generated Materials'
 date: 2013-11-26T18:24:18+00:00
 author: Sibyl Schaefer

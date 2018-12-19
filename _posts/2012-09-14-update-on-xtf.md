@@ -1,5 +1,5 @@
 ---
-id: 67
+post_id: 67
 title: Update on XTF
 date: 2012-09-14T09:00:59+00:00
 author: Hillel Arnold

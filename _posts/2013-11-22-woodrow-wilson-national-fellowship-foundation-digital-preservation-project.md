@@ -1,5 +1,5 @@
 ---
-id: 920
+post_id: 920
 title: Woodrow Wilson National Fellowship Foundation digital preservation project
 date: 2013-11-22T20:04:11+00:00
 author: Laura Montgomery

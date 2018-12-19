@@ -1,5 +1,5 @@
 ---
-id: 2056
+post_id: 2056
 title: '1968: The Ford Foundation Gets a Computer'
 date: 2018-08-28T09:28:13+00:00
 author:

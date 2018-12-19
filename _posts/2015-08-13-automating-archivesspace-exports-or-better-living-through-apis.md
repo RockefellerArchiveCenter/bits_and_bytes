@@ -1,5 +1,5 @@
 ---
-id: 1402
+post_id: 1402
 title: Automating ArchivesSpace exports, or Better Living Through APIs
 date: 2015-08-13T16:52:01+00:00
 author: Hillel Arnold

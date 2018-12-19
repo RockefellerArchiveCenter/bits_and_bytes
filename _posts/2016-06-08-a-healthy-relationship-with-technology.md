@@ -1,5 +1,5 @@
 ---
-id: 1507
+post_id: 1507
 title: A healthy relationship with technology
 date: 2016-06-08T10:46:12+00:00
 author: Hillel Arnold

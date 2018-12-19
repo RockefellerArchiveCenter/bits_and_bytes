@@ -1,5 +1,5 @@
 ---
-id: 1039
+post_id: 1039
 title: Legacy Digital Media Survey
 date: 2014-04-03T21:24:41+00:00
 author: Laura Montgomery

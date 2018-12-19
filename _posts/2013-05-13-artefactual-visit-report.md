@@ -1,5 +1,5 @@
 ---
-id: 532
+post_id: 532
 title: Artefactual Visit Report
 date: 2013-05-13T18:18:41+00:00
 author: Hillel Arnold

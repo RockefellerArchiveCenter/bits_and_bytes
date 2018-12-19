@@ -1,5 +1,5 @@
 ---
-id: 460
+post_id: 460
 title: Updates to XTF
 date: 2013-03-08T15:25:16+00:00
 author: Hillel Arnold

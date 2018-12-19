@@ -1,5 +1,5 @@
 ---
-id: 1600
+post_id: 1600
 title: 'Introducing Project Electron: infrastructure for digital records'
 date: 2016-08-23T05:13:53+00:00
 author: Hillel Arnold

@@ -1,5 +1,5 @@
 ---
-id: 1704
+post_id: 1704
 title: Replacing Refids for Automation and Standardization
 date: 2017-02-28T09:20:04+00:00
 author: Patrick Galligan

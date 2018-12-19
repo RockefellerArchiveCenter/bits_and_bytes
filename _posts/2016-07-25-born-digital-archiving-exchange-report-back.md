@@ -1,5 +1,5 @@
 ---
-id: 1592
+post_id: 1592
 title: Born Digital Archiving eXchange Report Back
 date: 2016-07-25T00:15:21+00:00
 author: Bonnie Gordon

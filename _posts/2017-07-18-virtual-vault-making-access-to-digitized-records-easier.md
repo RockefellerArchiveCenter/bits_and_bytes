@@ -1,5 +1,5 @@
 ---
-id: 1804
+post_id: 1804
 title: 'Virtual Vault: making access to digitized records easier'
 date: 2017-07-18T12:12:20+00:00
 author: Hillel Arnold

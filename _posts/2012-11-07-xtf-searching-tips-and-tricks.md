@@ -1,5 +1,5 @@
 ---
-id: 310
+post_id: 310
 title: XTF Searching Tips and Tricks
 date: 2012-11-07T16:41:30+00:00
 author: Hillel Arnold

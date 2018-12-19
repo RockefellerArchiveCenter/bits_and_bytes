@@ -1,5 +1,5 @@
 ---
-id: 105
+post_id: 105
 title: 'The Long and Winding Road: getting library data from Re:Discovery into ATReference'
 date: 2012-09-28T00:30:46+00:00
 author: Hillel Arnold

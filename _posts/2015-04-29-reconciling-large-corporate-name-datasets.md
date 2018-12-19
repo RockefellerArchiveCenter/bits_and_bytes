@@ -1,5 +1,5 @@
 ---
-id: 1333
+post_id: 1333
 title: Reconciling Large Corporate Name Datasets
 date: 2015-04-29T14:13:59+00:00
 author: Patrick Galligan

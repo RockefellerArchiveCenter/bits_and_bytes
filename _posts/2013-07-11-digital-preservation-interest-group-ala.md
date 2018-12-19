@@ -1,5 +1,5 @@
 ---
-id: 685
+post_id: 685
 title: Digital Preservation Interest Group @ ALA
 date: 2013-07-11T16:02:23+00:00
 author: Sibyl Schaefer

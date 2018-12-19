@@ -1,5 +1,5 @@
 ---
-id: 174
+post_id: 174
 title: My experience with the Centennial Project
 date: 2012-10-16T15:29:52+00:00
 author: Kate Mockler

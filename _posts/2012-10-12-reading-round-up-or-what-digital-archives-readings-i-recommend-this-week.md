@@ -1,5 +1,5 @@
 ---
-id: 144
+post_id: 144
 title: Reading Round-up, or What Digital Archives Readings I Recommend This Week
 date: 2012-10-12T20:08:17+00:00
 author: Sibyl Schaefer

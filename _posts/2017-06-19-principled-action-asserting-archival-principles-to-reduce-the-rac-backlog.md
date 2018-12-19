@@ -1,5 +1,5 @@
 ---
-id: 1747
+post_id: 1747
 title: 'Principled Action: Asserting Archival Principles to Reduce the RAC Backlog'
 date: 2017-06-19T07:00:41+00:00
 author: Bob Battaly

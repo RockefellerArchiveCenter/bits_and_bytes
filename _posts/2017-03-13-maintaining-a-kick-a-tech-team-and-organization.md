@@ -1,5 +1,5 @@
 ---
-id: 1707
+post_id: 1707
 title: 'Maintaining a Kick A** Tech Team and Organization'
 date: 2017-03-13T12:17:29+00:00
 author:

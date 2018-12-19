@@ -1,5 +1,5 @@
 ---
-id: 1206
+post_id: 1206
 title: 'SAA Report: Getting Things Done with Born-Digital'
 date: 2014-09-17T12:07:28+00:00
 author: Patrick Galligan

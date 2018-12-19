@@ -1,5 +1,5 @@
 ---
-id: 1067
+post_id: 1067
 title: Aeon Naming Contest
 date: 2014-06-02T17:03:15+00:00
 author: Hillel Arnold

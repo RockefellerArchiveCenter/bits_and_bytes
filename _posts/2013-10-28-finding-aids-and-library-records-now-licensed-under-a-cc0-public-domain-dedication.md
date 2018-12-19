@@ -1,5 +1,5 @@
 ---
-id: 844
+post_id: 844
 title: Finding aids and library records now licensed under a CC0 public domain dedication
 date: 2013-10-28T15:56:56+00:00
 author: Hillel Arnold

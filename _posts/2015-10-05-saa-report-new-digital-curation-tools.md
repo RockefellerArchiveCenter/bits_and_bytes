@@ -1,5 +1,5 @@
 ---
-id: 1422
+post_id: 1422
 title: 'SAA Report: New Digital Curation Tools'
 date: 2015-10-05T10:42:31+00:00
 author: Bonnie Gordon

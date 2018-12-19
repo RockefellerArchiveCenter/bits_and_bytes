@@ -1,5 +1,5 @@
 ---
-id: 763
+post_id: 763
 title: Archives 2013 New Orleans, Digital Curation Planning and Sustainable Futures Workshop
 date: 2013-08-23T19:31:00+00:00
 author: Laura Montgomery

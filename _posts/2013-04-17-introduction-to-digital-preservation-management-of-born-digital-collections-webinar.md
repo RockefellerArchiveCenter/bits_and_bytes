@@ -1,5 +1,5 @@
 ---
-id: 513
+post_id: 513
 title: 'Introduction to Digital Preservation: Management of born digital collections webinar'
 date: 2013-04-17T13:32:00+00:00
 author: Laura Montgomery

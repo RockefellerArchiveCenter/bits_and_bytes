@@ -1,5 +1,5 @@
 ---
-id: 639
+post_id: 639
 title: National Digital Stewardship Alliance regional meeting
 date: 2013-06-20T12:49:31+00:00
 author: Laura Montgomery

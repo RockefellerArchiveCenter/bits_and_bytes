@@ -1,5 +1,5 @@
 ---
-id: 1997
+post_id: 1997
 title: 'Project Electron Update: Introducing Aurora 1.0'
 date: 2018-06-07T10:14:53+00:00
 author: Hannah Sistrunk

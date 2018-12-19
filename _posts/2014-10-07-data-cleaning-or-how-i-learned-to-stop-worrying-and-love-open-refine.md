@@ -1,5 +1,5 @@
 ---
-id: 1230
+post_id: 1230
 title: 'Data Cleaning or: How I Learned to Stop Worrying and Love Open Refine'
 date: 2014-10-07T12:26:53+00:00
 author: Patrick Galligan

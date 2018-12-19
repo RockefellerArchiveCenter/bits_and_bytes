@@ -1,5 +1,5 @@
 ---
-id: 1430
+post_id: 1430
 title: Academics in the Archives
 date: 2015-11-17T16:33:09+00:00
 author: Hillel Arnold

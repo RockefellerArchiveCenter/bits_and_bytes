@@ -1,5 +1,5 @@
 ---
-id: 1650
+post_id: 1650
 title: 'Getting More Out of (and Into) Your Collections Management System: Digital Media Log'
 date: 2017-01-25T08:21:55+00:00
 author: Bonnie Gordon

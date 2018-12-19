@@ -1,5 +1,5 @@
 ---
-id: 1289
+post_id: 1289
 title: 'From AT to ArchivesSpace Part 2: Migrations and Error Reporting'
 date: 2015-01-23T13:37:51+00:00
 author: Patrick Galligan

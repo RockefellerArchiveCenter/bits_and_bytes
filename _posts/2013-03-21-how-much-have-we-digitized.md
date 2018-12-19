@@ -1,5 +1,5 @@
 ---
-id: 252
+post_id: 252
 title: How Much Have We Digitized?
 date: 2013-03-21T19:38:45+00:00
 author: Bethany Francis

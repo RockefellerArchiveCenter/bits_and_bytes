@@ -1,5 +1,5 @@
 ---
-id: 443
+post_id: 443
 title: Electronic Records Management resources and notes
 date: 2013-02-27T18:49:57+00:00
 author: Laura Montgomery

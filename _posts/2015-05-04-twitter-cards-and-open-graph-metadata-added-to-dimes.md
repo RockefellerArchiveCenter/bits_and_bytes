@@ -1,5 +1,5 @@
 ---
-id: 1339
+post_id: 1339
 title: Twitter Cards and Open Graph metadata added to DIMES
 date: 2015-05-04T13:48:14+00:00
 author: Hillel Arnold

@@ -1,5 +1,5 @@
 ---
-id: 1308
+post_id: 1308
 title: Searching within collections in DIMES
 date: 2015-04-13T12:04:22+00:00
 author: Hillel Arnold

@@ -1,5 +1,5 @@
 ---
-id: 498
+post_id: 498
 title: Artefactual visit, March 2013
 date: 2013-04-01T19:21:26+00:00
 author: Laura Montgomery

@@ -1,5 +1,5 @@
 ---
-id: 1413
+post_id: 1413
 title: 'SAA Report: Navigating Scandal'
 date: 2015-08-31T14:12:01+00:00
 author: Patrick Galligan

@@ -1,5 +1,5 @@
 ---
-id: 1318
+post_id: 1318
 title: 'Mistakes Were Made: Computer History, Decompiled'
 date: 2015-04-21T17:12:50+00:00
 author:

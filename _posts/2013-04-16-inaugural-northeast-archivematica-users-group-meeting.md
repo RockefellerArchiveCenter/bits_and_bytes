@@ -1,5 +1,5 @@
 ---
-id: 503
+post_id: 503
 title: Inaugural Northeast Archivematica Users Group meeting
 date: 2013-04-16T17:41:29+00:00
 author: Sibyl Schaefer

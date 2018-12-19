@@ -1,5 +1,5 @@
 ---
-id: 1077
+post_id: 1077
 title: Assistant Digital Archivist job posting featured on OCLC blog
 date: 2014-06-13T13:39:53+00:00
 author: Sibyl Schaefer
