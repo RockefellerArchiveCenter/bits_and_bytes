@@ -7,7 +7,7 @@ permalink: /:title
 theme_settings:
   # Meta
   title: Bits & Bytes
-  subtitle: The Rockefeller Archive Center's Blog
+  subtitle: The Rockefeller Archive Center Blog
   avatar: assets/RAClogo.jpg
   twitteravatar: assets/RAC_logo_twitter.jpg
   favicon: assets/favicon.png
