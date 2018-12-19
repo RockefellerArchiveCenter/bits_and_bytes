@@ -29,9 +29,9 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "RockefellerArchiveCenter/blog_markdown/tree/gh-pages"
+  github: "RockefellerArchiveCenter"
   google_plus:
-  instagram:
+  instagram: "rockefellerarchivecenter"
   linkedin:  # Full URL
   pinterest:
   reddit:
