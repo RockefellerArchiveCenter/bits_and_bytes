@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog_markdown"
+baseurl: 
 url: "https://rockefellerarchivecenter.github.io"
 permalink: /:title
 
