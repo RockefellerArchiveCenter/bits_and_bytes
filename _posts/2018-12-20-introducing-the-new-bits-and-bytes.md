@@ -12,8 +12,6 @@ tags:
   - technology
 excerpt_separator: <!--more-->
 ---
-# Introducing the New Bits &amp; Bytes
-
 If you take a look around you might notice that our blog looks pretty different. We've migrated to a completely different platform, and we took the opportunity to make some changes to bring the site more in line with our current systems philosophy and modern web design. The RAC has changed a lot since Bits &amp; Bytes first launched, and we thought that the blog should reflect those changes. This post will lay out the reasons we decided to switch things up, the process of migrating the data, some of the technical improvements under the hood, and where we go from here.<!--more-->
 
 Bits &amp; Bytes posted its first article on August 15<sup>th</sup>, 2012, and there have been about two hundred posts since. A lot has changed in that time: only one member of the D-Team from 2012 is around, the scope of the blog has moved beyond just D-Team work, and we now have many coworkers from other departments posting about what they do and how they do it. Besides the aforementioned changes, we've made great changes to how we, as an organization, think about our systems and their implementations. As others have written about over the years, the RAC has become increasingly invested in choosing the right tool for the job, rather than just the (seemingly) easiest tool for the job. Our technological choices should make sense for both the people using and maintaining them.
