@@ -1,7 +1,7 @@
 ---
 post_id:
 title: Introducing the New Bits &amp; Bytes
-date:
+date: 2018-12-20T14:11:00
 author: Patrick Galligan
 layout: post
 categories:
