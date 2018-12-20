@@ -29,11 +29,11 @@ Once we had decided on our desired platform, it was time to move forward with th
 
 As mentioned above, the switch from WordPress to Jekyll is pretty common and well-documented, so we knew we had a great shot of getting everything out of WordPress fairly easily. We ended up using the [WordPress to Jekyll Exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter), which created a zip file of all posts in individual Markdown files, all related media files, and wrote associated metadata to the YAML front matter of each post.
 
-![Exported YAML Front Matter](/wp-content/uploads/2018/12/yaml_front_matter.png)
+![Exported YAML Front Matter]({{ site.baseurl }}/wp-content/uploads/2018/12/yaml_front_matter.png)
 
 Unfortunately, while the plugin is great at getting the content out of WordPress, it doesn't intrinsically change the built-in styling to Markdown-friendly formats. Which means we had a lot of direct HTML and CSS markup coded directly into files, some of which worked, and some didn't.
 
-![Exported Inline Markup](/wp-content/uploads/2018/12/inline_span.png)
+![Exported Inline Markup]({{ site.baseurl }}/wp-content/uploads/2018/12/inline_span.png)
 
 After getting the content into Markdown, our first priority was to perform QA and QC on every exported post, so we threw all of the data up into a private GitHub repository so we could work collaboratively and version all changes. The turnaround time on this project was about 3 months, so I enlisted the help of documentation team (Hannah Sistrunk, Katie Martin, and Darren Young), and Hillel Arnold to help go through all of our posts looking for anything out of the ordinary, creating issues in GitHub, and making small changes when necessary. All-in-all we had about 25-30 issues related to Markdown cleanup tasks like: removing non-breaking spaces, converting bold text to headings when appropriate, simplifying link formatting, adding support for multiple authors, and other smaller styling issues. With all of the issues documented in GitHub it was relatively simple to solve 90% of them with quick find and replace operations or regular expressions, and then the rest were limited enough that we could manually change the Markdown without it taking excessive time.
 
