@@ -12,7 +12,7 @@
 	<link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.theme_settings.favicon }}" type="image/png">
 
 	<!-- Canonical -->
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+	<link rel="canonical" href="{{ site.url }}/{{ page.url | replace:'index.html','' | relative_url }}">
 
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
