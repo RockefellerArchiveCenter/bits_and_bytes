@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: 
-url: "https://rockefellerarchivecenter.github.io"
+url: "https://blog.rockarch.org"
 permalink: /:title
 
 # THEME-SPECIFIC CONFIGURATION
