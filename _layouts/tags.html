@@ -1,16 +1,6 @@
 ---
 layout: page
 ---
-<script src="/assets/js/anchor.min.js"></script>
-<script src="assets/js/jquery-3.3.1.min.js"></script>
-<script>
-  $(function() {
-    anchors.options = {
-      placement: 'left',
-    }
-    anchors.add('h2');
-  });
-</script>
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
@@ -38,3 +28,4 @@ layout: page
     {% endfor %}
   {% endunless %}
 {% endfor %}
+{% include anchors.html %}
