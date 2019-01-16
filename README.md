@@ -60,4 +60,6 @@ All images should be placed in the `wp-content/uploads/` directory of the [`gh-p
 
 ## License
 
-Aurora is released under an [MIT License](LICENSE).
+Bits &amp; Bytes is released under an [MIT License](LICENSE).
+
+Bits &amp; Bytes content is released under a [CCBY 4.0 License](LICENSE-CCBY-4.0.md).
