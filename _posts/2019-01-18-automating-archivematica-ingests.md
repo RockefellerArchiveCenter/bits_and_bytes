@@ -41,7 +41,6 @@ Additionally, our digitization team did an amazing job at getting these diariesâ
 -   [Chadbourne Gilpatric](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA392/FA392.xml;chunk.id%3De48349b049944e0c9a89b91806687bd4;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
     
 -   [Victor Heiser](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA392/FA392.xml;chunk.id%3Dacbfcd7b833f4124b6bd400e62c457dd;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
-    .c10}
 	
 -   [Alexander Makinsky](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3D6679542e85d143fab17526a89aa00a95;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
     
@@ -51,7 +50,7 @@ Additionally, our digitization team did an amazing job at getting these diariesâ
     
 -   [Kenneth Thompson](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Dd8fcb937811f4494a52cd8788ca22af9;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)
     
--   [L. Sterling Wortman](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Da6cd6525e360441aaf17e2489a5aaee6;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)0
+-   [L. Sterling Wortman](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Da6cd6525e360441aaf17e2489a5aaee6;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)
     
 
 
