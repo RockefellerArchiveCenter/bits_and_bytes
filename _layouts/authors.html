@@ -3,7 +3,7 @@ layout: page
 title: authors
 ---
 {% capture author_list %}{% for post in site.posts %}{% for author in post.author %}{{author}}{% unless forloop.last %},{% endunless %},{% endfor %}{% endfor %}{% endcapture %}
-{% assign author_names = author_list | split:',' | sort %}
+{% assign author_names = author_list | split:',' | sort_natural %}
 
 {% assign prev = null %}
 {% for author in author_names %}
