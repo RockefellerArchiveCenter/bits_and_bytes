@@ -28,29 +28,29 @@ While setting up these automated workflows took time, it was thrilling to see ho
 
 Additionally, our digitization team did an amazing job at getting these diaries–39,131 pages total–digitized so quickly. The diarists that were added in 2018 are:
 
--   [Thomas Appleget](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3D5ffc402076654b58944d36038d452a39;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187154000)
+-   [Thomas Appleget](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3D5ffc402076654b58944d36038d452a39;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187154000)
     
--   [Marshall Balfour](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3D63443620c2e241b885be5af2c9819675;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187154000)
+-   [Marshall Balfour](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3D63443620c2e241b885be5af2c9819675;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187154000)
     
--   [George Bevier](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3Da6378681f46741fea53644c3b8b61c44;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187154000)
+-   [George Bevier](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3Da6378681f46741fea53644c3b8b61c44;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187154000)
     
--   [Joseph Black](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3D676f6e79d4e5401d99452654656ba965;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
+-   [Joseph Black](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3D676f6e79d4e5401d99452654656ba965;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
     
--   [Edward D'Arms](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3Dfe6d29bf513d4450bafea0b2abfd49b5;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
+-   [Edward D'Arms](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA391/FA391.xml;chunk.id%3Dfe6d29bf513d4450bafea0b2abfd49b5;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
     
--   [Chadbourne Gilpatric](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA392/FA392.xml;chunk.id%3De48349b049944e0c9a89b91806687bd4;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
+-   [Chadbourne Gilpatric](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA392/FA392.xml;chunk.id%3De48349b049944e0c9a89b91806687bd4;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187155000)
     
--   [Victor Heiser](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA392/FA392.xml;chunk.id%3Dacbfcd7b833f4124b6bd400e62c457dd;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
+-   [Victor Heiser](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA392/FA392.xml;chunk.id%3Dacbfcd7b833f4124b6bd400e62c457dd;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
 	
--   [Alexander Makinsky](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3D6679542e85d143fab17526a89aa00a95;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
+-   [Alexander Makinsky](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3D6679542e85d143fab17526a89aa00a95;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
     
--   [Daniel O'Brien](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3Db7762b9f837f4205b88c0b8c56a6a84f;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
+-   [Daniel O'Brien](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3Db7762b9f837f4205b88c0b8c56a6a84f;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
     
--   [Dorothy Parker](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3D42a2f8654fb547168c2b5854b584434b;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
+-   [Dorothy Parker](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA393/FA393.xml;chunk.id%3D42a2f8654fb547168c2b5854b584434b;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187156000)
     
--   [Kenneth Thompson](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Dd8fcb937811f4494a52cd8788ca22af9;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)
+-   [Kenneth Thompson](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Dd8fcb937811f4494a52cd8788ca22af9;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)
     
--   [L. Sterling Wortman](https://www.google.com/url?q=http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Da6cd6525e360441aaf17e2489a5aaee6;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)
+-   [L. Sterling Wortman](http://dimes.rockarch.org/xtf/view?docId%3Dead/FA394/FA394.xml;chunk.id%3Da6cd6525e360441aaf17e2489a5aaee6;brand%3Ddefault%26doc.view%3Ddao&sa=D&ust=1547839187157000)
     
 
 
