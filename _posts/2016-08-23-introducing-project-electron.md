@@ -18,11 +18,11 @@ excerpt_separator: <!--more-->
 ---
 Today we're announcing a major project to build sustainable, user-centered and standards-compliant infrastructure to support the ongoing acquisition, management and preservation of digital records so we can make them available in the broadest and most equitable way possible. Because a snappy title makes everything better, we've codenamed this effort Project Electron, and we even have a cool mascot (Captain Electron, discovered by our internet expert Patrick Galligan):<!--more-->
 
-![Captain Electron](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2016/08/objective.png)
+![Captain Electron]({{ site.baseurl }}/wp-content/uploads/2016/08/objective.png)
 
 The project will consist of a repository, which will store digital records as well as information about them (including archival description, technical metadata and preservation metadata) which will help us manage and provide access to them over time. Sitting on top of that, we'll have an API layer which will help us manage system interactions between the repository and other archival systems which assist in processes such as accessioning, description, and access.
 
-![Project Electron diagram](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2016/08/project-electron-e1471943413200.png)
+![Project Electron diagram]({{ site.baseurl }}/wp-content/uploads/2016/08/project-electron-e1471943413200.png)
 
 We have an [official press release](http://www.rockarch.org/programs/digital/marist.php) out today, but I wanted to emphasize a few things in a less formal way. First, we're not going this alone. We've developed a partnership with the talented folks at Marist College IT to provide us with the technical infrastructure and expertise to pull this off. And we're leaning on the expertise and generosity of so many people who have offered us their time to help us think through different aspects of this project: Erin O'Meara, Mark Matienzo, Karen Estlund, Keith Oberlin, Lauren Philson, Jason Varghese, Shawn Averkamp, Julie Shean, Kirsten Carter, Sally Vermaaten, Mike Shallcross, Dallas Pillen, Max Eckard, Camille Salas, Mike Giarlo, Ben Armintor, Rob Sanderson, and of course Sibyl Schaefer.
 

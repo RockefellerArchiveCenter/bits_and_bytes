@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 ---
 Over the last few years, we've been creating and acquiring digital assets (more on what I mean by that term in a second) at a pretty astonishing rate, and we've thus far lacked a way of managing them. They're stored in a variety of places (some more discoverable than others) and it's difficult to know exactly what we have. In fact, when I tried to figure out the extent of these assets when writing this post, I couldn't do it. I just ended up feeling like Clark Gable:<!--more-->
 
-![Clark Gable](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2015/07/14094166.gif)
+![Clark Gable]({{ site.baseurl }}/wp-content/uploads/2015/07/14094166.gif)
 
 So, as the title of this post says, the time has come for us to implement a digital asset management system to get better control of these assets in which we've invested a lot of time and money, but also to make them much more widely discoverable and reusable.
 
@@ -26,7 +26,7 @@ A digital asset is really anything that is digital (as opposed to analog) that h
 
 Digital things often have more than one instantiation. For example, an archival manuscript may be digitized and several different file versions (master, service) created. Those files often have some metadata associated with them as well that tells us about the content but may also give some technical details about the files as well. Together, these are the assets we want to manage.
 
-![Scarlett O'Hara and Rhett Butler](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2015/07/Frankly-my-dear-I-don-t-give-a-damn-scarlett-ohara-and-rhett-butler-33250374-500-200.gif)
+![Scarlett O'Hara and Rhett Butler]({{ site.baseurl }}/wp-content/uploads/2015/07/Frankly-my-dear-I-don-t-give-a-damn-scarlett-ohara-and-rhett-butler-33250374-500-200.gif)
 
 What do we mean by managing digital assets? One way to think about this is to think about the kinds of things we might want to do with these assets. Things like adding metadata to describe them, searching and browsing them, sharing them with researchers and other archivists, and of course preserving them…all of which should sound like familiar functions to us archivists!
 
@@ -44,4 +44,4 @@ I'll be contacting almost everyone on staff to set up conversations, and I hope 
 
 As always, your contributions are invaluable, so give this some thought, and get ready to participate! If we work together we can end up feeling like this:
 
-![Gone with the Wind](http://blog.rockarch.org{{ site.baseurl }}/wp-content/uploads/2015/07/gone.gif)
+![Gone with the Wind]({{ site.baseurl }}/wp-content/uploads/2015/07/gone.gif)
