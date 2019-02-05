@@ -21,7 +21,7 @@ View DACSspace on GitHub [here](https://github.com/RockefellerArchiveCenter/DACS
 
 * * *
 
-I'm going to be talking about an evaluation tool I developed called [DACSspace](http://blog.rockarch.org/?p=1581). DACSspace was a first of many things for me - it was my first time writing code, using version control software like Git, and it was also my first attempt interacting with an API. I'm really excited to talk to you all about this tool, but I'm especially looking forward to sharing what this experience has been like for me as a new professional with no developing experience.
+I'm going to be talking about an evaluation tool I developed called [DACSspace](/dacsspace-an-archivesspace-dacs-compliance-evaluation-tool). DACSspace was a first of many things for me - it was my first time writing code, using version control software like Git, and it was also my first attempt interacting with an API. I'm really excited to talk to you all about this tool, but I'm especially looking forward to sharing what this experience has been like for me as a new professional with no developing experience.
 
 # DACSspace
 
@@ -47,7 +47,7 @@ DACSspace ultimately automates checking our resources for DACS compliance, which
 
 # Coding as a Processing Archivist
 
-Now I'd like to switch gears and talk a little bit about what it was like [learning to code](http://blog.rockarch.org/?p=1483) as a processing archivist. I started this journey almost a year ago as one of the first projects I worked on as a member of the processing team. DACSspace was proposed as a way to combine the efforts of the processing and digital teams with hopes to enhance local description and eventually release an open source tool to the community.
+Now I'd like to switch gears and talk a little bit about what it was like [learning to code](/learning-python-as-a-processing-archivist-a-reflection) as a processing archivist. I started this journey almost a year ago as one of the first projects I worked on as a member of the processing team. DACSspace was proposed as a way to combine the efforts of the processing and digital teams with hopes to enhance local description and eventually release an open source tool to the community.
 
 To begin, I was given a digestible amount of code to analyze and interpret. The plan was to have me learn enough of Python so that I could describe what the lines of code where doing and why it worked. Starting with a small, digestible amount of code really helped me stay focused and not get overwhelmed. Before I even took a crack at trying to describe what the script was supposed to do, I took the Codecademy course on [Python](https://www.codecademy.com/learn/python) and [Git](https://www.codecademy.com/learn/learn-git). This was especially helpful because it gave me a foundation to start with and helped me learn the jargon and most basic aspects of coding and version control.
 

@@ -76,6 +76,6 @@ Aurora comes with a [RESTful API](https://en.wikipedia.org/wiki/Representational
 
 ## What's Next for Aurora and Project Electron
 
-We continue to push forward on Project Electron through the development of a set of microservices to enable the [integration of Aurora with other systems](http://blog.rockarch.org/?p=1954) such as ArchivesSpace and Archivematica, usability testing of Aurora, and solidifying our [data model](http://blog.rockarch.org/?p=1969#more-1969). For a detailed look at the project plan, check out the [project milestones](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/Milestones.md).
+We continue to push forward on Project Electron through the development of a set of microservices to enable the [integration of Aurora with other systems](/project-electron-update-systems-integration-architecture) such as ArchivesSpace and Archivematica, usability testing of Aurora, and solidifying our [data model](/modeling-for-project-electron). For a detailed look at the project plan, check out the [project milestones](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/Milestones.md).
 
 Interested in using our code? Check out [Aurora on GitHub](https://github.com/RockefellerArchiveCenter/aurora) or download the 1.0-alpha source code [here](https://github.com/RockefellerArchiveCenter/aurora/releases).

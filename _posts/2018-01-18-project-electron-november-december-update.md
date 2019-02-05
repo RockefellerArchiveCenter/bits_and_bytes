@@ -13,7 +13,7 @@ tags:
   - project electron
 excerpt_separator: <!--more-->
 ---
-In the [last Project Electron update](http://blog.rockarch.org/?p=1923), I discussed the benefits of user interfaces as communication tools during development. This month I want to share more about the archival functions that those user interfaces enable in the application, which has been the focus of our recent development work. Specifically, I will share how the application enables appraisal and accessioning functions, as well as managing structured rights statements.
+In the [last Project Electron update](/project-electron-october-update), I discussed the benefits of user interfaces as communication tools during development. This month I want to share more about the archival functions that those user interfaces enable in the application, which has been the focus of our recent development work. Specifically, I will share how the application enables appraisal and accessioning functions, as well as managing structured rights statements.
 
 <!--more-->
 

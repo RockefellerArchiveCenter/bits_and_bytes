@@ -43,4 +43,4 @@ One final point: the RAC, like many archival institutions, uses an additional "b
 
 Come back tomorrow for Part 3: Accessioning!
 
-_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](http://blog.rockarch.org/?tag=year-in-the-life-of-an-audiovisual-archivist)_
+_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#Video)_

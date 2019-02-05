@@ -14,7 +14,7 @@ tags:
   - privacy
 excerpt_separator: <!--more-->
 ---
-Following up on [Bonnie](http://blog.rockarch.org/?p=1472) and [Patrick's](http://blog.rockarch.org/?p=1474) posts about this year's Code4Lib, I thought I'd write briefly about a few talks that really struck me this year.<!--more-->
+Following up on [Bonnie](/code4lib-report-dont-reinvent-the-wheel) and [Patrick's](/code4lib-2016-on-authorities-and-reconciliation) posts about this year's Code4Lib, I thought I'd write briefly about a few talks that really struck me this year.<!--more-->
 
 First up is Becky Yoose's fantastic "[The Modern Day Sisyphus: #libtech Burnout and You](http://2016.code4lib.org/The-Modern-Day-Sisyphus-libtech-Burnout-and-You)", a directly emotional to step in and step up when we see people around us burning out. As a new manager, this talk struck home with additional force, and made me ask some hard questions about what kind of culture I'm encouraging on the D-Team.
 

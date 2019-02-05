@@ -34,7 +34,7 @@ After the dust settled, we decided we needed to get back to basics by revisiting
 
 The scaffolding for everything we do is this: engaging and empowering users. By users we mean our researchers, donors, coworkers, and the archival profession as a whole.
 
-We've sometimes rephrased this value as "helping our users have [a healthy relationship with technology](http://blog.rockarch.org/?p=1507)." That means we have to have a realistic view of technology. We can't be scared of it, but we also can't expect it to magically solve our problems or replace human labor.
+We've sometimes rephrased this value as "helping our users have [a healthy relationship with technology](/a-healthy-relationship-with-technology)." That means we have to have a realistic view of technology. We can't be scared of it, but we also can't expect it to magically solve our problems or replace human labor.
 
 In the words of Canadian metallurgist and physicist [Ursula Franklin](https://en.wikipedia.org/wiki/Ursula_Franklin), we think of technology as holistic rather than prescriptive; we try to minimize disaster rather than maximize gain.<sup>1</sup>
 
@@ -68,7 +68,7 @@ Education is vital to our work. Although our focus is on providing technical exp
 
 We recognize that with specialized knowledge comes power. We seek to create a culture of learning, which means demolishing the inequitable power dynamics between experts and non-experts, and building in its place a culture and expectation of collective skill-sharing. By building mutual knowledge, we build community. We organize events like reading groups that encourage others to develop their own areas of interest and proficiency, as well as develop their critical thinking skills.<sup>5</sup> We train the trainer. We acknowledge that everyone has expertise and we accept our own limits of knowledge.
 
-As a team, we advance our skills with a broad view of professional development. We attend conferences and workshops, and actively encourage others to do so. We keep an eye out for these opportunities and let our colleagues know they're happening. And we make a point of sharing what we've learned so that those who could not attend can benefit as well. We do this by writing up summaries and takeaways on our [team blog](http://blog.rockarch.org/) and through informal conversations with colleagues. By investing in ourselves, we can spread that knowledge to others as well as model a culture of learning.
+As a team, we advance our skills with a broad view of professional development. We attend conferences and workshops, and actively encourage others to do so. We keep an eye out for these opportunities and let our colleagues know they're happening. And we make a point of sharing what we've learned so that those who could not attend can benefit as well. We do this by writing up summaries and takeaways on our [team blog](/) and through informal conversations with colleagues. By investing in ourselves, we can spread that knowledge to others as well as model a culture of learning.
 
 Additionally, we recognize that all parts of the archival enterprise are connected and that we are part of larger professional communities with shared values and challenges. We actively participate in these communities by joining committees and facilitating professional meetings. And we take a broad view of our profession: I spend time volunteering with a local community archive. And we share our knowledge and expertise through any means available, including through open documentation, presentations and publications. We recognize that we are a resource-rich organization and have an obligation to pursue activities that benefit others in the profession. We rely on the skills and knowledge of members of the library and archival communities who are outside of our organization.
 
@@ -110,8 +110,8 @@ If you would like to talk more about any of what we've said, please find us in t
 
 [5] We wrote about this reading group in "[Shared inquiry in the archives](http://ncph.org/history-at-work/shared-inquiry-in-the-archives/)" on History@Work.
 
-[6] Amy Berish, one of our fantastic coworkers, discussed this in [her talk](http://blog.rockarch.org/?p=1689) at METRO's 2017 Annual Conference.
+[6] Amy Berish, one of our fantastic coworkers, discussed this in [her talk](/getting-more-out-of-and-into-your-collections-management-system-dacsspace) at METRO's 2017 Annual Conference.
 
-[7] For example, see "[Learning Python as a Processing Archivist: A Reflection](http://blog.rockarch.org/?p=1483)" and "[DACSspace: An ArchivesSpace DACS Compliance Evaluation Tool](http://blog.rockarch.org/?p=1581)" by Amy Berish.
+[7] For example, see "[Learning Python as a Processing Archivist: A Reflection](/learning-python-as-a-processing-archivist-a-reflection)" and "[DACSspace: An ArchivesSpace DACS Compliance Evaluation Tool](/dacsspace-an-archivesspace-dacs-compliance-evaluation-tool)" by Amy Berish.
 
 [8] Check out [_Parable of the Sower_](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)) and [_Parable of the Talents_](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) by Octavia Butler.

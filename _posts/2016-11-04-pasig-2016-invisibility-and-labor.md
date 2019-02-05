@@ -13,7 +13,7 @@ tags:
   - ethics
   - pasig
 ---
-Along with Bonnie (read her report of the conference [here](http://blog.rockarch.org/?p=1628)), I attended the [Preservation and Archiving Special Interest Group (PASIG) Fall 2016 conference](http://www.pasignyc.org/) last week. I learned a lot at this conference about the technical aspects of digital preservation, both from a theoretical as well as a practical perspective.
+Along with Bonnie (read her report of the conference [here](/pasig-2016)), I attended the [Preservation and Archiving Special Interest Group (PASIG) Fall 2016 conference](http://www.pasignyc.org/) last week. I learned a lot at this conference about the technical aspects of digital preservation, both from a theoretical as well as a practical perspective.
 
 There were a host of good presentations which provided introductions or practical guides to implementing digital preservation processes. I particularly liked Bertram Lyon's presentation on the "[The Anatomy of Digital Files](https://figshare.com/articles/The_Anatomy_of_Digital_Files/4141674)," Alison Rhonemus, Julia Kim, Morgan Mckeehan, Dianne Dietrich and Erin Faulder's presentation on "[Emulation for Everyone](https://figshare.com/articles/How_to_Party_Like_It_s_1999_Emulation_for_Everyone/4141701)," and Sam Meister's discussion of "[The Ecosystem of Digital Objects](https://figshare.com/articles/The_Ecosystem_of_Digital_Objects/4141680)."
 

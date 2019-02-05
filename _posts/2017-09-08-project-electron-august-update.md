@@ -18,7 +18,7 @@ tags:
   - unit test
 excerpt_separator: <!--more-->
 ---
-This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) and the development decisions we made last month with our Marist College partners at [the hackathon](http://blog.rockarch.org/?p=1815). We are really excited about testing transfers in the coming month.
+This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) and the development decisions we made last month with our Marist College partners at [the hackathon](/project-electron-july-update). We are really excited about testing transfers in the coming month.
 
 In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin), which in addition to being a delightful little cucumber, is a language that is used to define the requirements of software in order to document and [test the software's behavior](https://cucumber.io/) as part of [Behavior Driven Development](https://www.agilealliance.org/glossary/bdd/) (BDD). We have been using Gherkin to write Quality Assurance (QA) tests for the functions of our Project Electron transfer application. The language is human-readable, so it can enable communication between teams working in different domains across a project.
 

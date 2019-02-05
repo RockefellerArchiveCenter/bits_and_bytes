@@ -38,4 +38,4 @@ The completed inventory is interpolated into our main audiovisual registries and
 
 Come back tomorrow for Part 4: Access!
 
-_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](http://blog.rockarch.org/?tag=year-in-the-life-of-an-audiovisual-archivist)_
+_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#Video)_

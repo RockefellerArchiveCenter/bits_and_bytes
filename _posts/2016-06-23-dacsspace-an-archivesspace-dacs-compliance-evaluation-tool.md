@@ -40,7 +40,7 @@ Aside from conducting a compliance evaluation, DACSspace can also be used as a t
 
 # Creating DACSspace: A Processing Archivist's Introduction to Scripting
 
-This project began a few months ago when I was introduced to Python, Git, and GitHub. My earlier post, [Learning Python as a Processing Archivist: A Reflection](http://blog.rockarch.org/?p=1483), documents my learning strategy and early reflections. Creating DACSspace was my first experience learning a programming language, writing code, interacting with an API, and writing technical documentation.
+This project began a few months ago when I was introduced to Python, Git, and GitHub. My earlier post, [Learning Python as a Processing Archivist: A Reflection](/learning-python-as-a-processing-archivist-a-reflection), documents my learning strategy and early reflections. Creating DACSspace was my first experience learning a programming language, writing code, interacting with an API, and writing technical documentation.
 
 To help me understand how to use the [ArchivesSpace "REST" API](http://archivesspace.github.io/archivesspace/api/#introduction), I used an API development tool called [Postman](https://www.getpostman.com/), which allowed me to interact with the API and view resource records in [JSON](http://www.w3schools.com/json/) (which is a interchangeable data format consisting of key and value pairs). After spending some time looking through different resource records in Postman, I learned how to use certain JSON keys in the script order to write functions specific to the ASpace API.
 

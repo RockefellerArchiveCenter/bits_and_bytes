@@ -16,7 +16,7 @@ tags:
   - user experience
 excerpt_separator: <!--more-->
 ---
-Following our [usability testing of Aurora](http://blog.rockarch.org/?p=2078#more-2078), we undertook an accessibility audit of the application, testing it against the Section 508 and WCAG 2.0 standards and identifying issues. We then made changes to the application and provided recommendations for future improvements. This audit also gave us a chance to reflect more broadly on our approach to accessibility and how we can incorporate universal design concepts into our work at the RAC.
+Following our [usability testing of Aurora](/project-electron-update-aurora-usability-testing), we undertook an accessibility audit of the application, testing it against the Section 508 and WCAG 2.0 standards and identifying issues. We then made changes to the application and provided recommendations for future improvements. This audit also gave us a chance to reflect more broadly on our approach to accessibility and how we can incorporate universal design concepts into our work at the RAC.
 
 <!--more-->
 
