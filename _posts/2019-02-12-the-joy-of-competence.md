@@ -1,5 +1,5 @@
 ---
-title: The Joy of Competence
+title: "The Joys of Competence: on refactoring, context and learning"
 date: 2019-02-12T14:00:00
 author: Hillel Arnold
 layout: post
@@ -16,7 +16,7 @@ Recently, in support of the D-Team’s strategic goal to stabilize systems maint
 
 <!--more-->
 
-My work focused on two scripts: a script in the [docs-build repository](https://github.com/RockefellerArchiveCenter/docs-build) which pulls down updated documentation from GitHub and then builds a public and private Jekyll site, and a [script which exports](https://github.com/RockefellerArchiveCenter/asExportIncremental) all our updated finding aids, library records and digital objects from ArchivesSpace every night. I wrote the latter [several years ago](/automating-archivesspace-exports-or-better-living-through-apis), the former about six months ago. In both cases though, the logic of the scripts was difficult to follow (particularly [here](https://github.com/RockefellerArchiveCenter/asExportIncremental/blob/master/asExportIncremental.py#L310-L394)), which made even basic troubleshooting far more challenging than it needed to be. 
+My work focused on two scripts: a script in the [docs-build repository](https://github.com/RockefellerArchiveCenter/docs-build) which pulls down updated documentation from GitHub and then builds a public and private Jekyll site, and a [script which exports](https://github.com/RockefellerArchiveCenter/asExportIncremental) all our updated finding aids, library records and digital objects from ArchivesSpace every night. I wrote the latter [several years ago](/automating-archivesspace-exports-or-better-living-through-apis), the former about six months ago. In both cases though, the logic of the scripts was difficult to follow (particularly [here](https://github.com/RockefellerArchiveCenter/asExportIncremental/blob/master/asExportIncremental.py#L310-L394)), which made even basic troubleshooting far more challenging than it needed to be.
 
 I started out by trying to make the functions of the script more obvious and easier to follow. In both cases, this meant changing from a [procedural programming](https://en.wikipedia.org/wiki/Procedural_programming) paradigm to an [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) one. Instead of thinking about the scripts simply as a series of functions performed in a certain sequence, I started to think about them as objects with properties and methods. The end result of this was not only that the internal logic in each script became more apparent but also, in the case of the ArchivesSpace export script, the code itself shrank dramatically as I was able to adhere to the [“Don’t repeat yourself” (DRY) principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
