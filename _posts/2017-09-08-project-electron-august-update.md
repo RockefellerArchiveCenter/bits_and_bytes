@@ -27,7 +27,7 @@ In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber
 The Gherkin language is structured into statements of Features, Scenarios, and Steps using a syntax of text lines and indentations. As shown in the example below (from the [Gherkin Documentation](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)), a feature defines what is to be tested. A feature will likely have multiple scenarios, which are more specific situations that could occur as part of that feature. Steps are defined is [Givens, Whens, and Thens](https://github.com/cucumber/cucumber/wiki/Given-When-Then). **Given** a precondition, **When** an action occurs **Then** a testable outcome results. **And** is used to add additional Givens, Whens, and Thens.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2016/11/FindItResults.jpg" alt="Gherkin Example Scenario">
+<img src="{{ site.baseurl }}/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png" alt="Gherkin Example Scenario">
 <figcaption>Example of a feature and scenario from the Gherkin documentation.</figcaption>
 </figure>
 
