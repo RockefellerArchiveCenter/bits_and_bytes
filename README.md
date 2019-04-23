@@ -49,14 +49,23 @@ excerpt_separator: <!--more-->
 
 ## Posting on Bits & Bytes
 
+### Create a new branch
+Create a new GitHub branch based off the `gh-pages` branch. This is so we can any changes and associate them with specific pull requests. [See the GitHub documentation on creating new branches if you have questions](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository).
+
 ### File title
 For ease of filing, your file should be named in the following format: `YYYY-MM-DD-title-of-your-post.md`.
 
 ### Post Location
-All posts should be placed in the `_posts` directory of the `gh-pages` tree. [This link will take you to the exact location](https://github.com/RockefellerArchiveCenter/bits_and_bytes/tree/gh-pages/_posts).
+All posts should be placed in the `_posts` directory of the your new branch. Refer to the directory structure of `gh-pages` if you have any questions about location.
 
 ### Image Location
-All images should be placed in the `wp-content/uploads/` directory of the [`gh-pages` tree](https://github.com/RockefellerArchiveCenter/bits_and_bytes/tree/gh-pages/wp-content/uploads). You should also put the images in the correct Year/Month directory for your posts publication date. If those directories do not exist, create them or ask a member of the D-Team for help on creating them. Make sure your post has the correct image links for your images.
+All images should be placed in the `wp-content/uploads/` directory of your newly created branch. You should also put the images in the correct Year/Month directory for your posts publication date. If those directories do not exist, create them or ask a member of the D-Team for help on creating them. Make sure your post has the correct image links for your images.
+
+### Create a pull request
+Once you have created a branch and placed your post file and images in the correct location you can open a pull request. You should create a pull request between the `gh-pages` branch and your newly created branch. [See the GitHub documentation on creating pull requests if you have questions](https://help.github.com/en/articles/creating-a-pull-request). Request review from one of the D-Team members in the pull request.
+
+### Merge the pull request
+Once a D-Team member has approved your pull request, you are ready to merge that pull request into the `gh-pages` branch. [See the GitHub documentation on merging pull requests if you have questions](https://help.github.com/en/articles/merging-a-pull-request).
 
 ## License
 
