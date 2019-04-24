@@ -61,7 +61,7 @@ All images should be placed in the `wp-content/uploads/` directory. You should a
 ## Posting on Bits & Bytes
 
 ### Create a new branch
-Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-title-of-your-post`. [See the GitHub documentation on creating new branches if you have questions](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository).
+Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. [See the GitHub documentation on creating new branches if you have questions](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository).
 
 ### Push your files to the new branch
 Place your files in the correct locations in your new branch.
