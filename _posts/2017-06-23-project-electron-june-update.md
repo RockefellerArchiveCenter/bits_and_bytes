@@ -1,6 +1,6 @@
 ---
 post_id: 1784
-title: Project Electron June Update: Transfer Specification
+title: "Project Electron June Update: Transfer Specification"
 date: 2017-06-23T15:56:21+00:00
 author: Hillel Arnold
 layout: post

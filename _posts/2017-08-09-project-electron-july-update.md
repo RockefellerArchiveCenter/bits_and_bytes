@@ -1,6 +1,6 @@
 ---
 post_id: 1815
-title: Project Electron July Update: Hackathon
+title: "Project Electron July Update: Hackathon"
 date: 2017-08-09T14:51:03+00:00
 author: Hannah Sistrunk
 layout: post

@@ -1,6 +1,6 @@
 ---
 post_id: 1668
-title: Project Electron January Update: User Stories and Personas
+title: "Project Electron January Update: User Stories and Personas"
 date: 2017-02-09T04:39:35+00:00
 author: Hillel Arnold
 layout: post
