@@ -1,6 +1,6 @@
 ---
 post_id: 1815
-title: Project Electron July Update
+title: Project Electron July Update: Hackathon
 date: 2017-08-09T14:51:03+00:00
 author: Hannah Sistrunk
 layout: post
@@ -14,12 +14,11 @@ tags:
   - transfer
 excerpt_separator: <!--more-->
 ---
-We kicked off this past month with a hackathon, hosted by our Marist College partners, to plan and start developing the part of Project Electron that enables the transfer of digital records from donor/depositor organizations to the RAC over a secure network connection. We worked with the Marist College team, including Marist students, to diagram the transfer structure and dependencies, building from the [transfer specifications](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) that we released in June and discussed in our [last blog update](/project-electron-june-update). These specify the metadata and structural requirements for transfer and provide a [bag profile](https://github.com/ruebot/bagit-profiles) to validate bags from donors. Additionally, we created wireframes and started building out the user interfaces (UIs) to view and track transfer information, view error messages, and manage user and organizational accounts.<!--more-->
+We kicked off this past month with a hackathon, hosted by our Marist College partners, to plan and start developing the part of Project Electron that enables the transfer of digital records from donor/depositor organizations to the RAC over a secure network connection. We worked with the Marist College team, including Marist students, to diagram the transfer structure and dependencies, building from the [transfer specifications](https://projectelectron.rockarch.org/transfer/) that we released in June and discussed in our [last blog update](/project-electron-june-update). These specify the metadata and structural requirements for transfer and provide a [bag profile](https://github.com/ruebot/bagit-profiles) to validate bags from donors. Additionally, we created wireframes and started building out the user interfaces (UIs) to view and track transfer information, view error messages, and manage user and organizational accounts.<!--more-->
 
 This was the first Project Electron hackathon, and I found it to be a very effective way to dig into this work, as we were able to talk out problems and agree on strategy quickly and collaboratively. It was also easy to incorporate new perspectives and contributions from Marist students and new project members, like myself, in a face-to-face context.
 
 In addition to successfully mapping the transfer structure, we made several important decisions at the hackathon to advance our work. We are:
-
 
 * Using Python to write the scripts for bag validation and virus checks
 * Using [Django](https://www.djangoproject.com/) as our web framework

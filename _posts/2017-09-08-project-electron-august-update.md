@@ -1,6 +1,6 @@
 ---
 post_id: 1832
-title: Project Electron August Update
+title: Project Electron August Update: Gherkin
 date: 2017-09-08T11:30:21+00:00
 author: Hannah Sistrunk
 layout: post
@@ -18,7 +18,7 @@ tags:
   - unit test
 excerpt_separator: <!--more-->
 ---
-This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/transfer) and the development decisions we made last month with our Marist College partners at [the hackathon](/project-electron-july-update). We are really excited about testing transfers in the coming month.
+This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://projectelectron.rockarch.org/transfer/) and the development decisions we made last month with our Marist College partners at [the hackathon](/project-electron-july-update). We are really excited about testing transfers in the coming month.
 
 In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin), which in addition to being a delightful little cucumber, is a language that is used to define the requirements of software in order to document and [test the software's behavior](https://cucumber.io/) as part of [Behavior Driven Development](https://www.agilealliance.org/glossary/bdd/) (BDD). We have been using Gherkin to write Quality Assurance (QA) tests for the functions of our Project Electron transfer application. The language is human-readable, so it can enable communication between teams working in different domains across a project.
 
@@ -40,4 +40,4 @@ As part of the development of the transfer application, we will be testing featu
 
 For me, being new to BDD concepts, Gherkin, and unit testing, I found writing these features/scenarios for our work to be useful beyond their functional purpose; the process helped me better understand the functional requirements of the application by forcing me to think through possible scenarios and outcomes. I did struggle initially with avoiding implementation details and focusing on the behaviour of the application in the Gherkin tests. For me, it was essential to step back and take some time to learn the basics of BDD, Test Driven Development (TDD), and unit testing as a conceptual foundation before jumping into writing Gherkin tests.
 
-As we move forward with Project Electron and QA processes, these Gherkin tests will not only help us test the behavior of the transfer app, but also isolate and clarify its expected functions in a language that is accessible to all members of the project. We will be making these Gherkin tests and the rest of our QA process available [on GitHub](https://github.com/RockefellerArchiveCenter/project_electron_transfer) as part of the Project Electron documentation.
+As we move forward with Project Electron and QA processes, these Gherkin tests will not only help us test the behavior of the transfer app, but also isolate and clarify its expected functions in a language that is accessible to all members of the project.
