@@ -1,6 +1,6 @@
 ---
 post_id: 1944
-title: Project Electron November-December Update
+title: "Project Electron November-December Update: Appraisal, Accessioning, and Rights Management"
 date: 2018-01-18T09:50:21+00:00
 author: Hannah Sistrunk
 layout: post
@@ -19,7 +19,7 @@ In the [last Project Electron update](/project-electron-october-update), I discu
 
 ## Appraisal and Accession
 
-Much of the preliminary appraisal work is completed automatically by the application through validation processes that check incoming transfers to make sure that they meet the [requirements for transfer](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/requirements.md), assuring a standard structure and a set of [minimum metadata elements](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/bagit-specification.md). Additionally, there is a user interface that enables an appraisal archivist to review each records transfer, assure that it is in scope, and manually approve or reject it. If necessary, the archivist can add an appraisal note to that transfer. If the transfer is rejected, the appraisal note is emailed to the donor.
+Much of the preliminary appraisal work is completed automatically by the application through validation processes that check incoming transfers to make sure that they meet the [requirements for transfer](https://projectelectron.rockarch.org/transfer-requirements/), assuring a standard structure and a set of [minimum metadata elements](https://projectelectron.rockarch.org/rac-bagit-spec/). Additionally, there is a user interface that enables an appraisal archivist to review each records transfer, assure that it is in scope, and manually approve or reject it. If necessary, the archivist can add an appraisal note to that transfer. If the transfer is rejected, the appraisal note is emailed to the donor.
 
 Once a transfer is accepted, the application groups together multiple transfers into a single accession that are related via organization, record creator, and record type. The accessions are presented in an "accessioning queue" view that allows archivists to review, edit, and save accession records for these groups of transfers. The application updates the status of transfers after an accession record has been saved, allowing a user to track the status of a particular transfer. The functionality of creating an accession record will be expanded in the next phase of Project Electron, which will focus on enabling integrations with other systems for archives management and preservation. We use [ArchivesSpace](http://archivesspace.org/) as our archival management system at the RAC, and once integration is implemented, we can add the functions of generating accession numbers, finding existing record creator names from agent records in ArchivesSpace, and pushing data to ArchivesSpace after the accession record is saved.
 

@@ -1,6 +1,6 @@
 ---
 post_id: 1923
-title: Project Electron October Update
+title: "Project Electron October Update: Wireframes as Communication Tools"
 date: 2017-11-15T10:22:21+00:00
 author: Hannah Sistrunk
 layout: post
@@ -27,7 +27,7 @@ I recently completed a third set of wireframes for the design of UIs focused on 
 
 Just as wireframes are a valuable _internal _communication tool for the development team in the design process, creation of the application's UIs have enabled _external_ communication with project stakeholders and user groups. Even in early forms, the application's user interfaces allow us to demonstrate function concretely to RAC staff and leadership who will be implementing and using the application for the archival management of born-digital records, and to donors preparing to use the application for the transfer of those records. The user interfaces are a tangible representation of what Project Electron is and will become.
 
-One of the [Project Electron values](http://projectelectron.rockarch.org/) that guides are work is to _place users at the center of the design process_. Throughout the project we have incorporated this user-centered design approach through activities like user group interviews, creating personas and user stories, card sorting exercises, and user scenario mapping. These activities were foundational for generating project requirements and for involving users in the design process. Being able to show the applications to user groups through the interface has been a valuable way to communicate function, and therefore to facilitate discussion and action toward other important aspects of Project Electron such as institutional planning, staff training, preparation of donor infrastructure, and project advocacy.
+One of the [Project Electron values](https://projectelectron.rockarch.org/project-values/) that guides are work is to _place users at the center of the design process_. Throughout the project we have incorporated this user-centered design approach through activities like user group interviews, creating personas and user stories, card sorting exercises, and user scenario mapping. These activities were foundational for generating project requirements and for involving users in the design process. Being able to show the applications to user groups through the interface has been a valuable way to communicate function, and therefore to facilitate discussion and action toward other important aspects of Project Electron such as institutional planning, staff training, preparation of donor infrastructure, and project advocacy.
 
 <figure>
 <img src="{{ site.baseurl }}/wp-content/uploads/2017/11/UIexample1.png" alt="User Interface Example">

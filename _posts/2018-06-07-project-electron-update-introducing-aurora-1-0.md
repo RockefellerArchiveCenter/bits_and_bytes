@@ -23,7 +23,7 @@ We are very pleased to announce the initial release of Aurora, an application to
 
 We will continue to improve Aurora as we test and integrate it with a chain of other archival management and digital preservation tools.
 
-Read more about Project Electron [here](http://projectelectron.rockarch.org/).
+Read more about Project Electron [on the project website](http://projectelectron.rockarch.org/).
 
 <!--more-->
 
@@ -33,7 +33,7 @@ We have designed Aurora primarily to enable ongoing transfers of records from ac
 
 ### Transferring and Tracking Digital Records
 
-At regular intervals, Aurora scans a directory structure where transfers are uploaded by donor organizations. Each transfer is first checked for viruses and then validated against the  [BagIt specification](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/bagit-specification.md) and the donor's [BagIt profile](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer/organizational-bag-profile.json). Transfers that are not structurally valid, contain a virus, or are missing required metadata elements are rejected by the application and deleted immediately with notifications going to donors about the failure. The application displays transfer information in a searchable and sortable table where donors and archivists can track the status of transfers and view metadata. As transfers move through archival processes, their status will be updated in this interface, providing transparency for our donor organizations and increasing the visibility of archival labor.
+At regular intervals, Aurora scans a directory structure where transfers are uploaded by donor organizations. Each transfer is first checked for viruses and then validated against the  [BagIt specification](https://projectelectron.rockarch.org/rac-bagit-spec/) and the donor's [BagIt profile](https://projectelectron.rockarch.org/scripts/). Transfers that are not structurally valid, contain a virus, or are missing required metadata elements are rejected by the application and deleted immediately with notifications going to donors about the failure. The application displays transfer information in a searchable and sortable table where donors and archivists can track the status of transfers and view metadata. As transfers move through archival processes, their status will be updated in this interface, providing transparency for our donor organizations and increasing the visibility of archival labor.
 
 <figure>
 <img src="{{ site.baseurl }}/wp-content/uploads/2018/06/aurora-dashboard.png" alt="Aurora Dashboard Interface">
@@ -76,6 +76,6 @@ Aurora comes with a [RESTful API](https://en.wikipedia.org/wiki/Representational
 
 ## What's Next for Aurora and Project Electron
 
-We continue to push forward on Project Electron through the development of a set of microservices to enable the [integration of Aurora with other systems](/project-electron-update-systems-integration-architecture) such as ArchivesSpace and Archivematica, usability testing of Aurora, and solidifying our [data model](/modeling-for-project-electron). For a detailed look at the project plan, check out the [project milestones](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/Milestones.md).
+We continue to push forward on Project Electron through the development of a set of microservices to enable the [integration of Aurora with other systems](/project-electron-update-systems-integration-architecture) such as ArchivesSpace and Archivematica, usability testing of Aurora, and solidifying our [data model](/modeling-for-project-electron). For a detailed look at the project plan, check out the [project milestones](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer-milestones.md).
 
 Interested in using our code? Check out [Aurora on GitHub](https://github.com/RockefellerArchiveCenter/aurora) or download the 1.0-alpha source code [here](https://github.com/RockefellerArchiveCenter/aurora/releases).

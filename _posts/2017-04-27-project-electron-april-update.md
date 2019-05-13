@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 ---
 As I mentioned last month, we're moving forward with Project Electron on two fronts: defining the process by which digital records are transferred to the Rockefeller Archive Center and selecting a solution to provide archival storage for those records once they are in our custody.<!--more-->
 
-This month, we charted out the major tasks necessary to achieve both of those goals. They're available in our newly-updated [milestones document](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/docs/Milestones.md), which now also indicates the tasks we've already completed.
+This month, we charted out the major tasks necessary to achieve both of those goals. They're available in our newly-updated [milestones document](https://github.com/RockefellerArchiveCenter/project_electron/blob/master/transfer-milestones.md), which now also indicates the tasks we've already completed.
 
 On the transfer side of things, we're planning to have the pipeline infrastructure ready for testing by September or October. We're well on our way there already - although we have some tough hills to climb - I'm confident we'll get there on or ahead of schedule!
 

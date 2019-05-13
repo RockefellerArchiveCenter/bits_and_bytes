@@ -12,10 +12,11 @@ tags:
 - user experience
 - user stories
 - personas
+- project electron
 excerpt_separator: <!--more-->
 ---
 
-As we wrap up the transfer phase of Project Electron, we’re turning to the next phase of the project which focuses on building, updating, and implementing systems, tools, and processes to facilitate access to digital records. We’ve started this work - which we’re calling the discovery and delivery phase - by revisiting and evaluating the user stories and personas produced during our user research in 2016 and 2017. Although this research was foundational to our understanding of the scope of Project Electron and shaped many of its deliverables, it was completed over two years ago. We needed to make sure our original user stories and personas still reflected our users and their needs.
+As we wrap up the transfer phase of Project Electron, we’re turning to the next phase of the project which focuses on building, updating, and implementing systems, tools, and processes to facilitate access to digital records. We’ve started this work - which we’re calling the discovery and delivery phase - by revisiting and evaluating the [user stories](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/user-stories) and [personas](https://github.com/RockefellerArchiveCenter/personas/tree/master/project-electron-personas) produced during our user research in 2016 and 2017. Although this research was foundational to our understanding of the scope of Project Electron and shaped many of its deliverables, it was completed over two years ago. We needed to make sure our original user stories and personas still reflected our users and their needs.
 
 In this post I’ll explain how we’ve revisited these original design artifacts to ensure that they continue to represent our thinking as an organization, and how this revision supports our project value of “plac[ing] users at the center of the design process.”
 

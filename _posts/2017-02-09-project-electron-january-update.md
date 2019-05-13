@@ -1,6 +1,6 @@
 ---
 post_id: 1668
-title: Project Electron January Update
+title: "Project Electron January Update: User Stories and Personas"
 date: 2017-02-09T04:39:35+00:00
 author: Hillel Arnold
 layout: post
@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 ---
 As I wrote in my last update, since kicking off Project Electron in September 2016, we've been gathering information through conversations, surveys and a literature review, and then structuring that information into user stories and personas. In line with our "open by default" licensing principle, we're making these design artifacts available with a CC0 license, which means you can take them and use them freely in your own local environments.
 
-**View and download the [user stories](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/user-stories) and [personas](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/personas) on Github.**<!--more-->
+**View and download the [user stories](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/user-stories) and [personas](https://github.com/RockefellerArchiveCenter/personas/tree/master/project-electron-personas) on Github.**<!--more-->
 
 Although the end goal of this discovery phase was to have these deliverables in hand, the process by which we developed them is worth explaining.
 

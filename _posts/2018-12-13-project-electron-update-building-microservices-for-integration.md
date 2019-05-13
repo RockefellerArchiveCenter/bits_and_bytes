@@ -11,6 +11,7 @@ categories:
 tags:
   - APIs
   - integrations
+  - project electron
 excerpt_separator: <!--more-->
 ---
 As we've continued to refine Aurora's functionality, and improve the application's [usability](/project-electron-update-aurora-usability-testing) and [accessibility](/project-electron-update-aurora-and-web-accessibility), we've also been building out microservices applications which integrate a number of systems, moving digital records and data between them. Systems integrations work is not new to us at the RAC, but the integrations we are building for Project Electron are extremely mission critical. Because of that, they need to be reliable, scalable, holistically managed, modular, visible to and owned by staff at all levels of expertise. We also want them to automate routine and repetitive tasks, while supporting the value and dignity of archival labor by keeping human judgement and principled decision-making in the loop.
