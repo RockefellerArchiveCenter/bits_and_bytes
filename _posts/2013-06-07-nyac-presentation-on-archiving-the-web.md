@@ -10,4 +10,4 @@ categories:
 tags:
   - web archiving
 ---
-The [slides]({{ site.baseurl }}/wp-content/uploads/2013/06/NYAC.html) from my presentation at NYAC.
+The [slides]({{ site.baseurl }}/assets/img/2013/06/NYAC.html) from my presentation at NYAC.

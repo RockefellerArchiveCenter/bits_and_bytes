@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 ---
 We are very pleased to announce the initial release of Aurora, an application to receive, virus check, and validate the structure and contents of digital records transfers. It provides a read-only interface for representatives of donor organizations to track transfers, so that they can follow their records as they move through the archival lifecycle. It also includes functionality for RAC staff to add or update organization accounts and users associated with them, appraise incoming transfers, and initiate the accessioning process. Aurora is built on community-driven standards and specifications, and we have released it as open source software. This is a major milestone for Project Electron, and we are excited to share it with the world. Many thanks to our partners at Marist College IT and to the Ford Foundation for their generous support of the project.
 
-![Aurora homescreen]({{ site.baseurl }}/wp-content/uploads/2018/06/aurora-homescreen.png)
+![Aurora homescreen]({{ site.baseurl }}/assets/img/2018/06/aurora-homescreen.png)
 
 We will continue to improve Aurora as we test and integrate it with a chain of other archival management and digital preservation tools.
 
@@ -36,7 +36,7 @@ We have designed Aurora primarily to enable ongoing transfers of records from ac
 At regular intervals, Aurora scans a directory structure where transfers are uploaded by donor organizations. Each transfer is first checked for viruses and then validated against the  [BagIt specification](https://projectelectron.rockarch.org/rac-bagit-spec/) and the donor's [BagIt profile](https://projectelectron.rockarch.org/scripts/). Transfers that are not structurally valid, contain a virus, or are missing required metadata elements are rejected by the application and deleted immediately with notifications going to donors about the failure. The application displays transfer information in a searchable and sortable table where donors and archivists can track the status of transfers and view metadata. As transfers move through archival processes, their status will be updated in this interface, providing transparency for our donor organizations and increasing the visibility of archival labor.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2018/06/aurora-dashboard.png" alt="Aurora Dashboard Interface">
+<img src="{{ site.baseurl }}/assets/img/2018/06/aurora-dashboard.png" alt="Aurora Dashboard Interface">
 <figcaption>Aurora Dashboard Interface.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ At regular intervals, Aurora scans a directory structure where transfers are upl
 Once a transfer is validated, it moves to the appraisal queue, where appraisal archivists can review the transfers to ensure they are within a repository's collecting scope. Archivists can accept or reject transfers, as well as add appraisal notes. When a transfer is rejected, it is removed from the appraisal queue, and its status is updated in the transfer table.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2018/06/aurora-appraisal-queue.png" alt="Aurora appraisal queue">
+<img src="{{ site.baseurl }}/assets/img/2018/06/aurora-appraisal-queue.png" alt="Aurora appraisal queue">
 <figcaption>Aurora Appraisal Queue.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Once a transfer is validated, it moves to the appraisal queue, where appraisal a
 Transfers accepted by an appraisal archivist move from the appraisal queue to the accessioning queue. Here, transfers are grouped by organization, record creators, and record type. Archivists can initiate the accessioning process by creating accession records for one or more transfers based on aggregated data from transfers grouped in an accession. Future work will integrate Aurora's accessioning functionality with an archival management system (in our context ArchivesSpace) and a digital preservation packaging system (Archivematica).
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2018/06/aurora-accession-record.png" alt="Aurora accession record">
+<img src="{{ site.baseurl }}/assets/img/2018/06/aurora-accession-record.png" alt="Aurora accession record">
 <figcaption>Aurora Accession Record.</figcaption>
 </figure>
 

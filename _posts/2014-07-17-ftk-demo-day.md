@@ -17,11 +17,11 @@ This past Wednesday, we gathered all the archivists who do processing into the D
 
 I started with an overview of our processes for separating removable digital media from collections:
 
-![FTK-overview]({{ site.baseurl }}/wp-content/uploads/2014/07/Separation-to-FTK-overview.png)
+![FTK-overview]({{ site.baseurl }}/assets/img/2014/07/Separation-to-FTK-overview.png)
 
 Then I gave an overview of the proposed workflow for working with that media:<!--more-->
 
-![Processing Workflow]({{ site.baseurl }}/wp-content/uploads/2014/07/Processing-Workflow.png)
+![Processing Workflow]({{ site.baseurl }}/assets/img/2014/07/Processing-Workflow.png)
 
 The idea is that the materials (disks, drives, CDs, DVDs, etc) will be separated and delivered to the D-Team. We'll add them to our digital media inventory, then when we receive notification that these materials are slated for processing, we'll prioritize them for imaging. After they're imaged, we'll create a case for that collection in FTK, and add each piece of separated media as evidence to that case.
 
@@ -37,10 +37,10 @@ FTK is computer forensics software designed for use by investigators in law enfo
 * Using labels to highlight restricted or sensitive materials
 * File visualization!
 
-![A visualisation of email domains]({{ site.baseurl }}/wp-content/uploads/2014/07/file_visualization.jpg)
+![A visualisation of email domains]({{ site.baseurl }}/assets/img/2014/07/file_visualization.jpg)
 
 Mary Ann then talked a bit about the work she's doing with the Taconic electronic records.
 
-![Mary Ann talks about how to use Bookmarks in FTK to build out a file hierarchy]({{ site.baseurl }}/wp-content/uploads/2014/07/mary-ann2.jpg)
+![Mary Ann talks about how to use Bookmarks in FTK to build out a file hierarchy]({{ site.baseurl }}/assets/img/2014/07/mary-ann2.jpg)
 
 All in all, I think it was a successful demo in that it generated excitement about working with the program, as well as some clarity in just what processing electronic records looks like. The inevitable question about redacting sensitive or restricted information did arise, which led to a discussion about some of the policy decisions that need to be made concerning access to digital materials. I'm making a note here, as I think questions about redaction (and the time-consuming nature of it) should make excellent fodder for a future archival staff meeting.

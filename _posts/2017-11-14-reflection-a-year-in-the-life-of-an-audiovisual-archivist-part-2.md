@@ -35,7 +35,7 @@ There is, to some degree, disagreement within the archival profession regarding 
 Once our new processing instructions were drafted, a basic "clean-up" of current finding aids with existing a/v description was undertaken. This is intended to give uniformity to the "researcher experience" as they explore across collections for audiovisual material. (This modification process is presently on-going.)
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2017/11/finding_aid.jpg" alt="Finding Aid_av">
+<img src="{{ site.baseurl }}/assets/img/2017/11/finding_aid.jpg" alt="Finding Aid_av">
 <figcaption>Screenshot of on-line finding aid.</figcaption>
 </figure>
 

@@ -1,5 +1,7 @@
-<script src="/assets/js/anchor.min.js"></script>
 <script src="assets/js/jquery-3.3.1.min.js"></script>
+
+{% if page.layout == 'categories' or page.category == 'authors' or page.category == 'tags' %}
+<script src="/assets/js/anchor.min.js"></script>
 <script>
   $(function() {
     anchors.options = {
@@ -8,3 +10,4 @@
     anchors.add('h2');
   });
 </script>
+{% endif %}

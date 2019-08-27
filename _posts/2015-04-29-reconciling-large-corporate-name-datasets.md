@@ -20,13 +20,13 @@ Before I could start reconciling data, I created a list of unique corporate name
 
 We got many great ideas from the list, but the one we eventually went with came from Matt Carruthers at the University of Michigan Library. He wrote JSON code for use with OpenRefine that searches the VIAF API first, limiting results to anything that is a corporate name and has an LC source authority. OpenRefine then extracts the LCCN and puts that through the LCNAF API that OCLC has to get the name. In the end, you get the LC name authority that corresponds to your search term and a link to the authority on the LC Authorities website. Any items without a match in the LCNAF dataset will not have a link.
 
-![Name Reconcile]({{ site.baseurl }}/wp-content/uploads/2015/04/Name-Reconcile.jpg)
+![Name Reconcile]({{ site.baseurl }}/assets/img/2015/04/Name-Reconcile.jpg)
 
 Before import you also have to replace all white spaces in your files with %20. Caveat emptor: the system is not 100% accurate, and can return some false positives, so manual QC will be necessary if you want to remove all errors. Unfortunately, it also only works at about 500 names at a time and takes 10 to 15 minutes to run through each set of 500. We split the corporate names into 29 separate excel tabs, imported them each into OpenRefine, ran the JSON reconciliation script, exported all of the results, and then reconstituted them into a single document. I performed a metadata quality check of about 5% of the names, and most of them checked out. A few were obviously false positives, but not enough to make me lose confidence in the methodology.
 
 After getting a full list of all corporate names, we appended either `<corpname role="aut" source="local">` or `<corpname role="aut" source="lcnaf">` to the front of each name identity and replaced all of the `%20s` with a space, and then appended `</corpname>` to the end of the name. We now had a fully identified list of which names were local or LCNAF verified. Using the same find and replace script from the subject cleanup, we replaced the modified corporate names in the original document.
 
-![Find and Replace Code]({{ site.baseurl }}/wp-content/uploads/2014/10/VBcode1.jpg)
+![Find and Replace Code]({{ site.baseurl }}/assets/img/2014/10/VBcode1.jpg)
 
 We would still like to explore the possibilities of using Virtuoso and SPARQL in the future, but given the time sensitive nature of our project, we needed a quick and dirty way to get our information online. Ultimately, the entire Ford Foundation records, Grant Files EAD equaled 66.6 mb of data, which we had to split up into 11 different resource records because ArchivesSpace could not handle a single resource that large. We also had to tweak the backend code of ArchivesSpace's EAD converter in order for it to automatically publish notes not marked internal in the EAD, but that was only about 5 to 10 hours of work and testing.
 

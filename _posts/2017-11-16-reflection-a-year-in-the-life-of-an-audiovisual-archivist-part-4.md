@@ -31,7 +31,7 @@ Brainstorming with Hillel Arnold, RAC'S Head of Digital Programs, we created the
 As the Virtual Vault's wizardry is beyond my coding cognizance, I'll concede to Hillel's recent blog [post](/virtual-vault-making-access-to-digitized-records-easier) to describe the system's basic workflow, which _"ended up using the scaffolding of _[_staticAid_](https://github.com/helrond/staticAid)_ – a _[_tool I've developed_](http://hillelarnold.com/blog/2016/02/a-static-html-site-generator-for-archival-description/)_ which converts JSON objects provided by the ArchivesSpace API into HTML pages using Jekyll – and adding some additional templates to display audiovisual materials. After digitized files (named using ArchivesSpace identifiers) have passed quality control, an archivist places them in a directory on our network storage. From there, a series of scripts automatically moves digitized files to a server, retrieves data by querying the _[_ArchivesSpace API_](https://archivesspace.github.io/archivesspace/api/)_ for data about a given identifier, and builds the necessary web pages. Archivists can correct or enhance description for these materials in ArchivesSpace, and those changes will be reflected in the new nightly build of the site."_
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2017/11/VirtualVault.jpg" alt="Virtual Vault">
+<img src="{{ site.baseurl }}/assets/img/2017/11/VirtualVault.jpg" alt="Virtual Vault">
 <figcaption>Screenshot of Moving Image playback page/RAC's Virtual Vault.</figcaption>
 </figure>
 

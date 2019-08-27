@@ -15,6 +15,6 @@ tags:
   - presentations
 excerpt_separator: <!--more-->
 ---
-Since a number of people weren't able to make today's lunch presentation, I thought I'd post the [slides]({{ site.baseurl }}/wp-content/uploads/2014/03/brown-bag.html) so those who missed out could catch up. They are pretty bare-bones, so if you have any questions, please don't hesitate to ask!
+Since a number of people weren't able to make today's lunch presentation, I thought I'd post the [slides]({{ site.baseurl }}/assets/img/2014/03/brown-bag.html) so those who missed out could catch up. They are pretty bare-bones, so if you have any questions, please don't hesitate to ask!
 
 <!--more-->You can navigate through the slides by using the arrow keys on your computer.

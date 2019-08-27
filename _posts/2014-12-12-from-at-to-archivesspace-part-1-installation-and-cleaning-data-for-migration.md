@@ -36,7 +36,7 @@ The whole process of setting up the server and making sure that everything was w
 
 Before I delve into the Rockefeller Archive Center's metadata, I want to give some quick stats about our AT installation at the time of migration. We had 13,944 name records, 8,246 subject records, 3,264 accession records, 11,304 resource records, and 2,401 digital object records.
 
-![Archivists Toolkit Record Count]({{ site.baseurl }}/wp-content/uploads/2014/12/AT-Record-Count.jpg)
+![Archivists Toolkit Record Count]({{ site.baseurl }}/assets/img/2014/12/AT-Record-Count.jpg)
 
 I give these numbers to illustrate that we had a fair amount of data in our system, and much of it had not been checked or standardized since we first moved to AT. However, we had migrated from Re:Discovery to AT a few years earlier, and that required much more cleaning and standardization of data. As such, while our metadata might be [dirty](http://media0.giphy.com/media/U2Vd7z6wB3zpK/giphy.gif) in some places, the majority of our AT data took little work.
 

@@ -56,7 +56,7 @@ For ease of filing, your file should be named in the following format: `YYYY-MM-
 All posts should be placed in the `_posts` directory. Refer to the directory structure of `gh-pages` if you have any questions about the post location.
 
 ### Image location
-All images should be placed in the `wp-content/uploads/` directory. You should also put the images in the correct Year/Month directory for your posts publication date. If those directories do not exist, create them or ask a member of the D-Team for help on creating them. Make sure your post links to the correct images. Refer to past months in the `gh-pages` branch for reference.
+All images should be placed in the `assets/img/` directory. You should also put the images in the correct Year/Month directory for your posts publication date. If those directories do not exist, create them or ask a member of the D-Team for help on creating them. Make sure your post links to the correct images. Refer to past months in the `gh-pages` branch for reference.
 
 ## Posting on Bits & Bytes
 

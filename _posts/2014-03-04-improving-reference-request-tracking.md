@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 ---
 Over the last few weeks, I've been looking into systems which will help us do a better job handling research requests that come in to us via email. You can see what our current workflow looks like in this chart.<!--more-->
 
-![Reference email management - New Page]({{ site.baseurl }}/wp-content/uploads/2014/03/Reference-email-management-New-Page.png)
+![Reference email management - New Page]({{ site.baseurl }}/assets/img/2014/03/Reference-email-management-New-Page.png)
 
 As you can see, a lot of manual effort is required to handle a single request, often including multiple reminder emails if a request isn't picked up within a few days.
 
@@ -34,6 +34,6 @@ Although osTicket will require some customization, it's built on the LAMP stack,
 
 Here's how I think our workflow will look after implementing this system; as you can see, there's not a lot of change except that a lot of manual intervention has been removed from the equation.
 
-![Reference email management NEW - New Page]({{ site.baseurl }}/wp-content/uploads/2014/03/Reference-email-management-NEW-New-Page.png)
+![Reference email management NEW - New Page]({{ site.baseurl }}/assets/img/2014/03/Reference-email-management-NEW-New-Page.png)
 
 I'll be working on setting this system up in the next few weeks, so you can expect to see further posts from me as I dig into the system.

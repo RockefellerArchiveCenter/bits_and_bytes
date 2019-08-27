@@ -30,7 +30,7 @@ Just as wireframes are a valuable _internal _communication tool for the developm
 One of the [Project Electron values](https://projectelectron.rockarch.org/project-values/) that guides are work is to _place users at the center of the design process_. Throughout the project we have incorporated this user-centered design approach through activities like user group interviews, creating personas and user stories, card sorting exercises, and user scenario mapping. These activities were foundational for generating project requirements and for involving users in the design process. Being able to show the applications to user groups through the interface has been a valuable way to communicate function, and therefore to facilitate discussion and action toward other important aspects of Project Electron such as institutional planning, staff training, preparation of donor infrastructure, and project advocacy.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2017/11/UIexample1.png" alt="User Interface Example">
+<img src="{{ site.baseurl }}/assets/img/2017/11/UIexample1.png" alt="User Interface Example">
 <figcaption>The User Profile page of the Project Electron Transfer Application. Designed using AdminLTE.</figcaption>
 </figure>
 

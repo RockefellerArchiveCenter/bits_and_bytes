@@ -36,7 +36,7 @@ However, owning these integrations as an organization will require us to develop
 
 One way to think about our microservices environment is as five distinct layers tied together in different ways.
 
-![Microservices Section]({{ site.baseurl }}/wp-content/uploads/2018/12/microservices-section.png)
+![Microservices Section]({{ site.baseurl }}/assets/img/2018/12/microservices-section.png)
 
 Sitting at the top are systems, both those we use now as well as ones we might use in the future. Because they are located their own layer, we can swap systems in or out, and adjust how we interact with them as necessary.
 
@@ -52,7 +52,7 @@ Last, a shared storage layer supports the services by making transfer files acce
 
 The diagram below represents another way to think about our system architecture. Here you can see how the microservice applications help sew together Aurora, Archivematica, Fedora and ArchivesSpace using HTTP requests and shared storage directories, and how data flows between these applications in a roughly clockwise direction, starting with Aurora.
 
-![Microservices Overhead]({{ site.baseurl }}/wp-content/uploads/2018/12/microservices-overhead.png)
+![Microservices Overhead]({{ site.baseurl }}/assets/img/2018/12/microservices-overhead.png)
 
 To make deployment easier, and to reduce redundant code, we've clustered our services together into five applications, each of which comes with a Docker container, a fairly comprehensive README, and a constellation-themed name. As with all Project Electron products, code is open source and released under an MIT License.
 

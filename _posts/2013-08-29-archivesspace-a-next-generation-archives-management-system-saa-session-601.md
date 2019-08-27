@@ -30,4 +30,4 @@ There is a [hosted](http://www.archivesspace.org/get-involved/test-and-help-us-i
 
 We won't be moving over to ArchivesSpace for about a year; I'd rather let other institutions adopt early and find all the bugs. We also have ATReference data that will need to be migrated. I'm hoping we can implement [Aeon](http://www.atlas-sys.com/aeon/), which we could then use for researcher registration, but Aeon is a proprietary system and our adoption of it is confined by budgetary restrictions. Alternately we could develop a plug-in to ArchivesSpace to manage that data, but that's not very attractive for a variety of reasons. I'm hoping that by the end of this fiscal year we'll know if we can budget for Aeon, and then subsequently plan out the move to ArchivesSpace.
 
-[ArchivesSpace SAA 2013 presentation](http://www.archivesspace.org/wp-content/uploads/2011/11/SAA_2013_Final.pptx)
+[ArchivesSpace SAA 2013 presentation](http://www.archivesspace.org/assets/img/2011/11/SAA_2013_Final.pptx)

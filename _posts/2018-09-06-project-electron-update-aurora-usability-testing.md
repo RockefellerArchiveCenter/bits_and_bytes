@@ -40,7 +40,7 @@ Appraise      | View details and accept a transfer in the Appraisal Queue
 Accession     | Locate a transfer in the transfer table, interpret transfer status, view details, locate an appraisal note, and find and interpret transfer logs and error messages
 Rights        | Create an accession record
 
-![Usability task rating]({{ site.baseurl }}/wp-content/uploads/2018/09/aurora-taskrating-graph.png)
+![Usability task rating]({{ site.baseurl }}/assets/img/2018/09/aurora-taskrating-graph.png)
 
 # Summary of findings
 

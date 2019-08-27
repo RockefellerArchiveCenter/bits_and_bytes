@@ -27,14 +27,14 @@ In this post I am going to briefly discuss [Gherkin](https://github.com/cucumber
 The Gherkin language is structured into statements of Features, Scenarios, and Steps using a syntax of text lines and indentations. As shown in the example below (from the [Gherkin Documentation](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)), a feature defines what is to be tested. A feature will likely have multiple scenarios, which are more specific situations that could occur as part of that feature. Steps are defined is [Givens, Whens, and Thens](https://github.com/cucumber/cucumber/wiki/Given-When-Then). **Given** a precondition, **When** an action occurs **Then** a testable outcome results. **And** is used to add additional Givens, Whens, and Thens.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2017/09/PEAug2017_GherkinExample1.png" alt="Gherkin Example Scenario">
+<img src="{{ site.baseurl }}/assets/img/2017/09/PEAug2017_GherkinExample1.png" alt="Gherkin Example Scenario">
 <figcaption>Example of a feature and scenario from the Gherkin documentation.</figcaption>
 </figure>
 
 As part of the development of the transfer application, we will be testing features of the application. These will include features like bag validation of size and filename, virus checks, validation of bag metadata, user login, and account management. Below is an example of a Gherkin scenario we wrote for the virus check feature, which tests how the application will handle the identification of a virus found in a bag.
 
 <figure>
-<img src="{{ site.baseurl }}/wp-content/uploads/2017/09/PEAug2017_GherkinExample2.png" alt="Gherkin example for virus check">
+<img src="{{ site.baseurl }}/assets/img/2017/09/PEAug2017_GherkinExample2.png" alt="Gherkin example for virus check">
 <figcaption>A Gherkin scenario that is part of the "check bag for viruses" feature to test the transfer app.</figcaption>
 </figure>
 

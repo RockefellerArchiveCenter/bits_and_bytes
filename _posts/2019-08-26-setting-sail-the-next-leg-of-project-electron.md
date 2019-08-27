@@ -30,7 +30,7 @@ We have four main goals for the next phase of Project Electron, which have come 
 
 I started to write a paragraph explaining our proposed architecture, but then I realized I could just show you a picture (please keep in mind this is all subject to change, I’m going to be just as amused as you when I come back and look at this in a couple of months):
 
-![Project Electron Discovery and Delivery system architecture]({{site.baseurl}}/assets/img/discovery-delivery.png)
+![Project Electron Discovery and Delivery system architecture]({{site.baseurl}}/assets/img/2019/08/discovery-delivery.png)
 
 There’s a lot to this architecture, and working on it all at once seemed daunting. So we’ve decided to break this into two pieces: first we’ll focus on developing an interface for users to search, browse, and view archival description, and then we’ll integrate digitized and born-digital content into that interface.
 

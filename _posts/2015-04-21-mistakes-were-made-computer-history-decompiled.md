@@ -29,7 +29,7 @@ Hillel: I can't believe you didn't say anything about how you want Stacy Horn to
 
 Bonnie: Okay, I will talk about how I want Stacy Horn to be my new BFF.
 
-![Stacy Horn]({{ site.baseurl }}/wp-content/uploads/2015/04/wired1.jpg)
+![Stacy Horn]({{ site.baseurl }}/assets/img/2015/04/wired1.jpg)
 
 Of all the presentations, her talk was the most explicit about gender. ([Joy Rankin](http://history.yale.edu/people/joy-rankin) did touch upon this in her discussion of students using academic time-sharing systems in the 1960s and 1970s in Minnesota.) She attributed the amount of publicity that Echo got to her being a woman, and illustrated this with some really fascinating photographs of herself taken by magazines in the early 1990s. I could only find the the photograph from a 1993 issue of _WIRED_ (inserted in this post) but some of the other examples she showed were pretty sexualized. She also talked about getting more women online, and said "I was the only one trying." I think all of these things are really important, especially in light of all of the recent chatter about why tech is so white and male.
 
