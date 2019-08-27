@@ -15,6 +15,8 @@ As Hannah indicated in [her last blog post](https://blog.rockarch.org/project-el
 
 As with the rest of this project, we want to be conscious of existing tools and practices so we can build on what’s working well and try to improve what isn’t. This is a major reason we started by reviewing our [personas](https://github.com/RockefellerArchiveCenter/personas/tree/master/project-electron-personas) and [user stories](https://github.com/RockefellerArchiveCenter/project_electron/tree/master/user-stories). Hannah’s blog post does a great job of summarizing what we learned during that process, and I won’t repeat all of that here, other than to say that the challenges faced by our users in finding and accessing archival records need to be addressed holistically. In other words, considering access to digital records separately from access to physical records is akin to looking only at part of a large picture; on the other hand, considering user needs across formats is a useful way for us to focus on the qualities of the user experience we hope to provide for our researchers.
 
+<!--more-->
+
 ## Goals
 
 We have four main goals for the next phase of Project Electron, which have come out of a fair amount of reflection and conversation among the project team as well as staff throughout the RAC:
