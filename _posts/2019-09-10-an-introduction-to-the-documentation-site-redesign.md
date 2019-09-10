@@ -1,6 +1,6 @@
 ---
 title: An Introduction to the Documentation Site Redesign
-date: 2019-09-10T11:00:00
+date: 2019-09-10T14:00:00+00:00
 author: Darren Young
 layout: post
 categories: Collaboration
