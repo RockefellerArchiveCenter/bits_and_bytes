@@ -28,11 +28,8 @@ We are excited to see the scope of the Docs Site’s holdings expand with each n
 We decided that the amount of content added to the site necessitated a redesign of the homepage in order so that we could resolve the aforementioned issues. Our approach to rethinking the organization, appearance, and functionality of our homepage came to revolve around four main objectives:
 
 1. Applying some type of organization to the documentation items
-
 2. Implementing functionality for more effective discovery of documentation
-
 3. Revising the documentation cards to only display key information and create a cleaner aesthetic
-
 4. Identifying and resolving accessibility issues in the site’s interface in order to ensure equitable access to the site’s content
 
 ## New Face, New Functionality
