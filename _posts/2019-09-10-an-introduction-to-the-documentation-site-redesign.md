@@ -11,7 +11,7 @@ tags:
   - design
 excerpt_separator: <!--more-->
 ---
-Last July, I wrote a [blog post](https://blog.rockarch.org/documentation-site-release-a-tool-for-access-and-transparency-a-push-for-better-documentation-writing) announcing the public release of the [Rockefeller Archive Center’s DocumentationWebsite](https://docs.rockarch.org/) as a platform for storing and sharing our institution’s documentation. Now, a little more than a year later, I am writing a new post to update our colleagues at the RAC and in the wider archives field about the work we have completed following the success of our efforts to make more content available. I will reflect on our motivations, approach, and processes for redesigning the site in order to enable improved discovery and access.
+Last July, I wrote a [blog post](https://blog.rockarch.org/documentation-site-release-a-tool-for-access-and-transparency-a-push-for-better-documentation-writing) announcing the public release of the [Rockefeller Archive Center’s Documentation Website](https://docs.rockarch.org/) as a platform for storing and sharing our institution’s documentation. Now, a little more than a year later, I am writing a new post to update our colleagues at the RAC and in the wider archives field about the work we have completed following the success of our efforts to make more content available. I will reflect on our motivations, approach, and processes for redesigning the site in order to enable improved discovery and access.
 
 <!--more-->
 
