@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 
 A few weeks ago I wrote about the next phase of Project Electron, which is full of possibilities and challenges, and will involve the time and talents of the entire D-Team, as well as many of our RAC colleagues (I’m not going to recap that here; [go read the post](https://blog.rockarch.org/setting-sail-the-next-leg-of-project-electron) if you’re interested). However, while writing that post it occurred to me that Project Electron is only one part of the D-Team’s work, so I’ve summarized a number of other things we’re doing which may be relevant to the broader archival community below. Please get in touch if you’re working on similar initiatives, or if you have Opinions (good or bad) about what we’re up to!
 
+<!--more-->
 
 ## Archivematica-related activities
 
