@@ -1,5 +1,5 @@
 ---
-title: They're Still Scrolling, and I'm Anxious: Documentation Site Usability Testing
+title: "They're Still Scrolling, and I'm Anxious: Documentation Site Usability Testing"
 date: 2019-09-12T14:00:00+00:00
 author: Darren Young
 layout: post
@@ -14,9 +14,6 @@ tags:
   - user experience
 excerpt_separator: <!--more-->
 ---
-
-They’re Still Scrolling, and I’m Anxious: Documentation Site Usability Testing
-
 This past summer, we ran a series of usability tests in order to gather and distill feedback from our coworkers about a redesigned interface we developed for the [Rockefeller Archive Center’s Documentation Website](https://docs.rockarch.org/). This blog entry continues a discussion I started in a [previous post](https://blog.rockarch.org/an-introduction-to-the-documentation-site-redesign) about our motivations, approach, and processes for redesigning the site in order to enhance user discovery and access. I will explain how we planned and carried out the usability tests in order to effectively evaluate the changes we have made to the platform, and I will reflect on my experience with conducting usability testing for the first time. By describing the fixes we have proposed in response to the issues identified during usability testing, I hope to create a picture of how the Documentation Site will appear when we finish development!
 
 <!--more-->
