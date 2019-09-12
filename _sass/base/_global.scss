@@ -104,7 +104,11 @@ li > ul, li > ol {
     margin-bottom: 0;
     margin-left: 1em;
 }
-ol, ul {
+ol {
+  margin-left: 0;
+  padding-left: 1em;
+}
+ul {
   list-style: disc outside none;
   margin-left: 0;
   padding-left: 1em;
