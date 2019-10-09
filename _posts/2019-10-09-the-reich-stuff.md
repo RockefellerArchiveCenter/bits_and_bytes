@@ -1,7 +1,7 @@
 ---
 title: The Reich Stuff: Demystifying and Making Accessible a Collection of Author Interview Audio Recordings
 date: 2019-10-10T14:00:00+00:00
-author: Zachary Leming, 2019 RAC-Selznick School Fellowship Recipient
+author: Zachary Leming -- 2019 RAC-Selznick School Fellowship Recipient
 layout: post
 categories: Uncategorized
 tags:
@@ -18,6 +18,7 @@ tags:
   
 excerpt_separator: <!--more-->
 ---
+
 Author Cary Reich published one volume of a biography on Nelson Rockefeller, *The Life of Nelson A. Rockefeller: Worlds to Conquer, 1908-1958* (Doubleday, 1996). The Rockefeller Archive Center was gifted 564 audio cassettes that contain all of the interviews Reich conducted, including recordings with the likes of Donald Rumsfeld, Henry Kissinger, and former US President Gerald Ford. However, these tapes were poorly annotated which created identification, description, and access challenges.
 
 <!--more-->
@@ -44,7 +45,7 @@ Like any project, there has also been some curveballs thrown my way. But these i
 
 The main issue with the project has been trying to figure out who is interviewed on each tape. Many of the tapes have multiple people recorded on them, as Reich tended to re-record over previous interviews, leaving areas of partial interviews (usually at the ends but sometimes scattered throughout) on the tapes. And even though Reich put notations on the tapes, many of the tapes have multiple names on them, with some of them scribbled out, and the names can be difficult to read. 
 
-![Audio cassette]({{site.baseurl}}/assets/img/2019/10/reich-01.jpg)
+![Audio cassette]({{site.baseurl}}/assets/img/2019/10/reich-01.JPG)
 
 I have, however, developed strategies that have allowed me to be successful in identifying the majority of the people on the tapes and figuring out who exactly they were. The biggest advantage is having the physical tapes on hand and being able to try to read the names written on them. As I make my way through the project -- and becoming familiar with the names of the people Reich interviewed (as well as Reich’s “unique” handwriting) – it became easier to decipher the writing on the tapes. It becomes more difficult when there are two people on the audio file, but five names are written on the tape. However, once I am able to figure out who exactly is on each tape, I’m able to listen to that person’s “main” interview file and compare the voices as sort of a verification process. 
 
