@@ -15,7 +15,6 @@ tags:
   - description
   - preservation
   - virtual vault
-  
 excerpt_separator: <!--more-->
 ---
 
