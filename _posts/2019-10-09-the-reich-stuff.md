@@ -1,5 +1,5 @@
 ---
-title: The Reich Stuff: Demystifying and Making Accessible a Collection of Author Interview Audio Recordings
+title: "The Reich Stuff: Demystifying and Making Accessible a Collection of Author Interview Audio Recordings"
 date: 2019-10-10T14:00:00+00:00
 author: Zachary Leming
 layout: post
