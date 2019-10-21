@@ -21,7 +21,7 @@ Back in August, Hillel shared a post describing the [next phase of Project Elect
 
 ## Values-driven work
 
-I want to (as always) ground this work in our project values, namely the [Project Electron Values](https://projectelectron.rockarch.org/project-values/) which call for us to “place users at the center of the design process,” and our [Principles For Archival Access](https://projectelectron.rockarch.org/archival-access-values/). At this stage in our work, I particularly want to emphasize the principle that access be **Generative**:
+I want to (as always) ground this work in our project values, namely the [Project Electron Values](https://projectelectron.rockarch.org/project-values/) which call for us to “place users at the center of the design process,” and our [Principles For Archival Access](https://projectelectron.rockarch.org/archival-access-values/). At this stage in our work, I particularly want to emphasize our principle that access be **Generative**:
 
 “Support multiple pathways into and through description and records including people, organizations, and subjects. Support multiple modes of inquiry including machines, humans and machine-assisted humans. Encourage and reward curiosity.”
 
@@ -29,9 +29,9 @@ As we decide what and how to present archival data, we have a chance to think cr
 
 ## Wireframes and site mapping
 
-Rather than chasing shiny user interface (UI) components at this early stage, we are focusing on information architecture. I developed a site map and some initial wireframes to inform what data we needed to pull into the site. As we learned from Aurora development, these [wireframes are a valuable communication tool](https://blog.rockarch.org/project-electron-october-update) for our work with our Marist College IT developer partners and RAC processing archivist colleagues.
+Rather than chasing shiny user interface (UI) components at this early stage, we are focusing on information architecture. I developed a site map and some initial wireframes to inform what data we need to pull into the site. As we learned from Aurora development, these [wireframes are a valuable communication tool](https://blog.rockarch.org/project-electron-october-update) for our work with our Marist College IT developer partners and RAC processing archivist colleagues.
 
-I also conducted an exercise with four RAC staff members from our various program areas where I asked each of them in one-on-one sessions to describe what they would want and expect as users of an archival discovery site. Through their narrative and scripted questions to provide structure and consistency, we built a site map with index cards on a whiteboard with details about features, interactions, and how they might navigate between pages. Building on our existing user stories and UI requirements, this exercise provided some useful insights primarily related to the search experience. The exercise was also an introduction to participatory design and UX for these participants who will continue to be involved throughout the project as usability testing observers.
+I also conducted an exercise with four RAC staff members from our various program areas where I asked each of them in one-on-one sessions to describe what they would want and expect as users of an archival discovery site. I prepared some quetsions to provide structure and consistency, as well as to prompt participants to talk through how they would engage the site. From their narrative, we built a site map with index cards on a whiteboard with details about features, interactions, and how they might navigate between pages. Building on our existing user stories and UI requirements, this exercise provided some useful insights primarily related to the search experience. The exercise was also an introduction to participatory design and UX for these participants who will continue to be involved throughout the project as usability testing observers.
 
 ## What are other archives doing?
 
@@ -45,4 +45,4 @@ This is all to say that we are not tackling a new problem, and we plan to build 
 
 ## What’s next
 
-We’ll definitely be blogging more about our front-end development process and UX work in the coming months. We’re always looking to share and learn from folks doing UX and inclusive design work in archives, so please reach out if you are too!
+We’ll be blogging more about our front-end development process and UX work in the coming months. We’re always looking to share and learn from folks doing UX and inclusive design work in archives, so please reach out if you are too!
