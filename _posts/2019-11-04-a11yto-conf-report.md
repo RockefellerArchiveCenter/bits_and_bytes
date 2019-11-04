@@ -23,7 +23,7 @@ First of all, "a11y" is A-eleven-Y, which is a short-hand [numeronym](https://en
 * [#a11yTO Conf](https://conf.a11yto.com/) on digital accessibility
 * [#a11yTO Gaming](https://gaming.a11yto.com/) on accessible gaming and game development
 
-I did not attend the IRL and Gaming events, but was present for two full days of talks that comprised the #A11yTO Conf. I'll share some thoughts from my perspective working as an information professional working in library/archives tech.
+I did not attend the IRL and Gaming events, but was present for two full days of talks that comprised the #A11yTO Conf. I'll share some thoughts from my perspective working as an information professional in the worlds of archives and UX.
 
 ## Building community
 
