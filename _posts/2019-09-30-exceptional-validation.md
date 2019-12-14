@@ -4,7 +4,7 @@ date: 2019-09-30T16:00:00+00:00
 author: Patrick Galligan
 layout: post
 categories:
-  - Project electron
+  - Project Electron
   - D-Team
   - Software and Systems
 tags:
