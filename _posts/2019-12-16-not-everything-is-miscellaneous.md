@@ -1,6 +1,6 @@
 ---
 title: "(Not) Everything is Miscellaneous: Building an ArchivesSpace API Helpers Package"
-date: 2019-12-13T14:00:00+00:00
+date: 2019-12-16T14:00:00+00:00
 author: Hillel Arnold
 layout: post
 categories:
