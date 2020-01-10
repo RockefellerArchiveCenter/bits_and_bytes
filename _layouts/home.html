@@ -20,7 +20,7 @@ layout: default
     <div class="post-teaser">
       <header>
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}" onclick="ga('send', 'event', 'Posts', 'click', 'View Post Title');">
+          <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title }}
           </a>
         </h2>
@@ -31,7 +31,7 @@ layout: default
       <div class="excerpt">
         {{ post.excerpt }}
       </div>
-        <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}" onclick="ga('send', 'event', 'Posts', 'click', 'Continue Reading');">
+        <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
           {{ site.theme_settings.str_continue_reading }}
         </a>
     </div>
