@@ -29,7 +29,7 @@ Those of you who are regular readers of this blog will not be surprised to learn
 As a result, we’re going to try some new-to-us ways of working together, using an [Agile/Scrum-ish](https://en.wikipedia.org/wiki/Agile_software_development) approach. Work will take place in two-week increments (or “sprints”), which will end in a “scrum” meeting at which we’ll review progress to date and establish goals for the next two week cycle.
 
 We’re also going to try dividing up the work into several distinct roles:
-* **Code owners** will be primarily responsible for writing code during each sprint. will be responsible for submitting pull request(s) which close issues assigned to them at the previous scrum meeting.
+* **Code owners** will be primarily responsible for writing code during each sprint, bundled as pull request(s) which close issues assigned to them at the previous scrum meeting.
 * **Code helpers** will be paired with a code owner on a rotating basis, and will be responsible for understanding and presenting the work of their partner at the scrum meeting.
 * A **scrum master** will be responsible for scheduling and running scrum meetings, and ensuring that each code owner is matched with a code helper and assigned work for the coming period.
 
