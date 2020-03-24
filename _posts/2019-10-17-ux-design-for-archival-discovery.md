@@ -7,9 +7,9 @@ layout: post
 categories:
   - Project Electron
 tags:
-  - ux
+  - user experience
   - discovery
-  - user-centered design
+  - user centered design
   - project electron
 
 excerpt_separator: <!--more-->

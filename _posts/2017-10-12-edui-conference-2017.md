@@ -10,7 +10,7 @@ categories:
 tags:
   - edui
   - user centered design
-  - ux
+  - user experience
 excerpt_separator: <!--more-->
 ---
 I recently attended the edUI conference in Charlottesville, VA. It's a conference for web professionals working in educational institutions, and the speakers come from a variety of professional contexts including design, development, management, content strategy, and UX. For me, this conference was a chance to hear from and connect with folks outside of the archives field who are doing related work. It pushed me to think about familiar problems from a fresh perspective, build conceptual connections, strategize to improve communication across disciplines, and learn some practical approaches and skills that are not often emphasized in archives-specific conferences.

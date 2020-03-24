@@ -11,7 +11,7 @@ tags:
   - planning
   - accessibility
   - Archivematica
-  - ux
+  - user experience
   - technical debt
   - digitization
   - born-digital processing
