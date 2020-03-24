@@ -1,5 +1,5 @@
 ---
-title: "(Not) Everything is Miscellaneous: Building an ArchivesSpace API Helpers Package"
+title: "Designing for Digital 2020"
 date: 2020-03-24T14:00:00+00:00
 author: Hannah Sistrunk
 layout: post
