@@ -22,6 +22,8 @@ As part of the audit project, I put together a systems information spreadsheet t
 
 Before I get into the specifics of the data gathering, it might be helpful to give some background on the size of our teams that make systems work part of their purview. We have two full-time IT professionals and the Digital Projects Team has had four members fairly steadily since 2013. In 2010, the Rockefeller Archive Center had a total of two archival systems in production. In 2020, we have at least twenty-five core systems that directly relate to archival work. The Archive Center directly maintains the installations of 18 of these systems either on-site or through AWS. Between 2018 and 2019, the RAC implemented eight new systems or services. It became painfully clear that we were heading towards a tipping point where our old systems development, deployment, and maintenance approach would no longer work for us. We needed to spend time thinking about ways to level up our workflows and how to work with our systems more efficiently.
 
+![RAC systems over time]({{site.baseurl}}/assets/img/2020/03/systems-chart.png)
+
 Coming out of the data gathering, I tried to synthesize what I was seeing about our systems into general talking points for a future team meeting about the results of the survey. I broke the talking points into three general sections of questions and talking points: Systems in Production, Server Infrastructure, and Systems Maintenance. Below are some of the most salient questions and talking points.
 
   *	Systems in Production
