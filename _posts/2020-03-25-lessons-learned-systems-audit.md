@@ -32,7 +32,7 @@ Coming out of the data gathering, I tried to synthesize what I was seeing about 
   *	Server Updates and Distribution
     *	How can we better stay on top of updating our production and development servers?
     *	Whose responsibility should it be to keep on top of distribution and package updates and management?
-    *	What is our deployment pattern for Continuous Deployment?
+    *	Is Continuous Deployment a useful pattern for us?
   *	Systems Maintenance
     *	What are our current systems maintenance practices? Do they exist in a codified form?
     *	Where are the current systems/application management breakdowns?
