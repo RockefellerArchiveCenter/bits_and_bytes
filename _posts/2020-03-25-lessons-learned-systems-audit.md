@@ -1,6 +1,6 @@
 ---
 title: "Lessons Learned from a Systems Audit"
-date: 2020-03-25T14:00:00+00:00
+date: 2020-03-26T14:00:00+00:00
 author: Patrick Galligan
 layout: post
 categories:
@@ -32,14 +32,14 @@ Coming out of the data gathering, I tried to synthesize what I was seeing about 
   *	Server Updates and Distribution
     *	How can we better stay on top of updating our production and development servers?
     *	Whose responsibility should it be to keep on top of distribution and package updates and management?
-    *	Is Continuous Deployment a useful pattern for us?
+    *	Is [Continuous Deployment](https://www.atlassian.com/continuous-delivery/continuous-deployment) a useful pattern for us?
   *	Systems Maintenance
     *	What are our current systems maintenance practices? Do they exist in a codified form?
     *	Where are the current systems/application management breakdowns?
 
 The D-Team had a lively discussion that ran for almost two hours just trying to unpack what we were currently doing and what we saw as the next steps forward. Perhaps unsurprisingly to those with systems experience, we identified dependency management and updates as one of our most time-consuming, manual, and frustrating operations. We have so many different applications that use a multitude of different packages that just making sure all of the packages stay up to date is a time-consuming task right now. Additionally, we’re somewhat caught between two worlds: our newer, internally-developed systems have good test coverage and we’ve been moving towards Docker containers for deployment, but our procedures for older systems and applications often fall short.
 
-We think we could lessen some of these pains by moving iteratively towards Continuous Integration (CI) and Continuous Deployment (CD) processes, but we need to get a better understanding of what we’re already doing and how that would fit into future pipelines first. In order to move towards more comprehensive CI/CD practices, we’ll also need better automated test coverage on all of our systems, systems resource tracking, some form of logging analysis, and SSH key management. We could also go back and start containerizing all of our older applications so that they will be easier to redeploy when necessary. We’re in the early stages of exploring tools to help us take our pipelines to the next stage, but we’re open to suggestions, so if you have experience in doing this at a cultural heritage institution, we’d love to hear about it!
+We think we could lessen some of these pains by moving iteratively towards [Continuous Integration (CI) and Continuous Deployment (CD)](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) processes, but we need to get a better understanding of what we’re already doing and how that would fit into future pipelines first. In order to move towards more comprehensive CI/CD practices, we’ll also need better [automated test coverage](https://continuousdelivery.com/foundations/test-automation/) on all of our systems, systems resource tracking, some form of [logging analysis](https://www.sumologic.com/glossary/log-analysis/), and [SSH key management](https://www.ssh.com/iam/ssh-key-management). We could also go back and start containerizing all of our older applications so that they will be easier to redeploy when necessary. We’re in the early stages of exploring tools to help us take our pipelines to the next stage, but we’re open to suggestions, so if you have experience in doing this at a cultural heritage institution, we’d love to hear about it!
 
 If that seems like a lot, it’s because it is. We’ve got a long way to go to get to a place where we feel completely comfortable with our systems development, deployment and maintenance processes, but gathering so much information about our systems allowed us to see how far we’ve come and what we still need to work on; it was both an enlightening and sobering experience. It’s fair to say that we already had an inkling of some of the issues that we were facing before performing our systems audit, hence the larger systems sustainability project, but the act of gathering information on all of our systems gave us an opportunity to take an in-depth look at our current workflows and how they are no longer working for us.
 
