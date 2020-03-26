@@ -28,7 +28,7 @@ Coming out of the data gathering, I tried to synthesize what I was seeing about 
 
   *	Systems in Production
     *	How can we generally improve our management of our systems?
-    *	Are there opportunities to have IT help with our systems load? Vice versa?
+    *	Are there opportunities to collaborate more effectively with IT?
   *	Server Updates and Distribution
     *	How can we better stay on top of updating our production and development servers?
     *	Whose responsibility should it be to keep on top of distribution and package updates and management?
