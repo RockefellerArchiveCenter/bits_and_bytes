@@ -1,13 +1,16 @@
 ---
 title: "ArchivesSpace Clean Up: Adding Structured Dates to an Entire Repository"
-date: 2020-04-22T11:10:00
+date: 2020-04-28T11:30:00
 author: Amy Berish
 layout: post
 categories:
-  - Software and Systems
+  - Data Cleanup
+  - Collaboration
 tags:
-  - blogs
-  - technology
+  - data
+  - description
+  - discovery
+  - learning
 excerpt_separator: <!--more-->
 ---
 
