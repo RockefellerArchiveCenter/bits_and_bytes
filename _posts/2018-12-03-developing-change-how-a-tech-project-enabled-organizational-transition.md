@@ -75,7 +75,7 @@ For this activity we split into groups and each group created a step-by-step map
 #### Scenario mapping example
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/2018/12/scenario-mapping-appraise.jpg">
+  <img src="{{ site.baseurl }}/assets/img/2018/12/scenario-mapping-appraise.jpg" alt="Scenario mapping appraisal workflow">
   <figcaption>Scenario mapping exercise example result</figcaption>
 </figure>
 
