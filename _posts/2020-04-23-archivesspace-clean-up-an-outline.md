@@ -1,5 +1,5 @@
 ---
-title: ArchivesSpace Clean Up: An Outline
+title: "ArchivesSpace Clean Up: An Outline"
 date: 2020-04-23T16:00:00+00:00
 author: Darren Young
 layout: post
@@ -11,8 +11,10 @@ tags:
     - description
     - discovery
     - learning
+    
 excerpt_separator: <!--more-->
 ---
+
 As Hillel stated in his recent [blog entry](https://blog.rockarch.org/making-connections), the RAC Processing Team has been working on a number of projects to clean up and improve the archival data our institution maintains in order to support the functionality we intend to provide in our discovery and delivery interface. I am writing this post to describe how Amy Berish, Katie Martin, and I have approached deleting and editing a massive collection of data as well to summarize the work we have accomplished to date in collaboration with different colleagues at the RAC. 
 
 <!--more-->
