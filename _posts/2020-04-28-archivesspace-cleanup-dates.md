@@ -25,7 +25,7 @@ We realized we needed to get a better idea of the dates that were in ArchivesSpa
 ## Finding A Solution
 I began doing some research on a few date parsing tools because manually editing hundreds of thousands of archival objects was off the table. Some of the options we considered were [DateUtil python module](https://dateutil.readthedocs.io/en/stable/), [OpenRefine](https://icantiemyownshoes.wordpress.com/2014/04/24/clean-up-dates-and-openrefine/), [Timewalk plug-in](https://github.com/alexduryee/timewalk), and the [Timetwister gem](https://github.com/alexduryee/timetwister). We were looking for something that would do a lot of the heavy lifting, with minimal manual clean-up required.
 
-We wanted was a tool that would:
+We wanted a tool that would:
 - Be relatively simple to use and install
 - Be able to parse different date formats (other than YYYY/MM/DD)
 - Give us high confidence in the data we are changing
