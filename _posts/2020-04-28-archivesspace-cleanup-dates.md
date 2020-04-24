@@ -70,7 +70,7 @@ Of course no Python module, Ruby gem, or plug-in would be able to handle some of
 
 Additionally, most other expressions that caused Timewalk to fail followed patterns. This meant they could be fixed automatically by a function that essentially would “find and replace” certain patterns in the date expression field. Things like “Jan.” could easily be changed to “January” and “no date” or “n.d.” could be changed to “undated”. We could also easily change “d. 1913” to “1910” by removing any string containing “d.”  and in a similar way, remove “Exhibited: ” from “Exhibited: 1960”.
 
-## Our Solution: A python script that triggers Timewalk
+## Our Solution: A Python script that triggers Timewalk
 Working with the Digital Strategies Team, I provided a list of expressions that would need to be changed in the “find and replace” style function. We wanted to take this opportunity to standardize the language used in the date expression field. For example: archival objects with an unknown date should always be “undated” and months should always be spelled out completely (i.e. January, February, March).
 
 We also decided it might be best to take a piecemeal approach, and have the script run on a single finding aid at time instead of the entire repository. Since we would be running the script on the production server, there was a chance we would be updating a finding aid that another archivist was working on, which would cause confusion in ArchivesSpace. By selecting a specific resource id before running the script, we could ensure that we would not interfere with any processing projects that were currently in progress.
