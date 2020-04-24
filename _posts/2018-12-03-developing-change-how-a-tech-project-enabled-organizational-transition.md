@@ -75,7 +75,7 @@ For this activity we split into groups and each group created a step-by-step map
 #### Scenario mapping example
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/2018/12/scenario-mapping-appraise.jpg">
+  <img src="{{ site.baseurl }}/assets/img/2018/12/scenario-mapping-appraise.jpg" alt="Scenario mapping appraisal workflow">
   <figcaption>Scenario mapping exercise example result</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ Next, the groups took a prose description of needs for a digital repository and 
 We finished off the workshops with a group data model diagramming activity. Each workshop split into three groups, chose a sample object from the RAC, and tried to draw a model of it within a digital repository.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/2017/10/model_2-e1508253019640.jpg">
+  <img src="{{ site.baseurl }}/assets/img/2017/10/model_2-e1508253019640.jpg" alt="RAC data modeling diagram">
   <figcaption>Beginning model diagrams from first exercise</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Following these sessions, it was time to dip our toes into actual modeling. It's
 #### First model
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/2018/04/Model-v1.png">
+  <img src="{{ site.baseurl }}/assets/img/2018/04/Model-v1.png" alt="Revised RAC data model">
   <figcaption>Our first attempt at data model diagramming.</figcaption>
 </figure>
 
@@ -152,12 +152,12 @@ We asked the participants to break themselves up into smaller groups and then ga
 Despite our coworkers' lack of experience in working with diagrams, they jumped in and came up with very illuminating work.
 
 <figure>
-<img src="{{ site.baseurl}}/assets/img/2018/04/Task2_2.jpg">
+<img src="{{ site.baseurl}}/assets/img/2018/04/Task2_2.jpg" alt="Scenario mapping diagram">
 <figcaption>Example diagram from Task 2</figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/2018/04/Task3_3.jpg">
+<img src="{{ site.baseurl }}/assets/img/2018/04/Task3_3.jpg" alt="Scenario mapping diagram">
 <figcaption>Example diagram from Task 3</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ When asked about the motivations behind making the blank node, the answer was of
 Coming out of the final sessions, we had a definite model to work with, so the next step was to "finalize" [our data model](https://github.com/RockefellerArchiveCenter/rac-data-model) and share it out to the community. Finally, we got to a point where we were ready to share our work out.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/2018/12/Model-v7.png">
+<img src="{{ site.baseurl }}/assets/img/2018/12/Model-v7.png" alt="Final data model diagram">
 <figcaption>Final data model draft</figcaption>
 </figure>
 
@@ -223,14 +223,14 @@ The next questions we needed to ask were how and where our could staff get this 
 ### Timeline/Implementation
 
 <figure>
-<img src="{{ site.baseurl}}/assets/img/2018/12/timeline.png">
+<img src="{{ site.baseurl}}/assets/img/2018/12/timeline.png" alt="Training timeline">
 <figcaption>The training timeline</figcaption>
 </figure>
 
 After understanding the skills, roles, and resources required, the next step was to create a timeline. We broke the calendar year into quarters, as that was easiest to manage. In order to begin figuring out a timeline, we thought about what skills built upon each other, and put the underlying skills first. We then balanced out the timeline using three factors: making sure each role had a somewhat even distribution of skills to learn each quarter (with the understanding that some skills were larger than others), thinking about what skills required internal support and when that internal support would be available, and where skills overlapped for several roles, making the timeline line up there.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/2018/12/asana.png">
+<img src="{{ site.baseurl }}/assets/img/2018/12/asana.png" alt="Asana training boards">
 <figcaption>Asana training board</figcaption>
 </figure>
 

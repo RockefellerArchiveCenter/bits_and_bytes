@@ -31,7 +31,7 @@ layout: default
       <div class="excerpt">
         {{ post.excerpt }}
       </div>
-        <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
+        <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
           {{ site.theme_settings.str_continue_reading }}
         </a>
     </div>

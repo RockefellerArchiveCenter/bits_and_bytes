@@ -11,48 +11,48 @@
 
 <section>
     <figure>
-      <img src="page2.gif">
+      <img src="page2.gif" alt="Foundation endowments">
       <figcaption></figcaption>
     </figure>
 </section>
 
 <section>
   <p>
-    "These funds should be so large that to become a trustee of one of them would make a man at once a public character." 
+    "These funds should be so large that to become a trustee of one of them would make a man at once a public character."
   </p>
 </section>
 
 <section>
     <figure>
-      <img src="wheat.png">
+      <img src="wheat.png" alt="Hands holding wheat">
       <figcaption>Agriculture</figcaption>
     </figure>
     </section>
 
 <section>
     <figure>
-      <img src="uni_of_chi.png">
+      <img src="uni_of_chi.png" alt="University of Chicago campus">
       <figcaption>Education</figcaption>
     </figure>
 </section>
 
 <section>
     <figure>
-      <img src="HIV.png">
+      <img src="HIV.png" alt="HIV/AIDS educational brochure">
       <figcaption>Disease</figcaption>
     </figure>
 </section>
 
 <section>
     <figure>
-      <img src="atom_smasher.png">
+      <img src="atom_smasher.png" alt="Atom Smasher">
       <figcaption>Atom bombs</figcaption>
     </figure>
 </section>
 
 <section>
     <figure>
-      <img src="rbfAnnualReport.gif">
+      <img src="rbfAnnualReport.gif" alt="Annual report web page">
       <figcaption></figcaption>
     </figure>
     <div role="note">Gifs are so cute!</div>
@@ -60,7 +60,7 @@
 
 <section>
     <figure>
-      <img src="CFReport.png">
+      <img src="CFReport.png" alt="Report on status of foundation archives">
       <figcaption></figcaption>
     </figure>
     <div role="note">Gifs are so cute!</div>
@@ -68,14 +68,14 @@
 
 <section>
   <p>
-	"... with most records now originating in digital form and with rapidly advancing 
+	"... with most records now originating in digital form and with rapidly advancing
 	information storage technology, archiving is within reach of virtually any foundation."
   </p>
 </section>
 
 <section>
     <figure>
-      <img src="orly.gif">
+      <img src="orly.gif" alt="Owls saying 'orly'">
       <figcaption></figcaption>
     </figure>
 </section>
@@ -87,7 +87,7 @@
       <li>QA tools
       <li>Little technical overhead
       <li>Institutional mission
-      <li>Collection management 
+      <li>Collection management
     </ul>
 </section>
 
@@ -100,14 +100,14 @@
 
 <section>
     <figure>
-      <img src="rbf_times_captured.png">
+      <img src="rbf_times_captured.png" alt="Website capture frequency">
       <figcaption></figcaption>
     </figure>
 </section>
 
 <section>
     <figure>
-      <img src="RBF_QC_ex.gif">
+      <img src="RBF_QC_ex.gif" alt="Website capture quality control issues">
       <figcaption></figcaption>
     </figure>
 </section>
@@ -123,7 +123,7 @@
 
 <section>
     <figure>
-      <img src="discoverability.jpg">
+      <img src="discoverability.jpg" alt="Search capabilities">
       <figcaption>discoverability</figcaption>
     </figure>
 </section>
@@ -131,15 +131,15 @@
 <section>
     <h3>What we can offer</h3>
     <ul class="incremental">
-      <li><i style="color: #FF00FF;">Human touch</i></li>      
+      <li><i style="color: #FF00FF;">Human touch</i></li>
       <li><i style="color: #FF00FF;">Discoverabilty</i></li>
-      <li>Preservation planning 
+      <li>Preservation planning
     </ul>
 </section>
 
 <section>
     <figure>
-      <img src="FortuneTeller.png">
+      <img src="FortuneTeller.png" alt="Woman telling fortunes">
       <figcaption>preservation planning</figcaption>
     </figure>
 </section>
@@ -147,21 +147,21 @@
 <section>
     <h3>First steps</h3>
     <ul class="incremental">
-      <li>Archive our own website      
+      <li>Archive our own website
       <li>Create the agreement forms
       <li>Test crawls
-      <li>Talk to our donors 
+      <li>Talk to our donors
     </ul>
 </section>
 
 <section>
     <h3>Next steps</h3>
     <ul class="incremental">
-      <li>Cost of preserving WARC files   
+      <li>Cost of preserving WARC files
       <li>Cost of creating description for web materials@
     </ul>
 </section>
-	
+
 
 <section>
     <h2>Thanks!</h2>
@@ -201,9 +201,9 @@
     margin-top: 200px;
     text-align: center;
     font-size: 80px;
-    
+
   }
-  
+
   h3 {
     margin: 100px 0 50px 100px;
     font-size: 60px;
@@ -214,7 +214,7 @@
   ul {
       margin: 50px 200px;
   }
-  
+
   li {
 	  font-size:40px;
 	  color: #00FFFF;
@@ -249,16 +249,16 @@
   figure > * {
     position: absolute;
   }
-  
+
  figure > img {
 	 width: 100%; height: 100%;
    }
- 
- 
+
+
  figure > video {
     width: 100%; height: 100%;
   }
-  
+
   figcaption {
     margin: 70px;
     font-size: 50px;
@@ -730,7 +730,7 @@
       requestFullscreen.apply(html);
     }
   }
-  
+
   Dz.setProgress = function(aIdx, aStep) {
     var slide = $("section:nth-of-type("+ aIdx +")");
     if (!slide)
@@ -740,14 +740,14 @@
         stepSize = slideSize / steps;
     this.progressBar.style.width = ((aIdx - 1) * slideSize + aStep * stepSize) + '%';
   }
-  
+
   Dz.postMsg = function(aWin, aMsg) { // [arg0, [arg1...]]
     aMsg = [aMsg];
     for (var i = 2; i < arguments.length; i++)
       aMsg.push(encodeURIComponent(arguments[i]));
     aWin.postMessage(aMsg.join(" "), "*");
   }
-  
+
   function init() {
     Dz.init();
     window.onkeydown = Dz.onkeydown.bind(Dz);
@@ -765,7 +765,7 @@
     Function.prototype.bind = function (oThis) {
 
       // closest thing possible to the ECMAScript 5 internal IsCallable
-      // function 
+      // function
       if (typeof this !== "function")
       throw new TypeError(
         "Function.prototype.bind - what is trying to be fBound is not callable"
