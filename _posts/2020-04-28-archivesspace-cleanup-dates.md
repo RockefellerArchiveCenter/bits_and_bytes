@@ -37,6 +37,7 @@ Through careful consideration, we decided Timewalk would be a great option. It c
 With assistance from the Digital Strategies Team, we installed the Timewalk plug-in on our ArchivesSpace development server first to get familiar with it and test its functionality. I wanted to get a better idea of what it does and doesn’t do, what happens when it works, and what happens when it doesn’t work? I used date expressions similar to the ones in the date export spreadsheet and tested how Timewalk responded. Here are some examples:
 
 ### Date Expressions Timewalk Can Parse:
+<div class="table">
 |     Date Expression     |    Type   |    Begin    |     End    |  Certainty  |
 |:-----------------------:|:---------:|:-----------:|:----------:|:-----------:|
 |        10/2/1972        |   Single  |  1972-10-02 |            |             |
@@ -50,6 +51,7 @@ With assistance from the Digital Strategies Team, we installed the Timewalk plug
 |         undated         | [blank]  |  [blank]   | [blank]   |             |
 |        Circa 1950       |   Single  |     1950    |            | Approximate |
 |         c. 1950         |   Single  |     1950    |            | Approximate |
+</div>
 
 ### Date Expressions Timewalk Cannot Parse:
 |           Date Expression           |    Result    |
