@@ -1,5 +1,5 @@
 ---
-title: "ArchivesSpace Cleanup: Removing Legacy Access Restriction Notes"
+title: "ArchivesSpace Clean Up: Removing Legacy Access Restriction Notes"
 date: 2020-04-30T11:30:00
 author: Katie Martin
 layout: post
