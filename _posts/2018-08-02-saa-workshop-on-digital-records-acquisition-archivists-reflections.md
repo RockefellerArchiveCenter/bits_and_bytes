@@ -6,7 +6,7 @@ author:
 - Darren Young
 - Emeline Swanson
 - Erich Chang
-- Katherine Martin
+- Katie Martin
 layout: post
 redirect_from: /?p=2048
 categories:
