@@ -19,7 +19,7 @@ Below is an example of common front matter.
 
 ```yaml
 ---
-title: Introducing the New Bits &amp; Bytes
+title: "Introducing the New Bits &amp; Bytes"
 date: 2019-01-02T11:10:00
 author: Patrick Galligan
 layout: post
@@ -35,7 +35,7 @@ excerpt_separator: <!--more-->
 
 ### Front Matter Fields
 
-* **Title:** **(Required)** This should be the display title of your post. It will be the title that displays on the site. You must encode any special characters like ampersands (&amp;).
+* **Title:** **(Required)** This should be the display title of your post. It will be the title that displays on the site. Titles which include characters like ampersands, colons, exclamation marks or slashes should be enclosed in double quotation marks, as in the example above.
 * **Date:** **(Required)** The date that you are making your post public. It should be formatted like the above example. The date will control where in the list of posts your post will display.
 * **Author:** **(Required)** The author or authors of the post. A single author should be on a single line, ex.: `author: Patrick Galligan`. Posts with multiple authors should have each author on a separate line.
     ```yaml
@@ -61,16 +61,19 @@ excerpt_separator: <!--more-->
 ## Posting on Bits & Bytes
 
 ### Create a new branch
-Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. [See the GitHub documentation on creating new branches if you have questions](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository).
+Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. See the GitHub documentation on [creating new branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository) if you have questions.
 
 ### Push your files to the new branch
 Place your files in the correct locations in your new branch (see "File Names & Locations" section above).
 
 ### Create a pull request
-Once you have created a branch and placed your post file and images in the correct location you can open a pull request. You should create a pull request from your newly created branch which points at the `gh-pages` branch. [See the GitHub documentation on creating pull requests if you have questions](https://help.github.com/en/articles/creating-a-pull-request). Request review from another RAC staff member in the pull request.
+Once you have created a branch and placed your post file and images in the correct location you can open a pull request. You should create a pull request from your newly created branch which points at the `gh-pages` branch. See the GitHub documentation on [creating pull requests](https://help.github.com/en/articles/creating-a-pull-request) if you have questions. Request review from another RAC staff member in the pull request.
 
 ### Merge the pull request
-Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `gh-pages` branch. [See the GitHub documentation on merging pull requests if you have questions](https://help.github.com/en/articles/merging-a-pull-request).
+Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `gh-pages` branch. Merging the pull request will automatically publish the post, so only do this when you are ready for your post to be visible to the world. See the GitHub documentation on [merging pull requests](https://help.github.com/en/articles/merging-a-pull-request) if you have questions.
+
+## Tips and Tricks
+In order for **Markdown tables** to render properly, they need to be separated from other block-level elements. This means you should add a blank line before and after a table in order for it to render properly.
 
 ## License
 
