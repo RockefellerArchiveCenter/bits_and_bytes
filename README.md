@@ -61,7 +61,7 @@ excerpt_separator: <!--more-->
 ## Posting on Bits & Bytes
 
 ### Create a new branch
-Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. See the GitHub documentation on [creating new branches]((https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)) if you have questions.
+Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. See the GitHub documentation on [creating new branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository) if you have questions.
 
 ### Push your files to the new branch
 Place your files in the correct locations in your new branch (see "File Names & Locations" section above).
