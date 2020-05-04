@@ -26,7 +26,7 @@ Of course, the varied and complex issues surrounding our agents prompted us to c
 ## Mo Agents, Mo Problems
 With assistance from the Digital Strategies Team, we were able to get a .csv file export of all agent data in our ArchivesSpace repository. Having all of our agent data in a spreadsheet gave us the ability to use filters in Excel to sort the data alphabetically, or by its source ID (LCNAF, local, or none). This allowed us to take notice of the sheer amount of agents as well as some of the problematic names and acronyms.
 
-![Merging agents in ArchivesSpace](agentspreadsheet.png)
+![Merging agents in ArchivesSpace]({{site.baseurl}}/assets/img/2020/05/agentspreadsheet.png)
 
 Looking at our data, we found even more complicated issues surrounding our agents. A lot of these examples really made our heads spin! Here are a few examples:
 
@@ -50,9 +50,9 @@ We needed to find a way to decide which agent was the right agent and remove the
 
 We ultimately decided to use the [Enhanced Agent Merging](https://www.youtube.com/watch?v=MkOhCkUPJic) function that was included in a recent ArchivesSpace update. This functionality allowed us to select an agent and merge duplicate agents into it. Prior to merging, you can select “Compare Agents” which brings you to a new screen that shows the two agent records side-by-side, allowing you to choose which information within the agent record is merged. 
 
-![Merging agents in ArchivesSpace](mergeAgents.png)
+![Merging agents in ArchivesSpace]({{site.baseurl}}/assets/img/2020/05/mergeAgents.png)
 
-![Compare Agents view](compareAgents.png)
+![Compare Agents view]({{site.baseurl}}/assets/img/2020/05/compareAgents.png)
 
 Although merging agents was manual work, it utilized a functionality that already existed in ArchivesSpace, thereby avoiding the work it would take to create a script that would be able to handle the level of logic required to decide which agent to merge. Using the Merge Agents functionality also retains all existing links and eliminates the need to delete the duplicate agent record.
 
