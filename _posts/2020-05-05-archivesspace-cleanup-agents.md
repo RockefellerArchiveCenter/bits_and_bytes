@@ -1,6 +1,6 @@
 ---
 title: ArchivesSpace Cleanup: Wrangling Agents in the Wild
-date: 2020-04-22T11:10:00
+date: 2020-05-05T11:10:00
 author:
 - Amy Berish
 - Katie Martin
