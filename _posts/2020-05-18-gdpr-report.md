@@ -1,11 +1,11 @@
 ---
-title: "The General Data Protection (GDPR) Regulation in Archives"
+title: "The General Data Protection Regulation in Archives"
 date: 2020-05-18T11:00:00
 author:
 - Hannah Sistrunk
 layout: post
 categories:
-  - special projects
+  - Special Projects
 tags:
   - privacy
   - records management
