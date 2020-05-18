@@ -1,8 +1,7 @@
 ---
 title: "The General Data Protection Regulation in Archives"
 date: 2020-05-18T11:00:00
-author:
-  - Hannah Sistrunk
+author: Hannah Sistrunk
 layout: post
 categories:
   - Special Projects
