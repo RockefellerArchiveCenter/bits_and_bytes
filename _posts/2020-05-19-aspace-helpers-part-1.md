@@ -1,5 +1,5 @@
 ---
-title: "(Not) Everything is Miscellaneous: Building an ArchivesSpace API Helpers Package"
+title: "Building an ArchivesSpace API Helpers Package: An Update (Part 1)"
 date: 2020-05-19T09:00:00+00:00
 author: Bonnie Gordon
 layout: post
