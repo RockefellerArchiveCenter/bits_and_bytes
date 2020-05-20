@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-This month, we completed our project to create an [ArchivesSpace Helpers Package](/not-everything-is-miscellaneous). While the end product looked slightly differently than initially scoped--we're about to embark on a project to add some of the code we've created to the ArchivesSnake library--we created a library of functions and tests that use ArchivesSnake with common use cases. This is the first of two blog posts, where project team members reflect on the project. First up are the code helpers, who were paired with code owners on a rotating basis, and were responsible for understanding and presenting the work of their partner at the scrum meetings.
+This month, we completed our project to create an [ArchivesSpace Helpers Package](/not-everything-is-miscellaneous). While the end product looked slightly differently than initially scoped--we're about to embark on a project to add some of the code we've created to the ArchivesSnake library--we created a library of functions and tests that builds on ArchivesSnake to support common use cases. This is the first of two blog posts, where project team members reflect on the project. First up are the code helpers, who were paired with code owners on a rotating basis, and were responsible for understanding and presenting the work of their partner at the scrum meetings.
 
 <!--more-->
 
