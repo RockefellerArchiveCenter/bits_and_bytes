@@ -7,9 +7,9 @@ categories:
     - Data Cleanup
     - Collaboration
 tags:
+    - access
+    - ArchivesSpace
     - data
-    - discovery
-    - learning
 
 excerpt_separator: <!--more-->
 ---
