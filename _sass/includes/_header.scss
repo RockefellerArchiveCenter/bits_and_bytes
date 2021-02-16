@@ -10,6 +10,16 @@
     color: $header-link-color;
   }
 
+  .branding:hover {
+    a {
+      text-decoration: underline;
+      color: $link-color;
+    }
+    .site-subtitle {
+      color: $link-color;
+    }
+  }
+
   .avatar {
     height: 4em;
     float: left;
@@ -25,10 +35,14 @@
   }
 
   .site-subtitle {
-    color: $tags-color
+    color: $tags-color;
   }
 
   .site-nav {
+    a:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
     ul {
       margin: 0.6em 0 0 0;
       padding: 0;
