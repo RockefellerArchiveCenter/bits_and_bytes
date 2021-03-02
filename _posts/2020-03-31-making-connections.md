@@ -22,7 +22,7 @@ Several months ago, I wrote about our plans for the [next phase of Project Elect
 At its core, the data pipeline we’ve built consists of four services, which live in two different Django projects:
 - **Fetchers**, which fetch updated and deleted data from data sources on a regular basis.
 - **Mergers**, which merge data from different sources into a unified set of source objects.
-- **Transformers**, which transform source objects into objects which comply with the [RAC data model](https://github.com/RockefellerArchiveCenter/rac-data-model/wiki).
+- **Transformers**, which transform source objects into objects which comply with the [RAC data model](https://github.com/RockefellerArchiveCenter/rac_schemas).
 - **Indexers**, which add, update and delete data in our Elasticsearch index.
 
 ![Data pipeline]({{site.baseurl}}/assets/img/2020/03/data_pipeline.png)
@@ -33,7 +33,7 @@ On a regular basis, a Fetcher job runs against the ArchivesSpace API which asks 
 
 The Merger takes the resource record data delivered to it and figures out what else it needs to fetch. In this case it might need to go back to ArchivesSpace to ask it for some more data about its immediate children, since the ArchivesSpace API makes resource trees available at a separate endpoint. When it gets all the data it needs, it sticks everything together and passes it off to the Transformer.
 
-The Transformer takes the source data it gets from the Merger and transforms it to the appropriate RAC data model object, in this case a [Collection](https://github.com/RockefellerArchiveCenter/rac-data-model/wiki#rac-collection-a-pcdmcollection). It then saves that transformed object in a database.
+The Transformer takes the source data it gets from the Merger and transforms it to the appropriate RAC data model object, in this case a [Collection](https://github.com/RockefellerArchiveCenter/rac_schemas/blob/base/rac_schemas/schemas/collection.json). It then saves that transformed object in a database.
 
 Last, on a regular basis, an Indexer job looks for any objects that haven’t been indexed, and indexes them in Elasticsearch. At this point the new finding aid is fully discoverable and searchable by researchers! Ideally this process happens in a matter of minutes; less time than it took you to read about it happening.
 

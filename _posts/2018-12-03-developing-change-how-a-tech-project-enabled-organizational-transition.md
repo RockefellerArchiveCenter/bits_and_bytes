@@ -169,7 +169,7 @@ When asked about the motivations behind making the blank node, the answer was of
 
 ### Finishing touches
 
-Coming out of the final sessions, we had a definite model to work with, so the next step was to "finalize" [our data model](https://github.com/RockefellerArchiveCenter/rac-data-model) and share it out to the community. Finally, we got to a point where we were ready to share our work out.
+Coming out of the final sessions, we had a definite model to work with, so the next step was to "finalize" [our data model](https://github.com/RockefellerArchiveCenter/rac_schemas) and share it out to the community. Finally, we got to a point where we were ready to share our work out.
 
 <figure>
 <img src="{{ site.baseurl }}/assets/img/2018/12/Model-v7.png" alt="Final data model diagram">
