@@ -48,9 +48,9 @@ Goals:
 - Meetings begin with a lightning round style reflection question that is shared with staff prior to the meeting
 
 Recommended Readings: 
-- [Silencing the Past, Chapter 1: The Power in the Story](https://prismatically.blog/2020/08/20/book-summary-silencing-the-past-michel-rolph-trouillot/#:~:text=Chapter%201%3A%20The%20Power%20in,is%20said%20to%20have%20happened'.&text=Some%2C%20by%20being%20influenced%20by,and%20the%20narratives%20about%20it.) - Michel-Rolph Trouillot
+- [Silencing the Past, Chapter 1: The Power in the Story](https://bit.ly/3mesvto) - Michel-Rolph Trouillot
 - [Me and White Supremacy](https://www.meandwhitesupremacybook.com/) - Layla F. Saad
-- [Anti-Racist Description Resources](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf?fbclid=IwAR1vjm-xXHxIJAr_ae-WY332DWvB7cw_iT4Oev4gGgPf3Xv80w_v6j_toMM) - Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group
+- [Anti-Racist Description Resources](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) - Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group
 - [Identifying & Dismantling White Supremacy in Archives poster](http://www.gracenbrilmyer.com/dismantling_whiteSupremacy_archives3.pdf) - Michelle Caswell, UCLA Archives, Records, and Memory class, with poster design by Gracen Brilmyer
 - Jessica Tai, ["Cultural Humility as a Framework for Anti-Oppressive Archival Description,"](https://journals.litwinbooks.com/index.php/jclis/article/view/120) Journal of Critical Library and Information Studies 3 (October 1, 2020)
 
@@ -60,9 +60,9 @@ Thank you to Patrick Galligan, Bonnie Gordon, Katie Martin, Hannah Sistrunk, and
 Stay tuned for more blog posts documenting our experience facilitating the Culturally Competent (Re)Description Education Campaign!
 
 ## Resources
-- [Anti-Racist Description Resources](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf?fbclid=IwAR1vjm-xXHxIJAr_ae-WY332DWvB7cw_iT4Oev4gGgPf3Xv80w_v6j_toMM) from Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group
+- [Anti-Racist Description Resources](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) from Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group
 - [Toward Culturally Competent Archival (Re)Description of Marginalized Histories](https://docs.google.com/presentation/d/12AeoxnJVWuqVidvBNIbBGsHOtDFdc4l0fKm6Jo8i4bs/edit#slide=id.g3faa248117_0_0), SAA panel slides (trigger warning: racist images and language in these slides)
 
 Example research guides, description policy, and contextual information:
-- Digital Transgender Archive Race and Ethnicity Research Guide (with link to Describing Objects policy) https://www.digitaltransgenderarchive.net/learn/raceandethnicity
-- College Women note on bias in the collection https://www.collegewomen.org/about
+- [Digital Transgender Archive Race and Ethnicity Research Guide](https://www.digitaltransgenderarchive.net/learn/raceandethnicity)
+- [College Women note on bias in the collection](https://www.collegewomen.org/about)
