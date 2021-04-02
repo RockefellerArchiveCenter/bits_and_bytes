@@ -1,8 +1,7 @@
 ---
 title: "Learning Together: Cultural Competency in Archives - Planning an Education Campaign"
 date: 2021-04-02T11:10:00
-author:
-- Amy Berish
+author: Amy Berish
 layout: post
 categories:
   - Collaboration
