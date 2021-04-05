@@ -12,7 +12,7 @@ tags:
   - learning
 excerpt_separator: <!--more-->
 ---
-The Rockefeller Archive Center is taking steps to ensure that our actions align with the [RAC statement in solidarity with the Black community]([statement in solidarity with the Black Community](https://twitter.com/rockarch_org/status/1269009567935062016?s=20) and our recent [statement in solidarity with the Asian, Asian-American and Pacific Islander Community](https://twitter.com/rockarch_org/status/1374083568939450368?s=20). Amy Berish, Darren Young, and myself, on behalf of the processing team, [organized an education campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign) to learn more about cultural competency concepts and ultimately create more inclusive and respectful archival description.
+The Rockefeller Archive Center is taking steps to ensure that our actions align with the RAC [statement in solidarity with the Black Community](https://twitter.com/rockarch_org/status/1269009567935062016?s=20) and our recent [statement in solidarity with the Asian, Asian-American and Pacific Islander Community](https://twitter.com/rockarch_org/status/1374083568939450368?s=20). Amy Berish, Darren Young, and myself, on behalf of the processing team, [organized an education campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign) to learn more about cultural competency concepts and ultimately create more inclusive and respectful archival description.
 
 <!--more-->
 
