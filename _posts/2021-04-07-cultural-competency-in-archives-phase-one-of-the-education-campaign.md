@@ -28,6 +28,7 @@ The first phase of the education campaign officially kicked off in December 2020
 Early in the planning process, we acknowledged that the nature of these discussions would sometimes be sensitive, challenging, and require personal reflection. To make the sessions more transparent, we supplied the agenda and our slides beforehand.  We also sent out an anonymous pre-discussion survey to provide more avenues for participation outside the sessions. The survey helped us determine how to structure the sessions and gauge reactions to the learning modules and the education campaign itself.
 
 *Pre-Discussion Survey Questions:*
+
 For many, race and racism are uncomfortable topics to discuss. What makes these topics uncomfortable for you, personally? How have these learning modules impacted your ability to engage with conversations around race and racism?
 
 - The SAA Cultural Diversity Competency Course shared a definition of culture from the Institute of Medicine that describes culture as "The accumulated store of shared values, ideas (attitudes, beliefs, values, and norms), understandings, symbols, material products, and practices of a group of people”. How would you describe the culture at the RAC?
@@ -41,6 +42,7 @@ While Amy, Darren, and I organized and facilitated this phase of the education c
 After the initial icebreaker, we moved into breakout rooms for a larger conversation about the Rockefeller Archive Center itself.  Because we encouraged all staff to participate, we understood that there might be discomfort expressing certain views in front of higher-ups and teammates. To encourage more free discussion, we created breakout rooms groups that varied across the hierarchy of the organization and across departments. The main discussion consisted of three broad topics.
 
 *Topics for Discussion*
+
 - Workplace Culture at the  RAC - reactions to answers from the pre-survey
 - RAC as an Institution - How can we take first impressions into account when greeting researchers? How we might contribute to [gatekeeping](https://blogs.ifla.org/faife/2019/07/17/from-gatekeeper-to-gateway-to-gate-opener-the-changing-role-of-libraries-and-how-we-talk-about-it/)?
 - Whiteness at the Rockefeller Archive Center - How might the demographic makeup of our records’ creators impact the way researchers, staff members, and others perceive the RAC? How may the ways in which the creators perceive and describe the subjects differ from the ways in which the subjects perceive and describe themselves?
