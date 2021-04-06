@@ -29,7 +29,7 @@ Early in the planning process, we acknowledged that the nature of these discussi
 
 *Pre-Discussion Survey Questions:*
 
-For many, race and racism are uncomfortable topics to discuss. What makes these topics uncomfortable for you, personally? How have these learning modules impacted your ability to engage with conversations around race and racism?
+- For many, race and racism are uncomfortable topics to discuss. What makes these topics uncomfortable for you, personally? How have these learning modules impacted your ability to engage with conversations around race and racism?
 
 - The SAA Cultural Diversity Competency Course shared a definition of culture from the Institute of Medicine that describes culture as "The accumulated store of shared values, ideas (attitudes, beliefs, values, and norms), understandings, symbols, material products, and practices of a group of people”. How would you describe the culture at the RAC?
 - Did any of these courses make you think differently about an experience at the RAC? In the reading room? Reading through or writing archival description? Interacting with donors?
