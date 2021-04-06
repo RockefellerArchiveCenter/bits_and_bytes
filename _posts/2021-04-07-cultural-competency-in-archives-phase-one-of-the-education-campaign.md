@@ -12,7 +12,7 @@ tags:
   - learning
 excerpt_separator: <!--more-->
 ---
-The Rockefeller Archive Center is taking steps to ensure that our actions align with the RAC [statement in solidarity with the Black Community](https://twitter.com/rockarch_org/status/1269009567935062016?s=20) and our recent [statement in solidarity with the Asian, Asian-American and Pacific Islander Community](https://twitter.com/rockarch_org/status/1374083568939450368?s=20). Amy Berish, Darren Young, and myself, on behalf of the Processing team, [organized an education campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign) to learn more about cultural competency concepts and ultimately create more inclusive and respectful archival description.
+The Rockefeller Archive Center is taking steps to ensure that our actions align with the RAC [statement in solidarity with the Black Community](https://twitter.com/rockarch_org/status/1269009567935062016?s=20) and our recent [statement in solidarity with the Asian, Asian-American and Pacific Islander Community](https://twitter.com/rockarch_org/status/1374083568939450368?s=20). Amy Berish, Darren Young, and myself, on behalf of the Processing team, [organized an education campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign) to helps us and our colleagues learn more about cultural competency concepts and ultimately create more inclusive and respectful archival description.
 
 <!--more-->
 
@@ -47,6 +47,6 @@ After the initial icebreaker, we moved into breakout rooms for a larger conversa
 - RAC as an Institution - How can we take first impressions into account when greeting researchers? How we might contribute to [gatekeeping](https://blogs.ifla.org/faife/2019/07/17/from-gatekeeper-to-gateway-to-gate-opener-the-changing-role-of-libraries-and-how-we-talk-about-it/)?
 - Whiteness at the Rockefeller Archive Center - How might the demographic makeup of our records’ creators impact the way researchers, staff members, and others perceive the RAC? How may the ways in which the creators perceive and describe the subjects differ from the ways in which the subjects perceive and describe themselves?
 
-In total, the discussion sessions were scheduled for an hour and a half each. To manage time, we tried to keep the icebreaker around 20 minutes with 45 minutes left for the three discussion sections and 10 minutes at the end to report back from breakout rooms. Following the sessions, we sent out a post-survey to inform how we move forward into a monthly reading group for phase two of the education campaign.
+In total, the discussion sessions were scheduled for an hour and a half each. To manage time, we tried to keep the icebreaker around 20 minutes with 45 minutes left for the three discussion sections and 10 minutes at the end to report back from breakout rooms. Following the sessions, we sent out an anonymous post-survey to inform how we move forward into a monthly reading group for phase two of the education campaign.
 
 Overall, we want to thank everyone at the RAC for learning alongside us and for taking the time to complete the modules and participate in the discussion.
