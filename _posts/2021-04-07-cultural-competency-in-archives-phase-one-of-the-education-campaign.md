@@ -12,7 +12,7 @@ tags:
   - learning
 excerpt_separator: <!--more-->
 ---
-The Rockefeller Archive Center is taking steps to ensure that our actions align with the RAC [statement in solidarity with the Black Community](https://twitter.com/rockarch_org/status/1269009567935062016?s=20) and our recent [statement in solidarity with the Asian, Asian-American and Pacific Islander Community](https://twitter.com/rockarch_org/status/1374083568939450368?s=20). Amy Berish, Darren Young, and myself, on behalf of the Processing team, [organized an education campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign) to helps us and our colleagues learn more about cultural competency concepts and ultimately create more inclusive and respectful archival description.
+The Rockefeller Archive Center is taking steps to ensure that our actions align with the RAC [statement in solidarity with the Black Community](https://twitter.com/rockarch_org/status/1269009567935062016?s=20) and our recent [statement in solidarity with the Asian, Asian-American and Pacific Islander Community](https://twitter.com/rockarch_org/status/1374083568939450368?s=20). Amy Berish, Darren Young, and myself, on behalf of the Processing team, [organized an education campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign) to help us and our colleagues learn more about cultural competency concepts and ultimately create more inclusive and respectful archival description.
 
 <!--more-->
 
@@ -24,6 +24,8 @@ The first phase of the education campaign officially kicked off in December 2020
 - SAA [Cultural Diversity Competency Course](https://www2.archivists.org/prof-education/course-catalog/cultural-diversity-competency)
 - SAA Archives*Records 2020, On-Demand Session 24: [Implementing Inclusive (Re)Description at Predominantly White Institutions](https://mvp.markeys.onl/SAA/agenda/session/306593)
 - Three discussion sessions in January 2021 to accommodate staff
+
+We chose the Confronting Racism and Cultural Diversity Competency courses to provide shared terminology, examples, and greater awareness to frame discussions of racism and culture. The SAA session, Implementing Inclusive (Re)Description at Predominantly White Institutions, was chosen to provide more concrete examples of what redescription work might look like at the RAC.
 
 Early in the planning process, we acknowledged that the nature of these discussions would sometimes be sensitive, challenging, and require personal reflection. To make the sessions more transparent, we supplied the agenda and our slides beforehand.  We also sent out an anonymous pre-discussion survey to provide more avenues for participation outside the sessions. The survey helped us determine how to structure the sessions and gauge reactions to the learning modules and the education campaign itself.
 
@@ -48,5 +50,16 @@ After the initial icebreaker, we moved into breakout rooms for a larger conversa
 - Whiteness at the Rockefeller Archive Center - How might the demographic makeup of our records’ creators impact the way researchers, staff members, and others perceive the RAC? How may the ways in which the creators perceive and describe the subjects differ from the ways in which the subjects perceive and describe themselves?
 
 In total, the discussion sessions were scheduled for an hour and a half each. To manage time, we tried to keep the icebreaker around 20 minutes with 45 minutes left for the three discussion sections and 10 minutes at the end to report back from breakout rooms. Following the sessions, we sent out an anonymous post-survey to inform how we move forward into a monthly reading group for phase two of the education campaign.
+
+In total, the discussion sessions were scheduled for an hour and a half each. To manage time, we tried to keep the icebreaker around 20 minutes with 45 minutes left for the three discussion sections and 10 minutes at the end to report back from breakout rooms.
+
+Some takeaways from our conversations include:
+- Cultural competency is an iterative process, and it will make us uncomfortable. There is always room for improvement, personally and professionally.
+- The LinkedIn Learning Confronting Racism course clearly articulated the need to get past white defensiveness and guilt. We must confront personal biases and the biases that exist within the collections to undertake this work.
+- The SAA Cultural Competency course raised awareness about the multiple dimensions of culture and how that impacts interactions with users and colleagues.
+- The SAA Archives*Records 2020 session highlighted that redescription work is going to be a balancing act between contextualizing existing legacy description and changing certain aspects of description entirely.
+- Power imbalances are an inherent part of philanthropy due to the nature of grantmaking. Our archival description should acknowledge and contextualize these relationships.
+
+Following the sessions, we sent out an anonymous post-survey to inform how we move forward into a monthly reading group for phase two of the education campaign. Based on the feedback, we will continue to use breakout rooms for smaller groups, start sessions with ground rules, and have facilitators start off the discussions by responding to the questions first. To improve the sessions, we will make sure we have volunteers in place to report back from breakout rooms to alleviate that pressure at the end. Stay tuned for updates regarding the reading group and redescription work going forward.
 
 Overall, we want to thank everyone at the RAC for learning alongside us and for taking the time to complete the modules and participate in the discussion.
