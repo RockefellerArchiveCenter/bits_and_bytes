@@ -49,8 +49,6 @@ After the initial icebreaker, we moved into breakout rooms for a larger conversa
 - RAC as an Institution - How can we take first impressions into account when greeting researchers? How we might contribute to [gatekeeping](https://blogs.ifla.org/faife/2019/07/17/from-gatekeeper-to-gateway-to-gate-opener-the-changing-role-of-libraries-and-how-we-talk-about-it/)?
 - Whiteness at the Rockefeller Archive Center - How might the demographic makeup of our records’ creators impact the way researchers, staff members, and others perceive the RAC? How may the ways in which the creators perceive and describe the subjects differ from the ways in which the subjects perceive and describe themselves?
 
-In total, the discussion sessions were scheduled for an hour and a half each. To manage time, we tried to keep the icebreaker around 20 minutes with 45 minutes left for the three discussion sections and 10 minutes at the end to report back from breakout rooms. Following the sessions, we sent out an anonymous post-survey to inform how we move forward into a monthly reading group for phase two of the education campaign.
-
 In total, the discussion sessions were scheduled for an hour and a half each. To manage time, we tried to keep the icebreaker around 20 minutes with 45 minutes left for the three discussion sections and 10 minutes at the end to report back from breakout rooms.
 
 Some takeaways from our conversations include:
