@@ -26,15 +26,15 @@ The resulting project report included recommendations that were adopted by the R
 
 ## The Web Analytics Owners Group
 
-The analytics "owners" from their respective teams were identified in April 2020: Erich Chang from Collections Management, Kathleen Leonard from Reference, Darren Young from Processing, Rachel Wimpee from Research and Education, and me from Digital Strategies. Shortly after the COVID-19 pandemic forced us to transition to remote work, I invited this group to meet as a part of a training strategy to develop our skills. We set up our first regular meetings in May 2020, initially focused on sharing our existing knowledge and learning the basics of Google Analytics and Google Tag Manager. Team members researched topics and reported back to the group, which created space to share skills, questions, and to explore how web analytics topics might apply in the contexts of our different program areas. We compiled a shared document of training resources and key concepts with guides, training resources, and other reference sources. The skillshares and discussions have covered topics that include:
+The analytics "owners" from their respective teams were identified in April 2020: Erich Chang from Collections Management, Kathleen Leonard from Reference, Darren Young from Processing, Rachel Wimpee from Research and Education, and me from Digital Strategies. Shortly after the COVID-19 pandemic forced us to transition to remote work, I invited this group to meet as a part of a training strategy to develop our skills. We set up our first regular meetings in May 2020, initially focused on sharing our existing knowledge and learning the basics of Google Analytics and Google Tag Manager. Team members researched topics and reported back to the group, which created space to share skills, questions, and to explore how web analytics topics might apply in the contexts of our different program areas. We compiled a shared document of resources and key concepts with guides, training resources, and other reference sources. The skillshares and discussions have covered topics that include:
 
 - Web analytics and user privacy, particularly in the context of our new [RAC Privacy Policy](https://rockarch.org/about-us/privacy-policy/).
 - Considering the limitations of analytics-based assessment and other methods we might use to answer different kinds of questions.
-- Reporting methods, data visualization, and how to present relevant data effectively to stakeholders
-- Setting up and using Google Tag Manager to track site events like button and link clicks
-- Understanding how to use and share custom dashboards and reports
-- SEO and interpreting and leveraging data about site traffic
-- The newly released Google Analytics 4
+- Reporting methods, data visualization, and how to present relevant data effectively to stakeholders.
+- Setting up and using Google Tag Manager to track site events like button and link clicks.
+- Understanding how to use and share custom dashboards and reports.
+- SEO and interpreting and leveraging data about site traffic.
+- The newly released Google Analytics 4.
 - The possibility of moving away from using Google Analytics to a different platform like [Matomo](https://matomo.org/).
 
 These Analytics Owners Group skillshare meetings came at an important moment for the Rockefeller Archive Center web presence with the recently redesigned [RAC website](https://rockarch.org/), the new [RE:source digital storytelling and educational](https://resource.rockarch.org/) site produced by the Research & Education team, development and release of our [new archival discovery system](https://dimes.rockarch.org/), and our continued interest in sharing [RAC documentation](https://docs.rockarch.org/) widely with that archival community. In this context of multiple new mission-critical RAC web properties, the group offered a space to explore ideas about how we measure our work and impact while gaining the skills to implement event tracking and reporting mechanisms to enable that analysis. Finally, we’ve been cautious and clear about the limitations and problems of overreliance on metrics-based assessment.
