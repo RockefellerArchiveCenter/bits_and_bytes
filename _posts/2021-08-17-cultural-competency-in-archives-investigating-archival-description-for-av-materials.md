@@ -8,7 +8,7 @@ categories:
 - Conferences/Education
 - Professional Reading
 tags:
-- RAC Fellowship: L. Jeffrey Selznick School of Film Preservation
+- RAC Fellowship-L. Jeffrey Selznick School of Film Preservation
 - cultural competency
 - description
 - Film
