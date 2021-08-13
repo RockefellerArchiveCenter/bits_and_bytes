@@ -18,7 +18,7 @@ tags:
 - preservation
 - Artefactual
 - Archivematica
-excerpt_separator <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 I began my work as a Fellow with the Rockefeller Archive Center (RAC) in late May of this year, for a 10-week termed position. Due to the COVID-19 pandemic, the hands-on work that I would have undertaken had to be altered to best accommodate an offsite remote Fellowship. Thus, my work turned towards research. One of my projects involved investigating potential tools and systems for preserving the RAC’s digitized audiovisual files in [Archivematica](https://www.archivematica.org/en/), the RAC’s current digital preservation system. Along with this research I would also be including recommendations for future preservation practices and/or decisions.
