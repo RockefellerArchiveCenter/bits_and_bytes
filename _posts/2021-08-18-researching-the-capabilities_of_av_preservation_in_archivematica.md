@@ -9,7 +9,7 @@ categories:
 - Software and Systems
 - Digital Preservation
 tags:
-- RAC Fellowship-L. Jeffrey Selznick School of Film Preservation
+- L. Jeffrey Selznick School of Film Preservation RAC Fellowship
 - Audiovisual
 - Film
 - Video
