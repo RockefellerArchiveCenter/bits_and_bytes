@@ -4,8 +4,20 @@ date: 2021-08-18T11:30:00
 author: Christian Balistreri
 layout: post
 categories:
+- Collaboration
+- Digitization
+- Software and Systems
+- Digital Preservation
 tags:
-- RAC Fellowship: L. Jeffrey Selznick School of Film Preservation
+- RAC Fellowship-L. Jeffrey Selznick School of Film Preservation
+- Audiovisual
+- Film
+- Video
+- Audio
+- audiovisual digitization
+- preservation
+- Artefactual
+- Archivematica
 excerpt_separator <!--more-->
 ---
 
