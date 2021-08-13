@@ -5,6 +5,7 @@ author: Zachary Leming
 layout: post
 categories: Uncategorized
 tags:
+  - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
   - documentation
   - access
   - archives profession
