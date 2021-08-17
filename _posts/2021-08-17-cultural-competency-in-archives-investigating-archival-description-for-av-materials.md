@@ -1,5 +1,5 @@
 ---
-title: Learning Together: Cultural Competency in Archives: Investigating Archival Description for Audiovisual Materials
+title: "Learning Together: Cultural Competency in Archives: Investigating Archival Description for Audiovisual Materials"
 date: 2021-08-17T11:30:00
 author: Christian Balistreri
 layout: post
