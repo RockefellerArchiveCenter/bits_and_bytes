@@ -16,7 +16,7 @@ tags:
 - learning
 excerpt_separator: <!--more-->
 ---
-I began my work as a Fellow with the Rockefeller Archive Center (RAC) in late May of this year, for a 10-week termed position. Due to the COVID-19 pandemic, the hands-on work that I would have undertaken had to be altered to best accommodate an offsite remote Fellowship. Thus, my work turned towards research. One of these projects involved various avenues of research and investigation into culturally competent description (CCD) and how it can be utilized to better reflect the content and represent the recorded cultures the RAC’s audiovisual (AV) collections. 
+I began my work as a Fellow with the Rockefeller Archive Center (RAC) in late May of this year, for a 10-week termed position. Due to the COVID-19 pandemic, the hands-on work that I would have undertaken had to be altered to best accommodate an offsite remote Fellowship. Thus, my work turned towards research. One of these projects involved various avenues of research and investigation into culturally competent description (CCD) and how it can be utilized to better reflect the content and represent the recorded cultures in the RAC’s audiovisual (AV) collections. 
 <!--more-->
 
 ## Education Stage: 
