@@ -6,13 +6,9 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 
-gem "jekyll", "~> 4.1.1"
-
 # Plugins
 group :jekyll_plugins do
-  gem "jekyll-paginate", "~> 1.1.0"
-  gem "jekyll-redirect-from", "~> 0.16.0"
-  gem "kramdown-parser-gfm", "~> 1.1.0"
+  gem "github-pages"
 end
 
 # For testing build
