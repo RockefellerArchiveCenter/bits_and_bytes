@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Plugins
 group :jekyll_plugins do
-  gem "github-pages"
+  gem "github-pages", "~> 218"
 end
 
 # For testing build
