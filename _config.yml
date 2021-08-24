@@ -81,7 +81,3 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
