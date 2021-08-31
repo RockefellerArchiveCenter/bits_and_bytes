@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
-gem 'jekyll-redirect-from'
-gem "jekyll"
-gem "html-proofer"
-gem "kramdown-parser-gfm"
-gemspec
+group :jekyll_plugins do
+  gem "github-pages", "~> 218"
+end
+
+# For testing build
+gem "html-proofer", "~> 3.19.2"
