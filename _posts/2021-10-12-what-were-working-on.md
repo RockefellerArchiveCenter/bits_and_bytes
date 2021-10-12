@@ -15,6 +15,8 @@ Over the course of the last few years, the Digital Strategies team has built and
 
 As a result, our current efforts are primarily driven by the desire to be better and more responsible maintainers. This requires us to work simultaneously across areas of infrastructure, applications, processes, and people.
 
+<!--more-->
+
 ## Infrastructure
 One major – and new – area of work for us is partnering with our IT team to strategize about how we can make better use of the infrastructure that our applications rely on.
 
