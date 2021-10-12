@@ -1,6 +1,6 @@
 ---
 title: What We're Working On
-date: 2021-08-12T09:00:00
+date: 2021-10-12T09:00:00
 author: Hillel Arnold
 layout: post
 categories:
