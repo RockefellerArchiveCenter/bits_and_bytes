@@ -11,8 +11,6 @@ tags:
   - research
 excerpt_separator: <!--more-->
 ---
-## Introduction
-
 At the end of last year, the Rockefeller Archive Center undertook a tightly scoped initiative to digitize and make available online a large group of archival records in support of a Research and Education team project. Given that some of these documents were dated as recently as the 1970s, we felt that it would be necessary to perform a scan for personally identifiable information in all documents after a certain date. However, the substantial number of documents, some 100 pages or longer, preemptively made any thought of manual review impossible. We had to find a tool to automatically search OCR’d PDF for PII and that could create a brief report on any potential matches.
 <!--more-->
 
