@@ -20,21 +20,21 @@ At the outset of this project, I wrote some small Python scripts which pulled da
 
 Initially, I focused on creating heatmaps which represented the location of search terms within a particular collection. These are a variation of sorts on the visualization we produce for the [minimap feature in DIMES](/implementing-a-jump-to-hit-feature-in-dimes). For example, I knew that “agriculture” was a term that occurred throughout the Rockefeller Foundation records, so I generated a heatmap of that term’s occurrence using the minimap endpoint:
 
-[!Distribution of agriculture term within Rockefeller Foundation collection](/assets/img/2022/03/agriculture-distribution.png)
+![Distribution of agriculture term within Rockefeller Foundation collection](/assets/img/2022/03/agriculture-distribution.png)
 
 I also tried this with “hookworm” and “malaria”:
 
-[!Distribution of hookworm term within Rockefeller Foundation collection](/assets/img/2022/03/hookworm-distribution.png)
+![Distribution of hookworm term within Rockefeller Foundation collection](/assets/img/2022/03/hookworm-distribution.png)
 
-[!Distribution of malaria term within Rockefeller Foundation collection](/assets/img/2022/03/malaria-distribution.png)
+![Distribution of malaria term within Rockefeller Foundation collection](/assets/img/2022/03/malaria-distribution.png)
 
 I tried a second version of this heatmap where I broke the collection up by record groups, and then made a heatmap of term occurrence within each of those large aggregations:
 
-[!Distribution of agriculture term within Rockefeller Foundation collection record groups](/assets/img/2022/03/agriculture-recordgroup.png)
+![Distribution of agriculture term within Rockefeller Foundation collection record groups](/assets/img/2022/03/agriculture-recordgroup.png)
 
-[!Distribution of hookworm term within Rockefeller Foundation collection record groups](/assets/img/2022/03/hookworm-recordgroup.png)
+![Distribution of hookworm term within Rockefeller Foundation collection record groups](/assets/img/2022/03/hookworm-recordgroup.png)
 
-[!Distribution of malaria term within Rockefeller Foundation collection record groups](/assets/img/2022/03/malaria-recordgroup.png)
+![Distribution of malaria term within Rockefeller Foundation collection record groups](/assets/img/2022/03/malaria-recordgroup.png)
 
 Although these visualizations were interesting, they didn’t give me a lot of new information that one of our reference archivists or an experienced researcher wouldn’t already know.
 
@@ -50,15 +50,15 @@ What trends in funding can we see by looking for grants on specific topics such 
 
 Since these questions involved the element of time, I created a second round of line graph visualizations using data from the Grants series of the Ford Foundation records:
 
-[!Grants matching the term scholarship](/assets/img/2022/03/scholarship.png)
+![Grants matching the term scholarship](/assets/img/2022/03/scholarship.png)
 
-[!Grants matching the term fellowship](/assets/img/2022/03/fellowship.png)
+![Grants matching the term fellowship](/assets/img/2022/03/fellowship.png)
 
-[!Grants matching the term government of](/assets/img/2022/03/government_of.png)
+![Grants matching the term government of](/assets/img/2022/03/government_of.png)
 
-[!Grants matching the term HIV](/assets/img/2022/03/hiv.png)
+![Grants matching the term HIV](/assets/img/2022/03/hiv.png)
 
-[!Grants matching the term sexuality](/assets/img/2022/03/sexuality.png)
+![Grants matching the term sexuality](/assets/img/2022/03/sexuality.png)
 
 I was also able to combine multiple line graphs together to show how various trends relate to one another, for example, how different funding strategies used by the Ford Foundation compare over time:
 
