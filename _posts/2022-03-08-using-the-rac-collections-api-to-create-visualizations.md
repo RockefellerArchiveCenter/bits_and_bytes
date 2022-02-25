@@ -12,11 +12,11 @@ tags:
   - expertise
 excerpt_separator: <!--more-->
 ---
-Over the past few months, I’ve been experimenting with our Collections API to explore its possibilities. Most recently, I’ve used it to create some visualizations which provide a visual avenue for exploration of collections, as well as that might not be possible simply from reading the description. Now that we have publicly launched the Collections API, I wanted to write about this project as an example of how the API provides some new ways of exploring the RAC’s collections. <!--more-->
+Over the past few months, I’ve been experimenting with our [Collections API](https://api.rockarch.org/) to explore its possibilities. Most recently, I’ve used it to create some visualizations which provide a visual avenue for exploration of collections, as well as that might not be possible simply from reading the description. Now that we have publicly launched the Collections API (along with some [helpful documentation](https://docs.rockarch.org/argo)), I wanted to write about this project as an example of how the API provides some new ways of exploring the RAC’s collections. <!--more-->
 
 ## Starting Out
 
-At the outset of this project, I wrote some small Python scripts which pulled data from the [RAC Collections API](https://api.rockarch.org/) and then, using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) (which is built on matplotlib), generated visualizations.
+At the outset of this project, I wrote some small Python scripts which pulled data from the RAC Collections API and then, using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) (which is built on matplotlib), generated visualizations.
 
 Initially, I focused on creating heatmaps which represented the location of search terms within a particular collection. These are a variation of sorts on the visualization we produce for the [minimap feature in DIMES](/implementing-a-jump-to-hit-feature-in-dimes). For example, I knew that “agriculture” was a term that occurred throughout the Rockefeller Foundation records, so I generated a heatmap of that term’s occurrence using the minimap endpoint:
 
