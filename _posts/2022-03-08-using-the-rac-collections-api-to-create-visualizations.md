@@ -1,5 +1,5 @@
 ---
-title: "Using the RAC's Collections API to create visualizations "
+title: "Using the RAC's Collections API to Create Visualizations"
 date: 2022-03-08T09:00:00
 author: Hillel Arnold
 layout: post
