@@ -1,12 +1,12 @@
 ---
-title: "Using the RAC's Collections API to Create Visualizations"
-date: 2022-03-08T09:00:00
+title: "Using the RAC's Collections API to create visualizations"
+date: 2022-03-03T09:00:10
 author: Hillel Arnold
 layout: post
 categories:
   - Collaboration
 tags:
-  - api
+  - APIs
   - visualizations
   - collaboration
   - expertise
