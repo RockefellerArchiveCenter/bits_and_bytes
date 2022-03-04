@@ -62,7 +62,7 @@ Since these questions involved the element of time, I created a second round of 
 
 I was also able to combine multiple line graphs together to show how various trends relate to one another, for example, how different funding strategies used by the Ford Foundation compare over time:
 
-[!Ford Foundation funding strategies between 1950 and 2000](/assets/img/2022/03/funding_strategies_1950-2000_ford_foundation_records_line_graph.png)
+![Ford Foundation funding strategies between 1950 and 2000](/assets/img/2022/03/funding_strategies_1950-2000_ford_foundation_records_line_graph.png)
 
 These visualizations helped to confirm (and in some cases complicate) existing narratives around the Ford Foundation’s philanthropic strategy. As you can see, there are some big spikes in the graphs that don’t totally make sense and might represent some data anomalies that would need to be investigated further.
 
