@@ -1,6 +1,6 @@
 ---
 title: "Announcing the Release of Our Public Collections API"
-date: 2022-03-03T09:00:00
+date: 2022-03-08T08:00:00
 author: Hannah Sistrunk
 layout: post
 categories:
