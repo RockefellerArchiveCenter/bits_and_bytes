@@ -1,5 +1,5 @@
 ---
-title: "Building a Sass Style Library and Website Style Guide "
+title: "Building a Website Style Guide and Sass Style Library"
 date: 2022-03-11T09:00:15
 author: Hannah Sistrunk
 layout: post
@@ -18,7 +18,7 @@ As part of an effort to standardize Rockefeller Archive Center’s approach to t
 
 ## What Our Websites Look Like Now
 
-Rockefeller Archive Center manages a number of websites and applications that until recently did not have a cohesive or documented approach to visual style. The Digital Strategies team has historically relied on existing libraries like Bootstrap and static site themes (like the one this blog uses) to be able to quickly apply styles, manage layout, and ensure responsiveness to various screen sizes. While these solutions have allowed us to scaffold up new sites and tools relatively quickly, we lack a cohesive visual approach, repeat work by customizing styles for each new site, and spend unnecessary effort auditing and correcting digital accessibility issues for styles that do not meet [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) for criteria like ensuring sufficient element color contrast and hover/focus styles. With ondesign’s designs, we now have a visual approach that can be reused across sites and expanded, including colors, fonts, headings, buttons, form elements, modals, cards, and other [components](https://www.componentdriven.org/). 
+Rockefeller Archive Center manages a number of websites and applications that until recently did not have a cohesive or documented approach to visual style. The Digital Strategies team has historically relied on existing libraries like [Bootstrap](https://getbootstrap.com/) and static site themes (like the one this blog uses) to be able to quickly apply styles, manage layout, and ensure responsiveness to various screen sizes. While these solutions have allowed us to scaffold up new sites and tools relatively quickly, we lack a cohesive visual approach, repeat work by customizing styles for each new site, and spend unnecessary effort auditing and correcting digital accessibility issues for styles that do not meet [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) for criteria like ensuring sufficient element color contrast and hover/focus styles. With ondesign’s designs, we now have a visual approach that can be reused across sites and expanded, including colors, fonts, headings, buttons, form elements, modals, cards, and other [components](https://www.componentdriven.org/). 
 
 The images below show a few examples of the various styles used across our current websites:
 
@@ -53,7 +53,7 @@ Pulling from existing site code, we added our components to Storybook with basic
 
 ## Building the Sass Library 
 
-Because we had already implemented component styles in rockarch.org and dimes.rockarch.org, we were able to pull in existing SCSS from these sites to build on as we created the library. However, while we started with existing SCSS, we also refactored, updated, and organized the styles to be modular and reusable in different contexts. I started by seting up a structure based on the [7-1 architecture pattern](https://sass-guidelin.es/#architecture) with Kitty Giraudel’s [sass-boilerplate](https://github.com/KittyGiraudel/sass-boilerplate). I brought in some global styles like colors, typography, icons, and other classes used across multiple components. Then the Digital Strategies team ran a two week sprint where we were each assigned a set of components and worked together to add the styles not only as a way work quickly, but also to develop CSS/SCSS competency across the team.
+[Sass](https://sass-lang.com/guide) is a preprocessor of SCSS, which is compiled to CSS, which provides styles for a website. Because we had already implemented component styles in rockarch.org and dimes.rockarch.org, we were able to pull in existing SCSS from these sites to build on as we created the library. However, while we started with existing SCSS, we also refactored, updated, and organized the styles to be modular and reusable in different contexts. I started by setting up a structure based on the [7-1 architecture pattern](https://sass-guidelin.es/#architecture) with Kitty Giraudel’s [sass-boilerplate](https://github.com/KittyGiraudel/sass-boilerplate). I brought in some global styles like colors, typography, icons, and other classes used across multiple components. Then the Digital Strategies team ran a two week sprint where we were each assigned a set of components and worked together to add the styles not only as a way work quickly, but also to develop CSS/SCSS competency across the team.
 
 ### Sass Conventions and Linting
 
