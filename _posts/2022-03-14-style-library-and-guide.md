@@ -1,6 +1,6 @@
 ---
 title: "Building a Website Style Guide and Sass Style Library"
-date: 2022-03-11T09:00:15
+date: 2022-03-14T09:00:15
 author: Hannah Sistrunk
 layout: post
 categories:
