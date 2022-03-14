@@ -8,7 +8,6 @@ redirect_from: /?p=1997
 categories:
   - Project Electron
   - Software and Systems
-  - Uncategorized
 tags:
   - accessioning
   - appraisal
