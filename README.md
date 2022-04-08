@@ -1,7 +1,7 @@
 # Bits & Bytes
 The blog of the Rockefeller Archive Center. This repository contains Markdown files and accompanying images for the site.
 
-[![Build Status](https://travis-ci.org/RockefellerArchiveCenter/bits_and_bytes.svg?branch=gh-pages)](https://travis-ci.org/RockefellerArchiveCenter/bits_and_bytes)
+[![Build Status](https://travis-ci.com/RockefellerArchiveCenter/bits_and_bytes.svg?branch=gh-pages)](https://travis-ci.com/RockefellerArchiveCenter/bits_and_bytes)
 
 ## File Names & Locations
 
