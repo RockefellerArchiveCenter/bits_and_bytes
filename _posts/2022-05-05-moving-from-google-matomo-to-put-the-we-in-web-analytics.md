@@ -1,5 +1,5 @@
 ---
-title: ' Moving from Google to Matomo, to put the "WE" in Web Analytics" '
+title: ' Moving from Google to Matomo, to put the "WE" in Web Analytics '
 date: 2022-05-05T11:10:00
 author: 
 - Andrea Cadornigara
@@ -18,7 +18,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-We’re planning to transition from Google Universal Analytics to the Matomo platform. This decision came out of a collaborative process, so we’re laying out the why and how in today’s post.
+We’re planning to transition from Google Universal Analytics to Matomo Analytics. This decision came out of a collaborative process, so we’re laying out the why and how in today’s post.
 <!--more-->
 
 ## Why and How We Use Analytics
@@ -74,13 +74,14 @@ Informed by A National Forum on Web Privacy and Web Analytics’ [Roadmap](https
 
 ## Next Steps to Move from Google Universal Analytics to Matomo
 Since RAC leadership approved our recommendation, we are currently in the planning stages of making the shift to Matomo. With plenty of time left (Universal Analytics will sunset in summer 2023), the shift will ideally be spread out over the course of the next year. This is to prevent data loss, as well as to make the transition as seamless as possible for RAC staff. 
-
 Mainly the Analytics Owners Group will be involved in migrating data, setting up event tracking, and familiarizing ourselves with the new interface. As we learn new strategies to understand our audience, we will have more opportunities to collaborate and expand our analytics expertise. 
 
 As we proceed to implement Matomo, we’ll continue to share our learnings and advice here on the blog. Stay tuned!
 
+## Evaluation Summary: GA 4 v. Matomo
+
 | Evaluation Categories | Google Analytics 4    | Matomo                |
-| --------------------- |:---------------------:|:---------------------:|
+| --------------------- |-----------------------|-----------------------|
 | Open source           | No                    | Yes           |
 | Documentation         | Very well documented. Many training and support resources available.| Very extensive and in-depth documentation. Training guides, training videos, and FAQs available.|
 | User privacy          | Not privacy-focused; gathers user info for targeted advertising. *RAC would need to implement in a way that protects user data and informs users as much as possible, as we have done with Universal Analytics.*| Emphasizes privacy and encourages data anonymization. Does not track users across multiple sites and does not use data for anything other than analytics.|
