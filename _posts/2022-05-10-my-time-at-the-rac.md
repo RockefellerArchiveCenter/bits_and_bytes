@@ -1,5 +1,5 @@
 ---
-﻿title: "My Time at the Rockefeller Archive Center"
+title: "My Time at the Rockefeller Archive Center"
 date: 2022-05-10T09:00:00
 author: Marie Medjine Antoine
 layout: post
@@ -9,6 +9,7 @@ tags:
   - intern
   - internship
   - RAC-CCNY Internship Program
+excerpt_separator: <!--more-->
 ---
 “Surely if you have nothing to look backward to and with pride, you have nothing to look forward to with hope.” – Barbara Craig
 
