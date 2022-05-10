@@ -4,9 +4,9 @@ date: 2022-05-10T09:00:00
 author: Marie Medjine Antoine
 layout: post
 categories:
-  - internships
+  - Internships
 tags:
-  - intern
+  - interns
   - internship
   - RAC-CCNY Internship Program
 excerpt_separator: <!--more-->

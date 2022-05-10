@@ -4,11 +4,11 @@ date: 2022-05-04T15:00:00
 author: Steven Delatorre
 layout: post
 categories:
-  - internships
+  - Internships
 tags:
   - interns
   - learning
-  - RAC-CCNY internship prorgram
+  - RAC-CCNY Internship Program
 excerpt_separator: <!--more-->
 ---
 Throughout my internship experience at the Rockefeller Archive Center, I learned about the critical role that archives play in relation to educational storytelling. I was always drawn to storytelling and knew that video could be quite an impactful medium for engaging audiences with educational lessons. Learning how material is archived, preserved, and made accessible for researchers to build stories helped me see all the possibilities for myself to tell educational stories.
