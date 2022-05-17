@@ -12,7 +12,7 @@ tags:
 - learning
 excerpt_separator: <!--more-->
 ---
-When Darren last wrote about the [RAC’s Culturally Competent Description Campaign](https://blog.rockarch.org/cultural-competency-in-archives-education-campaign-phase-2-reading-group), we were wrapping up the Education Phase (https://docs.rockarch.org/ccd-education-campaign/) and moving toward the Action Phase. In the last update, Darren described how the CCD Education Campaign inspired the processing team to work together to change our [mission statement](https://rockarch.org/about-us/program-areas). In the statement, our team recognized the bias in our collections and archival description and renewed our efforts to describe materials in an inclusive and respectful way.
+When Darren last wrote about the [RAC’s Culturally Competent Description Campaign](https://blog.rockarch.org/cultural-competency-in-archives-education-campaign-phase-2-reading-group), we were wrapping up the [Education Phase](https://docs.rockarch.org/ccd-education-campaign/) and moving toward the Action Phase. In the last update, Darren described how the CCD Education Campaign inspired the processing team to work together to change our [mission statement](https://rockarch.org/about-us/program-areas). In the statement, our team recognized the bias in our collections and archival description and renewed our efforts to describe materials in an inclusive and respectful way.
 
 After revising the mission statement, we needed to convey CCD values in our processing policies, practices, and procedures. The processing team approached this challenge by creating CCD processing guidelines, and ultimately, making major revisions to our [processing manual](https://docs.rockarch.org/processing-manual/).
 
