@@ -1,6 +1,6 @@
 ---
 title: "DACSspace 1.0: Leveling Up Code and Skills"
-date: 2022-06-07T03:00:00
+date: 2022-06-07T03:30:00
 author:
 - Amy Berish
 - Hillel Arnold
