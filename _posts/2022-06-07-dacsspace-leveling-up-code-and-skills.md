@@ -12,10 +12,11 @@ categories:
   - Collaboration
 tags:
   - ArchivesSpace
+  - ArchivesSnake
   - data
   - description
   - learning
-  - Agile
+  - agile
   - Python
 excerpt_separator: <!--more-->
 ---
