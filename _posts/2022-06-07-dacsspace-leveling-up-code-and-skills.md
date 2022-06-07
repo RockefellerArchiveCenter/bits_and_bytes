@@ -27,12 +27,16 @@ More recently, the Digital Strategies Team and the Processing Team collaborated 
 
 ## From the Product Owner
 
-DACSspace was one of the first [projects](https://blog.rockarch.org/dacsspace-an-archivesspace-dacs-compliance-evaluation-tool) I worked on when I started as a processing archivist at the RAC, you can read more about journey learning python [here](https://blog.rockarch.org/learning-python-as-a-processing-archivist-a-reflection). This time around, DACSspace development involved a larger collaborative team that included Hillel and Bonnie (Digital Strategies) and Katie and Darren (Processing). I served as [Product Owner](https://www.scrum.org/resources/what-is-a-product-owner) for the project. My responsibilities included running weekly meetings, assigning the workload for the week, and making calls along the way about how/when certain work should be done throughout the project. Since this was my first experience running a software development project, I looked to [Bonnie’s expertise](https://blog.rockarch.org/scrum) to learn more about Scrum framework and Agile project management, both of which focus on collaborative approaches to complex projects.  
+DACSspace was one of the first [projects](https://blog.rockarch.org/dacsspace-an-archivesspace-dacs-compliance-evaluation-tool) I worked on when I started as a processing archivist at the RAC, you can read more about my journey learning python [here](https://blog.rockarch.org/learning-python-as-a-processing-archivist-a-reflection).
 
-Here are some things I lessons learned through being a Product Owner:
+This time around, DACSspace development involved a larger collaborative team that included Hillel and Bonnie (Digital Strategies) and Katie and Darren (Processing). I served as [Product Owner](https://www.scrum.org/resources/what-is-a-product-owner) for the project.
+
+My responsibilities included running weekly meetings, assigning the workload for the week, and making calls along the way about how/when certain work should be done throughout the project. Since this was my first experience running a software development project, I looked to [Bonnie’s expertise](https://blog.rockarch.org/scrum) to learn more about Scrum framework and Agile project management, both of which focus on collaborative approaches to complex projects.  
+
+Here are some lessons I learned through being a Product Owner:
 - It’s important to break up issues into smaller sections of work where possible.
 - There are different ways to move a project forward such as doing research into different solutions/approaches, scheduling a pair programming session, etc.
-- There may be more than one approach to implement a particular functionality and you may not know the implications of one option vs. another until further into the development process – and that’s okay.
+- There may be more than one approach to implement a particular functionality. You may not know the implications of one option vs. another until further into the development process – and that’s okay.
 
 ## From the Digital Strategies Team
 The initial impetus for updating DACSspace came from a [comprehensive review](https://blog.rockarch.org/becoming-better-maintainers) conducted by the Digital Strategies team of all the codebases that the RAC maintains in late 2021. As a result of that review, we implemented common tools and processes to keep dependencies up to date, ensure that codebases were covered by unit tests, and automatically publish or deploy applications and libraries when updates are made. We wanted to bring DACSspace up to this same standard.  
