@@ -1,5 +1,6 @@
 ---
 title: What We're Working On
+permalink: /what-were-working-on-2021-10
 date: 2021-10-12T09:00:00
 author: Hillel Arnold
 layout: post
