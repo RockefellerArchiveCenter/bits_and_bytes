@@ -1,5 +1,6 @@
 ---
 title: "What We're Working On"
+permalink: /what-were-working-on-2022-04
 date: 2022-04-29T09:00:00
 author: Hillel Arnold
 layout: post

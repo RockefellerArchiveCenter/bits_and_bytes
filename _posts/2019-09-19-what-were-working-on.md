@@ -1,5 +1,6 @@
 ---
 title: "What We're Working On"
+permalink: /what-were-working-on-2019-09
 date: 2019-09-17T14:00:00+00:00
 author: Hillel Arnold
 layout: post
