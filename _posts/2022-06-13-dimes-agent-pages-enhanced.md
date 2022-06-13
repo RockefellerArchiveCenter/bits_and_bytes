@@ -20,7 +20,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-We are excited to announce some new functionality in our archival discovery site, DIMES, that uses Wikidata identifiers to pull in biographic information and links to external authority records about people, organizations, and families that exist in our collections. In this post, we’ll share what this looks like in DIMES and how we are enhancing our agent data in ArchivesSpace to enable these changes. 
+We are excited to announce some new functionality in our archival discovery site, DIMES, that uses Wikidata identifiers to pull in biographic information and links to external authority records about people, organizations, and families that exist in our collections. In this post, we’ll share what this looks like in [DIMES](https://dimes.rockarch.org/) and how we are enhancing our agent data in ArchivesSpace to enable these changes. 
 <!--more-->
 
 ## Enhancing agent discovery in DIMES 
@@ -33,7 +33,7 @@ One feature we’ve included in DIMES from the beginning is an “agent page” 
 
 {% include image.html dir="2022/06/" file="related-collections-screenshot.png" description="Figure 2. Section of agent page in DIMES displaying links to related collections with search matches for that agents’ name." %}
 
-Continuing to build on the possibilities of agent discovery, our most recent enhancement has expanded these agent pages to pull in external data that links the agents in our collections to authority records and other data from Wikidata to expand the agent information that is available to researchers. 
+Continuing to build on the possibilities of agent discovery, our most recent enhancement has expanded these agent pages to pull in external data that links the agents in our collections to authority records and other data from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) to expand the agent information that is available to researchers. 
 
 {% include image.html dir="2022/06/" file="agent-page-external-data-screenshot.png" description="Figure 3. Mathilde Krim agent page in DIMES showing agent information and links to external authority records." %}
 
@@ -45,13 +45,13 @@ The agent pages in DIMES always included birth/death dates and biographic notes 
 - nicknames 
 - founded by 
 - location of headquarters 
-- links to additional authority records: Wikidata, Wikipedia, Virtual International Authority File (VIAF), Worldcat Identities, and Social Networks and Archival Context (SNAC).
+- links to additional authority records: Wikidata, Wikipedia, [Virtual International Authority File (VIAF)](https://viaf.org/), [Worldcat Identities](https://www.worldcat.org/identities/), and [Social Networks and Archival Context (SNAC)](https://snaccooperative.org/).
 
 Additionally, where we do not have descriptive information for an agent in our own description, we now pull in the basic introductory description from Wikipedia. 
 
 ## What we learned from testing the changes with users 
 
-As with all our UI updates to DIMES, we tested these changes with users, conducting three [remote moderated usability testing] (https://blog.rockarch.org/dimes-ux) that resulted in some additional design changes and adjustments to better clarify functionality and the source of information on the page. 
+As with all our UI updates to DIMES, we tested these changes with users, conducting three [remote moderated usability testing](https://blog.rockarch.org/dimes-ux) that resulted in some additional design changes and adjustments to better clarify functionality and the source of information on the page. 
 
 What was most illuminating for us during these tests was that users were much more likely to engage with and be excited to explore pages that had even a small amount of descriptive information about an agent in contrast to pages where we only had links to related collections, but no additional description. Even when the description was minimal and only from Wikidata/Wikipedia, as in the case of the page for [Natalia Kanem](https://dimes.rockarch.org/agents/ko52dUbKTXofwY6htxts9i), users appreciated this information as a starting point to make sense of who people were and how they were linked to collections, even if they planned to conduct more in-depth research about an agent. 
 
@@ -88,7 +88,7 @@ To use OpenRefine for this process, we:
 
 The initial reconciliation worked well for corporate agents, but we needed to complete a more manual review for people agents due to dates and middle names in the title fields of our agent records that do not reconcile as accurately. 
 
-{% include image.html dir="2022/06/" file=" " description="Figure 6: OpenRefine presents a list of potential matches from Wikidata." %}
+{% include image.html dir="2022/06/" file="Agents-openrefine-list-of-matches.png" description="Figure 6: OpenRefine presents a list of potential matches from Wikidata." %}
 
 Once satisfied with the reconciled list, we can add Wikidata IDs to the Record Identifier field for agent records in ArchivesSpace. 
 
