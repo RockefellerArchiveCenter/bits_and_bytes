@@ -1,6 +1,6 @@
 ---
 title: "Using Wikidata Identifiers to Enhance Agent Discovery"
-date: 2022-06-13T09:30:00
+date: 2022-06-15T09:30:00
 author:
 - Katie Martin
 - Hannah Sistrunk
