@@ -16,8 +16,8 @@ jobs:
           ref: development
 
       - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
+        with:
+          ruby-version: '2.6'
       - run: bundle update --all && bundle install
 
       - name: Create Pull Request
