@@ -1,6 +1,6 @@
 ---
 title: "The Hybrid Archives Internship Experience"
-date: 2022-09-22T09:30:00
+date: 2022-09-26T09:30:00
 author: Binta Diarra
 layout: post
 categories:
