@@ -270,7 +270,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 227)
-  html-proofer (~> 4.4.1)
+  html-proofer (~> 4.3)
 
 BUNDLED WITH
    2.3.21
