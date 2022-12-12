@@ -18,9 +18,7 @@ tags:
 
 excerpt_separator: <!--more-->
 ---
-
-## Context
-The Rockefeller Archive Center (RAC) has become increasingly aware of and concerned by the environmental impacts of climate change. We recently commissioned a carbon footprint study to better understand our emissions of greenhouse gases (GHGs).  For the RAC, GHGs are tied to our energy usage. Developed in consultation with Climate Change & Environmental Services – a local firm that specializes in environmental inventories – this report creates a benchmark of our current energy usage and GHG emissions as well as a foundation for future action which can reduce our environmentally harmful emissions.
+The Rockefeller Archive Center (RAC) has become increasingly aware of and concerned by the environmental impacts of climate change. We recently commissioned a carbon footprint study to better understand our emissions of greenhouse gases (GHGs).  For the RAC, GHGs are tied to our energy usage. Developed in consultation with Climate Change & Environmental Services – a local firm that specializes in environmental inventories – this report creates a benchmark of our current energy usage and GHG emissions as well as a foundation for future action which can reduce our environmentally harmful emissions.<!--more-->
 
 We’re also very aware that there is an ongoing conversation about the climate impacts of archives in our profession. Driven by individuals like [Eira Tansey](https://eiratansey.com/climate-change/) as well as groups like [ProjectARCC](https://projectarcc.org/) and the [DLF Climate Justice Working Group](https://www.diglib.org/groups/climate-justice-working-group/), this conversation has increasingly focused not only on the impacts of digital archives, but has also sought to look holistically at the ways in which archives both effect and are affected by climate change. Consequently, we felt it was important to provide some background on our RAC-specific study, with the hope that some of the takeaways are more generalizable and can help to move the conversation in the archival profession forward.
 
