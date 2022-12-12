@@ -17,7 +17,7 @@ layout: default
           {%- if forloop.first -%}
             <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
           {%- elsif forloop.last -%}
-            , and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+            and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
           {%- else -%}
             , <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
           {%- endif -%}
