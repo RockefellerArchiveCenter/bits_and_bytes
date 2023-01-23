@@ -6,8 +6,8 @@ layout: post
 categories:
     - Internships
 tags:
-    - identity
-    - inclusion
+    - RAC-CCNY Internship Program
+    - Internships
     - interns
 
 excerpt_separator: <!--more-->
