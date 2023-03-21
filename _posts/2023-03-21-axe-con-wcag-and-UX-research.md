@@ -1,6 +1,6 @@
 ---
 title: "axe-con 2023 Highlights: WCAG Updates and UX Research Strategy"
-date: 2023-03-21T9:00:00
+date: 2023-03-21T09:00:00
 author:
     - Hannah Sistrunk
 layout: post
