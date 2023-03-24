@@ -1,5 +1,17 @@
-﻿# Stumbling into Greatness
-## Elizabeth Reich
+---
+title: "Stumbling-Into-Greatness"
+date: 2023-03-273T10:00:00
+author: Elizabeth Reich
+layout: post
+categories:
+    - Internships
+tags:
+    - RAC-CCNY Internship Program
+    - Internships
+    - interns
+
+excerpt_separator: <!--more-->
+---
 
 
 
@@ -13,8 +25,3 @@ so interesting to see what is being kept and what CCNY is interested in preservi
 commemorative envelopes with JFK on them, and even a letter from then-governor of California, Ronald Reagan congratulating Monshaw on his technical accomplishments. It was amazing to see the period of history I am interested in come alive in these files.
 
 I am so glad that I applied to this internship with the Rockefeller Archives Center. It is something that I never thought I would have an opportunity to explore while still in college. It has shown me new possibilities for a career, and one that is tremendously important. Being able to preserve our history and then learn from it is one of the most rewarding parts of being in archives. It makes me sad that my time with the RAC is ending, but the skills that I have learned and the doors that have been opened from this internship have reinvigorated my love for the field of history and archives.
-
-#interns #internship #RAC-CCNY Internship Program 
-
-
-
