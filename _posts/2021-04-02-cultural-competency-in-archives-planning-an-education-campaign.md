@@ -49,7 +49,7 @@ Goals:
 
 Recommended Readings: 
 - [Silencing the Past, Chapter 1: The Power in the Story](https://bit.ly/3mesvto) - Michel-Rolph Trouillot
-- [Me and White Supremacy](https://www.meandwhitesupremacybook.com/) - Layla F. Saad
+- [Me and White Supremacy](https://academized.com/meandwhitesupremacy) - Layla F. Saad
 - [Anti-Racist Description Resources](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) - Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group
 - [Identifying & Dismantling White Supremacy in Archives poster](http://www.gracenbrilmyer.com/dismantling_whiteSupremacy_archives3.pdf) - Michelle Caswell, UCLA Archives, Records, and Memory class, with poster design by Gracen Brilmyer
 - Jessica Tai, ["Cultural Humility as a Framework for Anti-Oppressive Archival Description,"](https://journals.litwinbooks.com/index.php/jclis/article/view/120) Journal of Critical Library and Information Studies 3 (October 1, 2020)
