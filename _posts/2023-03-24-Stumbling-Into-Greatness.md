@@ -1,5 +1,5 @@
 ---
-title: "Stumbling-Into-Greatness"
+title: "Stumbling Into Greatness"
 date: 2023-03-24T10:00:00
 author: Elizabeth Reich
 layout: post
