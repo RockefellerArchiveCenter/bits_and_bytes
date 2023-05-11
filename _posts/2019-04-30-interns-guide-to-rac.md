@@ -9,6 +9,7 @@ tags:
   - processing
   - guides
   - expectations
+  - RAC-CCNY Internship Program
 excerpt_separator: <!--more-->
 ---
 It is said that experience is the greatest teacher. I agree. New tasks and new researchers each day in an inspiring atmosphere made my RAC-CCNY internship experience a productive and memorable one. You can walk into the Rockefeller Archive Center with background information that seems black and white, but each interaction brings new elements that create a complete picture of the day to day workings of an archive with a welcoming environment.
