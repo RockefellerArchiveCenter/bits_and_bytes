@@ -10,6 +10,7 @@ tags:
   - best practices
   - Ford Foundation
   - Brazil
+  - RAC-CCNY Internship Program
 excerpt_separator: <!--more-->
 ---
 My experience at the Rockefeller Archive Center can be summarized with the innocent belief that when destiny closes a door, a window opens at the other side. On January 1st of this year, if I had been asked about my plans for the rest of the year, the most straightforward and simple response would have been to go about my routine of working, studying, and enjoying my free time. Although advisors had encouraged me to apply for some “beyond-the-classroom” experience, applying for an internship was not in my plans. COVID-19 changed things. During these difficult times, trying to remain sane, healthy, and continuing to move forward academically and professionally were critical needs in many people’s lives. On a personal note, it challenged my predisposed plans and ideas. I was placed in the position of rethinking my future. As a result, I reflected on my passions, needs, and goals.
