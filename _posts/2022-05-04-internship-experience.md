@@ -7,6 +7,7 @@ categories:
   - Internships
 tags:
   - interns
+  - Internships
   - learning
   - RAC-CCNY Internship Program
 excerpt_separator: <!--more-->
