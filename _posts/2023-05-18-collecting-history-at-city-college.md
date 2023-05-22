@@ -9,16 +9,16 @@ tags:
     - RAC-CCNY Internship Program
     - Internships
     - interns
+
 excerpt_separator: <!--more-->
 ---
-
-Interning for the Rockefeller Archive Center at the Cohen Library’s Archives and Special Collections this spring semester gave me the opportunity to understand the process of archival preservation and research. 
+Interning for the Rockefeller Archive Center at the Cohen Library’s Archives and Special Collections this spring semester gave me the opportunity to understand the process of archival preservation and research.
 
 <!--more-->
 
 At the beginning of this program, I wondered what my role was as an intern on-site at the Archives and Special Collections. I had amazing interactions with assistant archivist Renae Rapp, who helped me understand my RAC-CCNY projects, Professor Sydney Van Nort offering insightful history lessons of City College, and RAC’s Education Program Manager Marissa Vassari to assist me throughout the semester and offer solutions to my questions.
 
-![Sydney Van Nort, Thaddea Delancey, Renae Rapp](assets/img/2023/05/thaddea-at-ccny-archives.jpg)
+![Sydney Van Nort, Thaddea Delancey, Renae Rapp](/assets/img/2023/05/thaddea-at-ccny-archives.jpg)
 
 My project on Student Publications expanded my knowledge of CCNY’s news outlets like “The Campus” and “The Paper" and its brief history from the 1930s to 1980s of the student editors and their stories. I learned how to input volume numbers, authors, dates, and headlines into an Excel sheet for students to find an easier way to get information about City College. Looking through the publications, I noticed the different genres of articles posted during the 80s that were political and of the arts. I was intrigued that towards the mid-80s, there was more interest in Black American activism and the arts in “The Paper”.
 
