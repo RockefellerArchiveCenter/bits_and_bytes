@@ -9,10 +9,10 @@ tags:
     - RAC-CCNY Internship Program
     - Internships
     - interns
+
 excerpt_separator: <!--more-->
 ---
-
-Interning for the Rockefeller Archive Center at the Cohen Library’s Archives and Special Collections this spring semester gave me the opportunity to understand the process of archival preservation and research. 
+Interning for the Rockefeller Archive Center at the Cohen Library’s Archives and Special Collections this spring semester gave me the opportunity to understand the process of archival preservation and research.
 
 <!--more-->
 
