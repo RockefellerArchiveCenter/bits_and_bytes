@@ -16,9 +16,11 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
+The Rockefeller Archive Center is developing a system wherein audiovisual file delivery, validation, quality control, and affixing rights statements can occur entirely in a Cloud setting.
+
 <!--more-->
 
-The RAC is committed to the long-term care and preservation of our analog sound and video recordings. Hundreds of obsolete magnetic media formats are digitally transferred every year, with a focus on all new analog audiovisual (a/v) acquisitions, reducing our backlog of obsolete magnetic media, and accommodating on-demand researcher a/v access requests. 
+The RAC is committed to the long-term care and preservation of our analog sound and video recordings. Hundreds of obsolete magnetic media formats are digitally transferred every year, with a focus on all new analog audiovisual (a/v) acquisitions, reducing our backlog of obsolete magnetic media, and accommodating on-demand researcher a/v access requests.
 
 As an institution we are acutely aware that, regardless of our optimal vault storage conditions, all analog audiovisual material is actively degrading. The knowledge and experience needed to successfully digitize obsolete analog recordings is quickly fading as well. What’s more, the legacy playback equipment required for digitizing these obsolete formats is more difficult to obtain and is therefore more expensive and less accessible. The International Association of Sound and Audiovisual Archives (IASA) has said: “As of 2020, it is widely accepted within the global audiovisual archival community that we have between 6 and 11 years in which to digitally preserve all tape-based audiovisual content held on magnetic media.” Time is of the essence. 
 
