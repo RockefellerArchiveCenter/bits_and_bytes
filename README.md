@@ -20,7 +20,7 @@ For example:
 ```
 ![Total Energy Use, 2016-2020](/assets/img/2022/12/total-energy-use.png)
 ```
-To include an image caption in the post, use: `% include image.html dir="year/month/" file="image-file-name.png" description="caption text" %}`. The description text will be the caption, and should be descriptive of the image just like alt text. 
+To include an image caption in the post, use: `% include image.html dir="year/month/" file="image-file-name.png" description="caption text" %}`. The description text will be the caption and the alt text for the image.
 
 Example:
 
