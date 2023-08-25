@@ -13,8 +13,6 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-## Introduction
-
 This is not a blog post about our successful implementation of Kubernetes, but rather how and why we decided not to migrate to Kubernetes after two years of work. I will attempt to call out our hypotheses and acknowledge where our thinking was wrong, and ultimately talk about the difficulties we faced and lessons we learned along the way. <!--more--> I’ll be taking a high-level view of the project to keep this post as brief as possible, but please reach out if you want me to talk your ear off about what we learned in depth. In mid-2021 we decided to test EKS – a managed Kubernetes service from AWS – to potentially move our microservice applications to that infrastructure. After almost two years of hands-on experimentation, we decided not to migrate our applications to EKS. This blog will talk about why we thought Kubernetes might be a good solution, where some of our initial hypotheses were off base, and what we learned along the way.
 
 ## Background
