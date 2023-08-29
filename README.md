@@ -1,18 +1,35 @@
 # Bits & Bytes
 The blog of the Rockefeller Archive Center. This repository contains Markdown files and accompanying images for the site.
 
-## File Names & Locations
+## Post name and location
 
 ### File title
-For ease of filing, your file should be named in the following format: `YYYY-MM-DD-title-of-your-post.md`.
+For organizational ease, your file should be named in the following format: `YYYY-MM-DD-title-of-your-post.md`.
 
 ### Post location
 All posts should be placed in the `_posts` directory. Refer to the directory structure of `gh-pages` if you have any questions about the post location.
 
-### Image location
-All images should be placed in the `assets/img/` directory. You should also put the images in the correct Year/Month directory for your posts publication date. If those directories do not exist, create them or ask a member of the D-Team for help on creating them. Make sure your post links to the correct images. Refer to past months in the `gh-pages` branch for reference.
+## Adding images
+### Image file locations
+All image files should be placed in the `assets/img/` directory. You should also put the images in the correct Year/Month directory for your post's publication date. If those directories do not yet exist, create them or ask a member of the Digital Strategies team for help to create them. 
 
-## Post Metadata
+### Embedding images in a post using Markdown
+Make sure your post links to the correct image files and includes [alt text](https://webaim.org/techniques/alttext/) using the format: `![alt text](/assets/img/year/month/image-file-name.png)`.  
+
+For example:
+```
+![Total Energy Use, 2016-2020](/assets/img/2022/12/total-energy-use.png)
+```
+To include an image caption in the post, use: `% include image.html dir="year/month/" file="image-file-name.png" description="caption text" %}`. The description text will be the caption and the alt text for the image.
+
+Example:
+
+```
+{% include image.html dir="2022/06/" file="related-collections-screenshot.png" description="Figure 2. Section of agent page in DIMES displaying links to related collections with search matches for that agents’ name." %}
+```
+
+
+## Post metadata
 Every post should include a section for front matter. The front matter of a post includes necessary metadata to help the blog theme display your post correctly and order it among other posts.
 
 Below is an example of common front matter.
@@ -33,7 +50,7 @@ excerpt_separator: <!--more-->
 ---
 ```
 
-### Front Matter Fields
+### Front matter fields
 
 * **Title:** **(Required)** This should be the display title of your post. It will be the title that displays on the site. Titles which include characters like ampersands, colons, exclamation marks or slashes should be enclosed in double quotation marks, as in the example above.
 * **Date:** **(Required)** The date that you are making your post public. It should be formatted like the above example. The date will control where in the list of posts your post will display.
@@ -64,7 +81,7 @@ excerpt_separator: <!--more-->
 Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. See the GitHub documentation on [creating new branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository) if you have questions.
 
 ### Push your files to the new branch
-Place your files in the correct locations in your new branch (see "File Names & Locations" section above).
+Place your files in the correct locations in your new branch (see "[Post name and location](#post-name-and-location)" section above).
 
 ### Create a pull request
 Once you have created a branch and placed your post file and images in the correct location you can open a pull request. You should create a pull request from your newly created branch which points at the `gh-pages` branch. See the GitHub documentation on [creating pull requests](https://help.github.com/en/articles/creating-a-pull-request) if you have questions. Request review from another RAC staff member in the pull request.
@@ -72,8 +89,8 @@ Once you have created a branch and placed your post file and images in the corre
 ### Merge the pull request
 Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `gh-pages` branch. Merging the pull request will automatically publish the post, so only do this when you are ready for your post to be visible to the world. See the GitHub documentation on [merging pull requests](https://help.github.com/en/articles/merging-a-pull-request) if you have questions.
 
-## Tips and Tricks
-In order for **Markdown tables** to render properly, they need to be separated from other block-level elements. This means you should add a blank line before and after a table in order for it to render properly.
+## Tips and tricks
+In order for [Markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) to render properly, they need to be separated from other block-level elements. This means you should add a blank line before and after a table in order for it to render properly.
 
 ## License
 
