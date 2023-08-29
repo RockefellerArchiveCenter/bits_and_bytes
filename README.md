@@ -78,16 +78,16 @@ excerpt_separator: <!--more-->
 ## Posting on Bits & Bytes
 
 ### Create a new branch
-Create a new GitHub branch from the `gh-pages` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. See the GitHub documentation on [creating new branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository) if you have questions.
+Create a new GitHub branch from the `development` branch. This is so we can track any changes and associate them with specific pull requests. You should name your branch `YYYY-MM-DD-post`. See the GitHub documentation on [creating new branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository) if you have questions.
 
 ### Push your files to the new branch
 Place your files in the correct locations in your new branch (see "[Post name and location](#post-name-and-location)" section above).
 
 ### Create a pull request
-Once you have created a branch and placed your post file and images in the correct location you can open a pull request. You should create a pull request from your newly created branch which points at the `gh-pages` branch. See the GitHub documentation on [creating pull requests](https://help.github.com/en/articles/creating-a-pull-request) if you have questions. Request review from another RAC staff member in the pull request.
+Once you have created a branch and placed your post file and images in the correct location you can open a pull request. You should create a pull request from your newly created branch which points at the `develoment` branch. See the GitHub documentation on [creating pull requests](https://help.github.com/en/articles/creating-a-pull-request) if you have questions. Request review from another RAC staff member in the pull request.
 
 ### Merge the pull request
-Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `gh-pages` branch. Merging the pull request will automatically publish the post, so only do this when you are ready for your post to be visible to the world. See the GitHub documentation on [merging pull requests](https://help.github.com/en/articles/merging-a-pull-request) if you have questions.
+Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `devlopment` branch, and then finally into the `gh-pages` branch by creating a second pull request. Merging the pull request into `gh-pages` will automatically publish the post, so only do this when you are ready for your post to be visible to the world. See the GitHub documentation on [merging pull requests](https://help.github.com/en/articles/merging-a-pull-request) if you have questions.
 
 ## Tips and tricks
 In order for [Markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) to render properly, they need to be separated from other block-level elements. This means you should add a blank line before and after a table in order for it to render properly.
