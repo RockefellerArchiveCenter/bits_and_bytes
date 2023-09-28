@@ -1,7 +1,7 @@
 ﻿---
 title: "Keeping Our Heads in the Cloud, Part 2: File Validation"
 date: 2023-09-28T10:00:00
-author: Timbi Shepherd, RAC-Selznick School Fellow
+author: Timbi Shepherd
 layout: post
 categories:
     - Digitization
