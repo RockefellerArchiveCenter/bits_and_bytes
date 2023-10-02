@@ -17,7 +17,8 @@ tags:
 excerpt_separator: <!--more--> 
 ---
 
-We are the Web Analytics Owners Group, an internal Rockefeller Archive Center (RAC) working group formed with 5 staff members from each of our program areas. As we prepared for the scheduled sunsetting of Google Analytics in July 2023, our team undertook a project in December 2021 to find an alternative analytics platform that fit our needs. We [analyzed and compared 5 different platforms](https://lucid.app/users/registerOrLogin/free?showLogin=false&invitationId=inv_8975cd1a-a6df-471b-b6f2-402f641b1294&productOpt=chart&invitationType=documentAcceptance&returnUrlOverride=%2Flucidchart%2F23f2ce1d-f1cd-4ba8-8e64-d14d1868e68e%2Fedit%3Fviewport_loc%3D276%252C-124%252C2107%252C1065%252C0_0%26invitationId%3Dinv_8975cd1a-a6df-471b-b6f2-402f641b1294) and ultimately chose Matomo because it was user-friendly, aligned with our requirements, and emphasizes user privacy. In this post, we’ll detail how we implemented Matomo at the RAC and what the next steps are for our group.
+We are the Web Analytics Owners Group, an internal Rockefeller Archive Center (RAC) working group formed with 5 staff members from each of our program areas. As we prepared for the scheduled sunsetting of Google Analytics in July 2023, our team undertook a project in December 2021 to find an alternative analytics platform that fit our needs. We [analyzed and compared 5 different platforms](https://blog.rockarch.org/moving-from-google-matomo-to-put-the-we-in-web-analytics) and ultimately chose Matomo because it was user-friendly, aligned with our requirements, and emphasizes user privacy. In this post, we’ll detail how we implemented Matomo at the RAC and what the next steps are for our group.
+
 <!--more-->
 
 In planning for the switch to Matomo, we had three primary goals:
