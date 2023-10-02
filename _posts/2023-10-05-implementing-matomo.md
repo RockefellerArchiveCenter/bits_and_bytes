@@ -39,7 +39,8 @@ Once we had purchased Matomo and set up user accounts for the team and our IT st
 6. **Execute a training program** for staff to understand the basics of how to use the tool and what kinds of questions can be answered using analytics. We planned and conducted training for our leadership team, and then each Web Analytics Owners Group member took the training back to their team to train our colleagues as needed.
 
 ## Organizing Our Implementation Processes
-We outlined three distinct phases of work in our project charter for implementing Matomo: research, implementation, and training. After we completed these three phases, we also set aside time for reflection on the project and strategizing our group’s future directions.
+We outlined three distinct phases of work in our project plan for implementing Matomo: research, implementation, and training. After we completed these three phases, we also set aside time for reflection on the project and strategizing our group’s future directions.
+
 The sections below share the approaches and specific tools we used to carry out these processes.
 
 ### Research
