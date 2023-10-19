@@ -32,8 +32,6 @@ I was also tasked with a couple of independent Collections Management projects. 
 
 When the opportunity arose, I also lent a hand in inspecting over fifty Rockefeller family films, which the RAC are currently digitizing. I prepared these films to be delivered to Colorlab for 2k and 4k scanning, inventoried the reels, noted their condition, and added head and tail leader. I then verified their physical status upon return. These films included David Rockefeller’s home movie footage of summer trips to Maine shot on Kodachrome—which is much more pleasing to the eyes than cell granules.
 
-{% include image.html dir="2023/10/" file="dr-unidentified-woman.png" description="Unidentified woman in Maine. Frames from David Rockefeller’s home movies (ca. 1961)." %}
-
 Another Collections Management project I undertook involved rehousing and relocating a substantial portion of the RAC’s audiocassette holdings. Tapes from numerous collections had been given unique identifier numbers and stored all together in a cabinet in one of the vaults, but the amassed recordings were still difficult to sort and individual items hard to find. The tapes’ original provenance and accession information was available, but many tapes lack full documentation or, especially in the case of mini-cassettes, have illegible container annotations. The full processing of this magnetic media may require digitization and listening for descriptive information; unfortunately, that was beyond the scope of my time here.
 
 {% include image.html dir="2023/10/" file="minicassettes.png" description="Hard-to-read mini-cassette annotations in the Ford Foundation Records." %}
