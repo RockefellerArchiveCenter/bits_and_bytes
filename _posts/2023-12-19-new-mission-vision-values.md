@@ -91,7 +91,7 @@ and Values statements in which EIDB were firmly rooted so as to guide and provid
 approach to our work and decision-making. The question, then, was how to do this in a way that was 
 not top-down and that was fully inclusive of the entire staff. Again, we turned to consultants who 
 were practiced in this area and who would completely understand us as a cultural heritage institution. 
-Fortunately, Anne Ackerson, of [Leading By Design independent consulting](https://leadingbydesign.blogspot.com/), and Dina Bailey, CEO of [Top Mountain Vision](https://www.mountaintopvisionllc.com/), were available 
+Fortunately, Anne Ackerson, of [Leading By Design independent consulting](https://leadingbydesign.blogspot.com/), and Dina Bailey, CEO of [Mountain Top Vision](https://www.mountaintopvisionllc.com/), were available 
 and willing to take on the task of facilitating this work. 
 
 ## Bringing the Staff Together  
