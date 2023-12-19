@@ -98,7 +98,7 @@ and willing to take on the task of facilitating this work.
 
 Anne and Dina recommended that we gather the entire staff together for a day of focused conversations 
 around the RAC’s mission, vision, and values. To prepare, they provided us with some resources to 
-review prior to the all-staff day. These included the D[efinitions and uses of mission and vision 
+review prior to the all-staff day. These included the [Definitions and uses of mission and vision 
 statements](https://boardsource.org/mission-vs-vision-3/) (BoardSource) and Simon Sinek’s video, 
 [_How Great Leaders Inspire Action_](https://www.youtube.com/watch?v=qp0HIF3SfI4&t=3s&pp=ygULc2ltb24gc2luZWs%3D). Dina and Anne also suggested that a Values statement “represents the core beliefs of the 
 organization that inspire and guide its choices in the way it operates and deals with people. 
