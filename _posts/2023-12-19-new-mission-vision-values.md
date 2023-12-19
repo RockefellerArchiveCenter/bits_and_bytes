@@ -1,5 +1,5 @@
 ---
-title: "The RAC's New Mission, Vision, and Values Statements: How We Got Here"
+title: "The RAC’s New Mission, Vision, and Values Statements: How We Got Here"
 date: 2023-12-19T10:00:00
 author: Bob Clark
 layout: post
