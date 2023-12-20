@@ -1,7 +1,10 @@
 ---
 title: "D-Team Values: Ten Years Later"
 date: 2023-12-20T10:00:00
-author: Hannah Sistrunk, Hillel Arnold, Patrick Galligan
+author:
+    - Hannah Sistrunk
+    - Hillel Arnold
+    - Patrick Galligan
 layout: post
 categories:
     - D-Team
