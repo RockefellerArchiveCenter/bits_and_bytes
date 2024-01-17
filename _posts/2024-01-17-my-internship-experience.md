@@ -1,5 +1,5 @@
 ---
-title:"My Internship Experience"
+title: "My Internship Experience"
 date: 2024-01-17T16:00:00
 author:Avagadra Lipson 
 layout: post
