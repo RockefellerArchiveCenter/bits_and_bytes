@@ -1,5 +1,5 @@
 ---
-title:My Summer 2023 Internship Experience: An Introduction to Archive Work
+title: My Summer 2023 Internship Experience: An Introduction to Archive Work
 date: 2024-01-17T16:00:00
 author: Laura Sanchez
 layout: post
