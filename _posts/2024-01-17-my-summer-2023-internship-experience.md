@@ -1,5 +1,5 @@
 ---
-title: My Summer 2023 Internship Experience: An Introduction to Archive Work
+title: "My Summer 2023 Internship Experience: An Introduction to Archive Work"
 date: 2024-01-17T16:00:00
 author: Laura Sanchez
 layout: post
@@ -27,4 +27,3 @@ The two main projects I worked on this summer were the Audiovisual Inventory and
 On the other hand, the Cultural Competent Description involved much more research and cataloging on my part, as the project consisted of targeting problematic or outdated subject terms in some materials and recommending instead more up-to-date and modern subject terms that could replace the previous ones. This project was very personal to me, as I have encountered many documents as an English Major that use problematic and offensive terms but that are still permissible without a second look. To be able to contribute in any possible way to this ongoing project meant a lot to me, and the encouragement and support I received from the team supervising it really helped me be as passionate as they are at the time of completing this project. 
 
 Although everything I mentioned was fantastic and extremely educational, the best part of my internship was getting to know such amazing people that prioritized cultivating a kind and open environment. Every single person I met, everyone part of the staff at the Rockefeller Archive Center, took time to sit down with me and offered me words of reassurance and cheered me up along the way, and it was because there is such an awesome team behind the RAC that my internship was as special as it was. At first, I had no idea what to expect going into this internship and really didn’t know if a career in Library Science would be the best fit for me. After this summer, I can confidently say that it is. I never imagined that I would be so lucky to work with such an amazing team and be a part of so many amazing experiences in such a short time.
-
