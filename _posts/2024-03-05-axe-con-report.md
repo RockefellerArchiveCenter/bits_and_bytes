@@ -24,7 +24,7 @@ While I welcomed many of these talks and the strategies that accessibility pract
 This idea came up again in WebAIM Associate Director Jared Smith’s talk, [Using the WebAIM Million and User Surveys to Inform Accessibility Efforts](https://www.deque.com/axe-con/sessions/using-the-webaim-million-and-user-surveys-to-inform-accessibility-efforts/), where Smith shared important data and trends from the annual [WebAIM Million survey](https://webaim.org/projects/million/) that uses the WAVE testing tool to test the accessibility of the top 1 million websites. The trends included the important observations that, for website errors that could be automatically detected by the WAVE tool: 
 
 - There has been a notable increase of page elements on homepages over the past 5 years – the size and complexity of pages is growing. 
-- AND there has been a major increase in the number of ARIA attributes (excluding landmarks) per homepage, but pages with ARIA had 67% more detectable accessibility errors 
+- AND there has been a major increase in the number of [ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) attributes (excluding landmarks) per homepage, but pages with ARIA had 67% more detectable accessibility errors 
 
 ARIA is associated with more complex elements and custom widgets, so it makes sense that with more complexity and size, we’d see more ARIA. But... more ARIA doesn’t mean more accessible, and to Pickering’s point, more complexity doesn’t necessarily mean better usability for anyone. 
 
