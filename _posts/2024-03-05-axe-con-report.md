@@ -12,7 +12,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-I recently attended axe-con, the annual free online digital accessibility conference from Deque. With speakers and talks firmly rooted in the business domain from companies like Hilton, GitHub, Meta, Adobe, ADP, and multiple financial institutions, it was interesting to see the common themes this year. In this post, I’ll share my impressions and takeaways. 
+I recently attended [axe-con](https://www.deque.com/axe-con/, the annual free online digital accessibility conference from Deque. With speakers and talks firmly rooted in the business domain from companies like Hilton, GitHub, Meta, Adobe, ADP, and multiple financial institutions, it was interesting to see the common themes this year. In this post, I’ll share my impressions and takeaways. 
 
 <!--more-->
 
