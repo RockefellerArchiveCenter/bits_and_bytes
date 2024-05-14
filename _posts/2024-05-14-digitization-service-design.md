@@ -1,6 +1,6 @@
 ---
 title: "Reimagining Digitization Using Service Design"
-date: 2024-05-14T9:00:00
+date: 2024-05-15T9:00:00
 author: Hannah Sistrunk
 layout: post
 categories:
