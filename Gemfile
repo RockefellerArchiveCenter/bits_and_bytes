@@ -6,3 +6,6 @@ end
 
 # For testing build
 gem "html-proofer", "~> 3.19.4"
+
+# Local development
+gem "webrick", "~> 1.8"
