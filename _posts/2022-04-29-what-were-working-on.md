@@ -15,7 +15,7 @@ tags:
   - collaboration
 excerpt_separator: <!--more-->
 ---
-A while ago, I posted a [general update](/what-were-working-on)
+A while ago, I posted a [general update](/what-were-working-on-2021-10)
 laying out the major areas that the D-Team was working on. A bit over six months
 later, it seems like a good time to update on where our focus is now.
 
