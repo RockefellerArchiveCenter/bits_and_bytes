@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Several months ago, I wrote about our plans for the [next phase of Project Electron](https://blog.rockarch.org/setting-sail-the-next-leg-of-project-electron), which targets infrastructure for the discovery and delivery of archival records. Since then, we’ve refined this high-level process proposal into working code. This post summarizes our work to date, and outlines current and ongoing efforts to improve system performance, integrate additional data sources, and improve the quality of our archival data.
+Several months ago, I wrote about our plans for the [next phase of Project Electron](/setting-sail-the-next-leg-of-project-electron), which targets infrastructure for the discovery and delivery of archival records. Since then, we’ve refined this high-level process proposal into working code. This post summarizes our work to date, and outlines current and ongoing efforts to improve system performance, integrate additional data sources, and improve the quality of our archival data.
 
 <!--more-->
 
@@ -43,4 +43,4 @@ Although we have a working data pipeline, there is a lot more that needs to be d
 - We want to improve the performance of this pipeline to ensure that data flows through it as quickly as possible. We’ll be digging into the code more deeply to figure out where the less performant pieces are, and replace inefficient functions.
 - So far our focus has been on moving data from ArchivesSpace into Elasticsearch. We’ll soon be looking to integrate additional data sources, including things like Wikidata and Wikipedia but also some more homegrown things like Cartographer (more on that soon!).
 
-Last, as we’ve been working on this pipeline from the systems side of things, our Processing Team has been engaged in a number of projects to clean up our archival data. This is absolutely critical because, as Patrick wrote in an [earlier post](https://blog.rockarch.org/exceptional-validation), we plan to make use of JSON Schemas to ensure data is valid before we index it. The Processing Team’s efforts are essential to this purpose, and also ensure that our data can support all the kinds of functionality we want to provide to researchers in our discovery and delivery interface. Stay tuned for more on that work, coming to this blog soon!
+Last, as we’ve been working on this pipeline from the systems side of things, our Processing Team has been engaged in a number of projects to clean up our archival data. This is absolutely critical because, as Patrick wrote in an [earlier post](/exceptional-validation), we plan to make use of JSON Schemas to ensure data is valid before we index it. The Processing Team’s efforts are essential to this purpose, and also ensure that our data can support all the kinds of functionality we want to provide to researchers in our discovery and delivery interface. Stay tuned for more on that work, coming to this blog soon!

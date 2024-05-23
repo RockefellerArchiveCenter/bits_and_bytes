@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-For Phase 2 of its [Culturally Competent Description Education Campaign](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign), the Rockefeller Archive Center organized a series of reading group discussions to explore how to implement workflows and policies for creating more inclusive archival description, how to make histories that have been marginalized more discoverable, and how to recognize and combat white supremacy culture in our practices. Lessons learned from organizing and facilitating conversations about culturally competent description during the [first phase of the Education Campaign](https://blog.rockarch.org/cultural-competency-in-archives-phase-one-of-the-education-campaign) influenced how Amy Berish, Katie Martin, and I approached developing the reading group sessions while increased collaboration and knowledge sharing with our colleagues expanded and invigorated the substance and scope of each discussion. The sessions’ escalating focus on the collections and practices of the RAC have made the path towards action more tangible.
+For Phase 2 of its [Culturally Competent Description Education Campaign](/cultural-competency-in-archives-planning-an-education-campaign), the Rockefeller Archive Center organized a series of reading group discussions to explore how to implement workflows and policies for creating more inclusive archival description, how to make histories that have been marginalized more discoverable, and how to recognize and combat white supremacy culture in our practices. Lessons learned from organizing and facilitating conversations about culturally competent description during the [first phase of the Education Campaign](/cultural-competency-in-archives-phase-one-of-the-education-campaign) influenced how Amy Berish, Katie Martin, and I approached developing the reading group sessions while increased collaboration and knowledge sharing with our colleagues expanded and invigorated the substance and scope of each discussion. The sessions’ escalating focus on the collections and practices of the RAC have made the path towards action more tangible.
 <!--more-->
 
 ## Building from Phase 1 to Phase 2
@@ -39,7 +39,7 @@ During the course of the first phase of the education campaign, Amy, Katie, and 
 The text for Reading Group 1 was:
 - Chapter 1 of [*Silencing the Past: Power and the Production of History*](https://www.penguinrandomhouse.com/books/246609/silencing-the-past-20th-anniversary-edition-by-michel-rolph-trouillot/) by Michel-Rolph Trouillot
 
-Hillel and Rachel used their past experiences with facilitating a [reading group](https://blog.rockarch.org/introducing-the-rac-reading-group) to bring together the archival theory and methodology knowledge of the Archives Program teams and the history theory and methodology knowledge of the Research and Education team to situate our discussions around CCD within how we understand the ways in which history is produced. This reading group session explored the role archives have in the production of history and the creation of silences in historical narratives as well as the relationships between archives and other participants active in the production of history.
+Hillel and Rachel used their past experiences with facilitating a [reading group](/introducing-the-rac-reading-group) to bring together the archival theory and methodology knowledge of the Archives Program teams and the history theory and methodology knowledge of the Research and Education team to situate our discussions around CCD within how we understand the ways in which history is produced. This reading group session explored the role archives have in the production of history and the creation of silences in historical narratives as well as the relationships between archives and other participants active in the production of history.
 
 ### Reading Group 2 - Collaboration with Reference
 
@@ -65,7 +65,7 @@ And readings:
 
 In this reading group session, for the first time, one of our institution’s holdings, the film *One Tenth of Our Nation*, was used as a case study for identifying where archival description can be harmful and erasing and what reparative measures can be implemented to reduce this harm. Christian and Brent led us from discussing possible collections and practices we could address from a CCD standpoint to discussing why the description for a specific RAC record was problematic and how we can apply a CCD framework to address those issues.
 
-To read more about the fantastic work Christian and Brent completed for the CCD/AV project, check out Christian’s [blog post](https://blog.rockarch.org/cultural-competency-in-archives-investigating-archival-description-for-av-materials)!
+To read more about the fantastic work Christian and Brent completed for the CCD/AV project, check out Christian’s [blog post](/cultural-competency-in-archives-investigating-archival-description-for-av-materials)!
 
 ## Moving to the Action Campaign
 

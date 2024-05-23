@@ -23,7 +23,7 @@ In early summer 2023, the Rockefeller Archive Center was finalizing  the develop
 
 This testing has been in collaboration with Hillel Arnold (Associate Director of Archives and Chief Digital Strategies Officer),  Jose Morillo (Associate Director of Information Technology), and Brent Phillips (RAC Audiovisual Archivist).
 
-A previous [Bits & Bytes post](https://blog.rockarch.org/digital-av-infrastructure) provided an overview of the new cloud-based environment for the RAC’s post-digitization work, from ingest of newly digitized audiovisual material as SIPs (submission information packages) to the long-term storage of these files as AIPs (archival information packages). Validation, quality control, and the affixing of rights statements  must occur before digitized audiovisual elements reach Archivematica for final packaging.
+A previous [Bits & Bytes post](/digital-av-infrastructure) provided an overview of the new cloud-based environment for the RAC’s post-digitization work, from ingest of newly digitized audiovisual material as SIPs (submission information packages) to the long-term storage of these files as AIPs (archival information packages). Validation, quality control, and the affixing of rights statements  must occur before digitized audiovisual elements reach Archivematica for final packaging.
 
 This post will focus on our work testing the system’s first phase: automated file validation.  Here, the data-checking tools [BagIt](https://libraryofcongress.github.io/bagit-python/) and [MediaConch](https://mediaarea.net/MediaConch) will be instrumental in ensuring the receipt of complete and conforming SIPs.
 
