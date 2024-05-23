@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-While my [Digital Strategies team colleagues attended the Code4Lib conference](/Code4Lib-Taking-Stock-Slowing-Down) last week, I was able to attend Deque’s [axe-con](https://www.deque.com/axe-con/) 2023 digital accessibility conference, which was a virtual event that included talks on a broad range of topics related to accessibility including organizational strategy, technical development, maintenance, testing, design, and advocacy. In this post I’ll highlight two of these talks that relate to my own work and upcoming projects at the RAC, but axe-con is free and recorded, so all the [talks are available online](https://www.deque.com/axe-con/schedule/) for further exploration.
+While my [Digital Strategies team colleagues attended the Code4Lib conference](/code4lib-taking-stock-slowing-down) last week, I was able to attend Deque’s [axe-con](https://www.deque.com/axe-con/) 2023 digital accessibility conference, which was a virtual event that included talks on a broad range of topics related to accessibility including organizational strategy, technical development, maintenance, testing, design, and advocacy. In this post I’ll highlight two of these talks that relate to my own work and upcoming projects at the RAC, but axe-con is free and recorded, so all the [talks are available online](https://www.deque.com/axe-con/schedule/) for further exploration.
 
 <!--more-->
 
