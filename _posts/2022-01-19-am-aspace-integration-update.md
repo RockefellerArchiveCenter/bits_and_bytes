@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 The D-Team has worked over the past couple of years to integrate processes for digitized and legacy born-digital content into Project Electron infrastructure. In addition to updating policies and workflows, we have developed a microservice to package bags; an application to store, calculate, and assign PREMIS rights statements; and a microservice to create image derivatives and IIIF Manifests.
 <!--more-->
 
-These systems substantially change in how we're getting digitized content onto DIMES. When I wrote [Automating Archivematica Ingests](https://blog.rockarch.org/automating-archivematica-ingests) 3 years ago, we had come a long way in our use of Archivematica and other systems. As a result of the work that I just mentioned, we’ve come even further, with additional automation and streamlining of our workflows. I'm happy to provide an update on what we're doing now.
+These systems substantially change in how we're getting digitized content onto DIMES. When I wrote [Automating Archivematica Ingests](/automating-archivematica-ingests) 3 years ago, we had come a long way in our use of Archivematica and other systems. As a result of the work that I just mentioned, we’ve come even further, with additional automation and streamlining of our workflows. I'm happy to provide an update on what we're doing now.
 
 To briefly recap our previous workflow for getting digitized content through Archivematica and available in DIMES:
 

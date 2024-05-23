@@ -15,7 +15,7 @@ tags:
 
 excerpt_separator: <!--more-->
 ---
-As Hannah wrote back in [February](https://blog.rockarch.org/introducing-dimes-tng),
+As Hannah wrote back in [February](/introducing-dimes-tng),
 the new DIMES we’ve just released is more than one system; it could more accurately
 be described as a system of systems. One of those pieces is the
 [Request Broker](https://github.com/RockefellerArchiveCenter/request_broker),
@@ -97,7 +97,7 @@ items as either “submittable or “unsubmittable” based on three criteria:
 Once we’d developed a clear idea of what we wanted the Request Broker to do, it
 was time to dig in and start writing code. The entire Digital Strategies team
 participated in this process, through the two-week sprint model we solidified
-during the [ArchivesSpace API Helpers](https://blog.rockarch.org/not-everything-is-miscellaneous)
+during the [ArchivesSpace API Helpers](/not-everything-is-miscellaneous)
 project. This model has worked really well for us particularly in our current
 remote context, providing a light structure and roles which ease collaboration.
 

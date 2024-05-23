@@ -12,7 +12,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-After [Bonnie’s post](https://blog.rockarch.org/saa-report-back) reporting back on her SAA experience this year, I also wanted to share some things I learned from the conference. It’s been a few weeks now, so I’ll focus on two sessions that I’m still thinking through in relation to my own work related to accessibility and disability in archives. These were the popup session “Where Are We? The State of Accessibility in Archives”, particularly Hannah Rosen’s report on the [2019 Lyrasis Accessibility Survey](https://www.lyrasis.org/technology/Pages/Accessibility-Survey-Report.aspx), and the working group session “Neurodiversity in Archives” led by Eric Hung, Lydia Tang, Chris Tanguay, and Zachary Tumlin.
+After [Bonnie’s post](/saa-report-back) reporting back on her SAA experience this year, I also wanted to share some things I learned from the conference. It’s been a few weeks now, so I’ll focus on two sessions that I’m still thinking through in relation to my own work related to accessibility and disability in archives. These were the popup session “Where Are We? The State of Accessibility in Archives”, particularly Hannah Rosen’s report on the [2019 Lyrasis Accessibility Survey](https://www.lyrasis.org/technology/Pages/Accessibility-Survey-Report.aspx), and the working group session “Neurodiversity in Archives” led by Eric Hung, Lydia Tang, Chris Tanguay, and Zachary Tumlin.
 
 <!--more-->
 

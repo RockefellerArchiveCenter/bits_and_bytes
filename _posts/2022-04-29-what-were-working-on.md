@@ -15,7 +15,7 @@ tags:
   - collaboration
 excerpt_separator: <!--more-->
 ---
-A while ago, I posted a [general update](https://blog.rockarch.org/what-were-working-on)
+A while ago, I posted a [general update](/what-were-working-on)
 laying out the major areas that the D-Team was working on. A bit over six months
 later, it seems like a good time to update on where our focus is now.
 
@@ -37,8 +37,8 @@ detailed blog post about that work.
 ## Access to Archival Collections and Data
 Over the past couple of years, we’ve invested a fair amount of time into improving
 access to the RAC’s archival collections and data. Following up on the
-[launch of our re-visioned discovery platform](https://blog.rockarch.org/introducing-dimes-tng)
-(known as DIMES), we’ve recently [launched the RAC Collections API](https://blog.rockarch.org/announce-api),
+[launch of our re-visioned discovery platform](/introducing-dimes-tng)
+(known as DIMES), we’ve recently [launched the RAC Collections API](/announce-api),
 which provides public access to the underlying data used in DIMES.
 
 We’ve also been working with the Processing Team to enhance data about people,
@@ -52,7 +52,7 @@ Another substantial ongoing initiative in this area is scaling processes which
 support the availability of digitized content available in DIMES. This includes
 turning several manual and/or script-based processes into regular services which
 make use of the event-based infrastructure that we created for Project Electron
-as well as [automating the Archivematica ingest process](https://blog.rockarch.org/am-aspace-integration-update).
+as well as [automating the Archivematica ingest process](/am-aspace-integration-update).
 
 We’ve also just completed a review of our current practices and requirements for
 PDFs created as access derivatives of digitized content. This assessment project
@@ -68,11 +68,11 @@ people possible. As a result, building organizational awareness and competence i
 these areas has been and continues to be a major area of focus for us.
 
 The Usability Observers team, which we put in place during the
-[development of DIMES](https://blog.rockarch.org/dimes-ux) continues to provide
+[development of DIMES](/dimes-ux) continues to provide
 invaluable insight and support for ongoing usability testing.
 
 We’ll also be following up on the development of our
-[Style Library and Guide](https://blog.rockarch.org/style-library-and-guide) by
+[Style Library and Guide](/style-library-and-guide) by
 implementing those styles across our web properties. In addition to aligning the
 visual language, one of the main goals of this project was to raise the accessibility
 baseline across all of our web properties.
@@ -98,7 +98,7 @@ We’re also working on some other projects which don’t fit neatly into the ca
 above, but are important precisely because they involve working very closely with
 other teams:
 -	With some folks from the Processing Team, we’re updating
-[DACSspace](https://blog.rockarch.org/getting-more-out-of-and-into-your-collections-management-system-dacsspace)
+[DACSspace](/getting-more-out-of-and-into-your-collections-management-system-dacsspace)
 – a tool to evaluate resource records in an ArchivesSpace instance for DACS compliance
 – to make it more extensible and maintainable. Working on this project together
 has reminded all of us just how far we’ve come as developers and maintainers of code.
