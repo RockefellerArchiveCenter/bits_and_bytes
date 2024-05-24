@@ -14,7 +14,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-As you may already know, the Digital Strategies Team is working on developing and integrating a new discovery system for the RAC. In preparation for this new system, we have been working on [cleaning up data in ArchivesSpace](https://blog.rockarch.org/archivesspace-clean-up-an-outline) so that the new system can more effectively point researchers to relevant material. My involvement in the data cleanup phase included adding structured (begin/end) dates to all archival objects in our ArchivesSpace repository. In this post, I’ll be talking about how we developed a semi-automated plan to clean up date expressions and add structured dates to our repository by parsing date expressions.
+As you may already know, the Digital Strategies Team is working on developing and integrating a new discovery system for the RAC. In preparation for this new system, we have been working on [cleaning up data in ArchivesSpace](/archivesspace-clean-up-an-outline) so that the new system can more effectively point researchers to relevant material. My involvement in the data cleanup phase included adding structured (begin/end) dates to all archival objects in our ArchivesSpace repository. In this post, I’ll be talking about how we developed a semi-automated plan to clean up date expressions and add structured dates to our repository by parsing date expressions.
 <!--more-->
 
 ## A Bad First “Date”

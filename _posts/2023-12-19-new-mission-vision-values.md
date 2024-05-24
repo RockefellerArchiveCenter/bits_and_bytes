@@ -39,69 +39,32 @@ and others – the Rockefeller Archive Center’s leaders and staff undertook a 
 process of reflection and dialogue about our own roles and responsibilities to each other, 
 to the communities our work touches, and to society at large. 
 
-You’ve already read about the work of the RAC’s Processing team to develop and lead an 
-initiative around [culturally competent archival description](https://blog.rockarch.org/cultural-competency-in-archives-planning-an-education-campaign). The first phase of the work 
-developed an organization-wide learning program to build understanding and skills, with 
-the second phase being a [revision to the RAC’s Processing Manual](https://blog.rockarch.org/cultural-competency-in-archives-processing-manual-revisions) to build cultural competency 
-into our everyday work. 
+You’ve already read about the work of the RAC’s Processing team to develop and lead an initiative around [culturally competent archival description](/cultural-competency-in-archives-planning-an-education-campaign). The first phase of the work developed an organization-wide learning program to build understanding and skills, with the second phase being a [revision to the RAC’s Processing Manual](/cultural-competency-in-archives-processing-manual-revisions) to build cultural competency into our everyday work. 
 
 ## The RAC’s DEI Committee and Virtual EIDB Training Workshops 
 
-Concurrently with this cultural competency initiative, the RAC also established a Diversity, 
-Equity, and Inclusion Committee composed of representatives from each of the RAC’s staff teams, 
-thus ensuring representation from across the organization. Among the many contributions made 
-by the DEI Committee during this phase was helping the RAC’s leadership understand that the 
-work we needed to do could not be guided by a staff committee alone.  
+Concurrently with this cultural competency initiative, the RAC also established a Diversity, Equity, and Inclusion Committee composed of representatives from each of the RAC’s staff teams, thus ensuring representation from across the organization. Among the many contributions made by the DEI Committee during this phase was helping the RAC’s leadership understand that the work we needed to do could not be guided by a staff committee alone.  
 
 The DEI Committee then helped the RAC identify and retain the services of 
 [Future Work Design](https://futurework.design/), an organizational strategy firm, to lead the 
-entire RAC staff through a series of virtual workshops designed to prompt conversation and 
-understanding around issues of diversity, inclusion, equity, and belonging. Supervisors and 
-senior leaders in the organization received further support in our roles as people managers, 
-and the entire staff received additional training on recognizing and interrupting microaggressions. 
+entire RAC staff through a series of virtual workshops designed to prompt conversation and understanding around issues of diversity, inclusion, equity, and belonging. Supervisors and senior leaders in the organization received further support in our roles as people managers, and the entire staff received additional training on recognizing and interrupting microaggressions. 
 
-The work with Future Work Design and the conversations it prompted enabled us to confront issues 
-of siloing, the challenges of being a multi-generational workplace and all that that means in a 
-cultural heritage setting, the desire to strengthen trust and collaboration across (and up and 
-down) the organization, and the need to improve the ways in which we communicate with each other 
-and our external stakeholders about our work. As a result, we embarked upon a full organizational 
-review, in collaboration with the independent consulting firm, 
-[Third Settlements](https://www.thirdsettlements.com/), with a continued focus on building knowledge, 
-understanding, and capacity around the issues of diversity, equity, inclusion, and belonging. 
+The work with Future Work Design and the conversations it prompted enabled us to confront issues of siloing, the challenges of being a multi-generational workplace and all that that means in a cultural heritage setting, the desire to strengthen trust and collaboration across (and up and down) the organization, and the need to improve the ways in which we communicate with each other and our external stakeholders about our work. As a result, we embarked upon a full organizational review, in collaboration with the independent consulting firm, [Third Settlements](https://www.thirdsettlements.com/), with a continued focus on building knowledge, understanding, and capacity around the issues of diversity, equity, inclusion, and belonging. 
 
 ## The RAC Organizational Review 
 
-This RAC Review, as we call it, was intentionally designed to be staff driven. Led by the cohort 
-of Assistant Directors who head the RAC’s various program teams, the approach taken by this RAC 
-Review Committee and Third Settlements was to engage robustly with staff at all levels using a 
-variety of methodologies to ensure both anonymity and honesty. Among the techniques utilized 
-were surveys, artifact reviews of RAC policies, websites, practices, and even the buildings we 
-occupy, and individual interviews conducted and anonymized by the Third Settlements team.  
+This RAC Review, as we call it, was intentionally designed to be staff driven. Led by the cohort of Assistant Directors who head the RAC’s various program teams, the approach taken by this RAC Review Committee and Third Settlements was to engage robustly with staff at all levels using a variety of methodologies to ensure both anonymity and honesty. Among the techniques utilized were surveys, artifact reviews of RAC policies, websites, practices, and even the buildings we occupy, and individual interviews conducted and anonymized by the Third Settlements team.  
 
-The result of these activities was a comprehensive report as to the state of the RAC organization 
-through the lens of EIDB. There were some hard truths that were delivered in that report. There’s 
-no denying that. Those of us in senior leadership who read the report appreciated the honesty and 
-integrity of the process, the willingness of the staff to share their views and feelings about 
-both personal and professional challenges in our workplace, and the hard work of the RAC Review 
-Committee to not only manage the review process but to synthesize the Third Settlements report 
-into a set of final recommendations to senior leadership. 
+The result of these activities was a comprehensive report as to the state of the RAC organization through the lens of EIDB. There were some hard truths that were delivered in that report. There’s no denying that. Those of us in senior leadership who read the report appreciated the honesty and integrity of the process, the willingness of the staff to share their views and feelings about both personal and professional challenges in our workplace, and the hard work of the RAC Review Committee to not only manage the review process but to synthesize the Third Settlements report into a set of final recommendations to senior leadership. 
 
-The very first recommendation made by the RAC Review Committee was to develop new Mission, Vision, 
-and Values statements in which EIDB were firmly rooted so as to guide and provide a unifying 
-approach to our work and decision-making. The question, then, was how to do this in a way that was 
-not top-down and that was fully inclusive of the entire staff. Again, we turned to consultants who 
-were practiced in this area and who would completely understand us as a cultural heritage institution. 
+The very first recommendation made by the RAC Review Committee was to develop new Mission, Vision, and Values statements in which EIDB were firmly rooted so as to guide and provide a unifying approach to our work and decision-making. The question, then, was how to do this in a way that was not top-down and that was fully inclusive of the entire staff. Again, we turned to consultants who were practiced in this area and who would completely understand us as a cultural heritage institution. 
 Fortunately, Anne Ackerson, of [Leading By Design independent consulting](https://leadingbydesign.blogspot.com/), and Dina Bailey, CEO of [Mountain Top Vision](https://www.mountaintopvisionllc.com/), were available 
 and willing to take on the task of facilitating this work. 
 
 ## Bringing the Staff Together  
 
-Anne and Dina recommended that we gather the entire staff together for a day of focused conversations 
-around the RAC’s mission, vision, and values. To prepare, they provided us with some resources to 
-review prior to the all-staff day. These included the [Definitions and uses of mission and vision 
-statements](https://boardsource.org/mission-vs-vision-3/) (BoardSource) and Simon Sinek’s video, 
-[_How Great Leaders Inspire Action_](https://www.youtube.com/watch?v=qp0HIF3SfI4&t=3s&pp=ygULc2ltb24gc2luZWs%3D). Dina and Anne also suggested that a Values statement “represents the core beliefs of the 
-organization that inspire and guide its choices in the way it operates and deals with people. 
+Anne and Dina recommended that we gather the entire staff together for a day of focused conversations around the RAC’s mission, vision, and values. To prepare, they provided us with some resources to 
+review prior to the all-staff day. These included the [Definitions and uses of mission and vision statements](https://boardsource.org/mission-vs-vision-3/) (BoardSource) and Simon Sinek’s video, [_How Great Leaders Inspire Action_](https://www.youtube.com/watch?v=qp0HIF3SfI4&t=3s&pp=ygULc2ltb24gc2luZWs%3D). Dina and Anne also suggested that a Values statement “represents the core beliefs of the organization that inspire and guide its choices in the way it operates and deals with people. 
 These values should be imbedded in both the mission and the vision and part of all internal and 
 external communications.” 
 

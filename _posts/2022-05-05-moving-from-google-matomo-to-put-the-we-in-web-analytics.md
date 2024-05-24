@@ -23,7 +23,7 @@ We’re planning to transition from Google Universal Analytics to Matomo Analyti
 
 ## Why and How We Use Analytics
 
-Learning how our users engage with our websites provides us with feedback and perspective to continuously improve the user experience. One way we learn about website use is through our web analytics program. With Google Universal Analytics, our current web analytics platform, scheduled to be sunsetted in July 2023, the [Web Analytics Owners Group](https://blog.rockarch.org/analytics-collaboration) at the Rockefeller Archive Center undertook a project to find an alternative that would still meet our needs. This led our Web Analytics Group to research an initial list of 24 platforms and make a recommendation based on specific criteria and requirements defined by the team. The criteria ranged from having an ethical approach to user privacy, to being able to set up custom dashboards, as well as the ease of the prospective transition to a new platform. Our findings pointed towards adopting a cloud-hosted version of [Matomo](https://matomo.org). This would lead to the easiest transition of programs for our staff, while maintaining the quality of the data and its analysis potential.
+Learning how our users engage with our websites provides us with feedback and perspective to continuously improve the user experience. One way we learn about website use is through our web analytics program. With Google Universal Analytics, our current web analytics platform, scheduled to be sunsetted in July 2023, the [Web Analytics Owners Group](/analytics-collaboration) at the Rockefeller Archive Center undertook a project to find an alternative that would still meet our needs. This led our Web Analytics Group to research an initial list of 24 platforms and make a recommendation based on specific criteria and requirements defined by the team. The criteria ranged from having an ethical approach to user privacy, to being able to set up custom dashboards, as well as the ease of the prospective transition to a new platform. Our findings pointed towards adopting a cloud-hosted version of [Matomo](https://matomo.org). This would lead to the easiest transition of programs for our staff, while maintaining the quality of the data and its analysis potential.
 
 ## The RAC Analytics Owners Group
 
@@ -33,7 +33,7 @@ The group has a shared governance structure where we rotate facilitators and col
 
 ## The Research Process
 
-The [Analytics Owners Group](https://blog.rockarch.org/analytics-collaboration) started our work by compiling a list of required and preferred features and data requirements along with evaluation criteria with input from our respective teams (Collections Management, Digital Strategies, Processing, Research + Education, and Reference).
+The [Analytics Owners Group](/analytics-collaboration) started our work by compiling a list of required and preferred features and data requirements along with evaluation criteria with input from our respective teams (Collections Management, Digital Strategies, Processing, Research + Education, and Reference).
 
 We then drafted a list of existing analytics platforms, compiling 24 options for further evaluation. In a shared document, each member added names, URLs, and brief descriptions of possible platforms, including notes about pros and cons based on the approved criteria.
 
@@ -59,7 +59,7 @@ Having been through the learning curve of navigating Google and making decisions
 From our analysis of these various platforms, we observed that their primary means for meeting the trend towards more simplicity is by offering a single dashboard view. Of course, lightweight analytics are not right in every context, and complex analytics suites like [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) and [Piwik Pro](https://piwik.pro) do not appear to be cutting down on what they encompass. 
 
 ## Balancing Cost and Privacy Concerns
-The web analytics field appears to be grappling with concerns over user privacy in the wake of [GDPR](https://blog.rockarch.org/gdpr-report). Over 10 of the platforms we looked at addressed GDPR compliance on their homepages. 
+The web analytics field appears to be grappling with concerns over user privacy in the wake of [GDPR](/gdpr-report). Over 10 of the platforms we looked at addressed GDPR compliance on their homepages. 
 
 Platforms are taking further steps towards satisfying user concerns about how their data is used by providing users with greater ownership over their data. Many appear to be able to guarantee this ownership by either charging for platform-hosted data storage through a subscription like [Fathom](https://usefathom.com), requiring more upfront development work on the part of the user for self-hosted storage like [Offen](https://www.offen.dev), or offering users a choice between the two options like [Matomo](https://matomo.org). 
 

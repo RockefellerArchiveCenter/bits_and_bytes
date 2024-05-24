@@ -9,7 +9,7 @@ tags:
   - infrastructure
 excerpt_separator: <!--more-->
 ---
-As Hillel mentioned in the most recent ["What We're Working On" post](https://blog.rockarch.org/what-were-working-on-2022-04), the RAC has recently implemented a log management system called [Graylog](https://www.graylog.org/). Making better use of our log files and improving our system reliability and response time was a core goal of [becoming better maintainers](https://blog.rockarch.org/becoming-better-maintainers) and operationalizing our systems work. We built logging into almost all of our locally-developed systems and had experience sifting through ArchivesSpace logs, but we weren't actively using them as indicators of application health or issues.
+As Hillel mentioned in the most recent ["What We're Working On" post](/what-were-working-on-2022-04), the RAC has recently implemented a log management system called [Graylog](https://www.graylog.org/). Making better use of our log files and improving our system reliability and response time was a core goal of [becoming better maintainers](/becoming-better-maintainers) and operationalizing our systems work. We built logging into almost all of our locally-developed systems and had experience sifting through ArchivesSpace logs, but we weren't actively using them as indicators of application health or issues.
 
 <!--more-->
 

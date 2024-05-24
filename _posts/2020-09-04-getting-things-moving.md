@@ -12,7 +12,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Following on the [initial implementation](https://blog.rockarch.org/making-connections) of our data pipeline back in March, we’ve been looking closely at ways to increase the performance of the pipeline, by which we mean how many objects the pipeline is able to process in a given time interval. This has been a fairly lengthy process with a lot of learning along the way, so I thought it would be good to document some of what we’ve learned here, both for our future reference as well as for the benefit of someone else trying to do this kind of thing in the future.
+Following on the [initial implementation](/making-connections) of our data pipeline back in March, we’ve been looking closely at ways to increase the performance of the pipeline, by which we mean how many objects the pipeline is able to process in a given time interval. This has been a fairly lengthy process with a lot of learning along the way, so I thought it would be good to document some of what we’ve learned here, both for our future reference as well as for the benefit of someone else trying to do this kind of thing in the future.
 
  <!--more-->
 
