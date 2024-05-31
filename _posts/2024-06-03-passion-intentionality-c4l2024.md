@@ -3,11 +3,10 @@ title: "Passion and Intentionality: Code4Lib 2024"
 date: 2024-05-30T09:00:00
 author: Patrick Galligan
 layout: post
-categories:
-    - Conferences/Education
+categories: Conferences/Education
 tags:
     - DevOps
-    - no
+    - Manifest-no
     - community
 
 excerpt_separator: <!--more-->
