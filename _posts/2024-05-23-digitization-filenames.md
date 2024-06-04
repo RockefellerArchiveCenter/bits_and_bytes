@@ -10,6 +10,7 @@ tags:
     - access
     - refids
     - scripting
+    - automation
 
 excerpt_separator: <!--more-->
 ---
