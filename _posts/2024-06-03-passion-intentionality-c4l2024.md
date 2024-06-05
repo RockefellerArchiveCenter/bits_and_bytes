@@ -12,7 +12,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-I went to [Code4Lib](https://2024.code4lib.org/) again this year, and the experience reaffirmed how much I love this conference and community. As one might expect, practical applications of AI in the library and archives spaces got a lot of attention and time this year, but while these talks were fascinating, useful, and important, they didn’t resonate with me quite as much as some of the more human-oriented talks. There are so many smart people out there thinking about how to make life easier for people by technology, which I find incredibly useful and uplifting. For me, Code4Lib has become less about unique expertise, and more about impact on a larger community, as Hillel alludes to in [his recent conference report](https://blog.rockarch.org/ai-pdfs-and-community).
+I went to [Code4Lib](https://2024.code4lib.org/) again this year, and the experience reaffirmed how much I love this conference and community. As one might expect, practical applications of AI in the library and archives spaces got a lot of attention and time this year, but while these talks were fascinating, useful, and important, they didn’t resonate with me quite as much as some of the more human-oriented talks. There are so many smart people out there thinking about how to make life easier for people by using technology, which I find incredibly useful and uplifting. For me, Code4Lib has become less about unique expertise, and more about impact on a larger community, as Hillel alludes to in [his recent conference report](https://blog.rockarch.org/ai-pdfs-and-community).
 
 <!--more-->
 
