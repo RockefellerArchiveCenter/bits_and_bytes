@@ -23,10 +23,10 @@ Fortunately, we had an idea about how to improve this process, through the intro
 <!--more-->
 
 ## Understanding the Process
-Our outsourced digitization process has some specific characteristics:
-    - The files that it produces are predictable, homogenous, and can be at least partially validated using automated tools.
-    - The process tends to have a lot of peaks and valleys, so the infrastructure supporting it needs to be able to scale up quickly, but also to shut down completely when nothing needs to be processed.
-    - Perhaps most important, the outsourced digitization process is not just about creating files, but also includes post-digitization processes and systems to ensure access and preservation of those files. This might seem like an obvious thing, but it wasn’t to us prior to the service design research. In a way, the pain points outlined above existed because we hadn’t thought about these other pieces holistically.
+Our outsourced digitization process has some specific characteristics:  
+- The files that it produces are predictable, homogenous, and can be at least partially validated using automated tools.
+- The process tends to have a lot of peaks and valleys, so the infrastructure supporting it needs to be able to scale up quickly, but also to shut down completely when nothing needs to be processed.
+- Perhaps most important, the outsourced digitization process is not just about creating files, but also includes post-digitization processes and systems to ensure access and preservation of those files. This might seem like an obvious thing, but it wasn’t to us prior to the service design research. In a way, the pain points outlined above existed because we hadn’t thought about these other pieces holistically.
 
 These characteristics make our outsourced digitization processes a good candidate for automation.
 
@@ -40,21 +40,14 @@ From a technical perspective, this pipeline makes extensive use of Amazon Web Se
 {% include image.html dir="2024/05/" file="image-digitization-aws-resources.png" description="Figure 1. The infrastructure which processes outsourced digitized image and text content is composed of several AWS services." %}
 
 The source code for each piece of this pipeline is versioned in its own repository (which allows each component to be updated independently) and the infrastructure-as-code templates which provision cloud resources are stored in their own repository:
-    - [digitized_image_validation](https://github.com/RockefellerArchiveCenter/digitized_image_validation): 
-        validates the fixity, structure and file characteristics of incoming digitized material.
-    - [digitized_image_qc](https://github.com/RockefellerArchiveCenter/digitized_image_qc): provides a web 
-        user interface for quality control and rights assignment.
-    - [digitized_image_packaging](https://github.com/RockefellerArchiveCenter/digitized_image_packaging): 
-        creates packages of accepted digitized material and delivers it to subsequent services.
-    - [digitized_image_notifications](https://github.com/RockefellerArchiveCenter/digitized_image_notifications): 
-        handles SNS messages and sends messages to a Teams channel about failures  or other significant events.
-    - [digitized_image_trigger](https://github.com/RockefellerArchiveCenter/digitized_image_trigger): 
-        triggers ECS tasks when files are uploaded to an S3 bucket, or when an SNS message indicates that 
-        quality control has been successfully completed.
-    - [digitized_image_pipeline](https://github.com/RockefellerArchiveCenter/digitized_image_pipeline): 
-        contains CloudFormation templates for provisioning infrastructure.
+- [digitized_image_validation](https://github.com/RockefellerArchiveCenter/digitized_image_validation): validates the fixity, structure and file characteristics of incoming digitized material.
+- [digitized_image_qc](https://github.com/RockefellerArchiveCenter/digitized_image_qc): provides a web user interface for quality control and rights assignment.
+- [digitized_image_packaging](https://github.com/RockefellerArchiveCenter/digitized_image_packaging): creates packages of accepted digitized material and delivers it to subsequent services.
+- [digitized_image_notifications](https://github.com/RockefellerArchiveCenter/digitized_image_notifications): handles SNS messages and sends messages to a Teams channel about failures  or other significant events.
+- [digitized_image_trigger](https://github.com/RockefellerArchiveCenter/digitized_image_trigger): triggers ECS tasks when files are uploaded to an S3 bucket, or when an SNS message indicates that quality control has been successfully completed.
+- [digitized_image_pipeline](https://github.com/RockefellerArchiveCenter/digitized_image_pipeline): contains CloudFormation templates for provisioning infrastructure.
 
 ## Connecting to Values
 While the technology part of this project is interesting, to me the most compelling part is the strong connection this work has to the [RAC’s organizational values](https://rockarch.org/about-us/mission-vision-values/). 
-    - The project supports our first value, “We Pursue Excellence in Stewardship” in a number of ways. First, by automating work that was previously manual, we are better stewards of our own labor. Additionally, by not running idle processes, and by being able to more clearly define how many copies we store (and where we store them) we are able to reduce our environmental impact. Last, by facilitating ongoing software updates and limiting the depth and complexity of hardware we need to maintain locally (particularly storage and backups), we provide better stewardship of technical expertise and equipment.
-    - By removing manual processes, we also meet another organizational value, “We Center People in Our Use of Technology”. Taking tedious, error prone work off the plate of our colleagues allows them to apply their labor in more humanizing ways.
+- The project supports our first value, “We Pursue Excellence in Stewardship” in a number of ways. First, by automating work that was previously manual, we are better stewards of our own labor. Additionally, by not running idle processes, and by being able to more clearly define how many copies we store (and where we store them) we are able to reduce our environmental impact. Last, by facilitating ongoing software updates and limiting the depth and complexity of hardware we need to maintain locally (particularly storage and backups), we provide better stewardship of technical expertise and equipment.
+- By removing manual processes, we also meet another organizational value, “We Center People in Our Use of Technology”. Taking tedious, error prone work off the plate of our colleagues allows them to apply their labor in more humanizing ways.
