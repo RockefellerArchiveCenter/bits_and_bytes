@@ -17,38 +17,32 @@
 }
 .welcome {
   text-align: center;
-  color: #c45414;
-  padding-top: 10em;
 }
 // Post listing
 .posts {
   .post-teaser {
-    @extend %padding-regular;
+    padding: 5px $padding-large;
     width: 100%;
+    padding-top: 10px;
     margin-bottom: 0;
     display: inline-block;
-    background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
     p a {
       @extend .body-link;
     }
     &:first-of-type {
-      padding-top: 2%;
+      padding-top: 10px;
     }
-  }
-  .excerpt {
-    margin-top: 1em;
   }
 }
 // Pagination
 .pagination .button {
-  margin: 0 1.5em;
+  margin: 1.5 1.5em;
   i {
     vertical-align: middle;
   }
 }
 .pagination {
-  padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
   @media (max-width: 600px) {
     padding: $padding-small;

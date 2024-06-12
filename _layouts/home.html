@@ -11,23 +11,19 @@ layout: default
   {% endif %}
 
   <div class="posts">
-    <header>
-    <div class="welcome">
+    <div class="welcome pt-20">
       <h1>Recent Posts</h1>
     </div>
-  </header>
     {% for post in paginator.posts %}
     <div class="post-teaser">
-      <header>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-        </h2>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <p class="meta">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </p>
       <div class="excerpt">
         {{ post.excerpt }}
       </div>
