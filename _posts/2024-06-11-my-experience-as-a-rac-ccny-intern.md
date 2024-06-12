@@ -24,4 +24,4 @@ As a film major, it was the film archives that interested me the most. Working w
 
 I am very grateful for my time here at the Rockefeller Archive Center in partnership with The City College of New York. From this experience I have learned many things, not only about the complex skills involved in archiving, but also about myself. I have grown personally and academically with this internship and greatly look forward to putting everything I learned into effect and to visiting in the future! I will always be a part of the Archive Center family and I’ll always be grateful.
 
-![A view of the RAC driveway during the winter. Photo taken by Quinn Kinsella.](assets/img/2024/06/quinn-photo-of-rac.jpg)
+![A photo taken by Quinn Kinsella of the RAC driveway during the winter](assets/img/2024/06/quinn-photo-of-rac.jpg)
