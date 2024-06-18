@@ -1,0 +1,6 @@
+/**
+Layout for all pages
+**/
+#main {
+  grid-column: 2 / span 10;
+}

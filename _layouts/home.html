@@ -10,46 +10,48 @@ layout: default
   </div>
   {% endif %}
 
-  <div class="posts">
-    <div class="welcome pt-20">
-      <h1>Recent Posts</h1>
-    </div>
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h2>
-      <p class="meta">
-        {{ post.date | date: "%B %-d, %Y" }}
-      </p>
-      <div class="excerpt">
-        {{ post.excerpt }}
-      </div>
-        <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
-          {{ site.theme_settings.str_continue_reading }}
-        </a>
-    </div>
-    {% endfor %}
-  </div>
+  <div class="wrapper">
+    <div class="container grid">
+      <main id="main">
+        <h1>Recent Posts</h1>
+        {% for post in paginator.posts %}
+        <div class="post-teaser">
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h2>
+          <p class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </p>
+          <div class="excerpt">
+            {{ post.excerpt }}
+          </div>
+            <a class="button" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
+              {{ site.theme_settings.str_continue_reading }}
+            </a>
+        </div>
+        {% endfor %}
 
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme_settings.str_previous_page }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
-      {{ site.theme_settings.str_next_page }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination">
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="button" >
+            <i class="fa fa-chevron-left"></i>
+            {{ site.theme_settings.str_previous_page }}
+          </a>
+          {% endif %}
+          {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="button" >
+            {{ site.theme_settings.str_next_page }}
+            <i class="fa fa-chevron-right"></i>
+          </a>
+          {% endif %}
+        </div>
+        {% endif %}
+      </main>
+    </div>
   </div>
-  {% endif %}
 </div>
 
 <script language='javascript'>
