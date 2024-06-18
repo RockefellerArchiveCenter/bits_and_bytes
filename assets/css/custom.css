@@ -4,3 +4,9 @@ Layout for all pages
 #main {
   grid-column: 2 / span 10;
 }
+
+.continue-reading {
+  a {
+    color: #fff;
+  }
+}
