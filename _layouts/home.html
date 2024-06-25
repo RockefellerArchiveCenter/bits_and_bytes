@@ -16,7 +16,7 @@ layout: default
         <h1>Recent Posts</h1>
         {% for post in paginator.posts %}
         <div class="post-teaser mb-20">
-          <h2 class="text--orange">
+          <h2>
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title }}
             </a>
@@ -28,32 +28,27 @@ layout: default
             {{ post.excerpt }}
           </div>
           <div class="continue-reading">
-            <button class="btn btn--sm btn--orange pb-5 pt-15">
-              <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
-                {{ site.theme_settings.str_continue_reading }}
-              </a>
-            </button>
+            <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}" class="btn btn--md btn--orange">
+              {{ site.theme_settings.str_continue_reading }}
+            </a>
           </div>
         </div>
+        <hr/>
         {% endfor %}
 
         {% if paginator.total_pages > 1 %}
         <div class="pagination">
           {% if paginator.previous_page %}
-          <button class="btn btn--sm btn--blue">
-            <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" >
-              <i class="fa fa-chevron-left"></i>
-              {{ site.theme_settings.str_previous_page }}
-            </a>
-          </button>
+          <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="btn btn--md btn--blue">
+            <i class="fa fa-chevron-left"></i>
+            {{ site.theme_settings.str_previous_page }}
+          </a>
           {% endif %}
           {% if paginator.next_page %}
-          <button class="btn btn--sm btn--blue">
-            <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" >
-              {{ site.theme_settings.str_next_page }}
-              <i class="fa fa-chevron-right"></i>
-            </a>
-          </button
+          <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="btn btn--md btn--blue ml-60">
+            {{ site.theme_settings.str_next_page }}
+            <i class="fa fa-chevron-right"></i>
+          </a>
           {% endif %}
         </div>
         {% endif %}

@@ -2,10 +2,17 @@
 Layout for all pages
 **/
 
-@media screen and (min-width: 300px) {
-  h2 {
-    font-size: 28px;
-  }
+h2 a {
+  font-size: inherit;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
 
 #main {
@@ -13,14 +20,10 @@ Layout for all pages
   margin-bottom: 10px;
 }
 
-.continue-reading {
-  a {
-    color: #fff;
-  }
-}
-
 .excerpt {
-  font-size: 19px;
+  p {
+    font-size: 19px;
+  }
 }
 
 .meta {
@@ -28,5 +31,25 @@ Layout for all pages
 }
 
 .pagination {
+  display: flex;
+  align-items: center;
   justify-content: center;
+}
+
+.post-content {
+  figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+.post-link {
+  color: #000;
+  text-decoration: none;
+}
+
+.post-link:hover {
+  text-decoration: underline;
 }
