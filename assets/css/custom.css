@@ -1,12 +1,32 @@
 /**
 Layout for all pages
 **/
+
+@media screen and (min-width: 300px) {
+  h2 {
+    font-size: 28px;
+  }
+}
+
 #main {
   grid-column: 2 / span 10;
+  margin-bottom: 10px;
 }
 
 .continue-reading {
   a {
     color: #fff;
   }
+}
+
+.excerpt {
+  font-size: 19px;
+}
+
+.meta {
+  font-size: 21px;
+}
+
+.pagination {
+  justify-content: center;
 }

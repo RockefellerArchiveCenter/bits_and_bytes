@@ -15,8 +15,8 @@ layout: default
       <main id="main">
         <h1>Recent Posts</h1>
         {% for post in paginator.posts %}
-        <div class="post-teaser">
-          <h2>
+        <div class="post-teaser mb-20">
+          <h2 class="text--orange">
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title }}
             </a>
@@ -24,11 +24,11 @@ layout: default
           <p class="meta">
             {{ post.date | date: "%B %-d, %Y" }}
           </p>
-          <div class="excerpt">
+          <div class="excerpt pb-10">
             {{ post.excerpt }}
           </div>
           <div class="continue-reading">
-            <button class="btn btn--sm btn--orange">
+            <button class="btn btn--sm btn--orange pb-5 pt-15">
               <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
                 {{ site.theme_settings.str_continue_reading }}
               </a>
