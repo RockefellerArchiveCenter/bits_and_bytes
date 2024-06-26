@@ -6,6 +6,10 @@ h2 a {
   font-size: inherit;
 }
 
+h3 a {
+  font-size: inherit;
+}
+
 hr {
     display: block;
     height: 1px;

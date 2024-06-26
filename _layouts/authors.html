@@ -9,13 +9,13 @@ title: authors
 {% for author in author_names %}
  {% if author !="" %}
  {% unless author == prev %}
- <h2 id="{{ author | cgi_escape }}" class="author-title">{{author}}</h2>
+ <h2 id="{{ author | cgi_escape }}" class="author-title mt-20">{{author}}</h2>
  {% for post in site.posts %}
   {% if post.author contains author %}
    {% if post.title != null %}
      <div class="author-post">
-       <h3 class="title">
-         <a href="{{ post.url | relative_url }}">
+       <h3>
+         <a class="post-link" href="{{ post.url | relative_url }}">
            {{ post.title }}
          </a>
        </h3>
