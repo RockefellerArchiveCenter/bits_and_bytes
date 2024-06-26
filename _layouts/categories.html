@@ -9,15 +9,15 @@ title: categories
 {% for item in (0..site.categories.size) %}
   {% unless forloop.last %}
     {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
-    <h2 id="{{ this_word | cgi_escape }}" class="category-title">
+    <h2 id="{{ this_word | cgi_escape }}" class="category-title mt-20">
       #{{ this_word }}
     </h2>
     <!-- lists all posts corresponding to specific tag -->
     {% for post in site.categories[this_word] %}
       {% if post.title != null %}
         <div class="category-post">
-          <h3 class="title">
-            <a href="{{ post.url | relative_url }}">
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title }}
             </a>
           </h3>

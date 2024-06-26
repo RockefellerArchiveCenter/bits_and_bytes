@@ -73,3 +73,15 @@ hr {
 .post-link:hover {
   text-decoration: underline;
 }
+
+.author-title {
+  color: #b53c0d
+}
+
+.category-title {
+  color: #b53c0d
+}
+
+.tag-title {
+  color: #b53c0d
+}
