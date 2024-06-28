@@ -20,8 +20,12 @@ hr {
 }
 
 #main {
-  grid-column: 2 / span 10;
+  grid-column: 3 / span 8;
   margin-bottom: 10px;
+}
+
+.author-title {
+  color: #b53c0d
 }
 
 .break {
@@ -29,8 +33,15 @@ hr {
   height: 0;
 }
 
+.category-title {
+  color: #b53c0d
+}
+
 .excerpt {
   p {
+    font-size: 19px;
+  };
+  a {
     font-size: 19px;
   }
 }
@@ -72,14 +83,6 @@ hr {
 
 .post-link:hover {
   text-decoration: underline;
-}
-
-.author-title {
-  color: #b53c0d
-}
-
-.category-title {
-  color: #b53c0d
 }
 
 .tag-title {
