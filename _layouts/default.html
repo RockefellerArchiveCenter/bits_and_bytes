@@ -4,9 +4,19 @@
   <body>
     <a href="#main" class="skip-link visually-hidden">Jump directly to main content</a>
     {% include header.html %}
-    <div class="content">
-      {{ content }}
-    </div>
+    <main id="main">
+      {% if page.layout == "post" %}
+        {{ content }}
+      {% else %}
+      <div class="wrapper">
+        <div class="container grid">
+          <div class="layout--default">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    </main>
     {% include footer.html %}
   </body>
   {% include scripts.html %}

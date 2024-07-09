@@ -2,64 +2,56 @@
 layout: default
 ---
 
-<div class="home">
-  {% if site.theme_settings.header_text %}
-  <div class="call-out"
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
-    {{ site.theme_settings.header_text }}
+{% if site.theme_settings.header_text %}
+<div class="call-out"
+style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+  {{ site.theme_settings.header_text }}
+</div>
+{% endif %}
+
+<h1 class="title">Recent Posts</h1>
+{% for post in paginator.posts %}
+<div class="post-teaser mb-20">
+  <h2>
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      {{ post.title }}
+    </a>
+  </h2>
+  <p class="meta">
+    {{ post.date | date: "%B %-d, %Y" }}
+  </p>
+  <div class="pb-10">
+    {{ post.excerpt }}
   </div>
-  {% endif %}
-
-  <div class="wrapper">
-    <div class="container grid">
-      <main id="main">
-        <h1>Recent Posts</h1>
-        {% for post in paginator.posts %}
-        <div class="post-teaser mb-20">
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title }}
-            </a>
-          </h2>
-          <p class="meta">
-            {{ post.date | date: "%B %-d, %Y" }}
-          </p>
-          <div class="pb-10">
-            {{ post.excerpt }}
-          </div>
-          <div class="continue-reading">
-            <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}" class="btn btn--sm btn--transparent">
-              {{ site.theme_settings.str_continue_reading }}
-            </a>
-          </div>
-        </div>
-        <hr/>
-        {% endfor %}
-
-        {% if paginator.total_pages > 1 %}
-        <div class="pagination">
-          {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="btn btn--lg btn--blue">
-            <span class="material-icon material-icon--space-after" aria-hidden="true">
-              chevron_left
-            </span>
-            {{ site.theme_settings.str_previous_page }}
-          </a>
-          {% endif %}
-          {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="btn btn--lg btn--blue ml-60">
-            {{ site.theme_settings.str_next_page }}
-            <span class="material-icon material-icon--space-before" aria-hidden="true">
-              chevron_right
-            </span>
-          </a>
-          {% endif %}
-        </div>
-        {% endif %}
-      </main>
-    </div>
+  <div class="continue-reading">
+    <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}" class="btn btn--sm btn--transparent">
+      {{ site.theme_settings.str_continue_reading }}
+    </a>
   </div>
 </div>
+<hr/>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}" class="btn btn--lg btn--blue">
+    <span class="material-icon material-icon--space-after" aria-hidden="true">
+      chevron_left
+    </span>
+    {{ site.theme_settings.str_previous_page }}
+  </a>
+  {% endif %}
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}" class="btn btn--lg btn--blue ml-60">
+    {{ site.theme_settings.str_next_page }}
+    <span class="material-icon material-icon--space-before" aria-hidden="true">
+      chevron_right
+    </span>
+  </a>
+  {% endif %}
+</div>
+{% endif %}
 
 <script language='javascript'>
  var posts_map = {};
@@ -84,3 +76,4 @@ layout: default
    window.location.replace("{{site.baseurl}}"+url);
  }
  </script>
+
