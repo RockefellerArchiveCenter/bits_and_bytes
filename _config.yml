@@ -18,7 +18,7 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Powered by <a class="footer-primary__link" href="https://jekyllrb.com/">Jekyll</a> with <a class="footer-primary__link" href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
