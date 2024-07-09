@@ -137,11 +137,12 @@ hr {
 .post-content {
   margin-top: 10px;
 
-  figure {
+  figure, img {
     display: flex;
     flex-direction: column;
     margin-left: 0;
     margin-right: 0;
+    width: 100%;
   }
 
   figcaption {
