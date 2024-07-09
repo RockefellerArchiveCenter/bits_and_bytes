@@ -61,6 +61,10 @@ hr {
     text-align: center;
 }
 
+.post-categories {
+  margin-right: 10px;
+}
+
 .post-content {
   figure {
     display: flex;
@@ -83,6 +87,10 @@ hr {
 
 .post-link:hover {
   text-decoration: underline;
+}
+
+.tag {
+  margin-right: 10px;
 }
 
 .tag-title {
