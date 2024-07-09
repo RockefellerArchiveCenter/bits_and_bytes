@@ -8,7 +8,7 @@ layout: page
 {% for item in (0..site.tags.size) %}
   {% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <h2 id="{{ this_word | cgi_escape }}" class="tag-title mt-20">
+    <h2 id="{{ this_word | cgi_escape }}" class="tag-title">
       #{{ this_word }}
     </h2>
     <!-- lists all posts corresponding to specific tag -->

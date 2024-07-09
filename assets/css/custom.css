@@ -1,15 +1,87 @@
 /**
-Layout for all pages
+Typography
 **/
 
-h2 a {
+/**
+h2 styles for post content that match rockarch.org styles
+**/
+.post-content h2 {
+  border-bottom: 1.5px dotted #192d48;
+}
+
+@media screen and (min-width: 580px) {
+  .post-content h2 {
+    margin-top: 80px;
+  }
+}
+
+/* TODO: replace heading styles with RAC Style Library updated v0.11.0 */
+
+h4 {
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+h5 {
+  color: #662700;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+h6 {
+  color: #9f3c0f;
+  margin-bottom: 10px;
+}
+
+@media screen and (min-width: 1024px) {
+  h4 {
+    font-size: 18px;
+  }
+
+  h5 {
+    font-size: 17px;
+  }
+
+  h6 {
+    font-size: 16px;
+  }
+}
+
+/* TODO: replace heading styles with RAC Style Library updated v0.11.0 */
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
   font-size: inherit;
 }
 
-h3 a {
-  font-size: inherit;
+.author-title,
+.category-title {
+  color: #b53c0d;
 }
 
+.meta {
+  font-size: 21px;
+}
+
+.post-link {
+  color: #000;
+  text-decoration: none;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}
+
+.tag-title {
+  color: #b53c0d;
+}
+
+/**
+Layout for all pages
+**/
 hr {
     display: block;
     height: 1px;
@@ -24,30 +96,9 @@ hr {
   margin-bottom: 10px;
 }
 
-.author-title {
-  color: #b53c0d
-}
-
 .break {
   flex-basis: 100%;
   height: 0;
-}
-
-.category-title {
-  color: #b53c0d
-}
-
-.excerpt {
-  p {
-    font-size: 19px;
-  };
-  a {
-    font-size: 19px;
-  }
-}
-
-.meta {
-  font-size: 21px;
 }
 
 .pagination {
@@ -66,17 +117,17 @@ hr {
 }
 
 .post-content {
+  margin-top: 10px;
+
   figure {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: center;
   }
-}
 
-.post-link {
-  color: #000;
-  text-decoration: none;
+  figcaption {
+    background-color: #f6f6f4;
+    padding: 10px;
+  }
 }
 
 .post-metadata {
@@ -85,14 +136,21 @@ hr {
   font-size: 21px;
 }
 
-.post-link:hover {
-  text-decoration: underline;
-}
-
 .tag {
   margin-right: 10px;
 }
 
-.tag-title {
-  color: #b53c0d
+pre {
+  color: #9f3c0f;
+  background-color: #e3e1dd;
+  margin-bottom: 10px;
+  padding: 2px;
+}
+
+table {
+  margin-bottom: 10px;
+}
+
+.footnote {
+  margin: 0 5px;
 }
