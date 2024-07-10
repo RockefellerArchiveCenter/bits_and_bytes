@@ -149,10 +149,6 @@ hr {
     background-color: #f6f6f4;
     padding: 10px;
   }
-
-  a {
-    font-size: 21px;
-  }
 }
 
 .post-metadata {
@@ -160,7 +156,8 @@ hr {
   flex-direction: column;
 }
 
-.post-metadata a, p {
+.post-metadata a,
+.post-metadata p {
   font-size: 21px;
 }
 
