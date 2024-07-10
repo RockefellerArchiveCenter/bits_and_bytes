@@ -127,7 +127,7 @@ hr {
 
 .post-authors {
   display: flex;
-  text-align: center;
+  text-align: left;
 }
 
 .post-categories {
@@ -149,11 +149,18 @@ hr {
     background-color: #f6f6f4;
     padding: 10px;
   }
+
+  a {
+    font-size: 21px;
+  }
 }
 
 .post-metadata {
   display: flex;
   flex-direction: column;
+}
+
+.post-metadata a, p {
   font-size: 21px;
 }
 
