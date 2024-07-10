@@ -11,7 +11,7 @@ style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_t
 
 <h1 class="title">Recent Posts</h1>
 {% for post in paginator.posts %}
-<div class="post-teaser mb-20">
+<div class="post-teaser">
   <h2>
     <a class="post-link" href="{{ post.url | relative_url }}">
       {{ post.title }}

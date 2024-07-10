@@ -58,7 +58,8 @@ h6 a {
 }
 
 .author-title,
-.category-title {
+.category-title, 
+.tag-title {
   color: #b53c0d;
 }
 
@@ -69,10 +70,6 @@ h6 a {
 
 .post-link:hover {
   text-decoration: underline;
-}
-
-.tag-title {
-  color: #b53c0d;
 }
 
 /**
@@ -167,6 +164,13 @@ hr {
 .post-metadata {
   display: flex;
   flex-direction: column;
+}
+
+.post-teaser {
+  @media screen and (min-width: 580px) {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
 }
 
 .tag {
