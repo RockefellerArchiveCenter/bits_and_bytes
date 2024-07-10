@@ -62,10 +62,6 @@ h6 a {
   color: #b53c0d;
 }
 
-.meta {
-  font-size: 21px;
-}
-
 .post-link {
   color: #000;
   text-decoration: none;
@@ -78,6 +74,23 @@ h6 a {
 .tag-title {
   color: #b53c0d;
 }
+
+/**
+Increase font sizes for post content and excerpt text
+**/
+/* .post-content
+  p, a, ul, ol, code, pre {
+  font-size: 21px;
+}
+
+.post-excerpt,
+  p, a, ul, ol, code, pre {
+    font-size: 21px;
+}
+
+.meta {
+  font-size: 21px;
+} */
 
 /**
 Layout for all pages
@@ -149,27 +162,11 @@ hr {
     background-color: #f6f6f4;
     padding: 10px;
   }
-
-  a {
-    font-size: 21px;
-  }
-
-  li {
-    font-size: 21px;
-  }
-}
-
-.post-excerpt a {
-  font-size: 21px;
 }
 
 .post-metadata {
   display: flex;
   flex-direction: column;
-}
-
-.post-metadata a, p {
-  font-size: 21px;
 }
 
 .tag {
