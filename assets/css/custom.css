@@ -153,6 +153,14 @@ hr {
   a {
     font-size: 21px;
   }
+
+  li {
+    font-size: 21px;
+  }
+}
+
+.post-excerpt a {
+  font-size: 21px;
 }
 
 .post-metadata {
