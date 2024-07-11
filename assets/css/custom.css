@@ -116,14 +116,16 @@ hr {
 }
 
 .post-teaser {
-  h2 {
-    margin-top: 0;
-    @media screen and (min-width: 580px) {
-      margin-top: 50px;
-    }
-  }
   @media screen and (min-width: 580px) {
     margin-bottom: 50px;
+  }
+}
+
+.post-teaser h2 {
+  margin-top: 0;
+
+  @media screen and (min-width: 580px) {
+    margin-top: 50px;
   }
 }
 
