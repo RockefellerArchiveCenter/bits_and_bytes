@@ -16,7 +16,7 @@ h2 styles for post content that match rockarch.org styles for text-heavy sites
 }
 
 .author-title,
-.category-title, 
+.category-title,
 .tag-title {
   color: #b53c0d;
 }
@@ -29,23 +29,6 @@ h2 styles for post content that match rockarch.org styles for text-heavy sites
 .post-link:hover {
   text-decoration: underline;
 }
-
-/**
-Increase font sizes for post content and excerpt text
-**/
-/* .post-content
-  p, a, ul, ol, code, pre {
-  font-size: 21px;
-}
-
-.post-excerpt,
-  p, a, ul, ol, code, pre {
-    font-size: 21px;
-}
-
-.meta {
-  font-size: 21px;
-} */
 
 /**
 Layout for all pages
@@ -96,6 +79,7 @@ hr {
 .post-authors {
   display: flex;
   text-align: left;
+  margin-bottom: 20px;
 }
 
 .post-categories {
@@ -104,6 +88,15 @@ hr {
 
 .post-content {
   margin-top: 10px;
+  h2 {
+    margin-top: 40px;
+    @media screen and (min-width: 580px) {
+      margin-top: 60px;
+    }
+    @media screen and (min-width: 1024px) {
+      margin-top: 80px;
+    }
+  }
 
   figure, img {
     display: flex;
@@ -119,23 +112,24 @@ hr {
   }
 }
 
+.post-excerpt {
+  margin-bottom: 20px;
+}
+
 .post-metadata {
   display: flex;
   flex-direction: column;
 }
 
 .post-teaser {
-  @media screen and (min-width: 580px) {
-    margin-top: 50px;
-    margin-bottom: 50px;
+  h2 {
+    margin-top: 0;
+    @media screen and (min-width: 580px) {
+      margin-top: 50px;
+    }
   }
-}
-
-.post-excerpt {
-  margin-bottom: 20px;
-
   @media screen and (min-width: 580px) {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
 }
 
