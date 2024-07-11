@@ -173,6 +173,14 @@ hr {
   }
 }
 
+.post-excerpt {
+  margin-bottom: 20px;
+
+  @media screen and (min-width: 580px) {
+    margin-bottom: 20px;
+  }
+}
+
 .tag {
   margin-right: 10px;
 }
