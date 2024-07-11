@@ -3,7 +3,7 @@ Typography
 **/
 
 /**
-h2 styles for post content that match rockarch.org styles
+h2 styles for post content that match rockarch.org styles for text-heavy sites
 **/
 .post-content h2 {
   border-bottom: 1.5px dotted #192d48;
@@ -13,48 +13,6 @@ h2 styles for post content that match rockarch.org styles
   .post-content h2 {
     margin-top: 80px;
   }
-}
-
-/* TODO: replace heading styles with RAC Style Library updated v0.11.0 */
-
-h4 {
-  margin-bottom: 10px;
-  margin-top: 30px;
-}
-
-h5 {
-  color: #662700;
-  margin-bottom: 10px;
-  margin-top: 20px;
-}
-
-h6 {
-  color: #9f3c0f;
-  margin-bottom: 10px;
-}
-
-@media screen and (min-width: 1024px) {
-  h4 {
-    font-size: 18px;
-  }
-
-  h5 {
-    font-size: 17px;
-  }
-
-  h6 {
-    font-size: 16px;
-  }
-}
-
-/* TODO: replace heading styles with RAC Style Library updated v0.11.0 */
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
-  font-size: inherit;
 }
 
 .author-title,
