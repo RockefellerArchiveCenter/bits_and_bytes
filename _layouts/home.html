@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if site.theme_settings.header_text %}
-<div class="call-out"
+<div>
 style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
   {{ site.theme_settings.header_text }}
 </div>
@@ -17,13 +17,13 @@ style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_t
       {{ post.title }}
     </a>
   </h2>
-  <p class="meta">
+  <p>
     {{ post.date | date: "%B %-d, %Y" }}
   </p>
   <div class="post-excerpt">
     {{ post.excerpt }}
   </div>
-  <div class="continue-reading">
+  <div>
     <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}" class="btn btn--sm btn--transparent">
       {{ site.theme_settings.str_continue_reading }}
     </a>

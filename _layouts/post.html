@@ -8,7 +8,7 @@ layout: default
       <div class="wrapper">
         <div class="grid container">
           <h1 class="title layout--default">{{ page.title }}</h1>
-          <div class="post-metadata layout--default">
+          <div class="layout--default">
             <p>{{ page.date | date: "%B %-d, %Y" }}</p>
             {% assign authorCount = page.author | size %}
             {% if authorCount == 0 %}
@@ -16,16 +16,14 @@ layout: default
             {% elsif authorCount == 1 %}
               <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ page.author | first }}</a>
             {% else %}
-            <div class="post-authors">
-              <p>
-                {%- for author in page.author -%}
-                  {%- if forloop.first -%}<a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
-                  {%- elsif forloop.last -%}&nbsp;and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
-                  {%- else -%}, <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
-                  {%- endif -%}
-                {%- endfor -%}
-              <p>
-            </div>
+            <p>
+              {%- for author in page.author -%}
+                {%- if forloop.first -%}<a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+                {%- elsif forloop.last -%}&nbsp;and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+                {%- else -%}, <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+                {%- endif -%}
+              {%- endfor -%}
+            <p>
             {% endif %}
           </div>
         </div>

@@ -15,13 +15,13 @@ title: categories
     <!-- lists all posts corresponding to specific tag -->
     {% for post in site.categories[this_word] %}
       {% if post.title != null %}
-        <div class="category-post">
+        <div>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title }}
             </a>
           </h3>
-          <div class="meta">
+          <div>
             {{ post.date | date: "%B %-d, %Y" }}
           </div>
         </div>
