@@ -3,11 +3,35 @@ layout: default
 ---
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
   <div style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
-    
+
     <div class="page__title-container">
       <div class="wrapper">
         <div class="grid container">
           <h1 class="title layout--default">{{ page.title }}</h1>
+        </div>
+      </div>
+      <div class="wrapper">
+        <div class="grid container">
+          <div class="post-metadata layout--default">
+            <p>{{ page.date | date: "%B %-d, %Y" }}</p>
+            {% assign authorCount = page.author | size %}
+            {% if authorCount == 0 %}
+              No author
+            {% elsif authorCount == 1 %}
+              <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ page.author | first }}</a>
+            {% else %}
+            <div class="post-authors">
+              <p>
+                {%- for author in page.author -%}
+                  {%- if forloop.first -%}<a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+                  {%- elsif forloop.last -%}&nbsp;and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+                  {%- else -%}, <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+                  {%- endif -%}
+                {%- endfor -%}
+              <p>
+            </div>
+            {% endif %}
+          </div>
         </div>
       </div>
     </div>
@@ -16,26 +40,6 @@ layout: default
   <div class="wrapper">
     <div class="grid container">
       <div class="layout--default">
-        <div class="post-metadata">
-          <p>{{ page.date | date: "%B %-d, %Y" }}</p>
-          {% assign authorCount = page.author | size %}
-          {% if authorCount == 0 %}
-            No author
-          {% elsif authorCount == 1 %}
-            <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ page.author | first }}</a>
-          {% else %}
-          <div class="post-authors">
-            <p>
-              {%- for author in page.author -%}
-                {%- if forloop.first -%}<a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
-                {%- elsif forloop.last -%}&nbsp;and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
-                {%- else -%}, <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
-                {%- endif -%}
-              {%- endfor -%}
-            <p>
-          </div>
-          {% endif %}
-        </div>
         <section class="post-content">{{ content }}</section>
         {% include tags_categories.html tags=page.tags tag_count=page.tags.size categories=page.categories category_count=page.categories.size %}
       </div>
@@ -54,4 +58,3 @@ layout: default
 {% if site.theme_settings.post_navigation %}
   {% include post_nav.html %}
 {% endif %}
-

@@ -77,9 +77,7 @@ hr {
 }
 
 .post-authors {
-  display: flex;
   text-align: left;
-  margin-bottom: 20px;
 }
 
 .post-categories {
@@ -114,11 +112,6 @@ hr {
 
 .post-excerpt {
   margin-bottom: 20px;
-}
-
-.post-metadata {
-  display: flex;
-  flex-direction: column;
 }
 
 .post-teaser {
