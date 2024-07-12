@@ -3,14 +3,17 @@ Typography
 **/
 
 /**
-h2 styles for post content that match rockarch.org styles for text-heavy sites
+h2 styles for post content to create more space in this text-heavy context
 **/
 .post-content h2 {
   border-bottom: 1.5px dotted #192d48;
-}
+  margin-top: 40px;
 
-@media screen and (min-width: 580px) {
-  .post-content h2 {
+  @media screen and (min-width: 580px) {
+    margin-top: 60px;
+  }
+
+  @media screen and (min-width: 1024px) {
     margin-top: 80px;
   }
 }
@@ -86,15 +89,6 @@ hr {
 
 .post-content {
   margin-top: 10px;
-  h2 {
-    margin-top: 40px;
-    @media screen and (min-width: 580px) {
-      margin-top: 60px;
-    }
-    @media screen and (min-width: 1024px) {
-      margin-top: 80px;
-    }
-  }
 
   figure, img {
     display: flex;
@@ -115,14 +109,16 @@ hr {
 }
 
 .post-teaser {
-  h2 {
-    margin-top: 0;
-    @media screen and (min-width: 580px) {
-      margin-top: 50px;
-    }
-  }
   @media screen and (min-width: 580px) {
     margin-bottom: 50px;
+  }
+}
+
+.post-teaser h2 {
+  margin-top: 0;
+
+  @media screen and (min-width: 580px) {
+    margin-top: 50px;
   }
 }
 

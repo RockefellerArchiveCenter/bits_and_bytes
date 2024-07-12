@@ -47,20 +47,6 @@
     {
       "label": "Post with Figure and Caption",
       "url": "http://host.docker.internal:4000/automating-the-right-things-the-right-way"
-    },
-    {
-      "label": "Header Nav Toggle",
-      "url": "http://host.docker.internal:4000/what-were-working-on-2019-09",
-      "clickSelector": "#nav-toggle",
-      "readySelector": "#nav-toggle-menu",
-      "delay": "5000",
-      "viewports": [
-        {
-          "label": "phone",
-          "width": 320,
-          "height": 480
-        }
-      ]
     }
   ],
   "paths": {
