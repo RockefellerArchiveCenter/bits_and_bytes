@@ -37,6 +37,10 @@ h2 styles for post content to create more space in this text-heavy context
 /**
 Layout for all pages
 **/
+
+/**
+Define styles for the line between excerpts on homepage
+**/
 hr {
     display: block;
     height: 1px;
@@ -46,8 +50,18 @@ hr {
     padding: 0;
 }
 
+/**
+Increase default container margins
+**/
 .container {
   margin: 0 30px;
+}
+
+/**
+Ensure content is easy to read on very large screens by setting a max width
+**/
+main .container {
+  max-width: 1440px;
 }
 
 .layout--default {
@@ -73,6 +87,9 @@ hr {
   margin-top: 1.2em;
 }
 
+/**
+Styles for "next" and "previous" buttons on homepage
+**/
 .pagination {
   display: flex;
   align-items: center;
@@ -84,22 +101,28 @@ hr {
   margin-right: 10px;
 }
 
+/**
+Styles for blog post pages
+1. Adjust top margin of post content by screen size, and ensure that it is consistent
+by removing the default top margin of the first paragraph or heading.
+2. Set styles for figures, images, and their associated captions in posts
+**/
 .post-content {
-  margin-top: 40px;
+  margin-top: 40px; /* 1 */
 
   @media screen and (min-width: 580px) {
-    margin-top: 60px;
+    margin-top: 60px; /* 1 */
   }
 
   @media screen and (min-width: 1024px) {
-    margin-top: 80px;
+    margin-top: 80px; /* 1 */
   }
 
   :first-child {
-    margin-top: 0px;
+    margin-top: 0px; /* 1 */
   }
 
-  figure, img {
+  figure, img { /* 2 */
     display: flex;
     flex-direction: column;
     margin-left: 0;
@@ -107,7 +130,7 @@ hr {
     width: 100%;
   }
 
-  figcaption {
+  figcaption { /* 2 */
     background-color: #f6f6f4;
     padding: 10px;
   }
@@ -117,6 +140,9 @@ hr {
   margin-bottom: 20px;
 }
 
+/**
+Adjust homepage post excerpt margins to be smaller on small screens
+**/
 .post-teaser {
   @media screen and (min-width: 580px) {
     margin-bottom: 50px;
@@ -135,6 +161,9 @@ table {
   margin-bottom: 10px;
 }
 
+/**
+Increase space around inline superscript footnote created in Markdown
+**/
 .footnote {
   margin: 0 5px;
 }
