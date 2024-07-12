@@ -5,7 +5,8 @@ Typography
 /**
 h2 styles for post content to create more space in this text-heavy context
 **/
-.post-content h2 {
+.post-content h2,
+.page-content h2 {
   border-bottom: 1.5px dotted #192d48;
   margin-top: 40px;
 
@@ -66,7 +67,6 @@ hr {
 .page__title-container {
   min-height: 168px;
   background: #c5d1dd;
-  margin-bottom: 80px;
 }
 
 .title {
@@ -88,7 +88,19 @@ hr {
 }
 
 .post-content {
-  margin-top: 10px;
+  margin-top: 40px;
+
+  @media screen and (min-width: 580px) {
+    margin-top: 60px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    margin-top: 80px;
+  }
+
+  :first-child {
+    margin-top: 0px;
+  }
 
   figure, img {
     display: flex;

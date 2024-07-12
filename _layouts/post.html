@@ -8,10 +8,6 @@ layout: default
       <div class="wrapper">
         <div class="grid container">
           <h1 class="title layout--default">{{ page.title }}</h1>
-        </div>
-      </div>
-      <div class="wrapper">
-        <div class="grid container">
           <div class="post-metadata layout--default">
             <p>{{ page.date | date: "%B %-d, %Y" }}</p>
             {% assign authorCount = page.author | size %}
@@ -39,10 +35,10 @@ layout: default
   </div>
   <div class="wrapper">
     <div class="grid container">
-      <div class="layout--default">
-        <section class="post-content">{{ content }}</section>
+      <section class="post-content layout--default">
+        {{ content }}
         {% include tags_categories.html tags=page.tags tag_count=page.tags.size categories=page.categories category_count=page.categories.size %}
-      </div>
+      </section>
     </div>
   </div>
 </article>
