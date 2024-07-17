@@ -22,10 +22,10 @@ For this first group of students, we shaped a research project around three “u
 
 In talking with the students during our Reception and Reflection, they shared that they remembered the project as a challenging one. They thought presenting their work would be a daunting experience, but because they felt so prepared they were more excited to share their new knowledge. Their takeaways were that the project’s rigor and targeted research skills were something that gave them confidence and a feeling of preparation as they moved through their middle and high school careers.
 
-! [students looking at photos from when they were part of the 5th grade archive project in 2017](assets/img/2024/07/wi-reception-1.jpg)
+![students looking at photos from when they were part of the 5th grade archive project in 2017](assets/img/2024/07/wi-reception-1.jpg)
 
 They are now off to different colleges in the fall with different goals and academic interests. We’re excited for their next chapter and plan to reconnect in five years to continue to follow their trajectories. 
 
 Our work with the first group of students also informed how we continued our work bridging the classroom and archive. The [RAC’s Archival Education Program] (https://docs.rockarch.org/Archival-Education-Strategy-Document) continues to evolve, but the original goals for our program remain the same. We continue to bridge the classroom and the archive by collaborating with our lab school partners and build new archive project models that are accessible to all via our [Teach with Archives] (https://resource.rockarch.org/teach-with-archives/) hub and [OER Commons] (https://oercommons.org/groups/archival-education/4012/).
 
-! [Group photo, June 2024](assets/img/2024/07/wi-reception-2.jpg)
+![Group photo, June 2024](assets/img/2024/07/wi-reception-2.jpg)
