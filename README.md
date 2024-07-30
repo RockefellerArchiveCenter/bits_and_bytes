@@ -95,11 +95,11 @@ In order for [Markdown tables](https://docs.github.com/en/get-started/writing-on
 ## Local development
 Download the repository to your local machine using git:
 
-      git clone https://github.com/RockefellerArchiveCenter/rockarch.org.git
+      git clone https://github.com/RockefellerArchiveCenter/bits_and_bytes.git
 
 Move into the main directory of the repository
 
-      cd rockarch.org
+      cd bits_and_bytes
 
 Install dependencies
 
