@@ -1,6 +1,6 @@
 ---
 title: "Redesigning Bits & Bytes and our Documentation Site using the RAC Style Library"
-date: 2024-07-18T10:00:00
+date: 2024-08-05T10:00:00
 author:
     - Hannah Sistrunk
     - Darren Young
@@ -32,6 +32,29 @@ With that versioned CSS file ready to import, we undertook the work of replacing
 ### Implementing RAC Styles in Bits & Bytes and the Documentation Site
 
 After an initial phase of testing and refining our Style Library by implementing it in internal RAC websites like [Matchbox](https://github.com/RockefellerArchiveCenter/MatchBox) and aquila (our [authoring tool for PREMIS rights statements](/translating-rights)), Digital Strategies expanded the project team to include Processing Archivists Darren Young and Katie Martin who we’ve collaborated with before on coding projects (see their work on [DACSspace](/dacsspace-leveling-up-code-and-skills and the [ArchivesSnake API Helpers Package](/aspace-helpers-part-1)). We paired up, with each pair working on a site together. The work was structured into three two-week “sprints” bookended by kickoff/retrospective meetings to share our progress, challenges, reflections, and agreeing on next steps and strategy.
+
+<div style="width:100%;">
+  <div style="display: flex;">
+    <figure style="width:50%; margin-right:10px;">
+      <img src="{{ site.baseurl }}/assets/img/2024/08/docs-site-homepage-screenshot.png" alt="Documentation site homepage screenshot of old design with bright blue color scheme and card layout">
+      <figcaption align = "left">Documentation Site homepage before redesign</figcaption>
+    </figure>
+    <figure style="width:50%; margin-top: 0px;">
+      <img src="{{ site.baseurl }}/assets/img/2024/08/docs-site-homepage-screenshot-rac-styles.png" alt="Documentation site homepage screenshot of new design with RAC dark blue and orange color scheme and searchable table layout">
+      <figcaption align = "left">Documentation Site homepage redesign with RAC styles</figcaption>
+    </figure>
+  </div>
+  <div style="display: flex; margin-top: 50px">
+    <figure style="width:50%; margin-right:10px;">
+      <img src="{{ site.baseurl }}/assets/img/2024/08/blog-site-post-screenshot.png" alt="Blog website post page screenshot with simple white background">
+      <figcaption align = "left">Bits & Bytes blog post page before redesign</figcaption>
+    </figure>
+    <figure style="width:50%; margin-top: 0px;">
+      <img src="{{ site.baseurl }}/assets/img/2024/08/blog-site-post-screenshot-rac-styles.png" alt="Blog website post page screenshot of new design with RAC dark blue header and light blue background behind post title">
+      <figcaption align = "left">Bits & Bytes blog post page redesign with RAC styles</figcaption>
+    </figure>
+  </div>
+</div>
 
 ## How We Organized Our Work (Darren)
 
@@ -84,5 +107,3 @@ I relied on the detailed documentation provided in the Style Guide and the [docs
 This project was also a great refresher on using GitHub as a project management tool throughout the sprints and using [Visual Studio Code ]( https://code.visualstudio.com/) to make commits, merge conflicts, and run the terminal to build the documentation site locally.
 
 As we started this project, Hannah emphasized that the main goal was to learn and build knowledge. I am always a little nervous to jump back into collaborative coding projects. Every time I am reminded of how much I do not know, and it can feel intimidating to admit that in a group setting. This project was a great way to learn in a relaxed setting and refresh my skills while also learning new approaches to collaboration and coding.
-
-
