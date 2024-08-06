@@ -1,7 +1,7 @@
 {% if include.tag_count > 0 or include.category_count > 0 %}
-<footer>
+<div>
   {% if include.tag_count > 0 %}
-    <div class="tags">
+    <div>
       {% for tag in include.tags %}
         <a class="tag" href="{{site.baseurl}}/tags#{{ tag | cgi_escape }}">#{{tag}}</a>
       {% endfor %}
@@ -22,5 +22,5 @@
       {% endfor %}
     {% endif %}
     </div>
-</footer>
+  </div>
 {% endif %}

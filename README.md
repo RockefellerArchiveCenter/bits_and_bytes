@@ -89,11 +89,42 @@ Once you have created a branch and placed your post file and images in the corre
 ### Merge the pull request
 Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `gh-pages` branch. This will automatically publish the post, so only merge when you are ready for your post to be visible to the world. See the GitHub documentation on [merging pull requests](https://help.github.com/en/articles/merging-a-pull-request) if you have questions.
 
-## Tips and tricks
+### Creating tables
 In order for [Markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) to render properly, they need to be separated from other block-level elements. This means you should add a blank line before and after a table in order for it to render properly.
 
-## License
+## Local development
+Download the repository to your local machine using git:
 
+      git clone https://github.com/RockefellerArchiveCenter/bits_and_bytes.git
+
+Move into the main directory of the repository
+
+      cd bits_and_bytes
+
+Install dependencies
+
+      bundle install
+
+Run the development server
+
+      bundle exec jekyll serve
+
+You'll see some messages appear, and should be able to view the site in a web browser at `http://localhost:4000/`
+
+## Visual regression testing
+The repository includes [BackstopJS](https://github.com/garris/BackstopJS) to test visual changes to the site by comparing a set of reference images for different screen sizes. Anytime the CSS styles are changed, use BackstopJS to test locally:
+
+1. Install BackstopJS dependency: `yarn install`
+2. Build and run the site using the steps in the [Local Development](#local-development) section above.
+3. Run [Docker](https://www.docker.com/).
+4. In another terminal, run the BackstopJS tests: `yarn backstop-test`.
+5. Review the results in the browser and look at the diff of any failed tests.
+6. To update the reference image files with the results of the last test images use: `yarn backstop-approve`. Subsequent tests will be compared against these updated reference files.
+7. Commit any updated reference images to the repository so that future tests will be compared against the most recent images.
+
+To add or update reference images, edit the scenarios in `backstop.json` and run `yarn backstop-reference`.
+
+## License
 Bits &amp; Bytes is released under an [MIT License](LICENSE).
 
 Bits &amp; Bytes content is released under a [CCBY 4.0 License](LICENSE-CCBY-4.0.md).

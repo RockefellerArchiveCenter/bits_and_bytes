@@ -13,13 +13,13 @@ title: authors
  {% for post in site.posts %}
   {% if post.author contains author %}
    {% if post.title != null %}
-     <div class="author-post">
-       <h3 class="title">
-         <a href="{{ post.url | relative_url }}">
+     <div>
+       <h3>
+         <a class="post-link" href="{{ post.url | relative_url }}">
            {{ post.title }}
          </a>
        </h3>
-       <div class="meta">
+       <div>
          {{ post.date | date: "%B %-d, %Y" }}
        </div>
      </div>
