@@ -1,6 +1,6 @@
 ---
 title: "Redesigning Bits & Bytes and our Documentation Site using the RAC Style Library"
-date: 2024-08-05T10:00:00
+date: 2024-08-06T10:00:00
 author:
     - Hannah Sistrunk
     - Darren Young
