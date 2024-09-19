@@ -7,8 +7,13 @@ layout: post
 categories:
     - Film Inspection
 tags:
-    - Film
+    - access
+    - archives profession
     - Audiovisual
+    - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
+    - Film
+    - preservation
+    - collection management
 
 excerpt_separator: <!--more-->
 ---
