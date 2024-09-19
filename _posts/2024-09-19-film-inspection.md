@@ -91,18 +91,12 @@ The RAC also allowed me to experience another aspect of film collection manageme
 ![Closeup of nitrate film housed in its original that appears rusty](/assets/img/2024/09/PIC_J.jpg)
 
 However, we were pleasantly surprised that the films, which indeed were nitrate, were in very good condition—especially considering that these films had been sitting in the basement of a pool house for multiple decades.  
- 
 
-Of course, the trip to Long Island to retrieve the flammable films and bring them to a blistering parking lot for inspection occurred during a heatwave (!), but at least they are now in an environment with proper storage conditions. Hopefully, the films can be restored and digitized. It was great to be a part of an assessment such as this and to use my specialized training to help in this matter. 
+Of course, the trip to Long Island to retrieve the flammable films and bring them to a blistering parking lot for inspection occurred during a heatwave (!), but at least they are now in an environment with proper storage conditions. Hopefully, the films can be restored and digitized. It was great to be a part of an assessment such as this and to use my specialized training to help in this matter.
 
- 
 
-## Works Cited 
+## Works Cited
 
-Archival Formats: Glossary of Terms. (2023, October 19). Retrieved from The U.S. National Archives and Records Administration: [https://www.archives.gov/preservation/formats/glossary.html] (https://www.archives.gov/preservation/formats/glossary.html)
+Archival Formats: Glossary of Terms. (2023, October 19). Retrieved from The U.S. National Archives and Records Administration: [https://www.archives.gov/preservation/formats/glossary.html](https://www.archives.gov/preservation/formats/glossary.html)
 
-Suddath, C. (2009, June 23). A Brief History of Kodachrome. Retrieved from Time USA, LLC.: [https://content.time.com/time/arts/article/0,8599,1906503,00.html] (https://content.time.com/time/arts/article/0,8599,1906503,00.html)
-
- 
-
- 
+Suddath, C. (2009, June 23). A Brief History of Kodachrome. Retrieved from Time USA, LLC.: [https://content.time.com/time/arts/article/0,8599,1906503,00.html](https://content.time.com/time/arts/article/0,8599,1906503,00.html)
