@@ -86,11 +86,13 @@ The final step to take during the inspection process is to test each film for vi
 
 ## Accession 
 
-The RAC also allowed me to experience another aspect of film collection management for which I had not previously been afforded the opportunity: assessing a collection for accession. I had the fortune to join Brent Phillips, Audiovisual Archivist at the RAC, in accompanying an independent archivist on a trip to a prominent family’s estate on Long Island for the retrieval and assessment of a collection. Though this collection is outside the scope of the RAC’s collection policy, because Brent Philips, as well as I, have the proper training to assess and handle nitrate (which this collection was anticipated to be), we were asked by the independent archivist to accompany him in its retrieval, transport, and assessment. Based on the photos we were sent; we expected the films to be in an advanced state of nitrate decay.  
+The RAC also allowed me to experience another aspect of film collection management for which I had not previously been afforded the opportunity: assessing a collection for accession. I had the fortune to join Brent Phillips, Audiovisual Archivist at the RAC, in accompanying an independent archivist on a trip to a prominent family’s estate on Long Island for the retrieval and assessment of a collection. Though this collection is outside the scope of the RAC’s collection policy, because Brent Philips, as well as I, have the proper training to assess and handle nitrate (which this collection was anticipated to be), we were asked by the independent archivist to accompany him in its retrieval, transport, and assessment. Based on the photos we were sent; we expected the films to be in an advanced state of nitrate decay.
 
 ![Closeup of nitrate film housed in its original that appears rusty](/assets/img/2024/09/PIC_J.jpg)
 
-However, we were pleasantly surprised that the films, which indeed were nitrate, were in very good condition—especially considering that these films had been sitting in the basement of a pool house for multiple decades.  
+However, we were pleasantly surprised that the films, which indeed were nitrate, were in very good condition—especially considering that these films had been sitting in the basement of a pool house for multiple decades.
+
+![nitrate film reel in good condition](/assets/img/2024/09/PIC_K.jpg)
 
 Of course, the trip to Long Island to retrieve the flammable films and bring them to a blistering parking lot for inspection occurred during a heatwave (!), but at least they are now in an environment with proper storage conditions. Hopefully, the films can be restored and digitized. It was great to be a part of an assessment such as this and to use my specialized training to help in this matter.
 
