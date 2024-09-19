@@ -1,8 +1,7 @@
 ---
 title: "There's No Place Like Home Movies: My Film Inspection Experience at the RAC"
 date: 2024-09-19T10:00:00
-author:
-    - Johnny Goshen
+author: Johnny Goshen
 layout: post
 categories:
     - Film Inspection
