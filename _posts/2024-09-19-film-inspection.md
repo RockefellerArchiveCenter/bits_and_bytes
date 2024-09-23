@@ -42,7 +42,7 @@ Additionally, the films in this collection primarily utilized the Kodachrome col
 
 The Kodachrome color process is known for its color accuracy and for maintaining its color, and, as Suddath explains, “…although all dyes will fade over time, if Kodachrome is stored properly, it can be good for up to 100 years”​ (Suddath, 2009)​. I found this proved to be true when inspecting this collection. Even in areas where the film severely curled, the image was still quite beautiful. 
 
-![Closeup of film showing flowers with bright red color](/assets/img/2024/09/PIC_B.jpg)
+<img src="/assets/img/2024/09/PIC_B.jpg" alt="Closeup of film showing flowers with bright red color" style="width: 200px;">
 
 ## Condition 
 
@@ -86,17 +86,17 @@ For the film with which I was working, the migrated plasticizer formed a tiny an
 
 The final step to take during the inspection process is to test each film for vinegar syndrome using A-D Strips. Vinegar syndrome is a condition that occurs when acetate film begins to deteriorate. The deterioration creates ascetic acid, which smells like vinegar, in a process known as off-gassing. Films with vinegar syndrome often shrink, become brittle, and can present plasticizer exudation—all conditions that I found while inspecting this collection. As the room stank of vinegar during my inspections, I was not surprised to see that a majority of the films had a reading of 2 or 3 (3 is the highest) on the A-D Strips. (A-D Strips are dye-coated strips of paper that change color to detect the severity of acetate deterioration, or vinegar syndrome.) Because of this, most of the films in this collection have been bagged with molecular sieves to help absorb the acetic acid until the films can be placed in freezing storage. 
 
-![Closeup of A-D test strip used for determing pH](/assets/img/2024/09/PIC_I.jpg) 
+<img src="/assets/img/2024/09/PIC_I.jpg" alt="Closeup of A-D test strip used for determining pH" style="width: 300px;">
 
 ## Accession 
 
 The RAC also allowed me to experience another aspect of film collection management for which I had not previously been afforded the opportunity: assessing a collection for accession. I had the fortune to join Brent Phillips, Audiovisual Archivist at the RAC, in accompanying an independent archivist on a trip to a prominent family’s estate on Long Island for the retrieval and assessment of a collection. Though this collection is outside the scope of the RAC’s collection policy, because Brent Philips, as well as I, have the proper training to assess and handle nitrate (which this collection was anticipated to be), we were asked by the independent archivist to accompany him in its retrieval, transport, and assessment. Based on the photos we were sent; we expected the films to be in an advanced state of nitrate decay.
 
-![Closeup of nitrate film housed in its original that appears rusty](/assets/img/2024/09/PIC_J.jpg)
+<img src="/assets/img/2024/09/PIC_J.jpg" alt="Closeup of nitrate film housed in its original that appears rusty" style="width: 200px;">
 
 However, we were pleasantly surprised that the films, which indeed were nitrate, were in very good condition—especially considering that these films had been sitting in the basement of a pool house for multiple decades.
 
-![nitrate film reel in good condition](/assets/img/2024/09/PIC_K.jpg)
+<img src="/assets/img/2024/09/PIC_K.jpg" alt="nitrate film reel in good condition" style="width: 200px;">
 
 Of course, the trip to Long Island to retrieve the flammable films and bring them to a blistering parking lot for inspection occurred during a heatwave (!), but at least they are now in an environment with proper storage conditions. Hopefully, the films can be restored and digitized. It was great to be a part of an assessment such as this and to use my specialized training to help in this matter.
 
