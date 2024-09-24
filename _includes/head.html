@@ -5,11 +5,14 @@
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<!-- RAC Style Library -->
+	<link rel="stylesheet" href="https://assets.rockarch.org/v0.12.0/main.min.css">
+
 	<!-- CSS -->
-	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.theme_settings.favicon }}" type="image/png">
+	<link rel="shortcut icon" href="https://assets.rockarch.org/assets/img/favicon.ico" type="image/png">
 
 	<!-- Canonical -->
 	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' | relative_url }}">

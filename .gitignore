@@ -5,3 +5,8 @@
 .sass-cache/
 _site/
 /vendor
+
+# BackstopJS
+node_modules
+backstop_data/html_report/
+bitmaps_test/

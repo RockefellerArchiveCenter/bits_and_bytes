@@ -1,46 +1,93 @@
-<header class="site-header">
-	<div class="branding">
-		{% if site.theme_settings.gravatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.theme_settings.gravatar }}?s=100" alt="Bits & Bytes Home"/>
-		</a>
-		{% elsif site.theme_settings.avatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt="Bits & Bytes Home"/>
-		</a>
-		{% endif %}
-		<a class="site-title" href="{{ site.baseurl }}/">{{ site.theme_settings.title }}
-			{% if site.theme_settings.subtitle %}
-				<br /><span class="site-subtitle">{{ site.theme_settings.subtitle }}</span>
-			{% endif %}
-		</a>
-	</div>
-	<nav class="site-nav">
-		<ul>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
-			<li>
-				<a class="page-link" href="{{ page.url | relative_url }}">
-					{{ page.title }}
+<header class="header header--blue">
+	<div class="wrapper">
+	  <div class="container flex">
+		<div class="header__brand header__brand--text">
+		  <a href="/" class="header__brand-title">Bits & Bytes</a>
+		  <div class="header__brand-subtitle">
+			The Rockefeller Archive Center Blog
+			</div>
+		</div>
+		<nav class="nav-right" aria-label="Main">
+			<ul class="nav__list show-on-lg-up">
+			  <li class="nav__item btn--navy">
+				<a
+				  class="nav__link"
+				  href="/authors"
+				  id="authors"
+				>
+				  Authors
+				  <span class="material-icon" aria-hidden="true">
+					arrow_right_alt
+				  </span>
 				</a>
-			</li>
-			{% endif %}
-			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled  -->
-			{% include icons.html %}
+			  </li>
+			  <li class="nav__item btn--navy">
+				<a class="nav__link" href="/categories" id="categories">
+				  Categories
+				  <span class="material-icon" aria-hidden="true">
+					arrow_right_alt
+				  </span>
+				</a>
+			  </li>
+			  <li class="nav__item btn--navy">
+				<a
+				  class="nav__link"
+				  href="/tags"
+				  id="tags"
+				>
+				  Tags
+				  <span class="material-icon" aria-hidden="true">
+					arrow_right_alt
+				  </span>
+				</a>
+			  </li>
+			</ul>
 
-            <!-- Search bar -->
-            {% if site.theme_settings.search %}
-            <li>
-            <form action="{{ site.baseurl }}/search.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="Search" class="">
-                <button type="submit" class="">
-                    <i class="fa fa-fw fa-search"></i>
-                </button>
-            </form>
-            </li>
-            {% endif %}
-		</ul>
-	</nav>
-
-</header>
+			<div class="dropdown hide-on-lg-up">
+			  <button
+				id="nav-toggle"
+				class="btn btn--navy nav__btn--mobile closed"
+				aria-expanded="false"
+			  >
+				<span class="material-icon">menu</span>
+			  </button>
+			  <ul
+				id="nav-toggle-menu"
+				class="dropdown__list dropdown__list--mobile list--unstyled dropdown__list--navy dropdown__list--slide-left closed"
+			  >
+				<li>
+				  <a
+					class="btn btn--navy dropdown__btn dropdown__btn--mobile"
+					href="/authors"
+					tabindex="-1"
+				  >
+					Authors
+					<span class="material-icon">east</span>
+				  </a>
+				</li>
+				<li>
+				  <a
+					class="btn btn--navy dropdown__btn dropdown__btn--mobile"
+					href="/categories"
+					tabindex="-1"
+				  >
+					Categories
+					<span class="material-icon">east</span>
+				  </a>
+				</li>
+				<li>
+					<a
+					  class="btn btn--navy dropdown__btn dropdown__btn--mobile"
+					  href="/tags"
+					  tabindex="-1"
+					>
+					  Tags
+					  <span class="material-icon">east</span>
+					</a>
+				  </li>
+			  </ul>
+			</div>
+		  </nav>
+	  </div>
+	</div>
+  </header>
