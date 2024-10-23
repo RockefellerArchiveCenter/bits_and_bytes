@@ -1,5 +1,5 @@
 --- 
-title: "Media Literacy Through An Archival Audiovsisual Lens"
+title: "Media Literacy Through An Archival Audiovisual Lens"
 date: 2024-10-20T10:00:00 
 author: Nicole Diroff
 layout: post 
