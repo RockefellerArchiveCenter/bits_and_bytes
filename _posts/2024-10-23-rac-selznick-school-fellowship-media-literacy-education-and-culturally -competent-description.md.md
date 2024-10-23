@@ -6,7 +6,7 @@ layout: post
 categories: 
     - Reflection
 tags: 
-    - RAC-Selznick School Fellowhsip
+    - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
     - Fellowship
     - Media Literacy
     - Audiovisual Media Literacy
@@ -14,10 +14,9 @@ tags:
 excerpt_separator: <!--more--> 
 --- 
 
-Audiovisual Media Literacy Education
+## Audiovisual Media Literacy Education
 
 In 2021, upon my graduation from The L. Jeffrey Selznick School of Film Preservation, I received a Fellowship at the Rockefeller Archive Center (RAC) to work alongside Audiovisual Archivist Brent Phillips. I began the Fellowship in June 2022, immediately becoming included with the Collections Management team and meeting the Assistant Directors of the RAC. The remote workflow quickly revealed an opportunity to pursue a project directly in line with my interests: media literacy education and legacy audiovisual material.
-
 
  <!--more--> 
  
@@ -46,13 +45,13 @@ Upon watching the videos multiple times and utilizing the information and resour
 
 These questions are vital in order to understand audiovisual media. We are living increasingly in an audiovisual saturated world, and legacy materials often present challenges in educational settings as they can include language and images now deemed offensive. As audiovisual archivists we recognize media as unique cultural artifacts that ought to be saved and learned from in order to make a better and informed citizenry. Giving students and educators guidance as to how to understand our collection material within cultural, historical, and formal contexts furthers these goals and makes for well-rounded media consumers.
 
-Culturally Competent Description: Video in Progress
+## Culturally Competent Description: Video in Progress
 
 While archivists recognize that legacy material at times can be difficult to watch or read, they also must reckon with problematic description that has been applied and used within their own collections. Thus, in my second project of the summer, I continued with the work Christian Balistreri, the 2020 RAC-Selznick Fellow, had previously completed and explored the topic with Brent Phillips, as well as Processing Archivists Amy Berish, Katie Martin, and Darren Young. Our goal was to create a storyboard for an upcoming video tutorial about the RAC’s Culturally Competent Description (CCD) Campaign.
 
 This upcoming video will give a brief overview to define CCD and, importantly, focus on the steps the Campaign team took to implement CCD at the RAC. Through using visual examples of problematic description and how they have been changed, the video will explain to student archivists and professionals alike how this work can be implemented and achieved.
 
-Conclusion:
+## Conclusion
 
 The two projects undertaken during my Fellowship help paint a broader picture about how to approach sensitive topics through archival material. All archival materials and media were created within a specific historical context and for a specific audience in mind. However, understanding these contexts does not mean archivists need to agree with the values these archival materials espouse. Indeed, it is vital archivists identify these values when present, as not doing so can create more harm moving forward. 
 
