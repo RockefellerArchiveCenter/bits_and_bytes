@@ -20,7 +20,7 @@ In 2021, upon my graduation from The L. Jeffrey Selznick School of Film Preserva
 
  <!--more--> 
  
-I was fortunate to work with Brent and Education Program Manager Marissa Vassari on creating a [Media Literacy Education Resource] (https://resource.rockarch.org/story/hiv-aids-1980s/). The RAC has already developed similar resources that can be found on the [Teach with Archives hub] (https://resource.rockarch.org/teach-with-archives/educational-resources/). From the outset we knew we wanted to provide an additional resource to focus specifically on legacy audiovisual material.
+I was fortunate to work with Brent and Education Program Manager Marissa Vassari on creating a [Media Literacy Education Resource](https://resource.rockarch.org/story/hiv-aids-1980s/). The RAC has already developed similar resources that can be found on the [Teach with Archives hub](https://resource.rockarch.org/teach-with-archives/educational-resources/). From the outset we knew we wanted to provide an additional resource to focus specifically on legacy audiovisual material.
 
 I began this project with a literature review, researching the approaches of how to integrate legacy audiovisual material into media literacy education. This topic can be found in the discourse, but discussion of how audiovisual archivists can be involved in MLE is sparse. While libraries, media non-profits, healthcare professionals, and more are presented as stakeholders, the voices of audiovisual archivists are often absent. Tasked with preserving, digitizing, and making accessible these materials, audiovisual archivists also represent important stakeholders and should be present in the discourse.
 
