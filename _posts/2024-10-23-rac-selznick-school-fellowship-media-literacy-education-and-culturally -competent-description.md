@@ -1,5 +1,5 @@
 --- 
-title: "The 2022 RAC-Selznick School Fellowship: Media Literach Education and Culturally Competent Description"
+title: "The 2022 RAC-Selznick School Fellowship: Media Literacy Education and Culturally Competent Description"
 date: 2024-10-20T10:00:00 
 author: Nicole Diroff
 layout: post 
