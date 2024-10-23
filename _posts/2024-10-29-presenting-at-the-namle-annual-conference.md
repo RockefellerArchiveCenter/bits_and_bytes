@@ -1,6 +1,6 @@
 --- 
 title: "Presenting at the NAMLE Annual Conference"
-date: 2024-09-10T10:00:00 
+date: 2024-10-29T10:00:00 
 author: Marissa Vassari
 layout: post 
 categories: 
