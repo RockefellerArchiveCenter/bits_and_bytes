@@ -11,6 +11,6 @@ jobs:
     steps:
       - name: Check branch
         if: github.head_ref != 'development'
-        run: |
+        run: 
           echo "ERROR: You can only merge to base from the development branch."
           exit 1
