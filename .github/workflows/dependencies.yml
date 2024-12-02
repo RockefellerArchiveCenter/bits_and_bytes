@@ -35,7 +35,7 @@ jobs:
         uses: peter-evans/create-pull-request@v6.0.2
         with:
           token: ${{ steps.app-token.outputs.token }}
-          base: gh-pages
+          base: development
           branch: dependency-updates
           delete-branch: true
           title: Dependency Updates
