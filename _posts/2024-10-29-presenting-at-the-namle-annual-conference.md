@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more--> 
 --- 
 
-The National Association for Media Literacy Education held their annual conference remotely this summer. The conference offered a range of useful sessions for K-16 educators, community educators, librarians, and archivists. Our lab school partner, Marina Lombardo-Pisto, and I had the opportunity to present our unit focused on misinformation titled [The War of the Worlds, Fake News, and Media Literacy] (https://resource.rockarch.org/story/the-war-of-the-worlds-fake-news-and-media-literacy-primary-source-unit/) that was developed in 2019.  
+The National Association for Media Literacy Education held their annual conference remotely this summer. The conference offered a range of useful sessions for K-16 educators, community educators, librarians, and archivists. Our lab school partner, Marina Lombardo-Pisto, and I had the opportunity to present our unit focused on misinformation titled [The War of the Worlds, Fake News, and Media Literacy](https://resource.rockarch.org/story/the-war-of-the-worlds-fake-news-and-media-literacy-primary-source-unit/) that was developed in 2019.  
  
  <!--more--> 
  
