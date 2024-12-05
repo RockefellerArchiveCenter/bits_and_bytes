@@ -1,5 +1,5 @@
 --- 
-title: "The The RAC: An Intersection of History"
+title: "The RAC: An Intersection of History"
 date: 2024-12-05T10:00:00 
 author: Kit Lee
 layout: post 
