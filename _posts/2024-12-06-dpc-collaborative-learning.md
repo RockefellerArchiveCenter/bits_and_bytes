@@ -7,7 +7,7 @@ author:
   - Amy Fitch
   - Ima Oduok
   - Renee Pappous
-  - Tyle Perry
+  - Tyler Perry
   - Brent Phillips
   - Darren Young
 layout: post
