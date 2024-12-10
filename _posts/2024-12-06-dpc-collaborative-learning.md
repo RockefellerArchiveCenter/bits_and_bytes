@@ -56,7 +56,7 @@ After gathering all this information, we shared our new resource library with ou
 - Avoid using acronyms, explain them within the resource abstracts (BDAX, OAIS, etc.) 
 - Add a list of the subfolders used and explain how the concepts relate to digital processing. For example, the folder "Data Fixity and Integrity" - what is fixity and why do I need to know about it?
 
-- We integrated the recommendations we received and in doing so, it challenged us to make good on our goal to connect people with resources. Having discussions about the rationale for certain tags, definitions of "beginner", and the conformity of terms forced us to be critical of our work and avoid making assumptions.  
+We integrated the recommendations we received and in doing so, it challenged us to make good on our goal to connect people with resources. Having discussions about the rationale for certain tags, definitions of "beginner", and the conformity of terms forced us to be critical of our work and avoid making assumptions.  
   
 View the DPC Zotero Library [here](https://www.zotero.org/groups/5535674/rac_digital_processing_collaborative/library). We recommend first looking at the README folder to familiarize yourself with how the library can be used. Due to privacy concerns about conference material, the DPC Zotero Library is public but has a [closed membership](https://www.zotero.org/support/groups#public_closed_membership). This means anyone can view the bibliography but access to the links is limited to DPC members.
 
