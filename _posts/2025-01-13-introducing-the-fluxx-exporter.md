@@ -1,8 +1,7 @@
 ---
 title: "Introducing the Fluxx Exporter"
 date: 2025-01-13T10:00:00
-author:
-  - Hillel Arnold
+author: Hillel Arnold
 layout: post
 categories:
   - Software and Systems
