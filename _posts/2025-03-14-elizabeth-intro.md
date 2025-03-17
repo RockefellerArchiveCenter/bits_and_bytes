@@ -1,6 +1,6 @@
 --- 
 title: "So I Bet You’re All Wondering How I Ended Up Here - Our New R&E Member"
-date: 2026-03-14T10:00:00 
+date: 2025-03-14T10:00:00 
 author: Elizabeth Urbanczyk
 layout: post 
 categories: 
