@@ -1,5 +1,5 @@
 ---
-title: "Code4Lib 2025"
+title: "Code4Lib 2025: Reflections on AI, Scaffolding Technologies, and Values-driven Work"
 date: 2025-03-25T12:00:00
 author:
     - Hillel Arnold
@@ -16,7 +16,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Hillel, Ima, and I (Patrick) attended the annual Code4Lib conference in Princeton, NJ. As always, this year’s Code4Lib was well-programmed with many thoughtful presenters and presentations. We each saw lots of different themes in the conference, and came away with various takeaways about the importance of how we do our work, and ways to improve it. Our reflections below offer a brief insight into our experiences. 
+Hillel, Ima, and Patrick all attended this years annual [Code4Lib](https://2025.code4lib.org/) conference in Princeton, NJ. As always, the conference was well-programmed with many thoughtful presenters and presentations. Each of the authors came away with different insights about their work, current trends in the field, and new and thoughtful ways to to engage with their community of practice. Their reflections below offer a brief insight into the experience. 
 
 <!--more-->
 
