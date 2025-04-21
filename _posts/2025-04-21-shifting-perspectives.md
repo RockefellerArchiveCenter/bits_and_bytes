@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 
 I’m just back from the [Nonprofit Technology Conference (NTC)](https://www.nten.org/gather/ntc), an annual gathering put on by the [Nonprofit Technology Network (NTEN)](https://www.nten.org/), held this year in Baltimore. This was my first time at this the conference, so didn’t know quite what to expect. I found it to be a challenging-but-generative space, partially because of the current moment when nonprofits feel very much under attack (a constant theme throughout the conference) and in part because it felt like stepping into a foreign technology landscape. It was, as a result, easier to see the points of dissonance, but I also found that attention to translation and focusing on potential points of relevance yielded some useful insights.
 
-<--more-->
+<!--more-->
 
 NTC is easily one of the largest conferences I’ve attended, with registration typically running between 1500 and 2000 people. Because of its size, it was held in the Baltimore Convention Center which, despite excellent signage and conference layout, was still overwhelming due to of the sheer scale of spaces and distances between them. I should also say that there is clearly a lot of intentionality and attention to detail that goes into NTC, no small feat for a conference of this size, so a huge tip of the cap to everyone at NTEN for creating a physical and virtual space that evidenced those intentions in many ways.
 
