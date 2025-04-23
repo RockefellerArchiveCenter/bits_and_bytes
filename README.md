@@ -7,7 +7,7 @@ The blog of the Rockefeller Archive Center. This repository contains Markdown fi
 For organizational ease, your file should be named in the following format: `YYYY-MM-DD-title-of-your-post.md`.
 
 ### Post location
-All posts should be placed in the `_posts` directory. Refer to the directory structure of `gh-pages` if you have any questions about the post location.
+All posts should be placed in the `_posts` directory. Refer to the directory structure of `base` if you have any questions about the post location.
 
 ## Adding images
 ### Image file locations
