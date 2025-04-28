@@ -89,8 +89,8 @@ Once you have created a branch and placed your post file and images in the corre
 ### Merge the pull request
 Once another RAC staff member has reviewed and approved your pull request, you are ready to merge that pull request into the `development` branch. See the GitHub documentation on [merging pull requests](https://help.github.com/en/articles/merging-a-pull-request) if you have questions.
 
-### Create a pull request and merge to gh-pages branch
-Follow the steps outlined above to create a pull request from the `development` branch that points to the base branch, `gh-pages`. Then, merge that pull request into the `gh-pages` branch. This will automatically publish the post, so only merge when you are ready for your post to be visible to the world. By pushing your post to the `development` branch first, you are able to preview the text before it is published to the website. 
+### Create a pull request and merge to base branch
+Follow the steps outlined above to create a pull request from the `development` branch that points to the base branch, `base`. Then, merge that pull request into the `base` branch. This will automatically publish the post, so only merge when you are ready for your post to be visible to the world. By pushing your post to the `development` branch first, you are able to preview the text before it is published to the website. 
 
 ### Creating tables
 In order for [Markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) to render properly, they need to be separated from other block-level elements. This means you should add a blank line before and after a table in order for it to render properly.
