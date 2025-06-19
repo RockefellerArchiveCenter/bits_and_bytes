@@ -4,23 +4,28 @@ The blog of the Rockefeller Archive Center. This repository contains Markdown fi
 ## Post name and location
 
 ### File title
+
 For organizational ease, your file should be named in the following format: `YYYY-MM-DD-title-of-your-post.md`.
 
 ### Post location
+
 All posts should be placed in the `_posts` directory. Refer to the directory structure of `base` if you have any questions about the post location.
 
 ## Adding images
+
 ### Image file locations
-All image files should be placed in the `assets/img/` directory. You should also put the images in the correct Year/Month directory for your post's publication date. If those directories do not yet exist, create them or ask a member of the Digital Strategies team for help to create them. 
+
+All image files should be placed in the `assets/img/` directory. You should also put the images in the correct Year/Month directory for your post's publication date. If those directories do not yet exist, create them or ask a member of the Digital Strategies team for help to create them.
 
 ### Embedding images in a post using Markdown
-Make sure your post links to the correct image files and includes [alt text](https://webaim.org/techniques/alttext/) using the format: `![alt text](/assets/img/year/month/image-file-name.png)`.  
+
+Make sure your post links to the correct image files and includes [alt text](https://webaim.org/techniques/alttext/) using the format: `![alt text](/assets/img/year/month/image-file-name.png)`.
 
 For example:
 ```
 ![Total Energy Use, 2016-2020](/assets/img/2022/12/total-energy-use.png)
 ```
-To include an image caption in the post, use: `% include image.html dir="year/month/" file="image-file-name.png" description="caption text" %}`. The description text will be the caption and the alt text for the image.
+To include an image caption in the post, use: `{% include image.html dir="year/month/" file="image-file-name.png" description="caption text" %}`. The description text will be the caption and the alt text for the image.
 
 Example:
 
@@ -30,6 +35,7 @@ Example:
 
 
 ## Post metadata
+
 Every post should include a section for front matter. The front matter of a post includes necessary metadata to help the blog theme display your post correctly and order it among other posts.
 
 Below is an example of common front matter.
