@@ -185,6 +185,37 @@ Increase space around inline superscript footnote created in Markdown
   margin: 0 5px;
 }
 
+/**
+Styles for pull quotes in posts
+**/
+blockquote {
+  font-size: 36px;
+  background-color: #F6F6F4;
+  padding: 40px 60px;
+  margin: 30px 0;
+  position: relative;
+}
+
+blockquote::before,
+blockquote::after {
+  font-family: Georgia, serif;
+  font-size: 80px;
+  position: absolute;
+}
+
+blockquote::before {
+  content: "“";
+  top: 0;
+  left: 0;
+}
+
+blockquote::after {
+  content: "”";
+  bottom: -40px;
+  right: 0;
+}
+
+
 /* Code syntax highligher styles for Rouge that meets WCAG 2.x AA standard.
 Source: mpchadwick at https://github.com/mpchadwick/pygments-high-contrast-stylesheets */
 

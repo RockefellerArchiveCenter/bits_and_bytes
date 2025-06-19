@@ -34,6 +34,8 @@ When users encountered bugs that blocked application installation actions, the F
 
 Overall, users were pleased with the interface and optimistic about the tool’s potential, describing it as “very simple and straight-forward to use,” having the “potential to be super useful,” and “a great tool that will be very useful to the sector.”
 
+<blockquote>A great tool that will be very useful to the sector.</blockquote>
+
 The most salient barriers to use were related to installing and configuring the application, with many users citing a lack of technical capacity to support setting up the application and using the command-line to configure it. We also found that it was tough for users who haven’t worked with the Fluxx database backend or API to easily understand Fluxx Exporter Tool options like how to construct filters, and how Fluxx tables and associated field names map to what users see in the Fluxx frontend in the form of cards and their connected files. Finally, testing revealed some bugs and unanticipated errors running the tool in different environments.
 
 From our feedback and discussions with testers, we also learned more about different organizations’ use cases related to exporting files from Fluxx, including the need for files attached to tables other than the grant request table, and to limit which files are exported.
