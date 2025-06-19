@@ -16,6 +16,9 @@ excerpt_separator: <!--more-->
 ---
 In January, we [announced the initial release of the Fluxx Exporter tool](https://blog.rockarch.org/introducing-the-fluxx-exporter), an open-source tool that integrates with the grants management system [Fluxx](https://www.fluxx.io/) for the purposes of automating exports of select elements of grant records. In the months since its release, our team responsible for continued development and maintenance of the tool (in close consultation with our Columbia University Rare Book & Manuscript Library partner) tested the application with a cohort of Fluxx users at five institutions to identify opportunities to improve the tool based on user experience and feedback. I’d like to share the results of that testing and our planned next steps to address usability issues and add new functionality.
 
+<!--more-->
+{% include image.html dir="2025/06/" file="fluxx-exporter-homepage.png" description="The Fluxx Exporter tool website interface showing two saved export jobs." %}
+
 ## How we tested the Fluxx Exporter
 
 Our Fluxx Exporter tool testers were volunteer participants from five institutions representing organizations of varying sizes and levels of IT support that use Fluxx to manage grants:
@@ -42,16 +45,21 @@ From our feedback and discussions with testers, we also learned more about diffe
 
 ## What’s next for Fluxx Exporter
 
-Over the next several weeks, we’ll be working on a new release to address the [issues and add new features](https://github.com/RockefellerArchiveCenter/fluxx_exporter/issues) that our testers highlighted. We’ll be running a community sprint from July 7-25, and welcome broad participation (please reach out if you’re interested)!
+Over the next several weeks, we’ll be working on a new release to address the [issues and add new features](https://github.com/RockefellerArchiveCenter/fluxx_exporter/issues) that our testers highlighted. We’ll be running a community sprint from July 7-25, and welcome broad participation -- please reach out if you’re interested!
 
-The following updates are now on our roadmap to enhance Fluxx Exporter:
+The following updates are now included in our roadmap to enhance Fluxx Exporter:
 
-1. Simplify the installation process by bundling the application in a single executable file. This will allow direct and consistent access to the local filesystem for users and eliminate the need to install/use specific versions of dependencies like Python and Docker
-2. Improve the Fluxx table API documentation upload process, which may consist of building upload functionality directly into the application interface.
-3. Update documentation to clarify how the Fluxx backend data structure differs from the frontend data visible in Fluxx cards, and to provide more information about filtering options.
-4. Make improvements to the user interface to better handle the experience of navigating the large number of Fluxx table fields available.
-5. Allow users to choose which files to export, instead of defaulting to all the files associated with the grant request table.
-6. Fix bugs
+1. Simplify the installation process by bundling the application in a single executable file. This will allow direct and consistent access to the local filesystem for users, and eliminate the need to install specific versions of dependencies like Python and Docker.
+2. Improve export location choices, ideally to allow users to browse their computer to select a location.
+3. Improve the Fluxx table API documentation upload process, which may consist of building upload functionality directly into the application interface.
+4. Update documentation to clarify how the Fluxx backend data structure differs from the frontend data visible in Fluxx cards, and to provide more information about filtering options.
+5. Make improvements to the user interface to better handle the experience of navigating the large number of Fluxx table fields available.
+6. Allow users to choose which files to export, instead of defaulting to all the files associated with the grant request table.
+7. Fix bugs.
+
+<div style="max-width: 400px;">
+{% include image.html dir="2025/06/" file="fluxx-export-location-screenshot.png" description="One planned enhancement in the new release will enable users to browse for an export file location on their computer." %}
+</div>
 
 We continue to be committed to the development and maintenance of this tool as free and open source, centering the experience of Fluxx users with the goal of providing an export solution that is flexible and widely applicable across the sector. Follow our development work on the [public GitHub repository](https://github.com/RockefellerArchiveCenter/fluxx_exporter), and feel free to reach out to us at [archive@rockarch.org](mailto:archive@rockarch.org).
 
