@@ -1,0 +1,15 @@
+{% assign authorCount = include.author | size %}
+{% if authorCount == 0 %}
+No author
+{% elsif authorCount == 1 %}
+<a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ include.author | first }}</a>
+{% else %}
+<p>
+{%- for author in include.author -%}
+    {%- if forloop.first -%}<a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+    {%- elsif forloop.last -%}&nbsp;and <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+    {%- else -%}, <a href="{{site.baseurl}}/authors#{{author|slugize|url_encode}}">{{ author }}</a>
+    {%- endif -%}
+{%- endfor -%}
+<p>
+{% endif %}
