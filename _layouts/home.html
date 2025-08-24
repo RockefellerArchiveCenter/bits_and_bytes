@@ -31,6 +31,7 @@ style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_t
   <p>
     {{ post.date | date: "%B %-d, %Y" }}
   </p>
+  {% include byline.html author=post.author %}
   <div class="post-excerpt">
     {{ post.excerpt }}
   </div>
