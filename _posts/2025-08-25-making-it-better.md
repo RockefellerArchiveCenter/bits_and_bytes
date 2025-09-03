@@ -14,7 +14,7 @@ tags:
   - usability
 excerpt_separator: <!--more-->
 ---
-We’ve just completed a second round of development on the [Fluxx Exporter](https://github.com/RockefellerArchiveCenter/fluxx_exporter), which sought to address bugs and usability issues we learned about from user. The new version of the application substantially improves ease of installation and configuration and enhances existing functionality in several key areas. Read on for a summary of what we did and what’s next.
+We’ve just completed a second round of development on the [Fluxx Exporter](https://github.com/RockefellerArchiveCenter/fluxx_exporter), which sought to address bugs and usability issues we learned about from user. The new version of the application substantially improves ease of installation and configuration and enhances existing functionality in several key areas. Read on for a summary of what we did and what’s next. <!--more-->
 
 ## What We Did and How We Did It
 After wrapping user testing in the spring, Hannah turned the [bugs, usability challenges, and feature gaps we identified](https://blog.rockarch.org/fluxx-exporter-testing) through that process into clear and actionable issues. This was a key step and allowed us to scope and organize a two-week sprint with participants from the RAC as well as Columbia University’s Rare Book and Manuscript Library.
