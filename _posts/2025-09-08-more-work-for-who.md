@@ -1,0 +1,30 @@
+---
+title: "More Work for Who? Reporting Back from SAA 2025"
+date: 2025-09-08T10:00:00
+author: Hillel Arnold
+layout: post
+categories:
+  - Conferences/Education
+tags:
+  - SAA
+  - AI
+  - conferences
+excerpt_separator: <!--more-->
+---
+I’m just back from the annual Society of American Archivists conference, held this year in sunny Anaheim, California, the home of Disneyland (the conference hotel was more or less adjacent to Disneyland and in fact offered rooms with a Disneyland view, which…I did not book). In many ways it felt like a markedly different conference than in the past, both because it was on the West Coast (so had a very different attendee base) but also because this year’s hot topic (as you might expect) was AI. While the AI conversation in archives feels far from settled, and there are clearly some widely divergent and strongly held beliefs about if and how the technology should be used in archives (or at all), I did notice a few themes emerging. <!--more-->
+
+I found that conversations about AI at this year’s SAA were largely framed in terms of efficiency, or doing more (and more technical work) with fewer resources. There was also a strong thread of defeatism around AI’s presence in the world, and the ability of practitioners to push back against market forces and institutional leadership. In other words, in talking about AI we’re really talking about the same things that we’ve been talking about for many years: scarcity regimes and our lack of agency. The fact that AI is the latest emerging technology raises the volume, but the conversations are fundamentally about labor and power, not technology.
+
+I was also struck by how many people – including folks who were strong proponents of using AI in archives – described it as having a personality that, if attributed to a person, would indicate an extremely privileged and insular world view: overly self-confident, committed to perpetuating itself at all costs, and a strong desire to be everyone’s friend.
+
+In general, it seems like current archival use of AI is concentrated in arrangement and description processes: for purposes such as transcription, metadata extraction and structuring. There were a couple of specific projects that I found interesting and will be tracking:
+- Andrew Payne, Head of Education and Outreach from the National Archives of the United Kingdom discussed their use of a custom AI chatbot in helping to [teach students how to interact with primary source materials](http://youtube.com/watch?si=RmVN3Mcun6u2vni7&t=2839&v=ZXTe7oLK-mc&feature=youtu.be). Although it felt a little bit like AI was used as a shiny carrot to lure students into the archive, it was a unique application of AI technologies in archives.
+- A group called AI 4 Access reported back on their [survey on AI use in archives](https://www2.archivists.org/sites/all/files/2.1.2-Litwin-etal-Slides-updated.pptx.pdf). The most interesting – but not surprising – finding was that archives managers are using AI more than entry-level or newer professionals. I was a little frustrated by this survey’s framing because technology adoption is not just a personal consumer choice, and there are often institutional pressures that are felt differently throughout an organization, but I’m still looking forward to digging into the survey data and report when they are published.
+
+One of the ideas that’s stuck with me the most from the conference is a comment made by Sara Brumfield of [FromThePage](https://fromthepage.com/) in a panel on the ways that AI is changing archives. Reflecting back on the trajectory of their crowdsourcing work, she noted that they had initially begun from the premise that digitized content would already be somewhat accessible, stored in digital asset management systems, and have some minimum metadata associated with it. Instead, what they have increasingly seen is that digitization is now being used as a way to create transcriptions and description that can then be ingested into a digital asset management system along with the digital surrogates. I’ve been thinking about this in conversation with an earlier observation that Sara and Ben made in a recent newsletter that AI works well in the “middle” of processes, but that humans are still needed at both ends to prompt and then verify. 
+
+Lately I’ve been reading Ruth Cowan Schwartz’s book [_More Work for Mother_](https://archive.org/details/moreworkformothe0000unse), which asks why, despite centuries of technological advancements, housework has not become any easier or less time-consuming. In brief (and you should definitely read the book if you haven’t because there’s a lot of nuance that I’m glossing over here) the answer is that technological advancements did not _reduce_ labor but instead _reorganized_ it; it changed who produced what, where. 
+
+I’ve been thinking about _More Work for Mother_ in light of these shifting archival workflows. What does it mean for archivists to become prompters and verifiers? How will that impact educational and experiential preparation, not to mention compensation and rewards structures? What kinds of labor and expertise are we comfortable allocating to AI, and what happens to the kinds of expertise and roles that are then available to us in archives? Will using AI as our “personal coder” mean that we’ll ultimately have less access to (and less integration of) technical resources in archives? What do we get out of proving we can do more with less?
+
+As I noted above, the conversation feels far from settled, and even if AI flames out tomorrow, archivists will continue to grapple with these questions of identity and power both as individuals and collectively. You can expect to hear more from us here at the RAC on AI in the coming months as we look to contribute to and learn from the ongoing conversation.
