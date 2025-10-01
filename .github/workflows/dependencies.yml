@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: development
 
-      - uses: ruby/setup-ruby@v1.257.0
+      - uses: ruby/setup-ruby@v1.263.0
         with:
           ruby-version: '3.4.1'
       - run: bundle update --all && bundle install
