@@ -32,7 +32,7 @@ Beginning in January 2025, we started working with Tyler Perry on the Access tea
 
 ## Outreach 
 
-Since that 2022 blog post, we have had two opportunities to reflect on the CCD Education Campaign and Action Campaigns. We wrote a chapter in [From Interrogation to Integration: Centering Social Justice in Special Collections, Archives, and Preservation](https://alastore.ala.org/interrogation-integration-centering-social-justice-special-collections-archives-and-preservation) published in 2025 by ACRL. We also presented a Works in Progress Webinar called [Developing and maintaining culturally conscious descriptive practices at the Rockefeller Archive Center](https://www.oclc.org/research/events/2025/culturally-conscious-descriptive-practices.html)   for OCLC in January 2025.
+Since that 2022 blog post, we have had two opportunities to reflect on the CCD Education Campaign and Action Campaigns. We wrote a chapter in [From Interrogation to Integration: Centering Social Justice in Special Collections, Archives, and Preservation](https://alastore.ala.org/interrogation-integration-centering-social-justice-special-collections-archives-and-preservation) published in 2025 by ACRL. We also presented a Works in Progress Webinar called [Developing and maintaining culturally conscious descriptive practices at the Rockefeller Archive Center](https://www.oclc.org/research/events/2025/culturally-conscious-descriptive-practices.html) for OCLC in January 2025.
 
  
 
