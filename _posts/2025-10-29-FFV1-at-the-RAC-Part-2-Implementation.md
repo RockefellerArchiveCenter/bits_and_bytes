@@ -36,7 +36,7 @@ Lastly, we also agreed that new mezzanine-level files (i.e. our high-res use cop
 * conform all RAC video derivatives to the precise technical structure of current RAC preservation practices; 
 * assist us as we aim to automate general access and professional use requests; 
 * allow the RAC to confidently provide users with consistent and predictable files for professional use, particularly if they are paying a fee for these files.  
-   
+
 ## Results 
 In total, 40TB of uncompressed v210 masters were transcoded to FFV1/MKV, along with the creation of a new ProRes422 mezzanine-level and H.264 MP4 access file. All new files were bagged and uploaded to AWS where they underwent validation and the QC process. Rights Statements and Policies were provided, and items were re-packaged for Archivematica ingest. 
 
@@ -46,9 +46,10 @@ This project was a collaborative effort, working alongside Associate Director of
 
 The RAC remains deeply indebted to the accommodating staff at The MediaPreserve for their expertise and abilities to carry out this transcoding work. Their efforts and dedication to this project are sincerely appreciated. 
 
- ## Final Thoughts... 
+## Final Thoughts...
 As mentioned in an earlier blog post, the RAC had been investigating FFV1/MKV as a possible preservation standard for over six years. And still, change is uncomfortable—it is in our nature as archivists (and as humans) to seek stability and stay in our comfort zones. We also realize that the preservation decisions we make now greatly impact both the longevity and the future accessibility of our archival holdings, particularly in regard to increasingly obsolete magnetic media.   
 
 But here's the truth: sometimes our comfort with decades-old “best practices” can keep us stuck, slowing our growth and potential. Change can be good, if it’s in the right direction -- and in our archival profession, it is unavoidable. 
+
 
  
