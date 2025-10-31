@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 ---
 
 ## Decision to Transcode Uncompressed Video Masters 
-Until the recent RAC adoption of FFV1/MKV, none of our 10-bit uncompressed video masters had been packaged or ingested into Archivematica. This is because Archivematica cannot easily accept large uncompressed video files, and because the extra size meant more compute resources. For this very reason, we created the [new AWS pipeline](https://blog.rockarch.org/digital-av-infrastructure) to solve this challenge, and incorporated FFV1/MKV because of its interoperability.
+Until the recent [RAC adoption of FFV1/MKV](https://blog.rockarch.org/FFV1-at-the-RAC-Part-1-The-Rationale), none of our 10-bit uncompressed video masters had been packaged or ingested into Archivematica. This is because Archivematica cannot easily accept large uncompressed video files, and because the extra size meant more compute resources. For this very reason, we created the [new AWS pipeline](https://blog.rockarch.org/digital-av-infrastructure) to solve this challenge, and incorporated FFV1/MKV because of its interoperability.
 
 The decision was made that the RAC would convert all prior uncompressed video files to FFV1/MKV so that our master holdings are structured towards a single digital preservation standard. This uniformity would enable consistency and accuracy when analyzing data and would decrease future challenges with packaging, storage, and queries.
 
@@ -47,9 +47,10 @@ This project was a collaborative effort, working alongside Associate Director of
 The RAC remains deeply indebted to the accommodating staff at The MediaPreserve for their expertise and abilities to carry out this transcoding work. Their efforts and dedication to this project are sincerely appreciated. 
 
 ## Final Thoughts...
-As mentioned in an earlier blog post, the RAC had been investigating FFV1/MKV as a possible preservation standard for over six years. And still, change is uncomfortable—it is in our nature as archivists (and as humans) to seek stability and stay in our comfort zones. We also realize that the preservation decisions we make now greatly impact both the longevity and the future accessibility of our archival holdings, particularly in regard to increasingly obsolete magnetic media.   
+As mentioned in an [earlier blog post](https://blog.rockarch.org/FFV1-at-the-RAC-Part-1-The-Rationale), the RAC had been investigating FFV1/MKV as a possible preservation standard for over six years. And still, change is uncomfortable—it is in our nature as archivists (and as humans) to seek stability and stay in our comfort zones. We also realize that the preservation decisions we make now greatly impact both the longevity and the future accessibility of our archival holdings, particularly in regard to increasingly obsolete magnetic media.   
 
-But here's the truth: sometimes our comfort with decades-old “best practices” can keep us stuck, slowing our growth and potential. Change can be good, if it’s in the right direction -- and in our archival profession, it is unavoidable. 
+But here's the truth: sometimes our comfort with decades-old “best practices” can keep us stuck, slowing our growth and potential. Change can be good, if it’s in the right direction -- and in our archival profession, it is often unavoidable.
 
 
  
+
