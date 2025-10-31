@@ -21,7 +21,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
- In December 2023, a milestone in audiovisual preservation happened when the Library of Congress amended its Recommended Formats Statement (RFS) by upgrading the FFV1 video codec (version 3) in Matroska (.mkv) container from an “Acceptable Format” to its highest ranking: a “Preferred Format” for the preservation and long-term access of video materials. Indeed, this authoritative approval signified the culmination of a decades-long evolution, and this recommendation came with the endorsement from the Federal Agencies Digital Guidelines Initiative (FADGI) after years of FFV1/MKV testing.  
+ In December 2023, a milestone in audiovisual preservation happened when the Library of Congress amended its Recommended Formats Statement (RFS) by upgrading the FFV1 video codec (version 3) in Matroska (.mkv) container from an “Acceptable Format” to its highest ranking: a [“Preferred Format”](https://blogs.loc.gov/thesignal/2023/12/embracing-ffv1-matroska-container-preferred/) for the preservation and long-term access of video materials. Indeed, this authoritative approval signified the culmination of a decades-long evolution, and this recommendation came with the endorsement from the Federal Agencies Digital Guidelines Initiative (FADGI) after years of FFV1/MKV testing.  
  
 With these broad changes happening within the archival field around moving image preservation best practices, the Rockefeller Archive Center found itself at a crossroads with our own audiovisual digitization procedures.
 
@@ -79,4 +79,5 @@ FFmpeg is an open-source cross-platform solution to record, convert, and stream 
  
 Additionally, the adoption of FFV1 keeps the RAC in harmony with several of our key institutional values: embracing change, striving to minimize the negative environmental impact of our work, keeping abreast of developments in our fields, and thoughtfully implementing new solutions to meet our current dilemmas. 
  
-We will explore the implementation of FFV1 in a forthcoming blog post. 
+
+We will explore the implementation of FFV1 in a [forthcoming blog post](https://blog.rockarch.org/FFV1-at-the-RAC-Part-2-Implementation). 
