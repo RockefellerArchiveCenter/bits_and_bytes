@@ -1,6 +1,6 @@
 ---
 title: "DevOps is People: Lessons from Facilitating DevOps4Lib"
-date: 2025-10-30T11:00:00
+date: 2025-11-7T11:00:00
 author: Patrick Galligan
 layout: post
 categories:
