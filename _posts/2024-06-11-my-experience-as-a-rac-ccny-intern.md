@@ -1,5 +1,5 @@
 ---
-title: "My Experience as a RAC-CUNY Intern: Finding Community and the Importance of Archiving"
+title: "My Experience as a RAC-CCNY Intern: Finding Community and the Importance of Archiving"
 date: 2024-06-11T12:00:00
 author: Quinn Kinsella
 layout: post
