@@ -12,7 +12,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-This summer, I had the privilege of interning at the Rockefeller Archive Center as part of the RAC-CUNY Internship Hybrid Program. 
+This summer, I had the privilege of interning at the Rockefeller Archive Center as part of the RAC-CCNY Internship Hybrid Program. 
 
 <!--more-->
 

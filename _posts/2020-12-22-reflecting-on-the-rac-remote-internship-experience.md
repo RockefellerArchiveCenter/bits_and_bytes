@@ -14,7 +14,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-_The RAC partnered with the City College of New York in 2018 to develop the RAC-CUNY Internship Program to introduce the archival profession to undergraduate students. During this past fall semester, the program shifted to a remote internship. Here is a reflection on the experience by one of our interns._
+_The RAC partnered with the City College of New York in 2018 to develop the RAC-CCNY Internship Program to introduce the archival profession to undergraduate students. During this past fall semester, the program shifted to a remote internship. Here is a reflection on the experience by one of our interns._
 
 I found my place at the Rockefeller Archive Center despite never having stepped foot in the building. The COVID-19 pandemic has presented many challenges, one being “How do you successfully complete an internship remotely?” My experience at the RAC was defined not only by a variety of projects, but by thought-provoking, insightful discussion making this internship a formative experience in my college career. At a time when I've increasingly questioned my purpose and what I stand for, I found many answers within the archival profession.<!--more-->
 

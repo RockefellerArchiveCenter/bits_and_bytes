@@ -16,7 +16,7 @@ Interning for the Rockefeller Archive Center at the Cohen Library’s Archives a
 
 <!--more-->
 
-At the beginning of this program, I wondered what my role was as an intern on-site at the Archives and Special Collections. I had amazing interactions with assistant archivist Renae Rapp, who helped me understand my RAC-CUNY projects, Professor Sydney Van Nort offering insightful history lessons of City College, and RAC’s Education Program Manager Marissa Vassari to assist me throughout the semester and offer solutions to my questions.
+At the beginning of this program, I wondered what my role was as an intern on-site at the Archives and Special Collections. I had amazing interactions with assistant archivist Renae Rapp, who helped me understand my RAC-CCNY projects, Professor Sydney Van Nort offering insightful history lessons of City College, and RAC’s Education Program Manager Marissa Vassari to assist me throughout the semester and offer solutions to my questions.
 
 ![Sydney Van Nort, Thaddea Delancey, Renae Rapp](/assets/img/2023/05/thaddea-at-ccny-archives.jpg)
 
@@ -26,4 +26,4 @@ I had a wonderful time working with the educator and City College Art Alumni, Ra
 
 I made a Research Guide about CCNY's Library that highlights the Physics Department's significant faculty members and contributions. It was fascinating to go through the [Physics Department's printed historical records](https://library.ccny.cuny.edu/c.php?g=1312832) and take notes. I realized how crucial it was for the department to receive grants and research funds, which led to the creation of the Marshak building and the faculty's valuable contributions to the world of science.
 
-Overall, my experience at the Archives and Special Collections as a RAC-CUNY Intern gave me the opportunity to interact with a variety of faculty and staff at both sites and helped me learn more about archival research and the multiple processes that go into preserving and providing access to history.
+Overall, my experience at the Archives and Special Collections as a RAC-CCNY Intern gave me the opportunity to interact with a variety of faculty and staff at both sites and helped me learn more about archival research and the multiple processes that go into preserving and providing access to history.
