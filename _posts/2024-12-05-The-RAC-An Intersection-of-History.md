@@ -6,7 +6,7 @@ layout: post
 categories: 
     - Reflection
 tags: 
-    - RAC-CCNY Internship Program
+    - RAC-CUNY Internship Program
     - Internships
     - Interns
     

@@ -8,7 +8,7 @@ categories:
 tags:
   - interns
   - Internships
-  - RAC-CCNY Internship Program
+  - RAC-CUNY Internship Program
 excerpt_separator: <!--more-->
 ---
 “Surely if you have nothing to look backward to and with pride, you have nothing to look forward to with hope.” – Barbara Craig
