@@ -9,7 +9,7 @@ tags:
   - interns
   - Internships
   - learning
-  - RAC-CCNY Internship Program
+  - RAC-CUNY Internship Program
 excerpt_separator: <!--more-->
 ---
 Throughout my internship experience at the Rockefeller Archive Center, I learned about the critical role that archives play in relation to educational storytelling. I was always drawn to storytelling and knew that video could be quite an impactful medium for engaging audiences with educational lessons. Learning how material is archived, preserved, and made accessible for researchers to build stories helped me see all the possibilities for myself to tell educational stories.
