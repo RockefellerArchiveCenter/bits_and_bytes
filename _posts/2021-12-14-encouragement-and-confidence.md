@@ -9,7 +9,7 @@ tags:
   - interns
   - metadata
   - learning
-  - RAC-CCNY Internship Program
+  - RAC-CUNY Internship Program
 excerpt_separator: <!--more-->
 ---
 
