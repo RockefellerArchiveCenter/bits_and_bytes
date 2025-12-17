@@ -1,17 +1,16 @@
-﻿--- 
-title: "An Unforgettable Experience: How Life Circumstances Brought Me to the Archive Center"
-date: 2025-12-17T10:00:00 
+---
+title: "My Experience as an Intern at the RAC"
+date: 2025-12-17T15:00:00
 author: Dashawna Brown
-layout: post 
-categories: 
-    - Reflection
-tags: 
-    - RAC-CUNY Internship Program
-    - internships
-    - interns
-    
-excerpt_separator: <!--more--> 
---- 
+layout: post
+categories:
+  - reflections
+tags:
+  - interns
+  - internships
+  - RAC-CUNY Internship Program
+excerpt_separator: <!--more-->
+---
 
 When I first applied to the Rockefeller Archive Center internship, I didn’t know what to expect. All I knew was that a librarian at my school (CCNY) recommended I apply. I have always been a very curious person, so when she told me about how she became an archivist and there was an opportunity of possibly interning at the RAC, I was intrigued. I spoke to my career advisor and learned more about the application process. After hearing about it in more depth I decided to apply. I was super excited to start the internship.
 
