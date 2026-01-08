@@ -1,6 +1,6 @@
 ---
 title: "The Digital Processing Collaborative 2025: Wait but How? Our Year of Asking Better Questions"
-date: 2026-01-09T10:00:00
+date: 2026-01-08T16:00:00
 author:
   - Amy Berish
   - Monica Blank
@@ -42,23 +42,14 @@ Here are a few of those questions:
 One of our biggest realizations was that conversations about digital processing hit a dead end when we talked about access. We began to see that **“access for processing” may be different than “access for researchers.”** Identifying these questions was a breakthrough. Though it took nearly a year to articulate, we now have a clearer picture of the challenges ahead. 
 
 ## Looking ahead 
-
 As Albert Einstein once said: 
 
 >“If I had an hour to solve a problem, I’d spend 55 minutes thinking about the problem and five minutes thinking about the solution.” 
 
 This year was our **“55 minutes.”** We spent the time identifying and articulating our questions and were able to gain clearer insights into the problems we want to solve. Next year, the DPC will shift gears. With a list of questions in hand, we can move towards more task-based and solution-oriented work, which is a change from the past two years when our focus has been primarily on knowledge sharing and understanding.  
 
-The 2025 Digital Processing Collaborative:
+## The 2025 Digital Processing Collaborative:
 Processing: Amy Berish, Mary Ann Quinn, Darren Young 
 Access: Monica Blank 
 Collections Management: Meg Snyder 
-Digital Strategies: Ima Oduok 
-
- 
-
- 
-
- 
-
- 
+Digital Strategies: Ima Oduok  
