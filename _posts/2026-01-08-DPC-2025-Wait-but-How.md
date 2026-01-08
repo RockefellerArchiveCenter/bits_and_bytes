@@ -49,7 +49,11 @@ As Albert Einstein once said:
 This year was our **“55 minutes.”** We spent the time identifying and articulating our questions and were able to gain clearer insights into the problems we want to solve. Next year, the DPC will shift gears. With a list of questions in hand, we can move towards more task-based and solution-oriented work, which is a change from the past two years when our focus has been primarily on knowledge sharing and understanding.  
 
 ## The 2025 Digital Processing Collaborative:
+
 Processing: Amy Berish, Mary Ann Quinn, Darren Young 
-Access: Monica Blank 
-Collections Management: Meg Snyder 
-Digital Strategies: Ima Oduok  
+
+Access: Monica Blank
+
+Collections Management: Meg Snyder
+
+Digital Strategies: Ima Oduok
