@@ -41,7 +41,7 @@ Here are a few of those questions:
 
 One of our biggest realizations was that conversations about digital processing hit a dead end when we talked about access. We began to see that **“access for processing” may be different than “access for researchers.”** Identifying these questions was a breakthrough. Though it took nearly a year to articulate, we now have a clearer picture of the challenges ahead. 
 
-## Looking ahead 
+## Looking Ahead 
 As Albert Einstein once said: 
 
 >“If I had an hour to solve a problem, I’d spend 55 minutes thinking about the problem and five minutes thinking about the solution.” 
@@ -57,3 +57,4 @@ Access: Monica Blank
 Collections Management: Meg Snyder
 
 Digital Strategies: Ima Oduok
+
