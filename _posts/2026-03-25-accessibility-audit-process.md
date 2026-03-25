@@ -1,6 +1,6 @@
 ---
 title: "Web Accessibility Auditing: A Small Team Can Foster Broad Organizational Learning"
-date: 2026-03-25T11:10:00
+date: 2026-03-26T09:00:00
 author: Hannah Sistrunk
 layout: post
 categories:
