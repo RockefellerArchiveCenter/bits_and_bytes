@@ -4,7 +4,7 @@
   "description": "The Rockefeller Archive Center Blog",
   "main": "index.html",
   "repository": "https://github.com/RockefellerArchiveCenter/bits_and_bytes",
-  "author": "Hannah <hsistrunk@gmail.com>",
+  "author": "Rockefeller Archive Center",
   "license": "MIT",
   "devDependencies": {
     "backstopjs": "^6.3.23"
