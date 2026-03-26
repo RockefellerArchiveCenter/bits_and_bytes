@@ -47,6 +47,10 @@
     {
       "label": "Post with Figure and Caption",
       "url": "http://host.docker.internal:4000/automating-the-right-things-the-right-way"
+    },
+    {
+      "label": "Post with Block Quote",
+      "url": "http://host.docker.internal:4000/accessibility-audit-process"
     }
   ],
   "paths": {
