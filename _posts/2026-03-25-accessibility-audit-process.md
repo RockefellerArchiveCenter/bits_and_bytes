@@ -1,5 +1,5 @@
 ---
-title: "Web Accessibility Auditing: A Small Team Can Foster Broad Organizational Learning"
+title: "Web Accessibility Auditing: A Small Team Fosters Broad Organizational Learning"
 date: 2026-03-26T09:00:00
 author: Hannah Sistrunk
 layout: post
@@ -19,21 +19,21 @@ A team of four with mixed expertise ran a rigorous web accessibility audit of 16
 
 ## The Audit Context
 
-As the RAC [Accessibility Statement](https://rockarch.org/about-us/accessibility/) asserts, we are “committed to providing broad and equitable access to our collections, facilities, programs, services, and websites for people with disabilities in ways that are welcoming and inclusive and that support a right to privacy and self-determination.” As part of this commitment, we target the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) 2.2 AA as our minimum standard for both our public websites and internal web-based tools for staff. It’s a commitment that we’ve continuously and iteratively supported over the past several years through staff training, “shifting left” in design and development practices, and by codifying accessible web components through our [Style Library and Guide](https://blog.rockarch.org/style-library-reflection). This audit project is part of that larger effort to develop technical knowledge in this domain and identify opportunities to provide broader and more equitable access.
+As the RAC [Accessibility Statement](https://rockarch.org/about-us/accessibility/) asserts, we are “committed to providing broad and equitable access to our collections, facilities, programs, services, and websites for people with disabilities in ways that are welcoming and inclusive and that support a right to privacy and self-determination.” As part of this commitment, we target the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) 2.2 AA as our minimum standard for both our public websites and internal web-based tools. It’s a commitment that we’ve continuously and iteratively supported over the past several years through staff training, “shifting left” in design and development practices, and by codifying accessible web components through our [Style Library and Guide](https://blog.rockarch.org/style-library-reflection). This audit project is part of that larger effort to develop technical knowledge in this domain and identify opportunities to provide broader and more equitable access.
 
-<blockquote>“We are committed to providing broad and equitable access [...] in ways that are welcoming and inclusive and that support a right to privacy and self-determination.”</blockquote>
+<blockquote>We are committed to providing broad and equitable access [...] in ways that are welcoming and inclusive and that support a right to privacy and self-determination.</blockquote>
 
-An important contextual note so that readers can calibrate our approach with your own context: The RAC is an organization that builds and maintains many of our own web tools in-house, and therefore faces different accessibility challenges than those that rely primarily on third-party platforms. We have more control, but are also solely responsible for remediation for these tools. The audit scope and planned ownership of remediation work described here may be more extensive than what others encounter as we rely less on existing [Voluntary Product Accessibility Templates (VPATs)](https://www.itic.org/policy/accessibility/vpat) or conversations and advocacy with vendors.
+An important contextual note so that readers can calibrate our approach with your own context: The RAC is an organization that builds and maintains many of our own web tools in-house, and therefore faces different accessibility challenges than those that rely primarily on third-party platforms. We have more control, but are also solely responsible for the maintenance and remediation of these tools. The audit scope and planned ownership of remediation work described here may differ from what others encounter in different institutional contexts as we rely less on existing [Voluntary Product Accessibility Templates (VPATs)](https://www.itic.org/policy/accessibility/vpat) or conversations and advocacy with vendors.
 
 ## How We Organized the Work
 
-The audit team consisted of a lead analyst (myself, User Experience and Accessibility Analyst on the Digital Strategies team) and three contributors: Archivists Renee Pappous from our Access team, Darren Young from our Processing team, and Project Associate Andrea Cadornigara from our Research and Engagement Program. Drawing on my knowledge as an [IAAP-certified Web Accessibility Specialist](https://www.accessibilityassociation.org/was-exam#AboutWAS) and UX and web development practitioner, I planned and led the project. I developed a standardized audit process for the team, identified a suite of supporting tools, conducted an initial training for contributors, and coordinated the audit process using a sprint-based agile workflow designed to support collaboration and learning as a team. We scheduled the work at a pace to accommodate other job responsibilities while maintaining project momentum, with an average time commitment of 2–3 hours/week for contributors spread over 7 sprints.
+The audit team consisted of a lead analyst (myself, User Experience and Accessibility Analyst on the Digital Strategies team) and three contributors: Archivists Renee Pappous from our Access team, Darren Young from our Processing team, and Project Associate Andrea Cadornigara from our Research and Engagement Program. Drawing on my knowledge as an [IAAP-certified Web Accessibility Specialist](https://www.accessibilityassociation.org/was-exam#AboutWAS) and UX and web development practitioner, I planned and led the project. I developed a standardized audit process for the team, identified a suite of supporting tools, conducted an initial training for contributors, and coordinated the audit process using a sprint-based agile workflow designed to support collaboration and learning as a team. We scheduled the work at a pace to accommodate other job responsibilities while maintaining project momentum, with an average time commitment of 3 hours/week for contributors spread over 7 sprints.
 
 Finally, we leveraged this work as a jumping-off point during the project to share digital accessibility best practices with our entire staff, emphasizing accessibility as an ongoing and shared responsibility rooted in [our organizational values](https://rockarch.org/about-us/mission-vision-values/). We compiled and regularly shared digital accessibility tips in an all-staff message channel that emphasized practical approaches and tools to incorporate accessibility best practices into everyday work. Tips included considerations for use of headings, alt text, use/choice of color, social media posts, link text, presentation slides, and audiovisual content. At the end of the project, the audit team also conducted a training presentation on web accessibility that was open to all staff.
 
 ## The Audit Process
 
-Digital accessibility can be a highly technical domain, but there are some basic checks that can quickly and impactfully identify accessibility bugs and issues that impede access. If properly supported by specialists with existing domain knowledge, this opens accessibility auditing work up to a range of contributors with different levels of existing knowledge. A variety of free browser extensions, bookmarklets, and checklists can also aid accessibility auditing. In this post I’ll highlight the tools we used, though this is not inteded to be an exhaustive list. What you need will vary by testing goals and context. For more options, see the [W3C Web Accessibility Initiative's' list of evaluation tools](https://www.w3.org/WAI/test-evaluate/tools/list/).
+Digital accessibility can be a highly technical domain, but there are some basic checks that can quickly and impactfully identify accessibility bugs and issues that impede access. If properly supported by specialists with existing domain knowledge, this opens accessibility auditing work up to a range of contributors with different levels of existing knowledge. A variety of free browser extensions, bookmarklets, and checklists can also aid accessibility auditing. In this post I’ll highlight the tools we used, though this is not inteded to be an exhaustive list. Tool need will vary by testing goals and context. For more options, see the [W3C Web Accessibility Initiative's' list of evaluation tools](https://www.w3.org/WAI/test-evaluate/tools/list/).
 
 We approached our audit in a four-step process:
 
@@ -47,12 +47,12 @@ Based on research of existing issue tracking approaches, including the [VPAT](ht
 2. **Page area/element**: e.g., header navigation, all tables, “edit” buttons  
 3. **Testing method**: automated, manual review, or screen reader (including specific screen reader-browser combinations)  
 4. **Issue description**: describe the issue so that it can be reproduced  
-5. **Associated WCAG criteria**, when applicable  
+5. **Associated WCAG criteria** when applicable  
 6. **Action recommended**: if known, or can be a note that more research is required (e.g., “research required, pass to developer”)  
 7. **Notes**: any additional contextual information or observations that can support understanding and remediation  
 8. **Screenshot** if useful  
-9. **Severity score**: based on rubric  
-10. **WCAG violation?** yes/no – sometimes something is a best practice, but not required by WCAG  
+9. **Severity score** based on rubric  
+10. **WCAG violation?** yes/no -- sometimes something is a best practice, but not required by WCAG  
 
 #### Identify Scope
 
@@ -158,11 +158,11 @@ Assisted by these tools, we conducted 10 manual checks on each page to test for 
     </thead>
     <tbody>
       <tr>
-        <th scope="row">Descriptive and unique page titles</th>
+        <th scope="row">Descriptive and unique page titles exist</th>
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html">2.4.2 Page Titled</a></td>
       </tr>
       <tr>
-        <th scope="row">Skip links</th>
+        <th scope="row">Skip links are used to bypass repeated content</th>
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html">2.4.1 Bypass Blocks</a></td>
       </tr>
       <tr>
@@ -177,7 +177,7 @@ Assisted by these tools, we conducted 10 manual checks on each page to test for 
         </td>
       </tr>
       <tr>
-        <th scope="row">Text resize to 200%</th>
+        <th scope="row">Text can be enlarged 200%</th>
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html">1.4.4 Resize Text</a></td>
       </tr>
       <tr>
@@ -185,7 +185,7 @@ Assisted by these tools, we conducted 10 manual checks on each page to test for 
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/reflow.html">1.4.10 Reflow</a></td>
       </tr>
       <tr>
-        <th scope="row">Text spacing can be adjusted</th>
+        <th scope="row">Content adapts when text spacing is adjusted</th>
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html">1.4.12 Text Spacing</a></td>
       </tr>
       <tr>
@@ -193,11 +193,11 @@ Assisted by these tools, we conducted 10 manual checks on each page to test for 
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html">1.1.1 Non-text Content</a></td>
       </tr>
       <tr>
-        <th scope="row">Use of color to convey meaning</th>
+        <th scope="row">Color alone does not convey meaning</th>
         <td><a href="https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html">1.4.1 Use of Color</a></td>
       </tr>
       <tr>
-        <th scope="row">Correct form function and error handling</th>
+        <th scope="row">Correct form function, error handling, and error reporting are implemented</th>
         <td>
           <ul>
             <li><a href="https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html">3.3.1 Error Identification</a></li>
@@ -207,7 +207,7 @@ Assisted by these tools, we conducted 10 manual checks on each page to test for 
         </td>
       </tr>
       <tr>
-        <th scope="row">Media content and repetitive flashing</th>
+        <th scope="row">There are alternative ways to access audio and video content, and no repetitive flashing</th>
         <td>
           <ul>
             <li><a href="https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html">1.2.1 Audio-only and Video-only</a></li>
@@ -233,7 +233,7 @@ The keyboard navigation check is worth singling out: navigating a page using onl
 
 Testing with a screen reader surfaces a category of issues that neither automated tools nor manual visual checks will reliably catch: issues with dynamic content, form functionality, custom widgets like datepickers, and other use of ARIA attributes are revealed through this testing.
 
-The [WebAim Screen Reader User Survey](https://webaim.org/projects/screenreadersurvey10/) identifies the most common screen reader-browser combinations in use. Based on this data alongside our web analytics, we primarily tested with [NVDA](https://www.nvaccess.org/download/) with Chrome on Windows. For more complex components with documented variability across assistive technologies, we also conducted targeted secondary testing with [VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) on Safari (Mac) and [JAWS](https://support.freedomscientific.com/Downloads/JAWS) on Chrome (Windows).
+The [WebAim Screen Reader User Survey](https://webaim.org/projects/screenreadersurvey10/) identifies the most common screen reader-browser combinations in use. Based on this data, along with our web analytics, we primarily tested with [NVDA](https://www.nvaccess.org/download/) on Chrome (Windows). For more complex components with documented variability across assistive technologies, we also conducted targeted secondary testing with [VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) on Safari (Mac) and [JAWS](https://support.freedomscientific.com/Downloads/JAWS) on Chrome (Windows).
 
 Screen readers have a steeper learning curve than other tools, so I conducted all testing based on my prior experience, but not as an expert user. Still, even basic navigation with a screen reader exposes issues that sighted testers will miss.
 
@@ -241,14 +241,14 @@ Screen readers have a steeper learning curve than other tools, so I conducted al
 
 We summarized our findings in an internal report, and while the audit results are not the emphasis of this post, I’ll share a few points about the nature of what we found in the hopes that they are useful in other contexts. Across our 16 sites, we identified 200+ issues, which feels like a lot. These results are definitely motivational for us to get things fixed, but also encouraging in a few ways:
 
-1. Fewer than 10% of these issues are “high severity”, meaning most issues don't outright block access, and more than 50% were “low severity.” That’s good because users are not encountering major accessibility barriers, but it’s also important to acknowledge that the cumulative friction of many small issues can be detrimental to the overall user experience.
-2. Unsurprisingly, most issues were identified in our more complex and larger sites, and encouragingly we found fewer issues in our newer sites pointing to improvements over time in adopting accessibility best practices.
+1. Fewer than 10% of these issues are “high severity”, meaning most issues don't outright block access, and more than 50% were “low severity.” That’s good because users are not encountering major accessibility barriers, but we also acknowledge that the cumulative friction of many small issues can be detrimental to the overall user experience.
+2. Unsurprisingly, most issues were identified in our more complex and larger sites, and encouragingly we found fewer issues in our newer sites. This demonstrates our improvement over time in adopting accessibility best practices.
 3. The most common recurring issues across sites fell into three categories: responsive reflow behaviour, focus styles lacking sufficient color contrast, and accessible naming of interactive controls. These are areas where a fix in our shared [Style Library](https://styles.rockarch.org/) can impact multiple sites at once, which means that in many cases we can fix multiple problems in one place while improving future design.
-4. We did not find many of [the most common website issues](https://webaim.org/projects/million/) like low-contrast text, missing alt text, or missing form labels. This is likely because automated testing already catches these, and over times we've built knowledge and processes to address these more common issues during design, development, and review.
+4. We did not find many of [the most common website issues](https://webaim.org/projects/million/) like low-contrast text, missing alt text, or missing form labels. This is likely because automated testing already catches these, and over time we've built knowledge and processes to address these more common issues during design, development, and review.
 
-<blockquote>“85% of the issues we identified came from manual or screen reader testing, not automated checks.”</blockquote>
+<blockquote>85% of the issues we identified came from manual or screen reader testing, not automated checks."</blockquote>
 
-One noteworthy finding came from looking at which of our testing methods resulted in flagged issues, which again emphasized the importance of testing beyond automated tools: 85% of the issues we identified came from manual or screen reader testing, not automated checks.
+One noteworthy finding came from analyzing which of our testing methods resulted in flagged issues, which again emphasizes the importance of testing beyond automated tools: 85% of the issues we identified came from manual or screen reader testing, not automated checks.
 
 ## Project Takeaways
 
@@ -256,7 +256,7 @@ With a small team and a large scope, we accomplished and learned a lot! Here are
 
 1. **Automated tools are a start, not an end**. Test with a keyboard and do other manual checks. Automated testing is only part of the picture.
 2. **Free tools are sufficient**. This work does not require a big budget, but it does require time and detailed attention.
-3. **Technical expertise is important**. Audit contributors were new to accessibility testing, though most had basic web development familiarity (HTML and CSS). Expert support was essential for screen reader testing, addressing technical coding questions, and interpreting findings against WCAG success criteria and ARIA best practices. This initial expertise was critical for training and supporting the team, highlighting the value of investing in these skills.
+3. **Technical expertise is important**. Audit contributors were new to accessibility testing, though most had basic familiarity with web development technologies (HTML and CSS). Expert support was essential for screen reader testing, addressing technical coding questions, and interpreting findings against WCAG success criteria and ARIA best practices. This initial expertise was critical for training and supporting the team, highlighting the value of investing in these skills.
 4. **Structure supports collaboration**. Providing structure in the form of scheduled sprints with regular meetings to work through challenges and reflect on process, having a clearly defined audit process that everyone followed, and using a shared issue tracking sheet and rubric all contributed to successful, fulfilling, and actionable collaborative work.
 5. **Cross-program team involvement rooted in shared values builds organizational knowledge and buy-in**. Intentionally building a team of contributors who aren’t already accessibility specialists helps build broader organizational awareness of and support for accessibility work as a shared responsibility. Rooting the work in shared values that center people builds enthusiasm and support.
 
