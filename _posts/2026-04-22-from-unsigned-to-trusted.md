@@ -14,8 +14,6 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-# Trusting in Fluxx
-
 Over the past year and a half, we’ve been working on a join project with Columbia University to develop the application we call the Fluxx Exporter. You can read more about it in a [series](https://blog.rockarch.org/introducing-the-fluxx-exporter) [of](https://blog.rockarch.org/fluxx-exporter-testing) [blog](https://blog.rockarch.org/making-it-better) [posts](https://blog.rockarch.org/fluxx-exporter-3) by Hillel Arnold and Hannah Sistrunk. In short, this application helps our donors export digital grant records from the grants management system [Fluxx](https://www.fluxx.io/). After a round of open testing, we released Fluxx Exporter Version 2, which updated the application to make it easier for users to install and get up and running. This release bundle the application into Unix and Windows executables for ease of use.
 
 Unfortunately, that's when best practice and security compliance reared its head.
