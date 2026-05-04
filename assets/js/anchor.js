@@ -147,7 +147,6 @@
         anchor = document.createElement('a');
         anchor.className = 'anchorjs-link ' + this.options.class;
         anchor.setAttribute('aria-label', this.options.ariaLabel + ' ' + readableID);
-        console.log({ elementID, readableID });
         anchor.setAttribute('data-anchorjs-icon', this.options.icon);
         if (this.options.titleText) {
           anchor.title = this.options.titleText;
