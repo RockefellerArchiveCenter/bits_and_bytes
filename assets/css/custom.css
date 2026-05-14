@@ -5,15 +5,15 @@ Typography
 .hero {
   margin-top: 10px;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin-top: 113px;
   }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     margin-top: 103px;
   }
 
   img {
-    @media screen and (min-width: 1024px) {
+    @media screen and (min-width: 64em) {
       width: 120px;
     }
   }
@@ -27,11 +27,11 @@ h2 styles for post content to create more space in this text-heavy context
   border-bottom: 1.5px dotted #192d48;
   margin-top: 40px;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin-top: 60px;
   }
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     margin-top: 80px;
   }
 }
@@ -85,11 +85,11 @@ main .container {
   grid-column: 1 / span 12;
   margin-bottom: 20px;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     grid-column: 2 / span 10;
   }
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     grid-column: 3 / span 7;
     margin-left: 45px;
   }
@@ -127,11 +127,11 @@ by removing the default top margin of the first paragraph or heading.
 .post-content {
   margin-top: 40px; /* 1 */
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin-top: 60px; /* 1 */
   }
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     margin-top: 80px; /* 1 */
   }
 
@@ -161,7 +161,7 @@ by removing the default top margin of the first paragraph or heading.
 Adjust homepage post excerpt margins to be smaller on small screens
 **/
 .post-teaser {
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin-bottom: 50px;
   }
 }
@@ -169,7 +169,7 @@ Adjust homepage post excerpt margins to be smaller on small screens
 .post-teaser h2 {
   margin-top: 0;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin-top: 50px;
   }
 }
