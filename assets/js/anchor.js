@@ -135,7 +135,7 @@
           elementID = newTidyText;
         }
 
-        readableID = elementID.replace(/-/g, ' ');
+        readableID = elementID.replace(/[-+]/g, ' ');
 
         // The following code efficiently builds this DOM structure:
         // `<a class="anchorjs-link ${this.options.class}"
@@ -146,7 +146,7 @@
         // </a>;`
         anchor = document.createElement('a');
         anchor.className = 'anchorjs-link ' + this.options.class;
-        anchor.setAttribute('aria-label', this.options.ariaLabel);
+        anchor.setAttribute('aria-label', `${this.options.ariaLabel} ${readableID}`);
         anchor.setAttribute('data-anchorjs-icon', this.options.icon);
         if (this.options.titleText) {
           anchor.title = this.options.titleText;
