@@ -12,7 +12,6 @@ tags:
     
 excerpt_separator: <!--more--> 
 --- 
-# On the Other Side of Research: My Experience at the Rockefeller Archive Center
 
 My spring 2026 internship at the Rockefeller Archive Center (RAC) transformed how I understand archives, not just as repositories of documents, but as tangible connections between the past and the people who preserve and learn from them. 
 
@@ -34,6 +33,3 @@ My second project involved creating Wikidata pages for nonprofit organizations, 
 The part of the internship I think about most isn't a single project, it's the people. I never once felt like an outsider. Every team member I encountered was genuinely welcoming, curious about my background, and happy to include me. Lunches, team meetings I was invited to sit in on, casual conversations in the hallway, or reshelving exhibit material, all of it added up to something I hadn't expected: a real sense of belonging. My supervisor, Marissa Vassari, was an immense source of support during my time at the RAC, as well. What I understand now that I didn't before is why archives attract the kind of people they do. The work asks you to care about everything, such as history, culture, technology, community, and access. It makes sense that the people drawn to it would be just as wide-ranging in their curiosity and warmth.
 
 I feel genuinely lucky to have spent a semester in Sleepy Hollow at the RAC, and even luckier for the people I met along the way.
-
-
-
