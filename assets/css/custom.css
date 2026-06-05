@@ -1,7 +1,13 @@
 /**
-Typography
+Ensure that long words in paragraphs (like URLs) break to fit the container instead of overflowing
 **/
+p {
+  overflow-wrap: break-word;
+}
 
+/**
+Layout styles for hero
+**/
 .hero {
   margin-top: 10px;
 
@@ -50,10 +56,6 @@ h2 styles for post content to create more space in this text-heavy context
 .post-link:hover {
   text-decoration: underline;
 }
-
-/**
-Layout for all pages
-**/
 
 /**
 Define styles for the line between excerpts on homepage
