@@ -57,6 +57,10 @@ h2 styles for post content to create more space in this text-heavy context
   text-decoration: underline;
 }
 
+.author-link--dark a {
+  color: #662700;
+}
+
 /**
 Define styles for the line between excerpts on homepage
 **/
