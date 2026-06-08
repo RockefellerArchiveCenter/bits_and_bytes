@@ -11,8 +11,8 @@ theme_settings:
   description: "News from Rockefeller Archive Center's Staff" # used by search engines
 
   # Localization strings
-  str_next_page: "Next"
-  str_previous_page: "Prev"
+  str_next_page: "Next Page"
+  str_previous_page: "Prev Page"
   str_continue_reading: "Continue reading"
 
 # PAGINATION

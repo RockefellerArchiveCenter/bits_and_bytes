@@ -10,7 +10,9 @@ layout: default
           <h1 class="title layout--default">{{ page.title }}</h1>
           <div class="layout--default">
             <p>{{ page.date | date: "%B %-d, %Y" }}</p>
+            <span class="author-link--dark">
             {% include byline.html author=page.author %}
+            </span>
           </div>
         </div>
       </div>
