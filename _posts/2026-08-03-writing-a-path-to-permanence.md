@@ -40,4 +40,13 @@ The most important benefits of working this way, though, are less concrete and m
 
 One of the questions we often asked ourselves as we were writing the report was how long it would remain relevant, given the depth and detail of the information it contains. While there are certainly parts of the report that will become inaccurate or irrelevant as Salesforce (and technology in general) continues to change, my sense is that working together has helped to build things that are potentially substantial and long-lasting. They may be ethereal and immeasurable but, in my opinion, more important than the measurable short-term outputs.
 
-Finally, I have to express my gratitude to the members of the Advisory Committee, who were so generous with their time and insights. None of this would have happened without that energy, so I’m deeply indebted to all of them for their labor, positivity, and willingness to dive deep and ask hard questions. Thank you!
+Finally, I have to express my gratitude to the members of the Advisory Committee, listed below:
+- Rashmi Batra – Director of the Office of COO and Application Engineering, Open Society Foundations
+- Juliana Chessin – Director, Grants Management, Commonwealth Fund
+- Hannah Kahn – Director, Grants Management, Hewlett Foundation
+- Julio Lopez – Manager of Technology, Gates Archive
+- Randy Manion – Deputy Director, Investment Management & CRM Applications, IT Operations, Gates Foundation
+- Mar Paricio Sunyer – Senior Business Analyst, Operations, The Rockefeller Foundation
+- Gaby Shorr – Grants Manager, Leon Levy Foundation
+
+All of these folks were incredibly generous with their time and insights. None of this would have happened without that energy, so I’m deeply indebted to all of them for their labor, positivity, and willingness to dive deep and ask hard questions. Thank you!
