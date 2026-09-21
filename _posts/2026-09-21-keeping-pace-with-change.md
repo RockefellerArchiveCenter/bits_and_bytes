@@ -1,6 +1,6 @@
 ﻿---
 title: "Keeping Pace with Change: the next generation of Virtual Vault"
-date: 2026-09-18T09:00:00
+date: 2026-09-21T09:00:00
 author: Hillel Arnold
 layout: post
 categories:
@@ -12,7 +12,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-A little over nine years ago, I wrote that we were implementing a temporary solution to deliver digitized content to onsite researchers, which we named the Virtual Vault. That “temporary” solution has proven to be fairly long-lasting, remaining in place until this week, when we replaced it with a completely rearchitected version. This update has gotten me thinking about strategies for managing change over different timescales.
+A little over nine years ago, I wrote that we were implementing a temporary solution to deliver digitized content to onsite researchers, which we named the Virtual Vault. That “temporary” solution has proven to be fairly long-lasting, remaining in place until this week, when we replaced it with a completely rearchitected version. This update has gotten me thinking about strategies for managing change over different timescales.<!--more-->
 
 ## How it started/how it’s going
 As I wrote in my blog post back in 2017, the original Virtual Vault used a fork of [staticAid](https://github.com/helrond/staticAid), (based on [Jekyll](https://jekyllrb.com/), a popular static site builder) to pull data from ArchivesSpace and generate pages for digitized files. It relied on automation which moved digitized content from local storage to the Virtual Vault server, and then built the pages for the site. This worked well for close to eight years, even as we added records which expanded the scope and scale of the system significantly. Because the site was just HTML, CSS and Javascript, problems were usually confined to specific items, and didn’t impact the Virtual Vault’s overall function.
