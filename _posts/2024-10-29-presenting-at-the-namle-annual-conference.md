@@ -4,12 +4,12 @@ date: 2024-10-29T10:00:00
 author: Marissa Vassari
 layout: post 
 categories: 
-    - Conferences 
+    - Conferences/Education 
 tags: 
     - RAC Archival Education Program
-    - Teach with Archives 
-    - Education 
-    - Conferences
+    - teach with archives 
+    - education 
+    - conferences
 excerpt_separator: <!--more--> 
 --- 
 
