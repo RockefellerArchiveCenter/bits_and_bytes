@@ -1,6 +1,6 @@
 ﻿---
 title: "Accessibility Is a Program, Not a Project: Take Aways from the 2026 M-Enabling Summit"
-date: 2026-09-21T09:00:00
+date: 2026-10-19T09:00:00
 author: Hannah Sistrunk
 layout: post
 categories:
