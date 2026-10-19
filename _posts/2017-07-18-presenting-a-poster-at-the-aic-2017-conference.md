@@ -9,7 +9,7 @@ categories:
   - Conferences/Education
 tags:
   - collection files
-  - conference
+  - conferences
   - conservators
   - poster
   - Preservation Report
