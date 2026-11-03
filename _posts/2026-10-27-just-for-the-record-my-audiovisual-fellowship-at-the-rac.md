@@ -1,5 +1,5 @@
 ---
-title: "Just for the Record: My audiovisual fellowship at the RAC"
+title: "Just for the Record: My Audiovisual Fellowship at the RAC"
 date: 2026-10-27
 author: Jackie Grimson
 layout: post
@@ -24,10 +24,10 @@ After graduating from the L. Jeffrey Selznick School of Film Preservation at the
 _Close-up of Nelson A. Rockefeller Campaign film strip_
 
 Over the course of the ten-week fellowship, I assisted Brent with various projects, including:
-+ Conducting an item-level survey for over 650 phonographic records, checking for content uniqueness, rating for format obsolescence, and separating delaminating and/or moldy records.
++ Conducting an item-level survey for over 650 phonographic records, checking for content uniqueness, rating for format obsolescence, and separating delaminating and/or moldy records
 + Inspecting films from Nelson A. Rockfeller’s gubernatorial career and adding resource records to ArchivesSpace
 + Correcting inaccurate descriptive metadata on a collection of 16mm films
-+ Preparing video and audio cassettes for shipping to a vendor for digitization, and re-inspecting material upon returning from the vendor.
++ Preparing video and audio cassettes for shipping to a vendor for digitization, and re-inspecting material upon returning from the vendor
 
 ## Phonographic Record Survey
 The biggest undertaking of the Fellowship was a survey of 667 phonographic records in the RAC’s collections. Over 30 boxes covering 12 collections were inspected at the item level. While some recordings were commercially available vinyl discs, others were rarer formats such as aluminum or glass, several of which were printed on-demand and may be the only surviving audio of an event. Due to their age (dating back to the early 1900s) and increasing fragility, these assets remain inaccessible to researchers until digitization occurs.
@@ -50,11 +50,8 @@ The main purpose of this survey was to help the RAC understand which items shoul
 ## A Film History of Nelson Rockefeller’s Gubernatorial Career
 Over the course of ten weeks, I inspected 40 16mm prints from a collection of Nelson Rockefeller’s gubernatorial career (1959-1973). These prints were a variety of generations and/or elements, including negatives, work prints, fine grains, tracks, and reversal. The prints also covered a variety of content, including campaign commercials, raw news footage, speeches, and press events. Due to most of these elements being from the 1960s, which is famously known for its degrading stock and poor adhesive, several prints had splices with old tape which needed to be removed and cleaned and replaced with archival tape. 
     
-![16mm print in need of repair, 1 of 4](assets/img/2026/10/NAR-repair-1.jpg)
-![16mm print in need of repair, 2 of 4](assets/img/2026/10/NAR-repair-2.jpg)
-![16mm print in need of repair, 3 of 4](assets/img/2026/10/NAR-repair-3.jpg)
-![16mm print in need of repair, 4 of 4](assets/img/2026/10/NAR-repair-4.jpg)
-_16mm prints in need of repair from the Rockefeller (Nelson A.) Gubernatorial records, Audiovisual materials_
+![16mm print in need of repair](assets/img/2026/10/NAR-repair-4.jpg)
+_16mm print in need of repair from the Rockefeller (Nelson A.) Gubernatorial records, Audiovisual materials_
 
 However, despite their age, I was surprised to see that most of these reels were in great condition and had minimal scratches, perforation damage, fading, or shrinkage. Many elements such as negatives looked as though they were struck and never looked at again! Each print was given a complete visual hand inspection, and new records were created and added to both the RAC’s Film Registry (primarily to capture a reel’s physical condition) and ArchivesSpace.  I hope my work inspecting these prints, and the great condition I found them in, will encourage them to be digitized and composited, as many are negatives which are currently inaccessible to researchers.
 
