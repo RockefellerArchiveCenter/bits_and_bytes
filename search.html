@@ -1,28 +1,35 @@
 ---
-layout: page
-title: Search
-hide: true
+layout: default
+title: Search results
+description: Results for a keyword search of Bits & Bytes blog posts.
 ---
 
-<div class="search">
-    <div id="search-results"></div>
-    <p id="not-found" style="display: none">
-        {{ site.theme_settings.str_search_no_results }}
-    </p>
-</div>
+<h1 class="title" id="search-heading">Search results</h1>
+
+{% include search_form.html %}
+
+<p id="search-status" class="mt-20"></p>
+<p id="not-found" class="mt-20" style="display: none">
+    {{ site.theme_settings.str_search_no_results }}
+</p>
+
+<div id="search-results"></div>
 
 
 <script>
   window.store = {
     {% for post in site.posts %}
+      {% capture byline %}{% include byline.html author=post.author %}{% endcapture %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
         "tags": "{{ post.tags | join: ', ' }}",
         "date": "{{ post.date | date: '%B %-d, %Y' }}",
-        "author": "{{ post.author | xml_escape }}",
-        "category": "{{ post.category | xml_escape }}",
+        "author": "{{ post.author | join: ', ' | xml_escape }}",
+        "category": "{{ post.categories | join: ', ' | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ site.baseurl }}/{{ post.url | xml_escape }}"
+        "byline": {{ byline | strip | jsonify }},
+        "excerpt": {{ post.excerpt | jsonify }},
+        "url": "{{ post.url | relative_url }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

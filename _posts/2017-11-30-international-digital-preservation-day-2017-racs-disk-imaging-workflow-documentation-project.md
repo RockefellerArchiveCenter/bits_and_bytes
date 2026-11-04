@@ -8,7 +8,7 @@ redirect_from: /?p=1930
 categories:
   - Digital Preservation
 tags:
-  - Digital Preservation
+  - digital preservation
   - IDPD17
 excerpt_separator: <!--more-->
 ---

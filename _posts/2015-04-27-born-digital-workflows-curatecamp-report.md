@@ -11,7 +11,7 @@ tags:
   - access
   - ArchivesSpace
   - description
-  - Digital Preservation
+  - digital preservation
   - FTK
 excerpt_separator: <!--more-->
 ---

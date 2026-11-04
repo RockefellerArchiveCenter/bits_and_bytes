@@ -8,7 +8,7 @@ categories:
 tags:
   - born-digital records
   - digitization
-  - av digitization
+  - audiovisual digitization
   - pipelines
   - project electron
   - serverless

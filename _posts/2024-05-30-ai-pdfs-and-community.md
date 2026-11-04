@@ -7,7 +7,7 @@ categories:
     - Conferences/Education
 tags:
     - code4lib
-    - ai
+    - AI
     - pdfs
     - community
 

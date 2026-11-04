@@ -9,7 +9,7 @@ categories:
   - Conferences/Education
 tags:
   - digital formats
-  - Digital Preservation
+  - digital preservation
   - finding aids
   - readings
 excerpt_separator: <!--more-->

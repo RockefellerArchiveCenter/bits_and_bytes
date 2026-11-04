@@ -9,7 +9,7 @@ categories:
   - Conferences/Education
 tags:
   - conferences
-  - Digital Preservation
+  - digital preservation
   - ethics
   - pasig
 ---

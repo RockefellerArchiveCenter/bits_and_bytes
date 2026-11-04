@@ -11,13 +11,13 @@ tags:
   - access
   - archives profession
   - ArchivesSpace
-  - Audio
-  - Audiovisual
+  - audio
+  - audiovisual
   - audiovisual digitization
   - description
   - Film
   - metadata
-  - Video
+  - video
   - Year in the Life of an Audiovisual Archivist
 excerpt_separator: <!--more-->
 ---

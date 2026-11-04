@@ -14,6 +14,7 @@ theme_settings:
   str_next_page: "Next Page"
   str_previous_page: "Prev Page"
   str_continue_reading: "Continue reading"
+  str_search_no_results: "No posts found. Try different or fewer words."
 
 # PAGINATION
 paginate: 5

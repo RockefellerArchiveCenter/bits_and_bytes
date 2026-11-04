@@ -9,7 +9,7 @@ categories:
   - Digital Preservation
 tags:
   - Archive-It
-  - Digital Preservation
+  - digital preservation
   - web archiving
 excerpt_separator: <!--more-->
 ---

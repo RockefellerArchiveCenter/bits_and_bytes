@@ -10,12 +10,12 @@ categories:
 tags:
   - access
   - archives profession
-  - Audio
-  - Audiovisual
+  - audio
+  - audiovisual
   - Film
   - metadata
-  - Survey
-  - Video
+  - survey
+  - video
   - Year in the Life of an Audiovisual Archivist
 excerpt_separator: <!--more-->
 ---

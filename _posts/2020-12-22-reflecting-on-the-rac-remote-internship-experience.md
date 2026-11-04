@@ -8,7 +8,7 @@ categories:
 tags:
     - identity
     - inclusion
-    - interns
+    - internships
     - RAC-CUNY Internship Program
 
 excerpt_separator: <!--more-->

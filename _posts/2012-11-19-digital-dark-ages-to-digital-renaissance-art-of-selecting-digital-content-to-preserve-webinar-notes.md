@@ -9,7 +9,7 @@ categories:
   - Digital Preservation
   - Digitization
 tags:
-  - Digital Preservation
+  - digital preservation
   - webinar
 excerpt_separator: <!--more-->
 ---
