@@ -1,5 +1,6 @@
 (function () {
     var SEARCH_BOX_ID = "query";
+    var HEADING_ID = "search-heading";
     var NO_RESULTS_MESSAGE_ID = "not-found";
     var RESULTS_COUNT_ID = "search-status";
     var SEARCH_RESULTS_CONTAINER_ID = "search-results";
@@ -25,6 +26,14 @@
 
     function setSearchBoxValue(searchBoxValue) {
       document.getElementById(SEARCH_BOX_ID).setAttribute("value", searchBoxValue);
+    }
+
+    // Changes "Search results" to "Search results for “term”" in the h1 and page title
+    function setHeadingAndTitle(searchTerm) {
+      var heading = document.getElementById(HEADING_ID);
+      var oldHeading = heading.textContent;
+      heading.textContent = oldHeading + " for “" + searchTerm + "”";
+      document.title = document.title.replace(oldHeading, heading.textContent);
     }
 
     function showNoResultsMessage() {
@@ -76,6 +85,7 @@
 
     function search(searchTerm) {
       setSearchBoxValue(searchTerm);
+      setHeadingAndTitle(searchTerm);
 
       var lunrIndex = lunr(function () {
           this.field("title", {

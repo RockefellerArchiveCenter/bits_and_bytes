@@ -4,16 +4,16 @@ title: Search results
 description: Results for a keyword search of Bits & Bytes blog posts.
 ---
 
-<h1 class="title">Search results</h1>
-
-<p id="search-status" role="status"></p>
+<h1 class="title" id="search-heading">Search results</h1>
 
 {% include search_form.html %}
 
-<div id="search-results"></div>
-<p id="not-found" style="display: none">
+<p id="search-status" class="mt-20"></p>
+<p id="not-found" class="mt-20" style="display: none">
     {{ site.theme_settings.str_search_no_results }}
 </p>
+
+<div id="search-results"></div>
 
 
 <script>
