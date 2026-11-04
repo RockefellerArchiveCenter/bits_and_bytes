@@ -1,0 +1,11 @@
+<form role="search" action="{{ '/search' | relative_url }}" method="get">
+  <div class="search">
+    <div class="input-group__search">
+      <div class="input__search">
+        <label for="query" class="visually-hidden">Search all posts</label>
+        <input type="search" id="query" name="query" placeholder="Search..." maxlength="255" size="60" required>
+      </div>
+      <button type="submit" class="btn btn--orange search__submit-btn" aria-label="submit search"><span class="material-icon" aria-hidden="true">search</span></button>
+    </div>
+  </div>
+</form>
