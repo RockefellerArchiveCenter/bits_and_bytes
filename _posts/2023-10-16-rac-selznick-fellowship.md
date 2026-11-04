@@ -7,7 +7,7 @@ categories:
     - Collaboration
 tags:
     - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
-    - Audiovisual
+    - audiovisual
     - audiovisual digitization
     - collection management
     - Bag-It

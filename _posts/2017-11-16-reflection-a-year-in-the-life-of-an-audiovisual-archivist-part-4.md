@@ -11,11 +11,11 @@ tags:
   - access
   - archives profession
   - ArchivesSpace
-  - Audio
-  - Audiovisual
+  - audio
+  - audiovisual
   - description
   - Film
-  - Video
+  - video
   - virtual vault
   - Year in the Life of an Audiovisual Archivist
 excerpt_separator: <!--more-->

@@ -8,8 +8,7 @@ categories:
 tags: 
     - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
     - Fellowship
-    - Media Literacy
-    - Audiovisual Media Literacy
+    - media literacy
     
 excerpt_separator: <!--more--> 
 --- 

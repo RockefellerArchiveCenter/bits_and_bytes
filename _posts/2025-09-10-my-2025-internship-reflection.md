@@ -7,8 +7,7 @@ categories:
     - Reflection
 tags: 
     - RAC-CUNY Internship Program
-    - Internships
-    - Interns
+    - internships
     
 excerpt_separator: <!--more--> 
 --- 

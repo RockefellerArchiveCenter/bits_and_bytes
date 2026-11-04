@@ -12,7 +12,7 @@ tags:
   - conferences
   - digital archivists
   - digital policies
-  - Digital Preservation
+  - digital preservation
   - SAA
 excerpt_separator: <!--more-->
 ---

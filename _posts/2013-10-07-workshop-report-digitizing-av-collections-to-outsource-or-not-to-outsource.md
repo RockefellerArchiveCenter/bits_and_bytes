@@ -10,10 +10,10 @@ categories:
   - Digitization
 tags:
   - audiovisual digitization
-  - digital auality control
+  - digital quality control
   - digital formats
   - digital policies
-  - Digital Preservation
+  - digital preservation
   - digitization vendors
 excerpt_separator: <!--more-->
 ---

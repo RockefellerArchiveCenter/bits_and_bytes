@@ -8,7 +8,7 @@ categories:
 tags:
     - Archival Educators Roundtable
     - AER
-    - Teach with archives
+    - teach with archives
     - education
 excerpt_separator: <!--more-->
 ---

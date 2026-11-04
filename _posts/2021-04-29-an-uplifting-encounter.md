@@ -6,7 +6,7 @@ layout: post
 categories:
   - Internships
 tags:
-  - interns
+  - internships
   - best practices
   - Ford Foundation
   - Brazil

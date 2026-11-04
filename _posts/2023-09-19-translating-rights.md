@@ -8,7 +8,7 @@ categories:
     - Digital Preservation
 tags:
     - preservation
-    - archivematica
+    - Archivematica
     - PREMIS Rights
 
 excerpt_separator: <!--more-->

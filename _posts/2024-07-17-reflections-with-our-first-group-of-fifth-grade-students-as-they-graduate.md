@@ -7,8 +7,8 @@ categories:
     - Internships 
 tags: 
     - RAC Archival Education Program
-    - Teach with Archives 
-    - Education  
+    - teach with archives 
+    - education  
 excerpt_separator: <!--more--> 
 --- 
 
