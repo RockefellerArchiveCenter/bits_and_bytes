@@ -10,10 +10,10 @@ categories:
 - Digital Preservation
 tags:
 - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
-- Audiovisual
+- audiovisual
 - Film
-- Video
-- Audio
+- video
+- audio
 - audiovisual digitization
 - preservation
 - Artefactual

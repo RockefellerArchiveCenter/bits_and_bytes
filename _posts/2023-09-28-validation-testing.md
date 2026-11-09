@@ -6,7 +6,7 @@ layout: post
 categories:
     - Digitization
 tags:
-    - Audiovisual
+    - audiovisual
     - audiovisual digitization
     - Bag-It
     - MediaConch

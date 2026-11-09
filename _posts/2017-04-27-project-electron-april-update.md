@@ -8,7 +8,7 @@ redirect_from: /?p=1730
 categories:
   - Project Electron
 tags:
-  - Digital Preservation
+  - digital preservation
   - digital transfers
   - milestones
   - project electron

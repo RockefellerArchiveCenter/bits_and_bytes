@@ -13,7 +13,7 @@ tags:
   - Archivematica
   - ATReference
   - digital accessioning workflow
-  - Digital Preservation
+  - digital preservation
   - Foundation for Child Development
   - special projects
 excerpt_separator: <!--more-->

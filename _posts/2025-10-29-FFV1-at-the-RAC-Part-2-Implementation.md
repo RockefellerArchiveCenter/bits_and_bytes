@@ -10,7 +10,6 @@ tags:
     - Archivematica
     - audiovisual
     - audiovisual digitization
-    - av digitization
     - digital formats
     - digital preservation
     - digitization

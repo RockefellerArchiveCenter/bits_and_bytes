@@ -4,12 +4,12 @@ date: 2025-11-18T11:00:00
 author: Mariam Sergenian
 layout: post
 categories:
-  - reflection
+  - Reflection
   
 tags:
   - access
   - archives profession
-  - Audiovisual
+  - audiovisual
   - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
   - Film
   - preservation

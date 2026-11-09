@@ -11,7 +11,7 @@ tags:
   - conferences
   - digital curation
   - digital policies
-  - digtal preservation
+  - digital preservation
 excerpt_separator: <!--more-->
 ---
 ## SAA 2013 New Orleans

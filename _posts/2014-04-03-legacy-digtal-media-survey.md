@@ -9,7 +9,7 @@ categories:
   - Digital Preservation
 tags:
   - access
-  - Digital Preservation
+  - digital preservation
   - legacy digital media survey
 excerpt_separator: <!--more-->
 ---

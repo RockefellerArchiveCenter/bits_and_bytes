@@ -10,15 +10,15 @@ categories:
 tags:
   - access
   - archives profession
-  - Audio
-  - Audiovisual
+  - audio
+  - audiovisual
   - description
   - Film
   - finding aids
   - metadata
   - usability
   - user centered design
-  - Video
+  - video
   - Year in the Life of an Audiovisual Archivist
 excerpt_separator: <!--more-->
 ---

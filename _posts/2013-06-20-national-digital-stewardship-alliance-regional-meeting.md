@@ -12,7 +12,7 @@ tags:
   - access
   - conferences
   - digital formats
-  - Digital Preservation
+  - digital preservation
   - electronic records
 excerpt_separator: <!--more-->
 ---

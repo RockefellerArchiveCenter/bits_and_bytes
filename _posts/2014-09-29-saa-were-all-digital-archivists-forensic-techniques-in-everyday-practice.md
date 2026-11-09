@@ -12,7 +12,7 @@ categories:
 tags:
   - Archivematica
   - digital forensics
-  - Digital Preservation
+  - digital preservation
   - SAA
 ---
 At the recent [Society of American Archivists](http://www2.archivists.org/) [annual conference](http://www2.archivists.org/2014#.VCmiFSldW4Q), I was fortunate enough to present as [part of a panel](http://www2.archivists.org/2014/schedule#.VCmFCildW4Q) discussing the application of digital forensics in an archival setting. I touched on the work I've been doing with the D-Recs committee and on developing the forensics workflows [that I've discussed previously](http://rockarch.org/programs/digital/bitsandbytes/?p=1117). My co-presenters, Cal Lee, Don Mennerich, and Christie Peterson, discussed different aspects related to digital forensics in archives, from learning forensics techniques to an overview of current research in the field. I highly recommend checking out the audio for the session, which is available on our shared drive.
