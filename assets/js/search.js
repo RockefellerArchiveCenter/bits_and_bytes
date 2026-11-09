@@ -96,13 +96,18 @@
           this.field("date");
           this.field("tags");
           this.field("content");
+
+          for (var key in window.store) {
+            addPostToSearchIndex(this, key, window.store[key])
+          }
       });
 
-      for (var key in window.store) {
-        addPostToSearchIndex(lunrIndex, key, window.store[key])
+      var results = [];
+      try {
+        results = lunrIndex.search(searchTerm);
+      } catch (e) {
+        if (!(e instanceof lunr.QueryParseError)) throw e;
       }
-
-      var results = lunrIndex.search(searchTerm);
       displaySearchResults(results, window.store, searchTerm);
     }
 
