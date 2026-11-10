@@ -38,4 +38,4 @@ Beyond these steps, it is key to remember that the heart of any successful audio
 
 Come back tomorrow for Part 2: Processing!
 
-_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#Video)_
+_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#video)_

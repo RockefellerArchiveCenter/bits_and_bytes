@@ -41,4 +41,4 @@ As is mentioned in Hillel's post, the Virtual Vault is a temporary solution, and
 
 Come back tomorrow for Part 5: Final thoughts!
 
-_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#Video)_
+_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#video)_
