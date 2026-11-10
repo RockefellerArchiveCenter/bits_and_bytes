@@ -7,10 +7,9 @@ categories:
     - White paper 
 tags: 
     - RAC Archival Education Program
-    - Teach with Archives 
-    - Education 
-    - Media Literacy
-    - Audiovisual Media Literacy
+    - teach with archives 
+    - education 
+    - media literacy
     
 excerpt_separator: <!--more--> 
 --- 

@@ -8,7 +8,7 @@ redirect_from: /?p=423
 categories:
   - Digital Preservation
 tags:
-  - Digital Preservation
+  - digital preservation
 ---
 At ALA Midwinter this past January, I hosted the **Digital Preservation Interest Group** meeting with my co-chair, Meghan Bergin. It was an excellent session, if I do say so myself. Below is a listing of the presentations. Slides are available on [ALA Connect](http://connect.ala.org/node/200513).
 

@@ -8,10 +8,10 @@ redirect_from: /?p=851
 categories:
   - XTF
 tags:
-  - CSS
+  - css
   - display
   - EAD
-  - HTML
+  - html
   - search
   - XML
   - XSLT

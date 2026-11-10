@@ -6,7 +6,7 @@ layout: post
 categories:
     - DevOps
 tags:
-    - Kuberenetes
+    - Kubernetes
     - DevOps
     - AWS EKS
 

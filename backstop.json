@@ -37,6 +37,10 @@
       "url": "http://host.docker.internal:4000/categories/"
     },
     {
+      "label": "Search Results",
+      "url": "http://host.docker.internal:4000/search?query=omeka"
+    },
+    {
       "label": "Post With Table",
       "url": "http://host.docker.internal:4000/moving-from-google-matomo-to-put-the-we-in-web-analytics"
     },

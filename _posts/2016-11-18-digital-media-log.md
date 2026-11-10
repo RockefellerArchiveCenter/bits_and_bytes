@@ -9,7 +9,7 @@ categories:
   - Software and Systems
 tags:
   - description
-  - Digital Preservation
+  - digital preservation
 excerpt_separator: <!--more-->
 ---
 I'm excited to announce that the Rockefeller Archive Center's new Digital Media Log is live!<!--more-->

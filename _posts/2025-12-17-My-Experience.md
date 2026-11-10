@@ -4,9 +4,8 @@ date: 2025-12-17T15:00:00
 author: Dashawna Brown
 layout: post
 categories:
-  - reflections
+  - Reflection
 tags:
-  - interns
   - internships
   - RAC-CUNY Internship Program
 excerpt_separator: <!--more-->

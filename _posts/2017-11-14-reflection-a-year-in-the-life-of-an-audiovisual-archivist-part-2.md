@@ -11,12 +11,12 @@ tags:
   - access
   - archives profession
   - ArchivesSpace
-  - Audio
-  - Audiovisual
+  - audio
+  - audiovisual
   - description
   - discovery
-  - Film
-  - Video
+  - film
+  - video
   - Year in the Life of an Audiovisual Archivist
 excerpt_separator: <!--more-->
 ---
@@ -43,4 +43,4 @@ One final point: the RAC, like many archival institutions, uses an additional "b
 
 Come back tomorrow for Part 3: Accessioning!
 
-_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#Video)_
+_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#video)_

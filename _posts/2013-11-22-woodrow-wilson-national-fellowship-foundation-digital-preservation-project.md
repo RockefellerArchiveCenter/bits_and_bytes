@@ -11,7 +11,7 @@ tags:
   - Archivematica
   - Bag-It
   - data migration
-  - Digital Preservation
+  - digital preservation
   - metadata
   - PREMIS
   - preservation metadata

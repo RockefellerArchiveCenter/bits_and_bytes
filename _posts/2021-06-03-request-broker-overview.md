@@ -8,7 +8,7 @@ categories:
     - Project Electron
 tags:
     - systems
-    - integration
+    - integrations
     - DIMES
     - Aeon
     - Request Broker

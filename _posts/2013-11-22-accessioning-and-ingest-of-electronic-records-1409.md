@@ -10,7 +10,7 @@ categories:
 tags:
   - accessioning
   - digital accessioning workflow
-  - Digital Preservation
+  - digital preservation
   - electronic records
 excerpt_separator: <!--more-->
 ---

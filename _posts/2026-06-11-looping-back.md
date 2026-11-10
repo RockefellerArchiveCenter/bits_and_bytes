@@ -9,7 +9,7 @@ categories:
   - Reference
   - Software and Systems
 tags:
-  - ai
+  - AI
   - archivists in the loop
 excerpt_separator: <!--more-->
 ---
