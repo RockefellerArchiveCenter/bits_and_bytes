@@ -11,7 +11,7 @@ tags:
   - archives profession
   - audiovisual
   - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
-  - Film
+  - film
   - preservation
   - collection management
 excerpt_separator: <!--more-->

@@ -12,7 +12,7 @@ tags:
   - archives profession
   - audio
   - audiovisual
-  - Film
+  - film
   - metadata
   - survey
   - video

@@ -12,7 +12,7 @@ tags:
 - audiovisual
 - cultural competency
 - description
-- Film
+- film
 - learning
 excerpt_separator: <!--more-->
 ---
