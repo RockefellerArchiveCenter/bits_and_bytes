@@ -10,7 +10,7 @@ categories:
   - Software and Systems
   - Values
 tags:
-  - communities
+  - community
   - conferences
   - labor
   - open repositories

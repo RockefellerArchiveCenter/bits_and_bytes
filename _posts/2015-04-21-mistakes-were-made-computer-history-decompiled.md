@@ -10,7 +10,7 @@ redirect_from: /?p=1318
 categories:
   - Conferences/Education
 tags:
-  - Digital Preservation
+  - digital preservation
   - history
   - powerpoint
 excerpt_separator: <!--more-->

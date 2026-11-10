@@ -10,7 +10,7 @@ categories:
 tags:
   - conferences
   - digital policies
-  - Digital Preservation
+  - digital preservation
   - documentation
 excerpt_separator: <!--more-->
 ---

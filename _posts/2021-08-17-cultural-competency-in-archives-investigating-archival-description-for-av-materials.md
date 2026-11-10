@@ -9,10 +9,10 @@ categories:
 - Professional Reading
 tags:
 - L. Jeffrey Selznick School of Film Preservation RAC Fellowship
-- Audiovisual
+- audiovisual
 - cultural competency
 - description
-- Film
+- film
 - learning
 excerpt_separator: <!--more-->
 ---

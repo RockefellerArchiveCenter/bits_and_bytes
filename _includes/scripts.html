@@ -1,21 +1,22 @@
-<script src="/assets/js/jquery-3.3.1.min.js"></script>
 <script src="/assets/js/nav-toggle.js"></script>
 
 {% if page.layout == 'categories' or page.layout == 'authors' or page.layout == 'tags' %}
 <script src="/assets/js/anchor.min.js"></script>
 <script>
-  $(function() {
-    anchors.options = {
-      placement: 'left',
-    }
-    anchors.add('h2');
-  });
+  anchors.options = {
+    placement: 'left',
+  }
+  anchors.add('h2');
 </script>
 {% endif %}
 
 <!-- use RAC Style Library table formatting for Markdown tables-->
-<script type="text/javascript">
-  $(document).ready(function () {
-    $("table").addClass("table table-striped table-responsive");
+<script>
+  document.querySelectorAll('table').forEach(function (table) {
+    table.classList.add('table', 'table-striped');
+    var wrapper = document.createElement('div');
+    wrapper.className = 'table-responsive';
+    table.before(wrapper);
+    wrapper.append(table);
   });
 </script>

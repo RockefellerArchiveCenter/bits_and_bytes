@@ -10,12 +10,12 @@ categories:
 tags:
   - access
   - archives profession
-  - Audio
-  - Audiovisual
-  - Film
+  - audio
+  - audiovisual
+  - film
   - metadata
-  - Survey
-  - Video
+  - survey
+  - video
   - Year in the Life of an Audiovisual Archivist
 excerpt_separator: <!--more-->
 ---
@@ -45,4 +45,4 @@ To close, I'll return to my opening premise of "reflection." (I can't help but h
 
 I'll go back to John Dewey, who once remarked: "Arriving at one goal is the starting point to another." So, next year,…here we go!
 
-_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#Video)_
+_This is a post in a series: [Reflection: A Year in the Life of an Audiovisual Archivist](/tags#video)_

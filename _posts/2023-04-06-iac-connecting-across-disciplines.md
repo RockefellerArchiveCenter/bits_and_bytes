@@ -10,7 +10,7 @@ tags:
     - information architecture
     - burnout
     - adversity
-    - artificial intelligence
+    - AI
 excerpt_separator: <!--more-->
 ---
 

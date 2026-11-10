@@ -8,7 +8,7 @@ redirect_from: /?p=991
 categories:
   - Digital Preservation
 tags:
-  - Digital Preservation
+  - digital preservation
   - distributed digital preservation
   - LOCKSS
   - MetaArchive

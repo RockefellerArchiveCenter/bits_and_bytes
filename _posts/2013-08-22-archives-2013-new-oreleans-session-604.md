@@ -10,7 +10,7 @@ categories:
 tags:
   - digital formats
   - digital policies
-  - Digital Preservation
+  - digital preservation
   - electronic records
   - records management
 excerpt_separator: <!--more-->

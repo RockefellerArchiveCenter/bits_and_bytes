@@ -7,7 +7,7 @@ categories:
   - Conferences/Education
 tags:
   - tag
-  - ai
+  - AI
   - data
 excerpt_separator: <!--more-->
 ---

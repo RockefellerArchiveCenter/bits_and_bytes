@@ -15,7 +15,7 @@ tags:
   - Gherkin
   - project electron
   - transfer
-  - unit test
+  - unit tests
 excerpt_separator: <!--more-->
 ---
 This month has been all about developing the Project Electron transfer application. The work is based on our [defined specifications](https://projectelectron.rockarch.org/transfer/) and the development decisions we made last month with our Marist College partners at [the hackathon](/project-electron-july-update). We are really excited about testing transfers in the coming month.

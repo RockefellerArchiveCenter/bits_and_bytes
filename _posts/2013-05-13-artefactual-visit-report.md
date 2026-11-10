@@ -15,7 +15,7 @@ tags:
   - ATReference
   - digital accessioning workflow
   - digital formats
-  - Digital Preservation
+  - digital preservation
   - email
 excerpt_separator: <!--more-->
 ---
